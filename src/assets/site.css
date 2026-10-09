@@ -377,6 +377,57 @@ a.tile:hover { transform: translateY(-3px); box-shadow: 0 10px 22px rgba(28, 39,
   .player-start:hover .play, .video-card:hover .play { transform: none; }
 }
 
+/* Photos page: large maroon panel, then recent gallery covers */
+.photo-panel {
+  position: relative; overflow: hidden;
+  margin: 24px 0 48px; padding: 40px 24px 48px;
+  border-radius: var(--radius); background: var(--maroon); color: #FFFFFF;
+}
+.photo-panel::after {
+  /* The six-colour stripe along the bottom edge */
+  content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 8px;
+  background: linear-gradient(to right,
+    var(--blue) 0 16.66%, var(--green) 16.66% 33.33%, var(--yellow) 33.33% 50%,
+    var(--orange) 50% 66.66%, var(--red) 66.66% 83.33%, var(--maroon) 83.33% 100%);
+}
+.photo-panel-icon { width: 56px; height: 56px; margin-bottom: 12px; }
+.photo-panel-title {
+  margin: 0 0 14px; max-width: 12ch;
+  font-family: var(--head); font-style: italic; font-weight: 800;
+  text-transform: uppercase; font-size: clamp(48px, 9vw, 96px); line-height: 0.9;
+}
+.photo-panel-text { margin: 0 0 28px; max-width: 34ch; font-size: clamp(18px, 2.2vw, 22px); line-height: 1.5; }
+.btn--light { background: #FFFFFF; color: var(--ink); border-color: #FFFFFF; font-size: 18px; }
+.photo-panel :focus-visible { outline-color: #FFFFFF; }
+
+@media (min-width: 768px) {
+  .photo-panel { margin: 40px 0 64px; padding: 64px 56px 72px; }
+}
+
+.gallery-grid {
+  list-style: none; margin: 0; padding: 0;
+  display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px 12px;
+}
+@media (min-width: 768px) { .gallery-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 32px 24px; } }
+.gallery-card { display: block; text-decoration: none; }
+.gallery-cover {
+  display: block; aspect-ratio: 3 / 2; overflow: hidden;
+  border-radius: var(--radius); background: var(--surface);
+}
+.gallery-cover img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease; }
+.gallery-card:hover img { transform: scale(1.04); }
+.gallery-title {
+  display: block; margin-top: 10px;
+  font-family: var(--head); font-style: italic; font-weight: 800;
+  text-transform: uppercase; font-size: 20px; line-height: 1.02;
+}
+.gallery-card:hover .gallery-title { color: var(--blue); }
+
+@media (prefers-reduced-motion: reduce) {
+  .gallery-cover img { transition: none; }
+  .gallery-card:hover img { transform: none; }
+}
+
 /* Footer */
 .site-footer {
   margin-top: 72px; background: var(--ink); color: #FFFFFF;

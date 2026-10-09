@@ -1,0 +1,37 @@
+---
+layout: layouts/base.njk
+section: photos
+title: Photos | Gulf Youth Sport
+description: Find your photos from the school and youth sport events Gulf Youth Sport covers across the Gulf.
+---
+<div class="wrap">
+  <h1 class="visually-hidden">Photos</h1>
+
+  <section class="photo-panel" aria-labelledby="photo-panel-title">
+    <svg class="photo-panel-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h3l2-2h6l2 2h3v12H4z"/><circle cx="12" cy="13" r="3.5"/></svg>
+    <h2 class="photo-panel-title" id="photo-panel-title">Find your event photos</h2>
+    <p class="photo-panel-text">Photos from the events we cover are in the Gulf Youth Sport gallery, sorted by event.</p>
+    <a class="btn btn--light" href="{{ site.photos }}" rel="noopener">Open the photo gallery <span aria-hidden="true">&rarr;</span></a>
+  </section>
+
+  {% if zenfolio.galleries.length %}
+  <section class="block" aria-labelledby="recent-galleries-title">
+    <div class="section-head"><h2 class="section-title" id="recent-galleries-title">Recently added</h2></div>
+    <ul class="gallery-grid">
+      {% for gallery in zenfolio.galleries %}
+      <li>
+        <a class="gallery-card" href="{{ gallery.url }}" rel="noopener">
+          <span class="gallery-cover">
+            <img src="{{ gallery.image.medium }}"
+                 srcset="{{ gallery.image.small }} 400w, {{ gallery.image.medium }} 580w, {{ gallery.image.large }} 800w"
+                 sizes="(min-width: 1160px) 350px, (min-width: 768px) 31vw, 46vw"
+                 alt="" width="580" height="384" loading="lazy">
+          </span>
+          <span class="gallery-title">{{ gallery.title }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+</div>
