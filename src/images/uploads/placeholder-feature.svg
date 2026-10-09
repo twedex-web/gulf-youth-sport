@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F3F5FA"/>
+  <rect x="40" y="40" width="1000" height="1270" fill="none" stroke="#5B6584" stroke-width="6" stroke-dasharray="24 18"/>
+  <text x="540" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="64" font-weight="700" fill="#1C2752">[Placeholder]</text>
+  <text x="540" y="740" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" fill="#5B6584">Featured image (Canva graphic), 1080 x 1350</text>
+</svg>

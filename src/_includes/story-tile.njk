@@ -1,0 +1,8 @@
+{# Portrait 4:5 colour tile. Expects `story` and `colour`. #}
+<li class="story">
+  <a class="tile tile--{{ colour }}" href="{{ story.url }}">
+    {% if story.data.kicker %}<span class="kicker">{{ story.data.kicker }}</span>{% endif %}
+    <h3 class="tile-title">{{ story.data.title }}</h3>
+  </a>
+  <p class="story-date"><time datetime="{{ story.date | isoDate }}">{{ story.date | readableDate }}</time></p>
+</li>

@@ -1,0 +1,29 @@
+---
+layout: layouts/base.njk
+section: stories
+pagination:
+  data: collections.stories
+  size: 24
+  alias: pageStories
+permalink: "/stories/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}"
+eleventyComputed:
+  title: "All stories{% if pagination.pageNumber > 0 %}, page {{ pagination.pageNumber + 1 }}{% endif %} | Gulf Youth Sport"
+---
+<div class="wrap">
+  <div class="page-head">
+    <h1 class="page-title">All stories</h1>
+    {% if pagination.pageNumber > 0 %}<p class="meta">Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</p>{% endif %}
+  </div>
+  <ul class="grid">
+    {% for story in pageStories %}
+      {% set colour = loop.index0 | tileColour %}
+      {% include "story-tile.njk" %}
+    {% endfor %}
+  </ul>
+  {% if pagination.href.previous or pagination.href.next %}
+  <nav class="pager" aria-label="More stories">
+    {% if pagination.href.previous %}<a class="btn btn--outline" href="{{ pagination.href.previous }}">Newer stories</a>{% endif %}
+    {% if pagination.href.next %}<a class="btn btn--outline" href="{{ pagination.href.next }}">Older stories</a>{% endif %}
+  </nav>
+  {% endif %}
+</div>

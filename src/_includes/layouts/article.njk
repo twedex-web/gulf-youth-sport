@@ -1,0 +1,94 @@
+---
+layout: layouts/base.njk
+section: stories
+ogType: article
+---
+{%- set pageUrl = site.url + page.url -%}
+<article class="article">
+  <header class="wrap article-head">
+    <a class="back" href="/"><span aria-hidden="true">&larr;</span> All stories</a>
+    {% if kicker %}<p class="kicker kicker--plain">{{ kicker }}</p>{% endif %}
+    <h1 class="article-title">{{ title }}</h1>
+    {% if standfirst %}<p class="standfirst">{{ standfirst }}</p>{% endif %}
+    <p class="meta"><time datetime="{{ page.date | isoDate }}">{{ page.date | readableDate }}</time></p>
+  </header>
+
+  {% if image %}
+  <figure class="wrap article-figure">
+    <img src="{{ image }}" alt="{{ imageAlt }}" fetchpriority="high">
+  </figure>
+  {% endif %}
+
+  <div class="wrap article-body">
+    <div class="prose">
+{{ content | safe }}
+    </div>
+
+    <aside class="share" aria-labelledby="share-title">
+      <h2 class="share-title" id="share-title">Share this story</h2>
+      <ul class="share-list">
+        <li class="share-native" hidden><button type="button" class="share-btn" data-share>Share</button></li>
+        <li><a class="share-btn share-btn--whatsapp" href="https://wa.me/?text={{ (title + ' ' + pageUrl) | urlencode }}" rel="noopener" target="_blank">WhatsApp</a></li>
+        <li><a class="share-btn share-btn--facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ pageUrl | urlencode }}" rel="noopener" target="_blank">Facebook</a></li>
+        <li><a class="share-btn share-btn--x" href="https://x.com/intent/post?text={{ title | urlencode }}&amp;url={{ pageUrl | urlencode }}" rel="noopener" target="_blank">X</a></li>
+        <li><a class="share-btn share-btn--linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url={{ pageUrl | urlencode }}" rel="noopener" target="_blank">LinkedIn</a></li>
+        <li><a class="share-btn share-btn--email" href="mailto:?subject={{ title | urlencode }}&amp;body={{ pageUrl | urlencode }}">Email</a></li>
+        <li class="share-copy" hidden><button type="button" class="share-btn" data-copy>Copy link</button></li>
+      </ul>
+      <p class="share-status" role="status" aria-live="polite"></p>
+    </aside>
+  </div>
+</article>
+
+{%- set related = collections.stories | otherStories(page.url, 3) -%}
+{% if related.length %}
+<section class="wrap block related" aria-labelledby="related-title">
+  <div class="section-head"><h2 class="section-title" id="related-title">More stories</h2></div>
+  <ul class="grid grid--related">
+    {% for story in related %}
+      {% set colour = loop.index0 | tileColour %}
+      {% include "story-tile.njk" %}
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": {{ title | dump | safe }},
+  "description": {{ (metaDescription or "") | dump | safe }},
+  "datePublished": "{{ page.date | isoDate }}",
+  "mainEntityOfPage": "{{ pageUrl }}",
+  {% if image %}"image": ["{{ site.url }}{{ image }}"],{% endif %}
+  "publisher": {
+    "@type": "Organization",
+    "name": "Gulf Youth Sport",
+    "logo": { "@type": "ImageObject", "url": "{{ site.url }}/assets/gys-logo.png" }
+  }
+}
+</script>
+<script>
+  (function () {
+    var data = { title: {{ title | dump | safe }}, url: "{{ pageUrl }}" };
+    var status = document.querySelector(".share-status");
+    if (navigator.share) {
+      var native = document.querySelector(".share-native");
+      native.hidden = false;
+      native.querySelector("button").addEventListener("click", function () {
+        navigator.share(data).catch(function () {});
+      });
+    }
+    if (navigator.clipboard) {
+      var copy = document.querySelector(".share-copy");
+      copy.hidden = false;
+      copy.querySelector("button").addEventListener("click", function () {
+        navigator.clipboard.writeText(data.url).then(function () {
+          status.textContent = "Link copied";
+          setTimeout(function () { status.textContent = ""; }, 3000);
+        });
+      });
+    }
+  })();
+</script>

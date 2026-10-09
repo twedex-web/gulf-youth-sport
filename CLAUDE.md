@@ -9,7 +9,9 @@ Gulf Youth Sport (GYS) covers school and youth sport across the Gulf. Instagram 
 ## Current state
 
 - `index.html` is a temporary holding page (logo, "new website is on its way", links to Instagram, YouTube and the photo gallery). It will be replaced by the real homepage.
-- Hosting: Netlify, deployed automatically from this GitHub repository on every push. Plain static site: no build command, publish directory is the repo root (update this note if a build step is added).
+- Hosting: Netlify, deployed automatically from this GitHub repository on every push. Static site built with Eleventy (11ty): source in `src/`, `netlify.toml` runs `npm run build` and publishes `_site/`. Articles are Markdown files in `src/stories/`. Run locally with `npm start` (http://localhost:8080).
+- Photos tab: `src/_data/zenfolio.js` reads the gallery's recent.rss at build time and shows up to six recent galleries. Only galleries whose name includes a date or year (e.g. "DASSA Golf (June 26)") are shown, which skips sub-folders like "DAY 1".
+- Videos tab: `src/_data/youtube.js` reads the channel's public feed at build time (15 newest uploads, Shorts excluded). `netlify/functions/rebuild-videos.mjs` triggers a rebuild every 6 hours (refreshing videos and galleries) through a Netlify build hook stored in the `BUILD_HOOK_URL` environment variable (never commit the hook URL).
 - Domain: gulfyouthsport.com is being transferred into Namecheap. DNS will stay at Namecheap, with records pointing to Netlify. Do not suggest moving nameservers to Netlify: the domain's email (info@gulfyouthsport.com) runs through existing MX/TXT records that must not be disturbed.
 - The old WordPress site was taken offline after being flagged by a school group's cyber security check. Old posts and pages are being exported from WordPress (XML plus the uploads folder) and may be imported later as content only. Do not bring across old themes, plugins or code.
 
@@ -28,6 +30,8 @@ Each article also needs its own page template (headline, date, featured image, b
 - Articles are written in Google Docs (each doc includes an SEO title, meta description, slug, categories, standfirst and Instagram brief).
 - The team publishes through Decap CMS at `/admin`, which commits articles into this repository. Article fields: title, slug, date, kicker/category, standfirst, featured image (the Canva graphic), body, SEO title, meta description.
 - Interns are not developers: the admin must be simple.
+- Admin login: GitHub backend through Netlify's OAuth provider (each editor needs a GitHub account with Write access to the repo). Not Netlify Identity / Git Gateway, whose future is uncertain. Config in `src/admin/config.yml`; it also has an optional `imageAlt` field. Setup steps: `docs/admin-setup.md`. Team instructions: `docs/publishing-guide.md`.
+- Local CMS testing: `npm start` plus `npm run cms`, then http://localhost:8080/admin/ (edits local files only).
 
 ## Brand
 
