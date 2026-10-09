@@ -239,15 +239,74 @@ a.tile:hover { transform: translateY(-3px); box-shadow: 0 10px 22px rgba(28, 39,
   text-transform: uppercase; font-size: clamp(40px, 7vw, 64px); line-height: 0.95;
 }
 
-/* Article (basic; full template comes next) */
-.article { max-width: 760px; padding-top: 32px; }
-.article-title {
-  margin: 8px 0 12px;
-  font-family: var(--head); font-style: italic; font-weight: 800;
-  text-transform: uppercase; font-size: clamp(38px, 6vw, 64px); line-height: 0.95;
+/* Article page */
+.article-head, .article-body { max-width: calc(760px + 2 * var(--gutter)); }
+.article-head { padding-top: 20px; padding-bottom: 24px; }
+.back {
+  display: inline-flex; align-items: center; gap: 8px; min-height: 44px; margin-bottom: 8px;
+  font-weight: 600; font-size: 15px; color: var(--muted); text-decoration: none;
 }
-.article-image { border-radius: var(--radius); margin: 8px 0 28px; }
+.back:hover { color: var(--ink); }
+.article-head .kicker--plain { display: block; }
+.article-title {
+  margin: 8px 0 0;
+  font-family: var(--head); font-style: italic; font-weight: 800;
+  text-transform: uppercase; font-size: clamp(40px, 7vw, 72px); line-height: 0.93;
+}
+.article-head .standfirst { margin: 16px 0 14px; color: var(--ink); }
+
+/* Featured image: the Canva graphic, shown whole at its own shape */
+.article-figure { max-width: calc(760px + 2 * var(--gutter)); margin: 0 auto 32px; }
+.article-figure img {
+  width: auto; max-height: min(85vh, 900px); margin: 0 auto;
+  border-radius: var(--radius); background: var(--surface);
+}
+
+/* Article body text */
 .prose { font-size: 18px; line-height: 1.7; }
+.prose > :first-child { margin-top: 0; }
+.prose p, .prose ul, .prose ol, .prose blockquote, .prose figure { margin: 0 0 1.2em; }
+.prose h2, .prose h3 {
+  margin: 1.6em 0 0.5em;
+  font-family: var(--head); font-style: italic; font-weight: 800;
+  text-transform: uppercase; line-height: 1;
+}
+.prose h2 { font-size: 32px; }
+.prose h3 { font-size: 25px; }
+.prose a { color: var(--blue); font-weight: 600; text-underline-offset: 3px; }
+.prose a:hover { color: var(--ink); }
+.prose ul, .prose ol { padding-left: 1.3em; }
+.prose li { margin-bottom: 0.4em; }
+.prose blockquote {
+  padding: 4px 0 4px 20px; border-left: 5px solid var(--red);
+  font-size: 21px; font-weight: 500; line-height: 1.5;
+}
+.prose img { border-radius: var(--radius); }
+.prose iframe { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; border: 0; border-radius: var(--radius); }
+.prose hr { border: 0; border-top: 1px solid var(--line); margin: 2em 0; }
+
+/* Share links */
+.share { margin: 40px 0 0; padding: 20px; border-radius: var(--radius); background: var(--surface); }
+.share-title {
+  margin: 0 0 14px;
+  font-family: var(--head); font-style: italic; font-weight: 800;
+  text-transform: uppercase; font-size: 24px; line-height: 1;
+}
+.share-list { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; }
+.share-btn {
+  display: inline-flex; align-items: center; min-height: 44px; padding: 0 18px;
+  border: 2px solid var(--ink); border-radius: 999px; background: #FFFFFF; color: var(--ink);
+  font: inherit; font-weight: 700; font-size: 16px; text-decoration: none; cursor: pointer;
+}
+.share-btn:hover { background: var(--ink); color: #FFFFFF; }
+.share-native .share-btn { background: var(--ink); color: #FFFFFF; }
+.share-status { margin: 10px 0 0; min-height: 1.4em; font-size: 15px; font-weight: 600; color: var(--ink); }
+
+.related { margin-top: 56px; }
+@media (max-width: 767px) {
+  /* Three tiles don't fit two columns evenly on phones: show two. */
+  .grid--related li:nth-child(3) { display: none; }
+}
 
 /* Footer */
 .site-footer {

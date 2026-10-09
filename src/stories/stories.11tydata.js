@@ -12,5 +12,8 @@ export default {
   layout: "layouts/article.njk",
   eleventyComputed: {
     permalink: (data) => `/stories/${slugify(data.slug || data.page.fileSlug)}/`,
+    // Fall back sensibly when the SEO fields are left blank in the CMS.
+    seoTitle: (data) => data.seoTitle || `${data.title} | Gulf Youth Sport`,
+    metaDescription: (data) => data.metaDescription || data.standfirst,
   },
 };

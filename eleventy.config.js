@@ -20,6 +20,9 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("readableDate", (date) => dateFormat.format(date));
   eleventyConfig.addFilter("isoDate", (date) => date.toISOString());
   eleventyConfig.addFilter("tileColour", (index) => TILE_COLOURS[index % TILE_COLOURS.length]);
+  eleventyConfig.addFilter("otherStories", (stories, url, count) =>
+    stories.filter((story) => story.url !== url).slice(0, count)
+  );
 
   return {
     dir: { input: "src", includes: "_includes", data: "_data", output: "_site" },
