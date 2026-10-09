@@ -30,6 +30,8 @@ Each article also needs its own page template (headline, date, featured image, b
 - Articles are written in Google Docs (each doc includes an SEO title, meta description, slug, categories, standfirst and Instagram brief).
 - The team publishes through Decap CMS at `/admin`, which commits articles into this repository. Article fields: title, slug, date, kicker/category, standfirst, featured image (the Canva graphic), body, SEO title, meta description.
 - Interns are not developers: the admin must be simple.
+- Admin login: GitHub backend through Netlify's OAuth provider (each editor needs a GitHub account with Write access to the repo). Not Netlify Identity / Git Gateway, whose future is uncertain. Config in `src/admin/config.yml`; it also has an optional `imageAlt` field. Setup steps: `docs/admin-setup.md`. Team instructions: `docs/publishing-guide.md`.
+- Local CMS testing: `npm start` plus `npm run cms`, then http://localhost:8080/admin/ (edits local files only).
 
 ## Brand
 

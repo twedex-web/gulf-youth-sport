@@ -11,6 +11,9 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/favicon.png");
+  // Decap CMS admin: copied as-is, never processed as templates.
+  eleventyConfig.addPassthroughCopy("src/admin");
+  eleventyConfig.ignores.add("src/admin/**");
 
   // Newest first. Publishing an article in the CMS puts it at the top of the homepage.
   eleventyConfig.addCollection("stories", (api) =>

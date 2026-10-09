@@ -1,0 +1,94 @@
+# Decap CMS settings for the Gulf Youth Sport admin at /admin.
+# The team logs in with their GitHub accounts (they must be collaborators on the repository).
+# Publishing commits the article to the main branch, and Netlify rebuilds the site.
+
+backend:
+  name: github
+  repo: twedex-web/gulf-youth-sport
+  branch: main
+  base_url: https://api.netlify.com
+
+# Lets `npm run cms` edit files on this computer without logging in (only works on localhost).
+local_backend:
+  url: http://127.0.0.1:8081/api/v1
+
+site_url: https://gulfyouthsport.com
+display_url: https://gulfyouthsport.com
+logo_url: /assets/gys-logo.png
+
+media_folder: src/images/uploads
+public_folder: /images/uploads
+
+collections:
+  - name: stories
+    label: Stories
+    label_singular: Story
+    description: Newest story goes to the top of the homepage automatically. Copy each field from the article's Google Doc.
+    folder: src/stories
+    create: true
+    delete: true
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.slug}}"
+    preview_path: "stories/{{fields.slug}}/"
+    summary: "{{title}}  ·  {{date | date('D MMM YYYY')}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - label: Headline
+        name: title
+        widget: string
+        hint: The headline as it appears on the site.
+
+      - label: Slug
+        name: slug
+        widget: string
+        pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', "Lower-case letters, numbers and hyphens only, e.g. dassa-golf-june-2026"]
+        hint: "From the Google Doc. This becomes the web address: gulfyouthsport.com/stories/your-slug/"
+
+      - label: Publish date
+        name: date
+        widget: datetime
+        default: "{{now}}"
+        hint: Newest date goes to the top of the homepage.
+
+      - label: Category
+        name: kicker
+        widget: string
+        required: false
+        hint: "The sport or category shown above the headline, e.g. Football, Swimming, Athletics."
+
+      - label: Standfirst
+        name: standfirst
+        widget: text
+        hint: One or two sentences under the headline that sum up the story.
+
+      - label: Featured image
+        name: image
+        widget: image
+        required: false
+        choose_url: false
+        hint: The Canva graphic for this story. Shown at the top of the article and on the homepage when it's the latest story.
+
+      - label: Featured image description
+        name: imageAlt
+        widget: string
+        required: false
+        hint: "A short description of the image for people using screen readers, e.g. 'Players lifting the trophy'. Leave blank if the graphic is just text."
+
+      - label: Article
+        name: body
+        widget: markdown
+        buttons: ["bold", "italic", "link", "heading-two", "heading-three", "quote", "bulleted-list", "numbered-list"]
+        editor_components: ["image"]
+        hint: Paste the article text from the Google Doc.
+
+      - label: SEO title
+        name: seoTitle
+        widget: string
+        required: false
+        hint: "From the Google Doc. Leave blank to use the headline."
+
+      - label: Meta description
+        name: metaDescription
+        widget: text
+        required: false
+        pattern: ['^[\s\S]{0,160}$', "Keep it to 160 characters or fewer"]
+        hint: "From the Google Doc (up to 160 characters). Leave blank to use the standfirst."

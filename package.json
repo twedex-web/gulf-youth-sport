@@ -4,9 +4,11 @@
   "type": "module",
   "scripts": {
     "build": "eleventy",
-    "start": "eleventy --serve"
+    "start": "eleventy --serve",
+    "cms": "decap-server"
   },
   "devDependencies": {
-    "@11ty/eleventy": "3.1.6"
+    "@11ty/eleventy": "3.1.6",
+    "decap-server": "3.11.3"
   }
 }
