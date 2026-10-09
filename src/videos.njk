@@ -1,0 +1,100 @@
+---
+layout: layouts/base.njk
+section: videos
+title: Videos | Gulf Youth Sport
+description: The latest school and youth sport videos from the Gulf Youth Sport YouTube channel.
+---
+{%- set videos = youtube.videos -%}
+{%- set latest = videos[0] -%}
+<div class="wrap">
+  <div class="page-head page-head--split">
+    <h1 class="page-title">Videos</h1>
+    <a class="btn btn--youtube" href="{{ site.youtube }}?sub_confirmation=1" rel="noopener" target="_blank">
+      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23 7.2a3 3 0 0 0-2.1-2.1C19 4.6 12 4.6 12 4.6s-7 0-8.9.5A3 3 0 0 0 1 7.2 31 31 0 0 0 .5 12 31 31 0 0 0 1 16.8a3 3 0 0 0 2.1 2.1c1.9.5 8.9.5 8.9.5s7 0 8.9-.5a3 3 0 0 0 2.1-2.1c.4-1.6.5-4.8.5-4.8s0-3.2-.5-4.8zM9.7 15.1V8.9l5.8 3.1-5.8 3.1z"/></svg>
+      Subscribe on YouTube
+    </a>
+  </div>
+
+  {% if latest %}
+  <section class="video-lead" aria-labelledby="video-lead-title">
+    <div class="player" data-player>
+      <a class="player-start" href="{{ latest.url }}" data-video-id="{{ latest.id }}" data-video-title="{{ latest.title }}">
+        <img src="https://i.ytimg.com/vi/{{ latest.id }}/sddefault.jpg" alt="" width="640" height="480" fetchpriority="high">
+        <span class="play" aria-hidden="true"></span>
+        <span class="visually-hidden">Play video: {{ latest.title }}</span>
+      </a>
+    </div>
+    <div class="video-lead-text">
+      <p class="lead-label" data-player-label>Latest video</p>
+      <h2 class="video-lead-title" id="video-lead-title" data-player-title>{{ latest.title }}</h2>
+      <p class="meta"><time datetime="{{ latest.date | isoDate }}" data-player-date>{{ latest.date | readableDate }}</time></p>
+    </div>
+  </section>
+
+  {% if videos.length > 1 %}
+  <section class="block" aria-labelledby="more-videos-title">
+    <div class="section-head"><h2 class="section-title" id="more-videos-title">More videos</h2></div>
+    <ul class="video-grid">
+      {% for video in videos.slice(1, 7) %}
+      <li>
+        <a class="video-card" href="{{ video.url }}" data-video-id="{{ video.id }}" data-video-title="{{ video.title }}" data-video-date="{{ video.date | readableDate }}" data-video-iso="{{ video.date | isoDate }}">
+          <span class="video-thumb">
+            <img src="https://i.ytimg.com/vi/{{ video.id }}/hqdefault.jpg" alt="" width="480" height="360" loading="lazy">
+            <span class="play play--small" aria-hidden="true"></span>
+          </span>
+          <span class="video-title">{{ video.title }}</span>
+        </a>
+        <p class="story-date"><time datetime="{{ video.date | isoDate }}">{{ video.date | readableDate }}</time></p>
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="more"><a class="btn btn--outline" href="{{ site.youtube }}/videos" rel="noopener" target="_blank">See all videos on YouTube</a></p>
+  </section>
+  {% endif %}
+
+  {% else %}
+  <div class="empty-panel">
+    <p>Our latest videos couldn't be loaded just now. You can watch them all on our YouTube channel.</p>
+    <a class="btn" href="{{ site.youtube }}" rel="noopener" target="_blank">Watch on YouTube</a>
+  </div>
+  {% endif %}
+</div>
+
+<script>
+  // Plays videos on the page. The YouTube player (and its cookies) only loads once someone presses play.
+  (function () {
+    var player = document.querySelector("[data-player]");
+    if (!player) return;
+    var title = document.querySelector("[data-player-title]");
+    var date = document.querySelector("[data-player-date]");
+    var label = document.querySelector("[data-player-label]");
+
+    function play(id, name) {
+      var frame = document.createElement("iframe");
+      frame.src = "https://www.youtube-nocookie.com/embed/" + id + "?autoplay=1&rel=0";
+      frame.title = name;
+      frame.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+      frame.allowFullscreen = true;
+      player.replaceChildren(frame);
+    }
+
+    player.querySelector("[data-video-id]").addEventListener("click", function (event) {
+      event.preventDefault();
+      play(this.dataset.videoId, this.dataset.videoTitle);
+    });
+
+    // Picking a video from the grid plays it in the big player at the top.
+    document.querySelectorAll(".video-card").forEach(function (card) {
+      card.addEventListener("click", function (event) {
+        if (event.metaKey || event.ctrlKey || event.shiftKey) return;
+        event.preventDefault();
+        label.textContent = "Now playing";
+        title.textContent = card.dataset.videoTitle;
+        date.textContent = card.dataset.videoDate;
+        date.setAttribute("datetime", card.dataset.videoIso);
+        play(card.dataset.videoId, card.dataset.videoTitle);
+        player.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
+      });
+    });
+  })();
+</script>
