@@ -1,0 +1,65 @@
+---
+layout: layouts/base.njk
+section: stories
+title: Gulf Youth Sport | School and youth sport across the Gulf
+---
+{%- set stories = collections.stories -%}
+{%- set lead = stories[0] -%}
+<div class="wrap">
+  <h1 class="visually-hidden">Latest stories from Gulf Youth Sport</h1>
+
+  {% if lead %}
+  <article class="lead{% if not lead.data.image %} lead--tile{% endif %}">
+    {% if lead.data.image %}
+    <a class="lead-media" href="{{ lead.url }}" tabindex="-1" aria-hidden="true">
+      <img src="{{ lead.data.image }}" alt="" width="800" height="1000" fetchpriority="high">
+    </a>
+    {% else %}
+    <a class="lead-media tile tile--blue" href="{{ lead.url }}" tabindex="-1" aria-hidden="true">
+      {% if lead.data.kicker %}<span class="kicker">{{ lead.data.kicker }}</span>{% endif %}
+      <span class="tile-title">{{ lead.data.title }}</span>
+    </a>
+    {% endif %}
+    <div class="lead-body">
+      <p class="lead-label">Latest story</p>
+      {% if lead.data.kicker %}<p class="kicker kicker--plain">{{ lead.data.kicker }}</p>{% endif %}
+      <h2 class="lead-title"><a href="{{ lead.url }}">{{ lead.data.title }}</a></h2>
+      <p class="meta"><time datetime="{{ lead.date | isoDate }}">{{ lead.date | readableDate }}</time></p>
+      {% if lead.data.standfirst %}<p class="standfirst">{{ lead.data.standfirst }}</p>{% endif %}
+      <a class="btn" href="{{ lead.url }}">Read the full story <span aria-hidden="true">&rarr;</span></a>
+    </div>
+  </article>
+  {% else %}
+  <p class="empty">No stories yet. The newest story will appear here as soon as it is published.</p>
+  {% endif %}
+
+  {% if stories.length > 1 %}
+  <section class="block" aria-labelledby="more-title">
+    <div class="section-head"><h2 class="section-title" id="more-title">More stories</h2></div>
+    <ul class="grid">
+      {% for story in stories.slice(1, 7) %}
+        {% set colour = loop.index0 | tileColour %}
+        {% include "story-tile.njk" %}
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if stories.length > 7 %}
+  <section class="block" aria-labelledby="earlier-title">
+    <div class="section-head"><h2 class="section-title" id="earlier-title">Earlier</h2></div>
+    <ul class="earlier">
+      {% for story in stories.slice(7, 15) %}
+      <li>
+        <a href="{{ story.url }}">
+          <span class="bar bar--{{ loop.index0 | tileColour }}" aria-hidden="true"></span>
+          <span class="earlier-meta">{% if story.data.kicker %}{{ story.data.kicker }} &middot; {% endif %}<time datetime="{{ story.date | isoDate }}">{{ story.date | readableDate }}</time></span>
+          <span class="earlier-title">{{ story.data.title }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="more"><a class="btn btn--outline" href="/stories/">Load older stories</a></p>
+  </section>
+  {% endif %}
+</div>

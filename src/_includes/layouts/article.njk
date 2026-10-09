@@ -1,0 +1,14 @@
+---
+layout: layouts/base.njk
+section: stories
+ogType: article
+---
+{# Basic version so homepage links work. The full article template (share links etc.) is the next step. #}
+<article class="wrap article">
+  {% if kicker %}<p class="kicker kicker--plain">{{ kicker }}</p>{% endif %}
+  <h1 class="article-title">{{ title }}</h1>
+  <p class="meta"><time datetime="{{ page.date | isoDate }}">{{ page.date | readableDate }}</time></p>
+  {% if standfirst %}<p class="standfirst">{{ standfirst }}</p>{% endif %}
+  {% if image %}<img class="article-image" src="{{ image }}" alt="">{% endif %}
+  <div class="prose">{{ content | safe }}</div>
+</article>

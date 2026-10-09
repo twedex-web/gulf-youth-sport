@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ seoTitle or title }}</title>
+<meta name="description" content="{{ metaDescription or description or site.description }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:type" content="{{ ogType or 'website' }}">
+<meta property="og:title" content="{{ seoTitle or title }}">
+<meta property="og:description" content="{{ metaDescription or description or site.description }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}{{ image or '/assets/gys-logo.png' }}">
+<meta name="twitter:card" content="{{ 'summary_large_image' if image else 'summary' }}">
+<meta name="theme-color" content="#1C2752">
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,800&family=Barlow:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="stripe" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span></div>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/">
+      <img src="/assets/gys-logo.png" alt="Gulf Youth Sport home" width="64" height="64">
+      <span class="brand-name" aria-hidden="true">Gulf Youth<br>Sport</span>
+    </a>
+    <nav class="nav" aria-label="Main">
+      <ul>
+        <li><a href="/"{% if section == "stories" %} aria-current="page"{% endif %}>Stories</a></li>
+        <li><a href="/videos/"{% if section == "videos" %} aria-current="page"{% endif %}>Videos</a></li>
+        <li><a href="/photos/"{% if section == "photos" %} aria-current="page"{% endif %}>Photos</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+{{ content | safe }}
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p class="slogan">Electrifying Youth Sport</p>
+    <ul class="footer-links">
+      <li><a href="{{ site.instagram }}" rel="noopener">Instagram</a></li>
+      <li><a href="{{ site.youtube }}" rel="noopener">YouTube</a></li>
+      <li><a href="{{ site.photos }}" rel="noopener">Event photos</a></li>
+      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+    </ul>
+    <p class="small">&copy; {{ site.year }} Gulf Youth Sport</p>
+  </div>
+</footer>
+</body>
+</html>

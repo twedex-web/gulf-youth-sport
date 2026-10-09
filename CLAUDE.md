@@ -9,7 +9,7 @@ Gulf Youth Sport (GYS) covers school and youth sport across the Gulf. Instagram 
 ## Current state
 
 - `index.html` is a temporary holding page (logo, "new website is on its way", links to Instagram, YouTube and the photo gallery). It will be replaced by the real homepage.
-- Hosting: Netlify, deployed automatically from this GitHub repository on every push. Plain static site: no build command, publish directory is the repo root (update this note if a build step is added).
+- Hosting: Netlify, deployed automatically from this GitHub repository on every push. Static site built with Eleventy (11ty): source in `src/`, `netlify.toml` runs `npm run build` and publishes `_site/`. Articles are Markdown files in `src/stories/`. Run locally with `npm start` (http://localhost:8080).
 - Domain: gulfyouthsport.com is being transferred into Namecheap. DNS will stay at Namecheap, with records pointing to Netlify. Do not suggest moving nameservers to Netlify: the domain's email (info@gulfyouthsport.com) runs through existing MX/TXT records that must not be disturbed.
 - The old WordPress site was taken offline after being flagged by a school group's cyber security check. Old posts and pages are being exported from WordPress (XML plus the uploads folder) and may be imported later as content only. Do not bring across old themes, plugins or code.
 
