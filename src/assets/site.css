@@ -282,6 +282,7 @@ a.tile:hover { transform: translateY(-3px); box-shadow: 0 10px 22px rgba(28, 39,
   font-size: 21px; font-weight: 500; line-height: 1.5;
 }
 .prose img { border-radius: var(--radius); }
+.prose .video-embed { margin: 0 0 1.2em; }
 .prose iframe { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; border: 0; border-radius: var(--radius); }
 .prose hr { border: 0; border-top: 1px solid var(--line); margin: 2em 0; }
 

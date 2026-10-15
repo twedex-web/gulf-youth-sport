@@ -25,7 +25,7 @@ title: Gulf Youth Sport | School and youth sport across the Gulf
       {% if lead.data.kicker %}<p class="kicker kicker--plain">{{ lead.data.kicker }}</p>{% endif %}
       <h2 class="lead-title"><a href="{{ lead.url }}">{{ lead.data.title }}</a></h2>
       <p class="meta"><time datetime="{{ lead.date | isoDate }}">{{ lead.date | readableDate }}</time></p>
-      {% if lead.data.standfirst %}<p class="standfirst">{{ lead.data.standfirst }}</p>{% endif %}
+      {% set leadSummary = lead.data.standfirst or lead.data.excerpt %}{% if leadSummary %}<p class="standfirst">{{ leadSummary }}</p>{% endif %}
       <a class="btn" href="{{ lead.url }}">Read the full story <span aria-hidden="true">&rarr;</span></a>
     </div>
   </article>

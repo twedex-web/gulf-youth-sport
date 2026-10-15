@@ -17,7 +17,7 @@ export default function (eleventyConfig) {
 
   // Newest first. Publishing an article in the CMS puts it at the top of the homepage.
   eleventyConfig.addCollection("stories", (api) =>
-    api.getFilteredByGlob("src/stories/*.md").sort((a, b) => b.date - a.date)
+    api.getFilteredByGlob("src/stories/**/*.md").sort((a, b) => b.date - a.date)
   );
 
   eleventyConfig.addFilter("readableDate", (date) => dateFormat.format(date));

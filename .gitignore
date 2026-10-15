@@ -1,3 +1,14 @@
 node_modules/
 _site/
 .claude/
+
+# WordPress import: exports, archives and databases never go in the repo
+*.sql
+*.sql.gz
+*.sqlite
+*.db
+*.tar
+*.tar.gz
+*.zip
+/*.xml
+import-reports/

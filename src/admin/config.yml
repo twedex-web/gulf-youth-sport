@@ -28,7 +28,7 @@ collections:
     create: true
     delete: true
     slug: "{{year}}-{{month}}-{{day}}-{{fields.slug}}"
-    preview_path: "stories/{{fields.slug}}/"
+    preview_path: "{{year}}/{{month}}/{{day}}/{{fields.slug}}/"
     summary: "{{title}}  ·  {{date | date('D MMM YYYY')}}"
     sortable_fields: ["date", "title"]
     fields:
