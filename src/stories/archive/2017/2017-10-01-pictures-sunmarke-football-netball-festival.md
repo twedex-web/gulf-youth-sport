@@ -1,0 +1,12 @@
+---
+title: "PICTURES: Sunmarke Football & Netball Festival"
+date: 2017-10-01T00:00:00+04:00
+slug: "pictures-sunmarke-football-netball-festival"
+excerpt: "The stunning surroundings of Sunmarke School, JVT, played host to the inaugural Primary Pre-season football & Netball Extravaganza."
+wpId: 761
+wpFeaturedImage: "2019/09/Main-img-110201764547.jpg"
+---
+
+The stunning surroundings of Sunmarke School, JVT, played host to the inaugural Primary Pre-season football & Netball Extravaganza. 
+
+Gulf Youth Sport's hot-shot photographer, Midhun, was there to capture some awesome action shots of Dubai's up-and-coming stars.
