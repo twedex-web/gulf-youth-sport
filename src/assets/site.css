@@ -448,3 +448,21 @@ a.tile:hover { transform: translateY(-3px); box-shadow: 0 10px 22px rgba(28, 39,
   .btn, .tile { transition: none; }
   .btn:hover, a.tile:hover { transform: none; }
 }
+
+/* 404 page */
+.not-found { margin: 40px 0 56px; }
+.not-found-code {
+  margin: 0;
+  font-family: var(--head); font-style: italic; font-weight: 800;
+  font-size: clamp(96px, 22vw, 200px); line-height: 0.85;
+  /* The six brand colours run through the numbers */
+  background: linear-gradient(to right, var(--blue), var(--green), var(--yellow), var(--orange), var(--red), var(--maroon));
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+.not-found-title {
+  margin: 8px 0 14px;
+  font-family: var(--head); font-style: italic; font-weight: 800;
+  text-transform: uppercase; font-size: clamp(40px, 7vw, 72px); line-height: 0.95;
+}
+.not-found-text { margin: 0 0 28px; max-width: 46ch; font-size: clamp(18px, 2.2vw, 21px); line-height: 1.5; }
+.not-found-links { display: flex; flex-wrap: wrap; gap: 12px; }

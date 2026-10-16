@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+permalink: /404.html
+eleventyExcludeFromCollections: true
+title: Page not found | Gulf Youth Sport
+description: This page isn't on the Gulf Youth Sport website.
+---
+<div class="wrap">
+  <section class="not-found" aria-labelledby="not-found-title">
+    <p class="not-found-code" aria-hidden="true">404</p>
+    <h1 class="not-found-title" id="not-found-title">Out of bounds</h1>
+    <p class="not-found-text">We couldn't find that page. It may have moved when we rebuilt the site, or the link may be mistyped.</p>
+    <div class="not-found-links">
+      <a class="btn" href="/">Latest stories</a>
+      <a class="btn btn--outline" href="/videos/">Videos</a>
+      <a class="btn btn--outline" href="/photos/">Photos</a>
+    </div>
+  </section>
+
+  {% set latest = collections.stories.slice(0, 3) %}
+  {% if latest.length %}
+  <section class="block" aria-labelledby="not-found-latest">
+    <div class="section-head"><h2 class="section-title" id="not-found-latest">Latest stories</h2></div>
+    <ul class="grid grid--related">
+      {% for story in latest %}
+        {% set colour = loop.index0 | tileColour %}
+        {% include "story-tile.njk" %}
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+</div>
