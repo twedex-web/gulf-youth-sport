@@ -20,6 +20,12 @@ export default function (eleventyConfig) {
     api.getFilteredByGlob("src/stories/**/*.md").sort((a, b) => b.date - a.date)
   );
 
+  // Images in article text load as the reader scrolls (the lead image is marked fetchpriority="high").
+  eleventyConfig.addTransform("lazy-images", function (content) {
+    if (!(this.page.outputPath || "").endsWith(".html")) return content;
+    return content.replace(/<img\b(?![^>]*\b(?:loading|fetchpriority)=)/g, '<img loading="lazy" decoding="async"');
+  });
+
   eleventyConfig.addFilter("readableDate", (date) => dateFormat.format(date));
   eleventyConfig.addFilter("isoDate", (date) => date.toISOString());
   eleventyConfig.addFilter("tileColour", (index) => TILE_COLOURS[index % TILE_COLOURS.length]);
