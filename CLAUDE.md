@@ -58,6 +58,7 @@ docs/                      Admin setup and publishing guides
 - The export lived in `../gys-import` (outside this repo). Never commit export files, the uploads archive, extracted files or `import-reports/` (all git-ignored).
 - `scripts/import-wordpress.mjs` converted the posts: suspicious-content scan, strict HTML allowlist, shortcodes and tracking code removed, YouTube kept (as youtube-nocookie embeds), other embeds turned into plain links. `scripts/import-images.mjs` extracted only the images used and converted them to WebP. Posts from 2022 onwards keep inline images; older posts keep only their featured image.
 - The old site was compromised: treat anything from the old export as untrusted. Do not bring across old themes, plugins or code.
+- Do not re-run `scripts/import-wordpress.mjs` over `src/stories/archive/`: imported articles have since been edited by hand (e.g. chatbot notes removed from the 7 Oct 2026 "Barcelona Bound" article), and the converter would overwrite those edits. Edit the Markdown files directly instead.
 
 ## Site structure (agreed)
 
