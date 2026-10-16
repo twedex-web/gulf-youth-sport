@@ -1,0 +1,27 @@
+// Pages from the old WordPress site. None were kept (decided October 2026):
+// each redirects to the homepage so old links and search results still land somewhere useful.
+export default [
+  "/about-gys/",
+  "/advertise/",
+  "/awards/",
+  "/bsmebundle/",
+  "/contact-us/",
+  "/dubaiybl/",
+  "/gysexpo/",
+  "/gysrecords/",
+  "/gysspringcup/",
+  "/join-gys/",
+  "/mediaacademy/",
+  "/privacy-policy-2/",
+  "/reserve-your-courchevel-1850-experience-place/",
+  "/springnetballcup/",
+  "/tours-tournaments/",
+  "/tours-tournaments/development-tours/",
+  "/tours-tournaments/football-tournaments/",
+  "/tours-tournaments/football-tournaments/barcelona-easter-tournament/",
+  "/tours-tournaments/football-tournaments/holland-easter-open/",
+  "/tours-tournaments/football-tournaments/manchester-city-abu-dhabi-cup/",
+  "/tours-tournaments/football-tournaments/the-uk-international-cup/",
+  "/tours-tournaments/football-tournaments/the-world-girls-football-cup/",
+  "/tours-tournaments/school-competitions/",
+];

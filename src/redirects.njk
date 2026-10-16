@@ -1,0 +1,31 @@
+---
+permalink: /_redirects
+eleventyExcludeFromCollections: true
+---
+# Netlify redirects, generated at build time. Old WordPress addresses → their place on the new site.
+
+# Old pages (none kept): homepage
+{%- for path in legacyPages %}
+{{ path }}  /  301
+{%- endfor %}
+
+# WordPress short links and old page ids: /?p=123 → the article, /?page_id=123 → homepage
+{%- for story in collections.stories %}{% if story.data.wpId %}
+/  p={{ story.data.wpId }}  {{ story.url }}  301!
+{%- endif %}{% endfor %}
+/  page_id=:id  /  301!
+
+# WordPress listings
+/category/*  /stories/  301
+/tag/*  /stories/  301
+/author/*  /stories/  301
+/feed/*  /  301
+/comments/feed/*  /  301
+/page/:n/  /stories/page/:n/  301
+/:year/:month/:day/:slug/feed/*  /:year/:month/:day/:slug/  301
+/:year/:month/:day/:slug/amp/*  /:year/:month/:day/:slug/  301
+
+# Old image addresses → new WebP files
+{%- for old, webp in legacyImages %}
+{{ old }}  {{ webp }}  301
+{%- endfor %}
