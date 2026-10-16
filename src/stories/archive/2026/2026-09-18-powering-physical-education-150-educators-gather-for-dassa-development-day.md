@@ -5,6 +5,8 @@ slug: "powering-physical-education-150-educators-gather-for-dassa-development-da
 kicker: "DASSA"
 categories: ["DASSA"]
 excerpt: "School sport in the UAE is entering its biggest year yet — and last Saturday, the people responsible for making it happen all came together in one room."
+image: "/images/archive/2026/09/dassa-development-day-2026.webp"
+imageAlt: "PE teachers seated in an auditorium listening during the DASSA Development Day"
 wpId: 7333
 ---
 
