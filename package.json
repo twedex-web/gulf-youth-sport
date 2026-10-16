@@ -12,6 +12,7 @@
     "decap-server": "3.11.3",
     "fast-xml-parser": "5.11.2",
     "sanitize-html": "2.18.0",
+    "sharp": "0.35.5",
     "turndown": "7.2.4",
     "turndown-plugin-gfm": "1.0.2"
   }

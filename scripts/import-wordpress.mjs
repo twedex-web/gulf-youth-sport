@@ -178,6 +178,7 @@ function convertShortcodes(html, ctx) {
       return embed(src, "self-hosted [video]");
     })
     .replace(/\[audio\b[^\]]*\]([\s\S]*?\[\/audio\])?/gi, (m) => { ctx.removed.push(`[audio]: ${m.slice(0, 120)}`); return ""; })
+    .replace(/\[pdf-embedder\b([^\]]*)\]/gi, (_, attrs) => { ctx.removed.push(`embedded PDF: ${attr(attrs, "url")}`); return ""; })
     .replace(/\[gallery\b([^\]]*)\]/gi, (_, attrs) => images(attr(attrs, "ids")))
     .replace(/\[vc_(?:gallery|images_carousel)\b([^\]]*)\]/gi, (_, attrs) => images(attr(attrs, "images")))
     .replace(/\[vc_single_image\b([^\]]*)\]/gi, (_, attrs) => images(attr(attrs, "image")))
@@ -238,17 +239,18 @@ function convertEmbeds(html, ctx) {
 const TRACKING_PARAMS = /^(utm_[a-z]+|fbclid|gclid|dclid|mc_cid|mc_eid|igshid|igsh|si|_hsenc|_hsmi)$/i;
 
 function cleanHref(href, ctx) {
-  let url;
-  try {
-    url = new URL(href);
-  } catch {
-    return href;
-  }
-  const host = url.hostname.toLowerCase();
   const drop = (reason) => {
     ctx.droppedLinks.push(`${reason}: ${href}`);
     return null;
   };
+  if (/\s/.test(href)) return drop("malformed address");
+  let url;
+  try {
+    url = new URL(href);
+  } catch {
+    return drop("malformed address");
+  }
+  const host = url.hostname.toLowerCase();
 
   if (!host.includes(".")) return drop("malformed address");
   if (host.endsWith("yamm-track.appspot.com")) return drop("email tracking redirect");
@@ -308,6 +310,12 @@ function sanitise(html, ctx) {
         if (href === null) return { tagName: "unwrap", attribs: {} };
         const host = hostOf(href);
         if (href && host && !SITE_HOSTS.has(host) && /^https?:/i.test(href)) ctx.links.add(host);
+        // Links straight to files in the old uploads folder (full-size photos, PDFs, a zip) would break:
+        // drop the link, keep the text. Embedded images are handled separately.
+        if (/\/wp-content\/uploads\//i.test(href) && (SITE_HOSTS.has(host) || href.startsWith("/"))) {
+          ctx.droppedLinks.push(`link to an old uploaded file: ${href}`);
+          return { tagName: "unwrap", attribs: {} };
+        }
         // Links to old articles on this site become relative, so they keep working.
         if (SITE_HOSTS.has(host)) {
           const p = new URL(href, "https://gulfyouthsport.com").pathname;
@@ -321,6 +329,51 @@ function sanitise(html, ctx) {
       (["p", "a", "strong", "em"].includes(frame.tag) && !frame.text.trim() && !frame.mediaChildren?.length && !/<img/i.test(frame.text)) ||
       (frame.tag === "img" && !/^https?:\/\/[^\s<>"]+$/i.test(frame.attribs.src || "")),
   });
+}
+
+// ---------------------------------------------------------------------------------------------
+// Images. import-images.mjs writes import-reports/image-map.json once the WebP files exist;
+// until then image paths are left alone. Posts from 2022 onwards keep inline images,
+// older posts keep only their featured image.
+
+const KEEP_INLINE_FROM_YEAR = 2022;
+const IMAGE_MAP_FILE = path.join(REPORT_DIR, "image-map.json");
+const IMAGE_MAP = fs.existsSync(IMAGE_MAP_FILE) ? JSON.parse(fs.readFileSync(IMAGE_MAP_FILE, "utf8")) : null;
+
+function uploadsPath(url) {
+  const match = decodeEntities(url).match(/^(?:(?:https?:)?\/\/(?:www\.)?gulfyouthsport\.com)?\/wp-content\/uploads\/([^?#]+)/i);
+  if (!match) return null;
+  try {
+    return decodeURIComponent(match[1]);
+  } catch {
+    return match[1];
+  }
+}
+
+function applyImages(html, year, ctx) {
+  return html
+    // A link that only opens the full-size photo: keep the photo, drop the link.
+    .replace(/<a href="([^"]*)">\s*(<img\b[^>]*>)\s*<\/a>/gi, (whole, href, img) =>
+      uploadsPath(href) || /\.(jpe?g|png|gif|webp)$/i.test(href) ? img : whole)
+    .replace(/<img\b[^>]*>/gi, (tag) => {
+      if (year < KEEP_INLINE_FROM_YEAR) {
+        ctx.images.removed++;
+        return "";
+      }
+      const src = decodeEntities(tag.match(/src="([^"]*)"/)?.[1] || "");
+      const alt = tag.match(/alt="([^"]*)"/)?.[1] || "";
+      const webp = IMAGE_MAP.inline[uploadsPath(src)];
+      if (!webp) {
+        ctx.images.missing.push(src);
+        return "";
+      }
+      ctx.images.kept++;
+      return `<img src="${webp}" alt="${alt}">`;
+    })
+    // Captions whose photo was removed, and anything left empty.
+    .replace(/<figure>\s*(<figcaption>[\s\S]*?<\/figcaption>)?\s*<\/figure>/gi, "")
+    .replace(/<a href="[^"]*">\s*<\/a>/gi, "")
+    .replace(/<p>\s*<\/p>/gi, "");
 }
 
 // ---------------------------------------------------------------------------------------------
@@ -417,8 +470,8 @@ function main() {
       const findings = scan(raw, { title });
       if (findings.length) suspicious.push({ id, title, url, findings });
 
-      const ctx = { embeds: [], removed: [], replaced: [], droppedLinks: [], links: new Set(), attachments };
-      const html = sanitise(autop(convertShortcodes(convertEmbeds(raw, ctx), ctx)), ctx)
+      const ctx = { embeds: [], removed: [], replaced: [], droppedLinks: [], links: new Set(), attachments, images: { kept: 0, removed: 0, missing: [] } };
+      let html = sanitise(autop(convertShortcodes(convertEmbeds(raw, ctx), ctx)), ctx)
         .replace(/(<br\s*\/?>\s*){2,}/gi, "<br>")
         .replace(/<p>\s*<br\s*\/?>/gi, "<p>")
         .replace(/<br\s*\/?>\s*<\/p>/gi, "</p>")
@@ -427,14 +480,20 @@ function main() {
         if (!domainPosts.has(host)) domainPosts.set(host, []);
         domainPosts.get(host).push(url);
       }
+      // The original image addresses, for import-images.mjs to work out which files to extract.
+      const inlineSources = [...html.matchAll(/<img\b[^>]*src="([^"]+)"/gi)].map((m) => decodeEntities(m[1]));
+      if (IMAGE_MAP) html = applyImages(html, Number(year), ctx);
+
+      const featured = attachments.get(meta(item, "_thumbnail_id")) || null;
+      const featuredWebp = IMAGE_MAP?.featured[id] || "";
 
       let body = turndown.turndown(html).replace(/\n{3,}/g, "\n\n").trim();
       body = body.replace(/^YTEMBED(\d{4})$/gm, (_, n) => youtubeEmbed(ctx.embeds[Number(n)]));
       // The misspelt address also appears as visible link text (approved fix).
       body = body.replace(/\bfacbook\.com/gi, "facebook.com");
-      if (!body.replace(/<[^>]+>/g, "").trim() && !ctx.embeds.length && !/<img|!\[/.test(body)) {
-        throw new Error("Nothing left after cleaning");
-      }
+      const bodyEmpty = !body.replace(/<[^>]+>/g, "").trim() && !ctx.embeds.length && !/<img|!\[/.test(body);
+      // A photo-only post from before 2022 still has its featured image, so it isn't a failure.
+      if (bodyEmpty && !featuredWebp) throw new Error("Nothing left after cleaning");
 
       // Category: Yoast's primary category isn't usable (no term list in the export),
       // so take the first category that tells a reader something.
@@ -446,7 +505,6 @@ function main() {
       const excerpt = decodeEntities(text(item["excerpt:encoded"]).replace(/<[^>]+>/g, ""));
       const metaDescription = expandYoast(meta(item, "_yoast_wpseo_metadesc"), title);
       const seoTitle = expandYoast(meta(item, "_yoast_wpseo_title"), title);
-      const featured = attachments.get(meta(item, "_thumbnail_id")) || null;
 
       const fields = {
         title,
@@ -458,11 +516,13 @@ function main() {
         standfirst: excerpt || metaDescription,
         // Short summary for homepage cards when there's no standfirst. Not shown on the article page.
         excerpt: excerpt || metaDescription ? "" : firstParagraphText(html),
-        imageAlt: featured?.alt || "",
+        image: featuredWebp,
+        imageAlt: featuredWebp ? featured?.alt || "" : "",
         seoTitle: seoTitle && seoTitle !== `${title} | Gulf Youth Sport` ? seoTitle : "",
         metaDescription,
         wpId: Number(id),
-        wpFeaturedImage: featured?.file || "",
+        // Kept only when the featured image couldn't be imported, so it can be traced later.
+        wpFeaturedImage: featured && !featuredWebp ? featured.file : "",
       };
 
       const dir = path.join(OUT_DIR, year);
@@ -475,9 +535,9 @@ function main() {
         year: Number(year),
         file: path.relative(process.cwd(), file).replace(/\\/g, "/"),
         featured,
-        inline: [...body.matchAll(/(?:!\[[^\]]*\]\(|<img[^>]*src=")(https?:\/\/[^\s)"]+)/g)].map((m) => m[1]),
+        inline: inlineSources,
       });
-      results.push({ id, title, url, file, removed: ctx.removed, replaced: ctx.replaced, droppedLinks: ctx.droppedLinks, embeds: ctx.embeds.length, hasFeatured: !!featured });
+      results.push({ id, title, url, file, removed: ctx.removed, replaced: ctx.replaced, droppedLinks: ctx.droppedLinks, embeds: ctx.embeds.length, hasFeatured: !!featured, featuredWebp, bodyEmpty, images: ctx.images });
     } catch (error) {
       failures.push({ id, title, url, reason: error.message });
     }
@@ -543,6 +603,14 @@ function main() {
     failed: failures.length,
     urlProblems: urlProblems.length,
     withFeaturedImage: results.filter((r) => r.hasFeatured).length,
+    ...(IMAGE_MAP && {
+      featuredImagesLinked: results.filter((r) => r.featuredWebp).length,
+      featuredImagesNotImported: results.filter((r) => r.hasFeatured && !r.featuredWebp).map((r) => r.url),
+      inlineImagesKept: results.reduce((n, r) => n + r.images.kept, 0),
+      inlineImagesRemovedBefore2022: results.reduce((n, r) => n + r.images.removed, 0),
+      inlineImagesMissing: results.flatMap((r) => r.images.missing),
+      photoOnlyPostsNowFeaturedImageOnly: results.filter((r) => r.bodyEmpty).map((r) => r.url),
+    }),
     youtubeEmbedsKept: results.reduce((n, r) => n + r.embeds, 0),
     postsWithRemovedMedia: results.filter((r) => r.removed.length).length,
     embedsReplacedWithLinks: results.reduce((n, r) => n + r.replaced.length, 0),
