@@ -7,6 +7,8 @@ categories: ["In The Spotlight", "World School Games"]
 standfirst: "The World School Games expands into Mind Sports with the launch of WSG Chess. Join the elite international tournament managed by Rhys Gorman and the WSG team."
 seoTitle: "World School Games Chess: Event Series Launches New Category"
 metaDescription: "The World School Games expands into Mind Sports with the launch of WSG Chess. Join the elite international tournament managed by Rhys Gorman and the WSG team."
+image: "/images/archive/2026/04/wsg-chess-checkmate.webp"
+imageAlt: "Close-up of white chess pieces on a board"
 wpId: 7122
 ---
 

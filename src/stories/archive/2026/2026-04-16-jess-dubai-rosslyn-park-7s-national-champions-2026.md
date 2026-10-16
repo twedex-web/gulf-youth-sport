@@ -7,6 +7,8 @@ categories: ["Rugby", "Sports Travel"]
 standfirst: "JESS Dubai U16 Girls reclaim the National Title at Rosslyn Park 7s. Read how JESS took on the world's biggest rugby tournament and returned as champions."
 seoTitle: "JESS Dubai U16s Deliver Masterclass at Rosslyn Park 7s"
 metaDescription: "JESS Dubai U16 Girls reclaim the National Title at Rosslyn Park 7s. Read how JESS took on the world's biggest rugby tournament and returned as champions."
+image: "/images/archive/2026/04/jess-rosslyn-park-7s-2026.webp"
+imageAlt: "A JESS Dubai player running with the ball at the Rosslyn Park National Schools 7s"
 wpId: 7045
 ---
 

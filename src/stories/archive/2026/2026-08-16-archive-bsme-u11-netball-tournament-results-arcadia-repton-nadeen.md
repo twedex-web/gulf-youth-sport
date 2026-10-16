@@ -6,6 +6,8 @@ kicker: "BSME Games"
 categories: ["BSME Games", "Netball"]
 standfirst: "From the GYS Vault: Full official results from the inaugural BSME U11 Netball Tournament hosted by Nadeen School Bahrain, won by Arcadia British School."
 metaDescription: "From the GYS Vault: Full official results from the inaugural BSME U11 Netball Tournament hosted by Nadeen School Bahrain, won by Arcadia British School."
+image: "/images/archive/2026/08/bsme-u11-netball-arcadia-champions.webp"
+imageAlt: "Young netball players with medals and a trophy, smiling behind a team banner"
 wpId: 7284
 ---
 
