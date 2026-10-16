@@ -11,8 +11,6 @@ metaDescription: "15-year-old Repton Dubai student Viktoria Leusheva launches Vi
 wpId: 7236
 ---
 
-## **From the Podium to the Pixel: 15-Year-Old Repton Dubai Student Launches Pioneering AI Gymnastics App and Global Tournament**
-
 The intersection of elite youth sport and cutting-edge artificial intelligence has a new pioneer, and she is operating straight out of a Dubai classroom.
 
 **Viktoria Leusheva**, a 15-year-old Year 11 student at **Repton Dubai**, has officially launched the latest, globally available iteration of her groundbreaking application, **‘Vika’**—a pioneering AI-assisted rhythmic gymnastics judging platform designed to bring absolute transparency and objective data analysis to the sport.
