@@ -92,3 +92,69 @@ collections:
         required: false
         pattern: ['^[\s\S]{0,160}$', "Keep it to 160 characters or fewer"]
         hint: "From the Google Doc (up to 160 characters). Leave blank to use the standfirst."
+
+  - name: settings
+    label: Site settings
+    description: Partners and sponsors shown in the header, the partner strip above the footer and the Partners page.
+    files:
+      - name: partners
+        label: Partners
+        file: src/_data/partners.json
+        format: json
+        fields:
+          - label: Partners
+            name: partners
+            widget: list
+            summary: "{{fields.name}} ({{fields.tier}})"
+            hint: Drag to reorder. Partners appear in this order within each tier.
+            fields:
+              - label: Name
+                name: name
+                widget: string
+              - label: Tier
+                name: tier
+                widget: select
+                options:
+                  - { label: "Headline sponsor (header credit and largest logo)", value: headline }
+                  - { label: "Official partner", value: official }
+                  - { label: "Supported by", value: supported }
+              - label: Role
+                name: role
+                widget: string
+                required: false
+                hint: "For example: Official Kit Partner"
+              - label: Instagram handle
+                name: instagram
+                widget: string
+                required: false
+                hint: Without the @, e.g. twedex. Used as the link until a website is added.
+              - label: Website
+                name: website
+                widget: string
+                required: false
+                hint: Full address, e.g. https://twedex.com. Leave blank to link to Instagram.
+              - label: Logo
+                name: logo
+                widget: image
+                required: false
+                choose_url: false
+                media_folder: /src/images/partners
+                public_folder: /images/partners
+                hint: Transparent PNG or SVG. Leave blank and the partner's name shows in a placeholder box.
+              - label: Accent colour
+                name: accent
+                widget: select
+                default: blue
+                hint: Top border colour on the Partners page card.
+                options: [blue, green, red, maroon, orange, yellow]
+              - label: Short description
+                name: description
+                widget: text
+                required: false
+          - label: Partner pack (PDF)
+            name: partnerPack
+            widget: file
+            required: false
+            media_folder: /src/images/partners
+            public_folder: /images/partners
+            hint: Optional. When added, a "Download partner pack" button appears on the Partners page.

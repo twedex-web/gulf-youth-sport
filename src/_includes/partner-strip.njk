@@ -1,0 +1,24 @@
+{# Site-wide partner strip, directly above the footer. Reads src/_data/partners.json. #}
+{%- set tiers = [["headline", "Headline sponsor"], ["official", "Official partners"], ["supported", "Supported by"]] -%}
+{%- if partners.partners.length %}
+<section class="partner-strip" aria-label="Our partners">
+  <div class="wrap partner-strip-row">
+    <div class="partner-tiers">
+      {%- for tier in tiers %}
+      {%- set group = partners.partners | partnerTier(tier[0]) %}
+      {%- if group.length %}
+      <div class="partner-tier partner-tier--{{ tier[0] }}">
+        <span class="partner-tier-label">{{ tier[1] }}</span>
+        <div class="partner-tier-logos">
+          {%- for partner in group %}
+          <a class="strip-logo{% if not partner.logo %} strip-logo--placeholder{% endif %}" href="{{ partner | partnerUrl }}" rel="sponsored noopener" title="{{ partner.name }}{% if partner.role %}, {{ partner.role }}{% endif %}{% if partner | partnerHandle %} · {{ partner | partnerHandle }}{% endif %}">{% include "partner-logo.njk" %}</a>
+          {%- endfor %}
+        </div>
+      </div>
+      {%- endif %}
+      {%- endfor %}
+    </div>
+    <a class="strip-cta" href="/partners/">Partner with GYS <span aria-hidden="true">&rarr;</span></a>
+  </div>
+</section>
+{%- endif %}

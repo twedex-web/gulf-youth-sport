@@ -34,14 +34,24 @@
         <li><a href="/"{% if section == "stories" %} aria-current="page"{% endif %}>Stories</a></li>
         <li><a href="/videos/"{% if section == "videos" %} aria-current="page"{% endif %}>Videos</a></li>
         <li><a href="/photos/"{% if section == "photos" %} aria-current="page"{% endif %}>Photos</a></li>
+        <li><a href="/partners/"{% if section == "partners" %} aria-current="page"{% endif %}>Partners</a></li>
       </ul>
     </nav>
+    {%- set headline = (partners.partners | partnerTier("headline"))[0] %}
+    {%- if headline %}
+    <a class="headline-credit" href="{{ headline | partnerUrl }}" rel="sponsored noopener">
+      <span class="headline-credit-label">Headline sponsor</span>
+      {%- if headline.logo %}<img src="{{ headline.logo }}" alt="{{ headline.name }}" width="140" height="41" loading="eager">{% else %}<span class="headline-credit-name">{{ headline.name }}</span>{% endif %}
+    </a>
+    {%- endif %}
   </div>
 </header>
 
 <main id="main">
 {{ content | safe }}
 </main>
+
+{% include "partner-strip.njk" %}
 
 <footer class="site-footer">
   <div class="wrap">

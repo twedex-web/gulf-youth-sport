@@ -1,0 +1,75 @@
+---
+layout: layouts/base.njk
+section: partners
+title: Our partners | Gulf Youth Sport
+description: The organisations that help Gulf Youth Sport cover school and youth sport across the Gulf.
+---
+{%- set headline = partners.partners | partnerTier("headline") -%}
+{%- set official = partners.partners | partnerTier("official") -%}
+{%- set supported = partners.partners | partnerTier("supported") -%}
+<div class="wrap partners-page">
+  <div class="page-head">
+    <h1 class="page-title">Our partners</h1>
+    <p class="partners-intro">The organisations that help us cover youth sport across the Gulf.</p>
+  </div>
+
+  {% for partner in headline %}
+  <div class="headline-card">
+    <span class="headline-card-logo" aria-hidden="true">{% include "partner-logo.njk" %}</span>
+    <span class="headline-card-text">
+      <span class="partner-role">{{ partner.role or "Headline Sponsor" }}</span>
+      <a class="headline-card-name partner-main-link" href="{{ partner | partnerUrl }}" rel="sponsored noopener">{{ partner.name }}</a>
+      {% if partner.description %}<span class="partner-description">{{ partner.description }}</span>{% endif %}
+      {% if partner | partnerHandle %}<a class="partner-handle" href="{{ partner | partnerInstagram }}" rel="sponsored noopener" aria-label="{{ partner | partnerHandle }} on Instagram">{{ partner | partnerHandle }}</a>{% endif %}
+    </span>
+  </div>
+  {% endfor %}
+
+  {% if official.length %}
+  <section class="block" aria-labelledby="official-partners">
+    <div class="section-head"><h2 class="section-title" id="official-partners">Official partners</h2></div>
+    <div class="official-grid">
+      {% for partner in official %}
+      <div class="partner-card partner-card--{{ partner.accent or 'blue' }}">
+        <span class="partner-card-logo" aria-hidden="true">{% include "partner-logo.njk" %}</span>
+        <span class="partner-card-text">
+          {% if partner.role %}<span class="partner-role">{{ partner.role }}</span>{% endif %}
+          <a class="partner-card-name partner-main-link" href="{{ partner | partnerUrl }}" rel="sponsored noopener">{{ partner.name }}</a>
+          {% if partner.description %}<span class="partner-description">{{ partner.description }}</span>{% endif %}
+          {% if partner | partnerHandle %}<a class="partner-handle" href="{{ partner | partnerInstagram }}" rel="sponsored noopener" aria-label="{{ partner | partnerHandle }} on Instagram">{{ partner | partnerHandle }}</a>{% endif %}
+        </span>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if supported.length %}
+  <section class="block" aria-labelledby="supported-by">
+    <h2 class="supported-title" id="supported-by">Supported by</h2>
+    <div class="supported-grid">
+      {% for partner in supported %}
+      <div class="partner-card partner-card--small">
+        <span class="partner-card-logo" aria-hidden="true">{% include "partner-logo.njk" %}</span>
+        <span class="partner-card-text">
+          {% if partner.role %}<span class="partner-role">{{ partner.role }}</span>{% endif %}
+          <a class="partner-card-name partner-main-link" href="{{ partner | partnerUrl }}" rel="sponsored noopener">{{ partner.name }}</a>
+          {% if partner | partnerHandle %}<a class="partner-handle" href="{{ partner | partnerInstagram }}" rel="sponsored noopener" aria-label="{{ partner | partnerHandle }} on Instagram">{{ partner | partnerHandle }}</a>{% endif %}
+        </span>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <section class="partner-cta" aria-labelledby="partner-with-us">
+    <div>
+      <h2 class="partner-cta-title" id="partner-with-us">Partner with Gulf Youth Sport</h2>
+      <p>Reach the families, schools and coaches who follow youth sport across the Gulf, through our stories, videos and Instagram.</p>
+    </div>
+    <div class="partner-cta-buttons">
+      <a class="btn btn--yellow" href="mailto:{{ site.email }}?subject=Partnering%20with%20GYS">Get in touch</a>
+      {% if partners.partnerPack %}<a class="btn btn--on-blue" href="{{ partners.partnerPack }}">Download partner pack</a>{% endif %}
+    </div>
+  </section>
+</div>

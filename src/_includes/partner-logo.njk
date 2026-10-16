@@ -1,0 +1,6 @@
+{# A partner's logo, or a neat placeholder with their name if no logo has been supplied yet. Expects `partner`. #}
+{%- if partner.logo -%}
+<img src="{{ partner.logo }}" alt="{{ partner.name }}" loading="lazy" decoding="async">
+{%- else -%}
+<span class="logo-placeholder">{{ partner.name }}</span>
+{%- endif -%}

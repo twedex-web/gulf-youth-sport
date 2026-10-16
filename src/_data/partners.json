@@ -1,0 +1,55 @@
+{
+  "partners": [
+    {
+      "name": "TWEDEX",
+      "tier": "headline",
+      "role": "Headline Sponsor (Travel & Tours Partner)",
+      "instagram": "twedex",
+      "website": "https://www.twedex.com",
+      "logo": "/images/partners/twedex.webp",
+      "accent": "blue",
+      "description": "Trans World Educational Experiences, our Travel & Tours Partner: school sports tours, ski trips, and subject and performing arts trips for students."
+    },
+    {
+      "name": "World School Games",
+      "tier": "official",
+      "role": "Official Events Partner",
+      "instagram": "wsgevents",
+      "website": "https://www.wsgevents.com",
+      "logo": "/images/partners/world-school-games.webp",
+      "accent": "green",
+      "description": ""
+    },
+    {
+      "name": "J20 Sports",
+      "tier": "official",
+      "role": "Official Kit Partner",
+      "instagram": "j20sportsofficial",
+      "website": "https://www.j20sports.com",
+      "logo": "/images/partners/j20-sports.webp",
+      "accent": "red",
+      "description": ""
+    },
+    {
+      "name": "The Overlord Academy",
+      "tier": "supported",
+      "role": "Partner",
+      "instagram": "theoverlordacademy",
+      "website": "https://www.theoverlordacademy.com",
+      "logo": "/images/partners/the-overlord-academy.webp",
+      "accent": "maroon",
+      "description": ""
+    },
+    {
+      "name": "Edfundo",
+      "tier": "supported",
+      "role": "Partner",
+      "instagram": "edfundo",
+      "website": "https://edfundo.com",
+      "logo": "/images/partners/edfundo.webp",
+      "accent": "orange",
+      "description": ""
+    }
+  ],
+  "partnerPack": ""
+}

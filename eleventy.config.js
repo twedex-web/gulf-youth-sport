@@ -29,6 +29,15 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("readableDate", (date) => dateFormat.format(date));
   eleventyConfig.addFilter("isoDate", (date) => date.toISOString());
   eleventyConfig.addFilter("tileColour", (index) => TILE_COLOURS[index % TILE_COLOURS.length]);
+  // Partners all come from src/_data/partners.json (editable in the CMS).
+  eleventyConfig.addFilter("partnerTier", (partners, tier) => (partners || []).filter((p) => p.tier === tier));
+  eleventyConfig.addFilter("partnerUrl", (p) =>
+    p.website || (p.instagram ? `https://www.instagram.com/${String(p.instagram).replace(/^@/, "")}/` : "")
+  );
+  eleventyConfig.addFilter("partnerInstagram", (p) =>
+    p.instagram ? `https://www.instagram.com/${String(p.instagram).replace(/^@/, "")}/` : ""
+  );
+  eleventyConfig.addFilter("partnerHandle", (p) => (p.instagram ? `@${String(p.instagram).replace(/^@/, "")}` : ""));
   eleventyConfig.addFilter("otherStories", (stories, url, count) =>
     stories.filter((story) => story.url !== url).slice(0, count)
   );
