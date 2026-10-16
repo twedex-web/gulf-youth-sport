@@ -1,7 +1,6 @@
 // Makes the CMS preview pane look like the real article page.
 /* global CMS, h, createClass */
 
-CMS.registerPreviewStyle("https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,800&family=Barlow:wght@400;500;600;700&display=swap");
 CMS.registerPreviewStyle("/assets/site.css");
 
 const dateFormat = new Intl.DateTimeFormat("en-GB", {

@@ -14,6 +14,14 @@ Gulf Youth Sport (GYS) covers school and youth sport across the Gulf. Instagram 
 - Videos tab: `src/_data/youtube.js` reads the channel's public feed at build time (15 newest uploads, Shorts excluded). `netlify/functions/rebuild-videos.mjs` triggers a rebuild every 6 hours (refreshing videos and galleries) through a Netlify build hook stored in the `BUILD_HOOK_URL` environment variable (never commit the hook URL). `/build.json` shows when the site last built and what triggered it (`"build hook: Scheduled refresh"` for the 6-hourly job), plus story, video and gallery counts.
 - Domain: gulfyouthsport.com is being transferred into Namecheap. DNS will stay at Namecheap, with records pointing to Netlify. Do not suggest moving nameservers to Netlify: the domain's email (info@gulfyouthsport.com) runs through existing MX/TXT records that must not be disturbed.
 
+## Privacy and removal requests
+
+-  () and  (, with a  section for correction and takedown requests) are linked from the footer; the Photos page links to removal requests too.
+- The site is operated by GYS Travels LLC. Name it only in the privacy policy ("Who runs this site"), nowhere else: not in the header, footer, page titles or metadata.
+- Keep the privacy policy accurate if the site changes: it says the site has no forms, accounts, analytics or advertising and sets no cookies of its own; YouTube loads only on play; gallery covers load from Zenfolio. Adding analytics, forms or new embeds means updating it (and possibly a cookie banner).
+- Fonts are self-hosted in  (Barlow, SIL Open Font License) so visitors never contact Google Fonts. Don't add Google Fonts links back.
+- Safeguarding and removal-request rules for the team are in .
+
 ## Generator and build (Eleventy)
 
 - Static site generator: Eleventy (11ty) 3, configured in `eleventy.config.js`. Templates are Nunjucks (`.njk`); articles are Markdown with front matter.
