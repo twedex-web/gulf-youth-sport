@@ -6,6 +6,8 @@ kicker: "In The Spotlight"
 categories: ["In The Spotlight", "News & Features"]
 standfirst: "Discover the inspiring story of Gus Ardley-Whitehead, Head of PE at Citizens School, as he represents Team GB at the European Transplant Games 10 years after a liver transplant."
 metaDescription: "Discover the inspiring story of Gus Ardley-Whitehead, Head of PE at Citizens School, as he represents Team GB at the European Transplant Games 10 years after a liver transplant."
+image: "/images/archive/2026/04/gus-ardley-whitehead-british-transplant-games.webp"
+imageAlt: "Gus Ardley-Whitehead wearing his medals under the British Transplant Games arch"
 wpId: 7115
 ---
 

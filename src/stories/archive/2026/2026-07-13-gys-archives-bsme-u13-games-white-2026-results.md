@@ -6,6 +6,8 @@ kicker: "BSME Games"
 categories: ["BSME Games"]
 standfirst: "Nord Anglia International School Abu Dhabi claims overall victory at the BSME U13 Games White 2026. View full tournament standings and highlights."
 metaDescription: "Nord Anglia International School Abu Dhabi claims overall victory at the BSME U13 Games White 2026. View full tournament standings and highlights."
+image: "/images/archive/2026/07/bsme-u13-white-2026-nord-anglia.webp"
+imageAlt: "Girls sprinting off the start line at the BSME U13 Games White 2026"
 wpId: 7250
 ---
 
