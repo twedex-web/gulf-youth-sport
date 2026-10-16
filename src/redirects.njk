@@ -9,11 +9,12 @@ eleventyExcludeFromCollections: true
 {{ path }}  /  301
 {%- endfor %}
 
-# WordPress short links and old page ids: /?p=123 → the article, /?page_id=123 → homepage
+# WordPress short links: /?p=123 → the article. (Netlify keeps the query string, which is harmless:
+# each article declares its clean address. Old /?page_id= addresses were drafts or private, so they
+# get no rule: a redirect from / back to / would loop. They simply show the homepage.)
 {%- for story in collections.stories %}{% if story.data.wpId %}
 /  p={{ story.data.wpId }}  {{ story.url }}  301!
 {%- endif %}{% endfor %}
-/  page_id=:id  /  301!
 
 # WordPress listings
 /category/*  /stories/  301

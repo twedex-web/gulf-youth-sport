@@ -49,7 +49,7 @@ docs/                      Admin setup and publishing guides
 
 `src/redirects.njk` generates `/_redirects` at build time:
 - The 23 old WordPress pages (listed in `src/_data/legacyPages.js`) redirect to the homepage; none were kept.
-- `/?p=ID` short links go to the matching article (imported articles keep their WordPress ID as `wpId`); `/?page_id=ID` goes to the homepage.
+- `/?p=ID` short links go to the matching article (imported articles keep their WordPress ID as `wpId`). No rule for `/?page_id=ID`: Netlify forwards query strings, so a redirect from `/` to `/` would loop; those addresses just show the homepage.
 - Old WordPress category, tag, author, feed and page-N listings go to `/stories/`.
 - Old image addresses (`/wp-content/uploads/...`) for imported images go to the WebP copies (`src/_data/legacyImages.json`).
 
