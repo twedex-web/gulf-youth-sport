@@ -5,6 +5,8 @@ slug: "rgs-guildford-dubai-isd-sports-city-seven-year-partnership"
 categories: ["News & Features"]
 standfirst: "Royal Grammar School Guildford Dubai (RGS Dubai) secures a massive 7-year facility partnership extension with ISD Dubai Sports City."
 metaDescription: "Royal Grammar School Guildford Dubai (RGS Dubai) secures a massive 7-year facility partnership extension with ISD Dubai Sports City."
+image: "/images/archive/2026/07/rgs-guildford-isd-dubai-sports-city-partnership.webp"
+imageAlt: "RGS Guildford Dubai students and staff with ISD Dubai Sports City representatives on an indoor pitch"
 wpId: 7256
 ---
 

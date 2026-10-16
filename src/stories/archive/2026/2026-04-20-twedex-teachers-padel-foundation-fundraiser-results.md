@@ -7,6 +7,8 @@ categories: ["In The Spotlight", "News & Features", "Padel", "Twedex"]
 standfirst: "UAE teachers raise funds for the TWEDEX Foundation! 🎾 Read the highlights and results from the Teachers Padel Competition at Emirates Golf Club."
 seoTitle: "TWEDEX Foundation Padel: UAE Teachers Raise Funds Al Noor"
 metaDescription: "UAE teachers raise funds for the TWEDEX Foundation! 🎾 Read the highlights and results from the Teachers Padel Competition at Emirates Golf Club."
+image: "/images/archive/2026/04/twedex-teachers-padel-fundraiser.webp"
+imageAlt: "Two teachers playing padel at the TWEDEX Foundation fundraiser"
 wpId: 7079
 ---
 

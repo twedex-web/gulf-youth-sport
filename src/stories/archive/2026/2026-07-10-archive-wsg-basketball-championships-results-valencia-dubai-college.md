@@ -6,6 +6,8 @@ kicker: "Basketball"
 categories: ["Basketball", "World School Games"]
 standfirst: "From the GYS Vault: A retrospective look at the World School Basketball Championships in Valencia, where Dubai College and ICS Amman claimed global podium spots."
 metaDescription: "From the GYS Vault: A retrospective look at the World School Basketball Championships in Valencia, where Dubai College and ICS Amman claimed global podium spots."
+image: "/images/archive/2026/07/wsg-basketball-2025-valencia-dubai-college.webp"
+imageAlt: "A player shooting over a defender at the 2025 World School Basketball Championships"
 wpId: 7258
 ---
 

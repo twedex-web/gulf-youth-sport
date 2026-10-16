@@ -46,7 +46,9 @@ async function findCut(file) {
     if (yellowShare(y) > 0.2) {
       let bar = 0;
       let solid = 0;
-      while (y + bar < H && yellowShare(y + bar) > 0.2) solid = Math.max(solid, rowStats(y + bar++).unbroken);
+      // Text inside a box knocks holes in the yellow, so the middle rows of a bar can be well under
+      // 20% yellow: keep counting the bar while rows are at least 10% yellow.
+      while (y + bar < H && yellowShare(y + bar) > 0.1) solid = Math.max(solid, rowStats(y + bar++).unbroken);
       // Every highlight box has solid top and bottom edges: one unbroken run of yellow. Yellow
       // patches in a photo (grass, kit) are broken up. Skip anything that isn't a real box.
       if (solid < 0.97) { y += bar; continue; }
@@ -63,7 +65,7 @@ async function findCut(file) {
       let textTop = y;
       for (let row = y - 1; row > H * 0.3 && y - row < bar * 5; row--) {
         if (whiteShare(row) > 0.03) textTop = row;
-        else if (textTop - row > bar * 1.2) break;
+        else if (textTop - row > Math.max(bar * 1.2, H * 0.04)) break;
       }
       return Math.max(0.3, Math.min(y - bar * 2.6, textTop - bar * 0.6) / H);
     }

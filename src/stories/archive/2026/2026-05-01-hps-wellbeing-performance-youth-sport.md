@@ -7,6 +7,8 @@ categories: ["In The Spotlight", "News & Features"]
 standfirst: "70% of children drop out of sport by age 13. Discover how High Performance Systems (HPS) is redefining youth performance in the Gulf through holistic mindset, nutrition, and athlete mentoring"
 seoTitle: "High Performance Systems"
 metaDescription: "70% of children drop out of sport by age 13. Discover how High Performance Systems (HPS) is redefining youth performance in the Gulf through holistic mindset, nutrition, and athlete mentoring"
+image: "/images/archive/2026/05/hps-wellbeing-young-athletes.webp"
+imageAlt: "A young basketball player in a Syria kit bringing the ball up court"
 wpId: 7126
 ---
 
