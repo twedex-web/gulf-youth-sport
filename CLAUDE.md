@@ -16,11 +16,11 @@ Gulf Youth Sport (GYS) covers school and youth sport across the Gulf. Instagram 
 
 ## Privacy and removal requests
 
--  () and  (, with a  section for correction and takedown requests) are linked from the footer; the Photos page links to removal requests too.
+- `/privacy/` (`src/privacy.njk`) and `/contact/` (`src/contact.njk`, with a `#removal` section for correction and takedown requests) are linked from the footer; the Photos page links to removal requests too.
 - The site is operated by GYS Travels LLC. Name it only in the privacy policy ("Who runs this site"), nowhere else: not in the header, footer, page titles or metadata.
 - Keep the privacy policy accurate if the site changes: it says the site has no forms, accounts, analytics or advertising and sets no cookies of its own; YouTube loads only on play; gallery covers load from Zenfolio. Adding analytics, forms or new embeds means updating it (and possibly a cookie banner).
-- Fonts are self-hosted in  (Barlow, SIL Open Font License) so visitors never contact Google Fonts. Don't add Google Fonts links back.
-- Safeguarding and removal-request rules for the team are in .
+- Fonts are self-hosted in `src/assets/fonts/` (Barlow, SIL Open Font License) so visitors never contact Google Fonts. Don't add Google Fonts links back.
+- Safeguarding and removal-request rules for the team are in `docs/publishing-guide.md`.
 
 ## Generator and build (Eleventy)
 
