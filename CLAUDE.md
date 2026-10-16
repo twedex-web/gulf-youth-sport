@@ -35,6 +35,8 @@ src/
   index.njk                Stories homepage (lead story, grid of six, Earlier list)
   archive.njk              /stories/ and /stories/page/N/ (24 per page)
   videos.njk, photos.njk   Videos and Photos tabs
+  partners.njk             Partners tab (data: _data/partners.json; see PARTNERS.md)
+  privacy.njk, contact.njk Privacy policy and contact / removal requests
   404.njk                  Custom "Out of bounds" 404 page
   redirects.njk            Builds Netlify's /_redirects file (see Redirects below)
   sitemap.njk, robots.njk  /sitemap.xml and /robots.txt
@@ -43,6 +45,7 @@ src/
     archive/YYYY/          The 977 imported WordPress posts (not shown in the CMS)
   images/uploads/          Images uploaded through the CMS
   images/archive/YYYY/MM/  Imported WordPress images as WebP (max 1600px wide)
+  images/partners/         Partner logos (and the optional partner pack)
   _data/                   Site settings, YouTube and Zenfolio feeds, legacy redirect lists
   _includes/               Layouts (base, article) and the story tile
   admin/                   Decap CMS (config.yml, preview styles)
@@ -70,11 +73,12 @@ docs/                      Admin setup and publishing guides
 
 ## Site structure (agreed)
 
-Three tabs in the main navigation:
+Four tabs in the main navigation:
 
 1. **Stories** (homepage): newest article first as a large lead story (image or colour tile, date, standfirst, "Read the full story" button), then a grid of the next six, then an "Earlier" list and a "Load older stories" link to the archive. Fully automatic: publishing an article puts it at the top.
 2. **Videos**: latest YouTube uploads, newest first, pulled automatically from the channel's public feed (https://www.youtube.com/c/GulfYouthSport). One large latest video, then a grid of six. "Subscribe on YouTube" button.
 3. **Photos**: links out to the Zenfolio gallery (https://gys001.zenfolio.com/). A large maroon panel with "Open the photo gallery" button, optionally a strip of recent gallery covers.
+4. **Partners** (`/partners/`): headline sponsor, official partners and "Supported by", plus a "Partner with Gulf Youth Sport" panel. A headline sponsor credit sits in the header and a three-tier partner strip sits above the footer on every page. All partner details live in `src/_data/partners.json` (editable in the CMS under Site settings → Partners). Full details, rules and the not-yet-built premium placements: `PARTNERS.md`.
 
 Each article also needs its own page template (headline, date, featured image, body, share links).
 
