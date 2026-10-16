@@ -2,6 +2,7 @@
 //
 //   node scripts/crop-featured-text.mjs preview [year]   → contact sheet in import-reports/, nothing changed
 //   node scripts/crop-featured-text.mjs apply   [year]   → overwrites the WebP files in src/images/archive/
+//   node scripts/crop-featured-text.mjs file <input> <output.webp>  → crop one graphic (e.g. a new upload)
 //
 // The old featured images are Instagram graphics: a photo on top, then a dark panel with the
 // headline (white line, then yellow highlighted lines), summary and "Read more". The crop line
@@ -71,6 +72,21 @@ async function findCut(file) {
 }
 
 async function main() {
+  if (mode === "file") {
+    const [input, output] = process.argv.slice(3);
+    const cut = await findCut(input);
+    if (cut === null) throw new Error("No headline panel found: is this a GYS Instagram graphic?");
+    const { data, info } = await sharp(input).rotate().toBuffer({ resolveWithObject: true });
+    fs.mkdirSync(path.dirname(output), { recursive: true });
+    await sharp(data)
+      .extract({ left: 0, top: 0, width: info.width, height: Math.round(cut * info.height) })
+      .resize({ width: MAX_WIDTH, withoutEnlargement: true })
+      .webp({ quality: 80, effort: 5 })
+      .toFile(output);
+    console.log(`Cropped at ${(cut * 100).toFixed(0)}% of the height → ${output}`);
+    return;
+  }
+
   const plan = fs.existsSync(PLAN) ? JSON.parse(fs.readFileSync(PLAN, "utf8")) : { featured: {} };
   const jobs = [];
   for (const f of fs.readdirSync(STORIES).filter((f) => f.endsWith(".md"))) {

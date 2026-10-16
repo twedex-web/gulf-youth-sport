@@ -6,6 +6,8 @@ kicker: "Football"
 categories: ["Football", "World School Games"]
 standfirst: "Dubai College, Dwight School Dubai, Sunmarke School, Lycée Français Qatar, and BIS Sulaymaniyah take on the World Schools Football Cup at Futbol Salou, Barcelona."
 metaDescription: "Dubai College, Dwight School Dubai, Sunmarke School, Lycée Français Qatar, and BIS Sulaymaniyah take on the World Schools Football Cup at Futbol Salou, Barcelona."
+image: "/images/archive/2026/10/barcelona-bound-world-schools-football-cup.webp"
+imageAlt: "A young footballer in a yellow kit chasing a high ball"
 wpId: 7378
 ---
 
