@@ -3,8 +3,8 @@ title: "FOOTBALL: E-Sports Goalkeeper Scores Against Atleti"
 date: 2017-04-09T00:00:00+04:00
 slug: "football-e-sports-goalkeeper-scores-against-atleti"
 excerpt: "It’s not every day you travel to Madrid for a football development tour, it’s not every day you face Atletico Madrid in a competitive match and it’s not every day a goalkeeper scores the opening goal – but that is…"
+image: "/images/archive/2019/09/main-img-942017125723.webp"
 wpId: 614
-wpFeaturedImage: "2019/09/Main-img-942017125723.jpg"
 ---
 
 **It’s not every day you travel to Madrid for a football development tour, it’s not every day you face Atletico Madrid in a competitive match and it’s not every day a goalkeeper scores the opening goal – but that is exactly what happened to E-Sports FC’s Omar Alashkar yesterday.**

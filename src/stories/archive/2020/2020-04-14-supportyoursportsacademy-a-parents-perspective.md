@@ -5,8 +5,8 @@ slug: "supportyoursportsacademy-a-parents-perspective"
 kicker: "Athletics"
 categories: ["Athletics", "News & Features"]
 excerpt: "Parents have the final say on the academy their child attends. They are the ones that pay the fees, wash uniforms and bring their kids to all the necessary trainings."
+image: "/images/archive/2020/04/92924298-2539982792908885-8576033874511921152-n.webp"
 wpId: 2965
-wpFeaturedImage: "2020/04/92924298_2539982792908885_8576033874511921152_n.jpg"
 ---
 
 Parents have the final say on the academy their child attends. They are the ones that pay the fees, wash uniforms and bring their kids to all the necessary trainings.
@@ -18,8 +18,6 @@ The family has spent three years involved at the club where Harriet competes and
 Today Harriet will take part in her first Ultimate Athletics' online training, which is free for April as founder and head coach Lisa Campbell tries to keep the academy running during the COVID-19 shutdown.
 
 Joanne has the highest praise for the benefits Ultimate Athletics has provided for her family and said it would be a sombre time if some sporting academies could not financially make it through this tough period of severely reduced income.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/04/92720195_270809247266276_1306887749931892736_n-e1586863668678.jpg" alt=""><figcaption>Harriet helping out at the long jump on one of Ultimate's Race Nights.</figcaption></figure>
 
 "Harriet going to Ultimate has been a constant for my family and I could not imagine it disappearing. Lisa's fees have always been fair and they work hard at providing an awesome academy," she said.
 

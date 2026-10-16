@@ -5,10 +5,10 @@ slug: "bsme-u19-games-2025-results-jebel-ali-school"
 kicker: "BSME Games"
 categories: ["BSME Games"]
 standfirst: "Cranleigh Abu Dhabi takes the crown at the BSME U19 Games 2025! Read the full results for Football, Netball, and Volleyball, plus MVP highlights for Sophie, Kristof, Sienna, and Robert."
+image: "/images/archive/2026/04/cranleigh-ad-bsme-u19-games-post.webp"
 seoTitle: "BSME U19 Games 2025 Results"
 metaDescription: "Cranleigh Abu Dhabi takes the crown at the BSME U19 Games 2025! Read the full results for Football, Netball, and Volleyball, plus MVP highlights for Sophie, Kristof, Sienna, and Robert."
 wpId: 7124
-wpFeaturedImage: "2026/04/Cranleigh-AD-BSME-U19-games-post.png"
 ---
 
 The pinnacle of the British Schools in the Middle East (BSME) sporting calendar took center stage in November 2025, as 20 premier institutions descended upon Dubai for the BSME U19 Games. Hosted at the world-class facilities of **Jebel Ali School (JAS)** and meticulously organized by **TWEDEX**, the weekend was a showcase of the highest level of youth athletics in the region.

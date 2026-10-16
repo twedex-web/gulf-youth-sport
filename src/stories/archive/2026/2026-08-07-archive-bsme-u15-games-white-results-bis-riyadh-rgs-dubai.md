@@ -5,9 +5,9 @@ slug: "archive-bsme-u15-games-white-results-bis-riyadh-rgs-dubai"
 kicker: "BSME Games"
 categories: ["BSME Games"]
 standfirst: "From the GYS Vault: Full official results from the BSME U15 Games White, where BIS Riyadh Al Waha took overall gold and RGS Guildford Dubai claimed silver."
+image: "/images/archive/2026/07/9d47079b-949a-4ae3-be15-319a4fcb3bcf.webp"
 metaDescription: "From the GYS Vault: Full official results from the BSME U15 Games White, where BIS Riyadh Al Waha took overall gold and RGS Guildford Dubai claimed silver."
 wpId: 7280
-wpFeaturedImage: "2026/07/9d47079b-949a-4ae3-be15-319a4fcb3bcf.jpeg"
 ---
 
 ## **GYS Flashback: BIS Riyadh AW Crowned Overall Champions in Thrilling BSME U15 Games White**

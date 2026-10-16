@@ -3,8 +3,8 @@ title: "Real Madrid Legend, Morientes, visits LaLiga Academy"
 date: 2017-09-19T00:00:00+04:00
 slug: "real-madrid-legend-morientes-visits-laliga-academy"
 excerpt: "Real Madrid legend and LaLiga Global Ambassador Fernando Morientes, winner of three Champion League titles, paid a surprise visit yesterday to LaLiga Academy UAE’s training grounds in Abu Dhabi."
+image: "/images/archive/2019/09/main-img-199201710833.webp"
 wpId: 743
-wpFeaturedImage: "2019/09/Main-img-199201710833.jpg"
 ---
 
 **Real Madrid legend and LaLiga Global Ambassador Fernando Morientes, winner of three Champion League titles, paid a surprise visit yesterday to LaLiga Academy UAE’s training grounds in Abu Dhabi.**

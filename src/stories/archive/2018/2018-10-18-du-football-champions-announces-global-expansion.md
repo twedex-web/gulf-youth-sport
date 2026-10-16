@@ -3,8 +3,8 @@ title: "du Football Champions Announces Global Expansion"
 date: 2018-10-18T00:00:00+04:00
 slug: "du-football-champions-announces-global-expansion"
 excerpt: "Season 4 of du Football Champions, the international scouting platform in partnership with LaLiga, officially launched today with the unveiling of du Talents, the Middle East’s first sports tech scouting platform."
+image: "/images/archive/2019/09/main-img-1810201810333.webp"
 wpId: 1127
-wpFeaturedImage: "2019/09/Main-img-1810201810333.jpg"
 ---
 
 **Season 4 of du Football Champions, the international scouting platform in partnership with LaLiga, officially launched today with the unveiling of du Talents, the Middle East’s first sports tech scouting platform.**

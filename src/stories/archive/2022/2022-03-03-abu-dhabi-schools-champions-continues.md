@@ -5,9 +5,9 @@ slug: "abu-dhabi-schools-champions-continues"
 kicker: "Abu Dhabi Schools Champions"
 categories: ["Abu Dhabi Schools Champions"]
 standfirst: "Abu Dhabi Sports Champions continued this week with handball, athletics and volleyball competitions taking place in Abu Dhabi and Al Ain."
+image: "/images/archive/2022/03/week-3-handball.webp"
 metaDescription: "Abu Dhabi Sports Champions continued this week with handball, athletics and volleyball competitions taking place in Abu Dhabi and Al Ain."
 wpId: 5591
-wpFeaturedImage: "2022/03/Week-3-Handball-scaled.jpg"
 ---
 
 **Abu Dhabi Schools Champions, the official inter-school multi-sports competition organized by Abu Dhabi Sports Council, got off to a strong start in the handball, volleyball and athletics competitions last weekend in Abu Dhabi and Al Ain.**
@@ -16,11 +16,11 @@ This week, the championship saw lots of great play from students across various 
 
 In the competition held at Al Ain Club for People of Determination, Mohammed Ayub from Al Ain Juniors School and Risaal Riyas from Darul Huda Islamic School recorded the fastest 100m times of 11.77 seconds and 12.16 seconds respectively, while over at Baynounah Educational Complex in Al Dhafra, Abubaker Marghani from Al Shabhana School achieved the fastest time of 11.96 seconds.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/03/Week-3-Volleyball--scaled.jpg)
+![](/images/archive/2022/03/week-3-volleyball.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/03/Week-3-basketball-scaled.jpg)
+![](/images/archive/2022/03/week-3-basketball.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/03/week-3-Athletics-scaled.jpg)
+![](/images/archive/2022/03/week-3-athletics.webp)
 
 In the volleyball Cycle 3 boys’ competitions held in Abu Dhabi, The Model School beat the Baniyas IAT 2-0, while in the Al-Ain competitions, Al-Andalus team won its two matches against Our Own English High School and Al Ain Juniors School with two 2-1 wins. Also in Al Ain, Our Own English High School won 2-1 against Al Ain Juniors School.
 

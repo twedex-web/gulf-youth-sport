@@ -5,8 +5,8 @@ slug: "start-spreading-the-news-krogs-going-to-new-york"
 kicker: "Swimming"
 categories: ["News & Features", "Swimming"]
 excerpt: "Emilie Krog will begin the next chapter of her sporting life in autumn next year, swimming for Fordham University in New York."
+image: "/images/archive/2020/08/dm-kortbane-2019-billeder.webp"
 wpId: 3684
-wpFeaturedImage: "2020/08/DM-kortbane-2019-billeder.jpg"
 ---
 
 Emilie Krog will begin the next chapter of her sporting life in autumn next year, swimming for Fordham University in New York.
@@ -17,15 +17,11 @@ Krog said in October last year a want to secure a swimming scholarship path to u
 
 "I was looking for a company that could help me get a swimming scholarship to attend university in the US and I came across Valerie at UniAthletes. She took me through the process, and I arranged a lot of Skype calls and emails with various coaches across the US. In June, I made a verbal commitment to swim and study at Fordham University in The Bronx, New York for the class of 2021," Krog said.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/08/DANISH_OPEN_DANISH_JUNIOR_09042019_P4_0123-640x427.jpg)
-
 A core support network has helped her be in a position where the opportunity to study in the United States could become a reality.
 
 "My parents, teammates, friends, and my coaches have made a huge impact on my sporting career thus far. My parents take me to training, competitions, send me away on training camps so I would not be the swimmer I am today without them," she said.
 
 "My teammates are also with me all the time! We train alongside each other each at  and we have seen each other at our best and worse – they are like a family and they really have made me the person I am today, even though I have only lived in Denmark for two years now.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/08/IMG_8382-2-230x300.jpg" alt=""><figcaption>Emilie in Fordham University colours.</figcaption></figure>
 
 "I definitely wouldn’t be the swimmer I am today without the coaches I have had throughout my life; the coaches in Dubai, South Africa and Denmark have all impacted me in some way and made me the best version of myself and the swimmer that I am today. And I have no doubt that this trend will continue at Fordham University."
 

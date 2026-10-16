@@ -3,15 +3,15 @@ title: "ICC Academy Announces Scholarship Trials"
 date: 2018-07-31T00:00:00+04:00
 slug: "icc-academy-announces-scholarship-trials-2"
 excerpt: "The International Cricket Council has announced the next round of open trials for its Academy Scholarship Programme which gives young athletes the opportunity to develop their game in a high-performance environment."
+image: "/images/archive/2019/09/news-307201871012.webp"
 wpId: 1079
-wpFeaturedImage: "2019/09/News-307201871012.jpg"
 ---
 
 **The International Cricket Council has announced the next round of open trials for its Academy Scholarship Programme which gives young athletes the opportunity to develop their game in a high-performance environment.**
 
 The trials, part of the ICC’s ongoing mission to unearth the next generation of cricketing talent in the UAE, are set to take place at the ICC Academy in Dubai Sports City on **Friday 31st August 2018**.
 
-During a day of sessions, ICCA coaching staff will look for players who can perform under pressure, demonstrate a good level of fitness and athleticism and are consistent in their performance and understanding of the game.![](http://www.gulfyouthsport.com/Admin/Content/UserFiles/image001.png)
+During a day of sessions, ICCA coaching staff will look for players who can perform under pressure, demonstrate a good level of fitness and athleticism and are consistent in their performance and understanding of the game.
 
 The trials are open to both male and female players, with the 13 – 15 year olds session held from 3pm until 5pm with the 15 – 18 year olds in action between 5pm and 7pm. Registration for the trials will be open an hour before each age group session starts.
 

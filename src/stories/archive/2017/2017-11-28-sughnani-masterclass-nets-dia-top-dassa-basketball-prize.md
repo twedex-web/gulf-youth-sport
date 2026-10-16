@@ -3,8 +3,8 @@ title: "Sughnani Masterclass Nets DIA Top DASSA Basketball Prize"
 date: 2017-11-28T00:00:00+04:00
 slug: "sughnani-masterclass-nets-dia-top-dassa-basketball-prize"
 excerpt: "An emotional Mihail Kouzev praised his player’s focus and professionalism as Dubai International Academy (DIA) came from behind to snatch the U18 DASSA Cup from Dubai College (DC), GYS reports."
+image: "/images/archive/2019/09/main-img-28112017112331.webp"
 wpId: 851
-wpFeaturedImage: "2019/09/Main-img-28112017112331.jpg"
 ---
 
 An emotional Mihail Kouzev praised his player’s focus and professionalism as [Dubai International Academy (DIA)](http://www.diadubai.com/) came from behind to snatch the U18 [DASSA](http://www.dassasport.org/) Cup from [Dubai College (DC)](http://www.dubaicollege.org/), GYS reports.

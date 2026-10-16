@@ -5,9 +5,9 @@ slug: "bsak-takes-gold-at-under-19-bsme-games"
 kicker: "Match Zone"
 categories: ["Match Zone", "Multi-Sports"]
 standfirst: "The British School Al Khubairat was crowned champions at the first ever U-19 BSME Games held in Oman at the weekend."
+image: "/images/archive/2020/02/bsak-u19-bsme.webp"
 metaDescription: "The British School Al Khubairat was crowned champions at the first ever U-19 BSME Games held in Oman at the weekend."
 wpId: 1993
-wpFeaturedImage: "2020/02/BSAK-U19-BSME.jpg"
 ---
 
 The British School Al Khubairat was crowned champions at the first ever U-19 BSME Games held in Oman at the weekend.
@@ -19,13 +19,3 @@ The school also faired well in boys' football adding more valuable points, while
 BSM finished in overall second place having progressed deep into the volleyball and girls' football stages.
 
 British International School of Jeddah reigned supreme in the volleyball while Brighton College Abu Dhabi also produced some sterling efforts across the tournament.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/BSAK-U19-BSMEb.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/BSAK-U19-BSMEc.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/BSAK-U19-BSMEe.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/BSM-second.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/BSME-19-GAMES.jpg)

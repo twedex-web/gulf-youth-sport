@@ -3,8 +3,8 @@ title: "Elite Football Academy OPEN DAY"
 date: 2017-09-04T00:00:00+04:00
 slug: "elite-football-academy-open-day"
 excerpt: "ELITE SPORTS ACADEMY OPEN DAY"
+image: "/images/archive/2019/09/main-img-49201782912.webp"
 wpId: 711
-wpFeaturedImage: "2019/09/Main-img-49201782912.jpg"
 ---
 
 **ELITE SPORTS ACADEMY OPEN DAY**

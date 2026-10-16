@@ -4,8 +4,8 @@ date: 2020-04-05T11:34:03+04:00
 slug: "stayathome-and-run-a-marathon"
 categories: ["GYS", "News & Features"]
 excerpt: "Being confined to a house is no barrier to running a marathon according to Dubai Sports Council."
+image: "/images/archive/2020/04/screen-shot-2020-04-05-at-11-29-17.webp"
 wpId: 2743
-wpFeaturedImage: "2020/04/Screen-Shot-2020-04-05-at-11.29.17.png"
 ---
 
 Being confined to a house is no barrier to running a marathon according to Dubai Sports Council.

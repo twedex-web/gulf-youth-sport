@@ -3,8 +3,8 @@ title: "Wonder Kid Wednesday: Rio Watson"
 date: 2017-04-05T00:00:00+04:00
 slug: "wonder-kid-wednesday-rio-watson"
 excerpt: "This week’s Wonder kid is 14-year-old Dubai-based Rio Watson, who last weekend defied the odds to complete the Ashurst Triathlon (solo)."
+image: "/images/archive/2019/09/main-img-542017142059.webp"
 wpId: 612
-wpFeaturedImage: "2019/09/Main-img-542017142059.jpg"
 ---
 
 **This week’s Wonder kid is 14-year-old Dubai-based Rio Watson, who last weekend defied the odds to complete the [Ashurst Triathlon](http://race-me-events.com/races/end-of-season-tri-fest/) (solo).**

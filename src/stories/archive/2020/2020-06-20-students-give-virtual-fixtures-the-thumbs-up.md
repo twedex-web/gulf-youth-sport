@@ -5,8 +5,8 @@ slug: "students-give-virtual-fixtures-the-thumbs-up"
 kicker: "Match Zone"
 categories: ["GYS", "Match Zone"]
 excerpt: "When you can't get enough of sport and you're in lockdown, virtual games will just have to do."
+image: "/images/archive/2020/06/b2a6e76e-101e-45ea-bec1-d6a2232aa8a9.webp"
 wpId: 3374
-wpFeaturedImage: "2020/06/B2A6E76E-101E-45EA-BEC1-D6A2232AA8A9.jpg"
 ---
 
 When you can't get enough of sport and you're in lockdown, virtual games will just have to do.

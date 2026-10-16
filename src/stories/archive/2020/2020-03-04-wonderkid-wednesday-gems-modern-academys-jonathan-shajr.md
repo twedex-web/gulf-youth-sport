@@ -5,9 +5,9 @@ slug: "wonderkid-wednesday-gems-modern-academys-jonathan-shajr"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 standfirst: "Middle-distance runner Jonathan Shajr won two gold medals, and broke two U13 World School Games records at the international event in Dubai on Saturday."
+image: "/images/archive/2020/03/jonathan-gems-modern-pic-e1583134402435.webp"
 metaDescription: "Middle-distance runner Jonathan Shajr won two gold medals, and broke two U13 World School Games records at the international event in Dubai on Saturday."
 wpId: 2309
-wpFeaturedImage: "2020/03/Jonathan-GEMS-Modern-pic-e1583134402435.jpg"
 ---
 
 GEMS Modern Academy boasts an athlete that knows no boundaries.

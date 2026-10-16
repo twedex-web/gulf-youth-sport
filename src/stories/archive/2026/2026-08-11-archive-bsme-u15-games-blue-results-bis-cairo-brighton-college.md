@@ -5,9 +5,9 @@ slug: "archive-bsme-u15-games-blue-results-bis-cairo-brighton-college"
 kicker: "BSME Games"
 categories: ["BSME Games"]
 standfirst: "From the GYS Vault: Full official results from the BSME U15 Games Blue, where British International School Cairo took overall gold."
+image: "/images/archive/2026/07/d52b3c66-60c7-42ee-8a85-cdfc218a9cca.webp"
 metaDescription: "From the GYS Vault: Full official results from the BSME U15 Games Blue, where British International School Cairo took overall gold."
 wpId: 7282
-wpFeaturedImage: "2026/07/d52b3c66-60c7-42ee-8a85-cdfc218a9cca.jpeg"
 ---
 
 ## **GYS Flashback: British International School Cairo Crowned Champions in Epic BSME U15 Games Blue**

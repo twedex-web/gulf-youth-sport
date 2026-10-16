@@ -5,9 +5,9 @@ slug: "amelie-davies-200km-run-sparkle-foundation-dubai"
 kicker: "In The Spotlight"
 categories: ["In The Spotlight", "News & Features"]
 standfirst: "Dubai youth athlete Amelie Davies tackles a massive 200+ km running challenge this September to raise funds for The Sparkle Foundation in Malawi."
+image: "/images/archive/2026/08/9177a71c-89dd-4cf9-8044-81d007880e1e.webp"
 metaDescription: "Dubai youth athlete Amelie Davies tackles a massive 200+ km running challenge this September to raise funds for The Sparkle Foundation in Malawi."
 wpId: 7293
-wpFeaturedImage: "2026/08/9177a71c-89dd-4cf9-8044-81d007880e1e.jpeg"
 ---
 
 ## **Running for Hope: Youth Athlete Amelie Davies Tackles 200+ km September Challenge for The Sparkle Foundation**

@@ -3,8 +3,8 @@ title: "WSO Wonderkid Omer Wows Crowd at Football Finals"
 date: 2017-01-01T00:00:00+04:00
 slug: "wso-wonderkid-omer-wows-crowd-at-football-finals"
 excerpt: "Omer Farooq may not be a household name yet, but if the 10-year old's display at the Trans World Soccer Dubai School Football Finals is anything to go by, he won't be unknown for long."
+image: "/images/archive/2019/09/main-img-112017143746.webp"
 wpId: 497
-wpFeaturedImage: "2019/09/Main-img-112017143746.jpg"
 ---
 
 **Omer Farooq may not be a household name yet, but if the 10-year old's display at the Trans World Soccer Dubai School Football Finals is anything to go by, he won't be unknown for long.**

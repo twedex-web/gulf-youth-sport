@@ -4,10 +4,10 @@ date: 2019-11-11T13:03:57+04:00
 slug: "al-khail-mile"
 categories: ["GYS", "News & Features"]
 standfirst: "More than 1,000 students and staff promoted staying active by running the annual Al Khail Mile, joined by UAE national representative Talal Al Alami."
+image: "/images/archive/2019/11/screen-shot-2019-11-11-at-12-13-03-pm.webp"
 imageAlt: "Students collect their medals on the dais."
 metaDescription: "More than 1,000 students and staff promoted staying active by running the annual Al Khail Mile, joined by UAE national representative Talal Al Alami."
 wpId: 1366
-wpFeaturedImage: "2019/11/Screen-Shot-2019-11-11-at-12.13.03-pm.png"
 ---
 
 More than 1,000 students and teachers joined a UAE national representative and participat­ed in the Al Khail Mile on Thursday 7th November.

@@ -3,8 +3,8 @@ title: "COMPETITION: Win a Place at the Abu Dhabi Cup for Your Team!"
 date: 2018-02-12T00:00:00+04:00
 slug: "competition-win-a-place-at-the-abu-dhabi-cup-for-your-team"
 excerpt: "In partnership with City Football Schools, we are giving you the chance to win a space for your team at the Manchester City Abu Dhabi Cup, 23rd - 24th March 2018."
+image: "/images/archive/2019/09/main-img-1222018144531.webp"
 wpId: 905
-wpFeaturedImage: "2019/09/Main-img-1222018144531.jpg"
 ---
 
 **In partnership with City Football Schools, we are giving you the chance to win a space for your team at the [Manchester City Abu Dhabi Cup](https://www.citycupabudhabi.com/en/), 23rd - 24th March 2018.**

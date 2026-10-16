@@ -5,10 +5,10 @@ slug: "slk-football-dubai-road-to-pro"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 standfirst: "Schools are online, but the training continues. See how DESC and Jebel Ali students Sami, Leo, and Kai of SLK Football turned home training into 250 million views."
+image: "/images/archive/2026/04/slk-family-post-gys.webp"
 imageAlt: "SLK Football brothers Sami Leo and Kai training in Dubai for Road to Pro journey"
 metaDescription: "Schools are online, but the training continues. See how DESC and Jebel Ali students Sami, Leo, and Kai of SLK Football turned home training into 250 million views."
 wpId: 7029
-wpFeaturedImage: "2026/04/SLK-family-post-gys.png"
 ---
 
 ## **FROM THE GARDEN TO A QUARTER-BILLION VIEWS: THE RISE OF SLK FOOTBALL**

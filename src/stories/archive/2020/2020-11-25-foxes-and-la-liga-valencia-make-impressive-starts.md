@@ -5,13 +5,13 @@ slug: "foxes-and-la-liga-valencia-make-impressive-starts"
 kicker: "Football"
 categories: ["Football", "Match Zone"]
 excerpt: "The Foxes Sport Academy’s U14 team and La Liga Valencia’s U10 squads made impressive starts as the fifth season of Dubai Sports Council Football Academies Championship kicked off at the weekend at the new Football…"
+image: "/images/archive/2020/11/u16-laligahpc-valencia.webp"
 wpId: 4437
-wpFeaturedImage: "2020/11/U16-LaLigaHPC-Valencia-scaled-e1606277861110.jpg"
 ---
 
 The Foxes Sport Academy’s U14 team and La Liga Valencia’s U10 squads made impressive starts as the fifth season of Dubai Sports Council Football Academies Championship kicked off at the weekend at the new Football Centre in Dubai Sports City.
 
-The Foxes, who are based at Amity School in Al Qusais, came bolting out of the blocks to drub La Liga Sevilla 14-0. La Liga Sevilla were at the receiving end in their U10 match as well, losing to La Liga Valencia 3-13. ![](https://gulfyouthsport.com/wp-content/uploads/2020/11/U16-FoxesBlue-ItalianStyle-300x200.jpg)
+The Foxes, who are based at Amity School in Al Qusais, came bolting out of the blocks to drub La Liga Sevilla 14-0. La Liga Sevilla were at the receiving end in their U10 match as well, losing to La Liga Valencia 3-13.
 
 The It’s Just Football (IJF) Academy U10team also started their campaign with a big win, blanking Al Najma Al Zarqaa 12-0. Established by former Masafi Club foreign pro Navid Faridi, Al Najma Al Zarqaa suffered a heavy defeat in their U16 opener as well, losing 12-1 against Alliance Football Club.
 

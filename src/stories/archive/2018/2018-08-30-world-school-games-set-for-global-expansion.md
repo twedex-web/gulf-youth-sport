@@ -3,8 +3,8 @@ title: "World School Games Set for Global Expansion"
 date: 2018-08-30T00:00:00+04:00
 slug: "world-school-games-set-for-global-expansion"
 excerpt: "Exciting times lie ahead for the Gulf region's rising sports stars, as ‘The World School Games’ looks set for a major expansion in 2019."
+image: "/images/archive/2019/09/main-img-3082018125045.webp"
 wpId: 1097
-wpFeaturedImage: "2019/09/Main-img-3082018125045.jpg"
 ---
 
 **Exciting times lie ahead for the Gulf region's rising sports stars, as ‘[The World School Games](https://www.theworldschoolgames.com/)’ looks set for a major expansion in 2019.**

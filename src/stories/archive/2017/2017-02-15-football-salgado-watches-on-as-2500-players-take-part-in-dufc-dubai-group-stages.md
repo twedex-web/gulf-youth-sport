@@ -3,8 +3,8 @@ title: "FOOTBALL: Salgado watches on as 2,500 players take part in duFC Dubai gr
 date: 2017-02-15T00:00:00+04:00
 slug: "football-salgado-watches-on-as-2500-players-take-part-in-dufc-dubai-group-stages"
 excerpt: "Over 2,500 players take part in duFC Dubai group stages"
+image: "/images/archive/2019/09/main-img-15220171467.webp"
 wpId: 545
-wpFeaturedImage: "2019/09/Main-img-15220171467.jpg"
 ---
 
 **Over 2,500 players take part in** **duFC Dubai group stages**

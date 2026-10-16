@@ -3,8 +3,8 @@ title: "DESC U16's Seal DASSA Title"
 date: 2017-11-21T00:00:00+04:00
 slug: "desc-u16s-seal-dassa-title"
 excerpt: "The DESC U16A football team secured the DASSA Division 1 League title this week with a classy performance against JC, earning the 3 points they needed to defend the championship."
+image: "/images/archive/2019/09/main-img-211120179128.webp"
 wpId: 835
-wpFeaturedImage: "2019/09/Main-img-211120179128.jpg"
 ---
 
 **The DESC U16A football team secured the DASSA Division 1 League title this week with a classy performance against JC, earning the 3 points they needed to defend the championship**. A superb achievement from a talented squad, who have shown a desire to work hard for one another, while playing exciting attractive football throughout the season. 

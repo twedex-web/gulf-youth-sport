@@ -5,9 +5,9 @@ slug: "repton-school-dubai-get-ready-to-visit-scotland"
 kicker: "Sports Travel"
 categories: ["News & Features", "Sports Travel"]
 standfirst: "Repton School Dubai are getting set to travel to Scotland on their visit school sports tour since the pandemic."
+image: "/images/archive/2022/09/repton-rugby-2019-8.webp"
 metaDescription: "Repton School Dubai are getting set to travel to Scotland on their visit school sports tour since the pandemic."
 wpId: 5683
-wpFeaturedImage: "2022/09/Repton-Rugby-2019-8.jpeg"
 ---
 
 **Repton School Dubai are gearing up for a return to international sports travel as their rugby and netball squads get set to visit Scotland’s capital city of Edinburgh later this month.**
@@ -48,8 +48,8 @@ Head of Netball, Miss Foulds, is looking forward to visiting the Scottish capita
 
 Repton Dubai are travelling with [Twedex](http://twedex.com/), who are specialists in school sports travel with over 10 years’ experience in the industry. You can stay up to date with the rugby and netball tour on the Twedex and Gulf Youth Sport social media channels when they embark on their tour at the end of the month.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/09/Repton-Rugby-2019-1.jpeg)
+![](/images/archive/2022/09/repton-rugby-2019-1.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/09/Repton-Rugby-2019-2.jpeg)
+![](/images/archive/2022/09/repton-rugby-2019-2.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/09/Repton-Rugby-2019-12.jpeg)
+![](/images/archive/2022/09/repton-rugby-2019-12.webp)

@@ -4,8 +4,8 @@ date: 2021-03-01T08:44:25+04:00
 slug: "alliance-fc-bringing-football-to-the-world"
 categories: ["News & Features"]
 excerpt: "In the Middle East many footballers are fortunate enough to play on pristine facilities with quality equipment and matching kits that brings a club together."
+image: "/images/archive/2021/03/alliance-gives-ethiopia-1-scaled-1-e1614588121273.webp"
 wpId: 4986
-wpFeaturedImage: "2021/03/Alliance-Gives-Ethiopia-1-scaled-1-e1614588121273.jpg"
 ---
 
 **In the Middle East many footballers are fortunate enough to play on pristine facilities with quality equipment and matching kits that brings a club together.**
@@ -13,8 +13,6 @@ wpFeaturedImage: "2021/03/Alliance-Gives-Ethiopia-1-scaled-1-e1614588121273.jpg"
 However that isn't the case worldwide and one Dubai football club is making a difference to some young footballers' lives on the other side of the world.
 
 Through the _Alliance Gives_ program Alliance Football Club donates boots and kit to boys and girls across Africa.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/03/IMG_1648-min-scaled-1-225x300.jpg" alt=""><figcaption>Kits are packed up in Dubai and shipped to underprivledged children in Africa.</figcaption></figure>
 
 The program began in 2015 with the first shipment of football uniforms to Ethiopia, delivered by Coach Yenny. **Alliance Football Club director Mehran Rowshan** said donations from his academy's parents and players go a long way.
 

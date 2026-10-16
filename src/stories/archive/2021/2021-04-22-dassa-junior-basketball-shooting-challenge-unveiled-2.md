@@ -4,9 +4,9 @@ date: 2021-04-22T08:03:05+04:00
 slug: "dassa-junior-basketball-shooting-challenge-unveiled-2"
 categories: ["News & Features"]
 excerpt: "Following on from the immense success of DASSA's Senior Basketball Challenge, DASSA's Junior Basketball Shooting Challenge has arrived!"
+image: "/images/archive/2021/03/dassa.webp"
 imageAlt: "DASSA Basketball Challenge"
 wpId: 5122
-wpFeaturedImage: "2021/03/DASSA.png"
 ---
 
 **Following on from the immense success of [DASSA's Senior Basketball Challenge](https://www.instagram.com/p/CNCdmTaIgGU/), DASSA's Junior Basketball Shooting Challenge has arrived!**

@@ -5,13 +5,13 @@ slug: "ultimate-racenights-back-on-the-schedule"
 kicker: "Athletics"
 categories: ["Athletics", "News & Features"]
 excerpt: "If there's something that screams normality, it's Ultimate Athletics Racenights held on a warm evening at Dubai Sports City."
+image: "/images/archive/2020/10/ua-rn2-racing-action-300m-full-2.webp"
 wpId: 4081
-wpFeaturedImage: "2020/10/UA_RN2-racing-action-300m-FULL-2.jpg"
 ---
 
 If there's something that screams normality, it's Ultimate Athletics Racenights held on a warm evening at Dubai Sports City. For the first time since February the event is back on October 29th, with modifications of course.
 
-Head coach Lisa Campbell explained what's new for the first Racenight in eight months.![](https://gulfyouthsport.com/wp-content/uploads/2020/10/UA_RN2-racing-action-300m-FULL-4-300x214.jpg)
+Head coach Lisa Campbell explained what's new for the first Racenight in eight months.
 
 "We are beyond excited to be back hosting on October 29th. I'm super excited to see the athletes in action as they have been training hard and deserve their moment to shine!" she said.
 

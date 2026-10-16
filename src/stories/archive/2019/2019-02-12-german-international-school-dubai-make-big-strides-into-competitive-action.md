@@ -4,8 +4,8 @@ date: 2019-02-12T00:00:00+04:00
 slug: "german-international-school-dubai-make-big-strides-into-competitive-action"
 categories: ["News & Features"]
 excerpt: "The German International School Dubai are “highly motivated” and have “big ambitions” now that they’re increasing their commitment to sport says coordinator James Dodd."
+image: "/images/archive/2019/09/img-1222019155811-b504ce0532cf4060b44ae876b2c7d813.webp"
 wpId: 1178
-wpFeaturedImage: "2019/09/img-1222019155811-b504ce0532cf4060b44ae876b2c7d813.jpg"
 ---
 
 The German International School Dubai are “highly motivated” and have “big ambitions” now that they’re increasing their commitment to sport says coordinator James Dodd.

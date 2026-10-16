@@ -5,9 +5,9 @@ slug: "wonderkid-wednesday-british-school-of-kuwaits-jude"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 standfirst: "At only 12 years old, Jude from The British School of Kuwait has already become a pivotal member of her school's successful U-19 netball side."
+image: "/images/archive/2020/02/screen-shot-2020-02-12-at-2-34-56-pm.webp"
 metaDescription: "At only 12 years old, Jude from The British School of Kuwait has already become a pivotal member of her school's successful U-19 netball side."
 wpId: 2060
-wpFeaturedImage: "2020/02/Screen-Shot-2020-02-12-at-2.34.56-pm.png"
 ---
 
 At only 12 years old, Jude from The British School of Kuwait has already become a pivotal member of her school's successful U-19 netball side.

@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-fleet-footed-ingrid-feliza-fuglesad"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 excerpt: "Ingrid Feliza Fuglestad stood on top of the podium at Ultimate Athletics International Women's Day 5km run last week."
+image: "/images/archive/2020/03/screen-shot-2020-03-11-at-15-38-39-e1584454769977.webp"
 wpId: 2465
-wpFeaturedImage: "2020/03/Screen-Shot-2020-03-11-at-15.38.39-e1584454769977.png"
 ---
 
 Ingrid Feliza Fuglestad stood on top of the podium at Ultimate Athletics International Women's Day 5km run last week.
@@ -24,8 +24,6 @@ Fuglestad's passion for running is glaringly evident and she oozes a love for sp
 The Norwegian has some countrymen to look up to in the Ingebrigtsens, a supreme athletic family from her home town of Sandnes.
 
 "If I had not moved to Dubai, I would have gone to the same school as Jakob Ingebrigtsen. I’m astonished by their great achievements and it proves that pure dedication will show results," Fuglestad said.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/03/Ingrid-WKWb.jpg" alt=""><figcaption>Fuglestad starts her winning effort at Ultimate Athletics' International Women's Day 5km run.</figcaption></figure>
 
 Jakob Ingebrigtsen has collected an astounding amount of medals including recent gold in the 3000m at last year's European Indoor Championships in Glasgow. It's no surprise then that Ingebrigtsen is an idol given he competes in long distance events, but closer to home in Dubai Fuglestad credits coach Khalid Al-Abaidy as being key in driving her to improve.
 

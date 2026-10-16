@@ -3,8 +3,8 @@ title: "DSCAC Football: The Standings So Far"
 date: 2018-11-14T00:00:00+04:00
 slug: "dscac-football-the-standings-so-far"
 excerpt: "With week five of an 18-week season fast approaching, it’s safe to say the Dubai Sports Council Academies Championship (DSCAC) is in full swing."
+image: "/images/archive/2019/09/img-14112018174911-e35210d91a79406f925a9a2de526e6c0.webp"
 wpId: 1138
-wpFeaturedImage: "2019/09/img-14112018174911-e35210d91a79406f925a9a2de526e6c0.jpg"
 ---
 
 With week five of an 18-week season fast approaching, it’s safe to say the Dubai Sports Council Academies Championship (DSCAC) is in full swing.

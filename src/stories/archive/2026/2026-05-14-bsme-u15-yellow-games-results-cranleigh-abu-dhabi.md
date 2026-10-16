@@ -5,10 +5,10 @@ slug: "bsme-u15-yellow-games-results-cranleigh-abu-dhabi"
 kicker: "BSME Games"
 categories: ["BSME Games", "News & Features"]
 standfirst: "Cranleigh Abu Dhabi takes the overall title at the BSME U15 Yellow Games 2025. See the full results for Arcadia, St. Christopher's, and more."
+image: "/images/archive/2026/05/whatsapp-image-2026-05-14-at-18-20-00.webp"
 seoTitle: "Cranleigh Abu Dhabi Crowned BSME U15 Yellow Games Champions"
 metaDescription: "Cranleigh Abu Dhabi takes the overall title at the BSME U15 Yellow Games 2025. See the full results for Arcadia, St. Christopher's, and more."
 wpId: 7159
-wpFeaturedImage: "2026/05/WhatsApp-Image-2026-05-14-at-18.20.00.jpeg"
 ---
 
 ## **The Capital’s Finest: Cranleigh Abu Dhabi Clinches Overall Victory at the BSME U15 Yellow Games**

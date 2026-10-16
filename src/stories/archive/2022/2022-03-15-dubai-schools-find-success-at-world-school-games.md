@@ -5,9 +5,9 @@ slug: "dubai-schools-find-success-at-world-school-games"
 kicker: "World School Games"
 categories: ["World School Games"]
 standfirst: "The World School Games returned to Dubai last weekend after a two year absence, with success for local schools."
+image: "/images/archive/2022/03/jaki2839.webp"
 metaDescription: "The World School Games returned to Dubai last weekend after a two year absence, with success for local schools."
 wpId: 5599
-wpFeaturedImage: "2022/03/JAKI2839.jpg"
 ---
 
 **It was a hugely successful weekend for Dubai athletes at The World School Games as it made a return after a two-year absence.**
@@ -22,7 +22,7 @@ Three age groups competed at the same event for the first time with U11, U13 and
 
 With overall Games points available on all three competition days in addition to medals for the top performing competitors in each event, every place counted towards the team standings.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/03/IMG_7156-300x200.jpg)
+![](/images/archive/2022/03/img-7156.webp)
 
 The Games opened on Thursday 10 March at Dubai Sports City Sports Park with Dubai Eye’s Robbie Greenfield in charge of proceedings during the opening ceremony, with flag-bearers selected from each team to represent their schools in front of a big crowd of families and spectators.#
 
@@ -32,7 +32,7 @@ As the sports action got underway the athletes’ hard work and training came to
 
 The first day came to a close with the ever-exciting 4x100m team relays with the Nigerian schools well represented in the podium positions across all three age categories and some really strong runs from the Dubai teams on home turf.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/03/YYY-6-300x200.jpg)
+![](/images/archive/2022/03/yyy-6.webp)
 
 The Games moved to the impressive Hamdan Sports Complex for Day 2 as attention turned to action in the swimming pool with lots of important points up for grabs. Competition kicked off in dramatic style as the team relays got underway first with the enthusiastic crowd cheering on every athlete to the end before the individual heats took centre stage.
 
@@ -40,7 +40,7 @@ The atmosphere inside Hamdan went up a notch as the finals got underway with che
 
 The final day of the Games moved to the Sevens Stadium where the football competition rounded things off for the weekend in the Dubai sun.
 
-With 12 pitches in operation the football tournament was a huge spectacle with matches taking place for as far as the eye could see. In a![](https://gulfyouthsport.com/wp-content/uploads/2022/03/DSC03975-300x225.jpg) competitive afternoon of action St Saviour’s School, Kings’ School Al Barsha and JESS Arabian Ranches came out on top for the girls, with Kings’ School Dubai, JESS Arabian Ranches and Dubai International Academy victorious in the boys’ competitions.
+With 12 pitches in operation the football tournament was a huge spectacle with matches taking place for as far as the eye could see. In a![](/images/archive/2022/03/dsc03975.webp) competitive afternoon of action St Saviour’s School, Kings’ School Al Barsha and JESS Arabian Ranches came out on top for the girls, with Kings’ School Dubai, JESS Arabian Ranches and Dubai International Academy victorious in the boys’ competitions.
 
 The weekend came to a close as the sun set on the Sevens Stadium with the Closing Ceremony. Scores were across all three days of sport were combined to determine overall World School Games champions in the U11, U13 and U15 age categories.
 

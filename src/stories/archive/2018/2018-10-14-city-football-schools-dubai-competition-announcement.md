@@ -3,8 +3,8 @@ title: "City Football Schools Dubai Competition Announcement"
 date: 2018-10-14T00:00:00+04:00
 slug: "city-football-schools-dubai-competition-announcement"
 excerpt: "To celebrate the launch of their new football school in Dubai, City Football Schools are giving one lucky winner FREE football for an ENTIRE TERM!!"
+image: "/images/archive/2019/09/main-img-141020189545.webp"
 wpId: 1125
-wpFeaturedImage: "2019/09/Main-img-141020189545.jpg"
 ---
 
 **To celebrate the launch of their new football school in Dubai, City Football Schools are giving one lucky winner FREE football for an ENTIRE TERM!!** 

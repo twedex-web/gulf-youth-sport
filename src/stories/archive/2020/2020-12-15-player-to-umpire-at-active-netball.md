@@ -5,8 +5,8 @@ slug: "player-to-umpire-at-active-netball"
 kicker: "Sports Media Course"
 categories: ["Sports Media Course"]
 excerpt: "From player to umpire – hear how these young Active Netball stars are taking their love of the game to the next level!"
+image: "/images/archive/2020/12/screen-shot-2020-12-15-at-16-45-17.webp"
 wpId: 4585
-wpFeaturedImage: "2020/12/Screen-Shot-2020-12-15-at-16.45.17.png"
 ---
 
 **From player to umpire – hear how these young Active Netball stars are taking their love of the game to the next level!**

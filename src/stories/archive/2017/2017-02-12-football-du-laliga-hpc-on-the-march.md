@@ -3,8 +3,8 @@ title: "FOOTBALL: du LaLiga HPC on the March"
 date: 2017-02-12T00:00:00+04:00
 slug: "football-du-laliga-hpc-on-the-march"
 excerpt: "du LaLiga HPC on the March"
+image: "/images/archive/2019/09/main-img-1222017444.webp"
 wpId: 543
-wpFeaturedImage: "2019/09/Main-img-1222017444.jpg"
 ---
 
 **du LaLiga HPC on the March**

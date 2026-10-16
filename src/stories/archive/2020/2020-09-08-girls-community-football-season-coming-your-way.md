@@ -5,8 +5,8 @@ slug: "girls-community-football-season-coming-your-way"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "A four week league for six-aside teams is coming to Dubai from the organisers of the popular Girls Community Football tournaments."
+image: "/images/archive/2020/09/92552338-208556113896291-9013264646211108864-o.webp"
 wpId: 3814
-wpFeaturedImage: "2020/09/92552338_208556113896291_9013264646211108864_o.jpg"
 ---
 
 A four week league for six-aside teams is coming to Dubai from the organisers of the popular Girls Community Football tournaments.

@@ -3,8 +3,8 @@ title: "FOOTBALL: E-Sports starlets on verge of American Dream"
 date: 2017-02-11T00:00:00+04:00
 slug: "football-e-sports-starlets-on-verge-of-american-dream"
 excerpt: "A talented group of young footballers are edging ever closer to realising their American Soccer Scholarship dreams thanks to a pioneering initiative from E-Sports FC."
+image: "/images/archive/2019/09/main-img-112201784956.webp"
 wpId: 541
-wpFeaturedImage: "2019/09/Main-img-112201784956.jpg"
 ---
 
 **A talented group of young footballers are edging ever closer to realising their American Soccer Scholarship dreams thanks to a pioneering initiative from [E-Sports FC](http://www.esportsfootballclub.com/).**

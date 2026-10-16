@@ -4,9 +4,9 @@ date: 2021-11-23T14:15:29+04:00
 slug: "brady-brothers-defeat-bolt-at-expo-2020"
 categories: ["News & Features"]
 standfirst: "A pair of Dubai twins defeated the world's fastest man, Usain Bolt, at Expo 2020 recently."
+image: "/images/archive/2021/11/whatsapp-image-2021-11-23-at-13-03-02-1.webp"
 metaDescription: "A pair of Dubai twins defeated the world's fastest man, Usain Bolt, at Expo 2020 recently."
 wpId: 5485
-wpFeaturedImage: "2021/11/WhatsApp-Image-2021-11-23-at-13.03.02-1.jpeg"
 ---
 
 **A set of five-year old Dubai-based twins did what very few humans have ever done last week; cross the finish line ahead of the fastest man in history, Usain Bolt.**
@@ -22,8 +22,6 @@ True to their word, the twins proceeded to run the entire 1.45km race without st
 To rub salt in the wounds, the boys greeted Bolt upon his arrival at the finish line with his trademark ‘Lightning Bolt’ pose.
 
 Speaking exclusively to Gulf Youth Sport following their victory over the double world-record holder, both Vincent and Isaac were firmly in agreement that they were now officially “the fastest boys in the world.”
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-23-at-13.03.01-225x300.jpeg)
 
 The twins’ father, Michael, said he was proud of his boys for their performance although he did speculate that Usain
 

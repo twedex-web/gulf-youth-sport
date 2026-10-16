@@ -4,8 +4,8 @@ date: 2021-01-19T09:59:54+04:00
 slug: "elite-sports-academy-eagerly-anticipating-the-gys-spring-football-cup"
 categories: ["News & Features"]
 excerpt: "Elite Sports will be technical partners of the event, keeping an eye on games and providing guidance and tips to the rising stars in our region."
+image: "/images/archive/2021/01/elite-fa-1.webp"
 wpId: 4773
-wpFeaturedImage: "2021/01/Elite-FA-1-scaled.jpg"
 ---
 
 > **"The event will provide another fantastic playing experience to all our children participating. To have such a competitive event on our doorstep, goes to show the vast amount of talent that is here in the UAE."– Conor Doyle, Elite Sports Academy**
@@ -23,7 +23,7 @@ We chatted to **Elite Sports Football Technical Manager Conor Doyle** about what
   
 
   
-_We are extremely excited to be joining such a fantastic event. To be joining as technical partners is a great signal of our intent to provide the best opportunities to children across our academy. A number of our fantastic coaching team will play a key role in the event. From our head coaches to our Technical Manager, the event will provide an excellent experience for both our coaching staff and players.[![](https://gulfyouthsport.com/wp-content/uploads/2021/01/social-3-640x453.jpg)](/gysspringcup/)_  
+_We are extremely excited to be joining such a fantastic event. To be joining as technical partners is a great signal of our intent to provide the best opportunities to children across our academy. A number of our fantastic coaching team will play a key role in the event. From our head coaches to our Technical Manager, the event will provide an excellent experience for both our coaching staff and players._  
 
   
 -   What will the sides' preparation be like in the lead up to the tournament?

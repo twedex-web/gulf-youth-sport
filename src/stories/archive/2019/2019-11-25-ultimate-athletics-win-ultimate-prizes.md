@@ -4,9 +4,9 @@ date: 2019-11-25T17:07:31+04:00
 slug: "ultimate-athletics-win-ultimate-prizes"
 categories: ["GYS", "News & Features"]
 standfirst: "At the Abu Dhabi Open Athletics Champions, Ultimate Athletics returned with 120 medals when an athlete stood on the dais in every single event."
+image: "/images/archive/2019/11/ua-gys-full-bib-80-keetu-100m-1.webp"
 metaDescription: "At the Abu Dhabi Open Athletics Champions, Ultimate Athletics returned with 120 medals when an athlete stood on the dais in every single event."
 wpId: 1531
-wpFeaturedImage: "2019/11/UA-GYS-full-Bib-80-Keetu-100m-1.jpg"
 ---
 
 You cannot ask for much more than this as a coach.
@@ -18,8 +18,6 @@ This mammoth haul included a staggering 60 gold medals as well as 38 silver and 
 Ultimate Athletics head coach Lisa Campbell had high hopes heading into the event but said even she was surprised with the results.
 
 "I knew we would be medalists in most events, I didn't expect to take medals in ALL events," she said.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2019/11/UA-GYS-full-Bib-37-Emily-100m-1.jpg" alt=""><figcaption>Picture: Melissa Lear Photography</figcaption></figure>
 
 "I knew our Ultimate Athletes were in good shape...they have been training hard and ready for the competition phase.
 
@@ -33,8 +31,6 @@ Anselma Ellingwood ran a lifetime best by completing the 1500m in 5:10 in her fi
 
 Krtajna Prem improved on his season's best to win the seniors 100m race in 10.94 while Campbell praised English 100m and 200m champion Kimbely Baptiste for her outstanding technique in the seniors 200m.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2019/11/UA-GYS-full-Bib-78-Kimbely-200m-1.jpg" alt=""><figcaption>Kimbely Baptiste. Picture: Melissa Lear Photography</figcaption></figure>
-
 Star sprinter Jean Christopher had two gold medals hanging around his neck following the 100m and 200m races in the under-17 age division and Krtajna Prem gained a new season's best when he took out the seniors 100m in 10.94.
 
   
@@ -45,5 +41,3 @@ Campbell said these regular meets motivated athletes to provide consistent perfo
 "Our athletes know that extrinsic rewards shouldn't be the motivation, they are not the reason we train," she said.
 
 "Hence the Dubai Racenight league is an on-going series of meets, where you gain points each meet, track progression throughout the season and are rewarded at the end for commitment (most points) and excellence (record holders)."
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2019/11/UA-GYS-full-Bib-18-Anselma-1500m-1.jpg" alt=""><figcaption>Anselma Ellingwood. Picture: Melissa Lear Photography</figcaption></figure>

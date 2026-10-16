@@ -5,10 +5,10 @@ slug: "repton-al-barsha-crowned-dassa-swim-champions-2025"
 kicker: "DASSA"
 categories: ["DASSA", "News & Features", "Swimming"]
 standfirst: "Repton Al Barsha have been crowned DASSA Swimming Champions for the first time after securing the Division 1 title at the Primary Swim Finals."
+image: "/images/archive/2025/06/repton-al-barsha-at-dassa-swimming-champions-2025-2.webp"
 seoTitle: "Repton Al Barsha crowned DASSA Swim Champions 2025"
 metaDescription: "Repton Al Barsha have been crowned DASSA Swimming Champions for the first time after securing the Division 1 title at the Primary Swim Finals."
 wpId: 6977
-wpFeaturedImage: "2025/06/Repton-Al-Barsha-at-DASSA-Swimming-Champions-2025_2.jpg"
 ---
 
 **Repton Al Barsha have been crowned DASSA Swimming Champions for the first time after securing the Division 1 title at the Primary Swim Finals.**
@@ -17,7 +17,7 @@ The event, which was held at Hamdan Sports Complex earlier this month, was organ
 
 Repton Al Barsha’s Junior Swim Team, consisting of 33 students from Years 3 to 6, competed in a series of individual and relay events. Points were awarded for every race position, ranging from ten for a 1st place finish to one for 10th place.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2025/06/Repton-Al-Barsha-at-DASSA-Swimming-Champions-2025_1-scaled.jpg" alt=""><figcaption><em>Repton Al Barsha's Junior Swim Team comprised of 33 students aged between 7 and 11-years-old.</em></figcaption></figure>
+<figure><img src="/images/archive/2025/06/repton-al-barsha-at-dassa-swimming-champions-2025-1.webp" alt=""><figcaption><em>Repton Al Barsha's Junior Swim Team comprised of 33 students aged between 7 and 11-years-old.</em></figcaption></figure>
 
 Following an outstanding series of performances and the final tally of points, Repton Al Barsha were named overall Division 1 Champions. This marked a historic first for the school and was a milestone moment for the Cognita group, as the first Cognita school to earn this recognition.
 

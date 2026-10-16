@@ -5,9 +5,9 @@ slug: "bsak-delighted-with-world-school-games-victory"
 kicker: "Match Zone"
 categories: ["Match Zone"]
 excerpt: "Last week British School Al Khubairat made World School Games history when they won the U13 tournament in Dubai."
+image: "/images/archive/2019/09/img-73201916463-11ca4a9b87da4525b054b4fc9b464310.webp"
 imageAlt: "World School Games Champions 2019 - British School Al Khubairat"
 wpId: 1192
-wpFeaturedImage: "2019/09/img-73201916463-11ca4a9b87da4525b054b4fc9b464310.jpg"
 ---
 
 Last week British School Al Khubairat made World School Games history when they won the U13 tournament in Dubai.

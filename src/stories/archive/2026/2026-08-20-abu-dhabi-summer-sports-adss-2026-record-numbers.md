@@ -4,9 +4,9 @@ date: 2026-08-20T09:31:49+04:00
 slug: "abu-dhabi-summer-sports-adss-2026-record-numbers"
 categories: ["News & Features"]
 standfirst: "Abu Dhabi Summer Sports 2026 at ADNEC Centre provides world-class indoor athletic facilities for youth athletes across the UAE summer."
+image: "/images/archive/2026/08/d11f283d-0205-443c-9703-00745641a5b7.webp"
 metaDescription: "Abu Dhabi Summer Sports 2026 at ADNEC Centre provides world-class indoor athletic facilities for youth athletes across the UAE summer."
 wpId: 7295
-wpFeaturedImage: "2026/08/d11f283d-0205-443c-9703-00745641a5b7.jpeg"
 ---
 
 **Beat the Heat: Abu Dhabi Summer Sports 2026 Reaches Record Participation Numbers**

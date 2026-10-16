@@ -5,8 +5,8 @@ slug: "ultimate-athletics-an-athletic-family"
 kicker: "Athletics"
 categories: ["Athletics", "Sports Media Course"]
 excerpt: "By Jasmine Pitman"
+image: "/images/archive/2020/07/screen-shot-2020-07-08-at-15-10-01.webp"
 wpId: 3485
-wpFeaturedImage: "2020/07/Screen-Shot-2020-07-08-at-15.10.01.png"
 ---
 
 _By Jasmine Pitman_
@@ -18,8 +18,6 @@ Campbell said she was proud of what young athletes have gone on to achieve.
 "Top athletes in the region are breaking records in the Middle East and their home countries," she said.
 
 Athletic success is great but this club is not just about that – it’s an athletic family with a real sense of belonging! Local athletes train weekly and there’s a place for everyone.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/07/1fe501c7-702e-4fa1-a7eb-95a06b198c8f-640x640.jpg" alt=""><figcaption>Jasmine Pitman trains at Ultimate Athletics and is also the author of this story.</figcaption></figure>
 
 Campbell said winning is not just about a podium.
 

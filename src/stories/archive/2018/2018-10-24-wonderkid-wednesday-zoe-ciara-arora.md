@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Zoe Ciara Arora"
 date: 2018-10-24T00:00:00+04:00
 slug: "wonderkid-wednesday-zoe-ciara-arora"
 excerpt: "In this week’s Wonderkid Wednesday article, GYS caught up with 11-year-old dance prodigy Zoe Arora to talk about her accomplishments and aspirations for the future."
+image: "/images/archive/2019/09/main-img-241020189342.webp"
 wpId: 1131
-wpFeaturedImage: "2019/09/Main-img-241020189342.jpg"
 ---
 
 In this week’s Wonderkid Wednesday article, GYS caught up with 11-year-old dance prodigy Zoe Arora to talk about her accomplishments and aspirations for the future.

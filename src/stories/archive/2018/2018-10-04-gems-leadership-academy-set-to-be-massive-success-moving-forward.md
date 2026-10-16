@@ -3,8 +3,8 @@ title: "GEMS Leadership Academy Set To Be Massive Success Moving Forward"
 date: 2018-10-04T00:00:00+04:00
 slug: "gems-leadership-academy-set-to-be-massive-success-moving-forward"
 excerpt: "The success of the Sports Leaders UK programme in the UAE has led to the founding of the GEMS Leadership Academy."
+image: "/images/archive/2019/09/main-img-410201816917.webp"
 wpId: 1115
-wpFeaturedImage: "2019/09/Main-img-410201816917.jpg"
 ---
 
 The success of the Sports Leaders UK programme in the UAE has led to the founding of the GEMS Leadership Academy.  

@@ -3,8 +3,8 @@ title: "UAE's Top Football Talent Ready to be Showcased"
 date: 2018-11-29T00:00:00+04:00
 slug: "uaes-top-football-talent-ready-to-be-showcased"
 excerpt: "Anticipation is growing as Dubai prepares to host the Middle East’s first ever Football Talent Showcase."
+image: "/images/archive/2019/09/img-291120181638-718ee98d042543e5b5368168e093ac87.webp"
 wpId: 1146
-wpFeaturedImage: "2019/09/img-291120181638-718ee98d042543e5b5368168e093ac87.jpg"
 ---
 
 Anticipation is growing as Dubai prepares to host the Middle East’s first ever Football Talent Showcase.

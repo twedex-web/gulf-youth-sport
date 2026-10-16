@@ -4,8 +4,8 @@ date: 2020-05-25T09:20:54+04:00
 slug: "the-story-of-a-three-time-premier-league-champion"
 categories: ["GYS", "News & Features"]
 excerpt: "Robert Huth left Germany without speaking a lick of English to join Chelsea at just 16."
+image: "/images/archive/2020/05/robert-huth.webp"
 wpId: 3232
-wpFeaturedImage: "2020/05/robert-huth.jpg"
 ---
 
 Robert Huth left Germany without speaking a lick of English to join Chelsea at just 16.
@@ -22,7 +22,7 @@ He said there were plenty of opportunities coming his way under the management o
 
 Huth experienced the ultimate success while so young as Chelsea saluted with Premier League glory in the back-to-back seasons of 2004-05 and 2005-06.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/05/robert-huth-leicester_3752107.jpg)But wanting more first team opportunities Huth moved north to Middlesborough and in the same time period he was selected for the German squad at a home World Cup in 2006.
+But wanting more first team opportunities Huth moved north to Middlesborough and in the same time period he was selected for the German squad at a home World Cup in 2006.
 
 From Middlesborough, Huth went to Stoke and he said there was little to fault with the club.
 

@@ -3,8 +3,8 @@ title: "Juggling GEMs Model Trans World Kit"
 date: 2017-05-11T00:00:00+04:00
 slug: "juggling-gems-model-trans-world-kit"
 excerpt: "Two of GEMS Wellington Silicon Oasis's brightest footballing talents have been celebrated for their juggling skills."
+image: "/images/archive/2019/09/main-img-115201793650.webp"
 wpId: 655
-wpFeaturedImage: "2019/09/Main-img-115201793650.jpg"
 ---
 
 **Two of GEMS Wellington Silicon Oasis's brightest footballing talents have been celebrated for their juggling skills.**

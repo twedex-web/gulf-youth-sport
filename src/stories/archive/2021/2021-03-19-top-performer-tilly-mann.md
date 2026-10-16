@@ -4,8 +4,8 @@ date: 2021-03-19T03:15:37+04:00
 slug: "top-performer-tilly-mann"
 categories: ["News & Features"]
 excerpt: "Tilly Mann took on the DASSA Netball Challenge by herself, and the Dubai English Speaking College student showed why she feels at home wearing the GS bib."
+image: "/images/archive/2021/03/img-6496.webp"
 wpId: 5046
-wpFeaturedImage: "2021/03/IMG_6496.jpeg"
 ---
 
 Tilly Mann took on the DASSA Netball Challenge by herself, and the Dubai English Speaking College student showed why she feels at home wearing the GS bib.

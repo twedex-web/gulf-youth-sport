@@ -4,8 +4,8 @@ date: 2020-10-27T08:20:44+04:00
 slug: "sign-up-for-the-gys-30-x-30-challenge"
 categories: ["News & Features"]
 excerpt: "You've likely already got a big calendar of fitness activities planned for the Dubai 30 x 30 Fitness Challenge beginning on Friday."
+image: "/images/archive/2020/10/30x30-challenge-web-2.webp"
 wpId: 4177
-wpFeaturedImage: "2020/10/30x30-challenge-web-2.png"
 ---
 
 **You've likely already got a big calendar of fitness activities planned for the Dubai 30 x 30 Fitness Challenge beginning on Friday. Here at GYS we've developed our own challenge which syncs in perfectly with your upcoming month of exercise.**
@@ -23,5 +23,3 @@ You can also join in the conversation using the hashtags #GYS3030 and #KeepMovin
 Register using the button below and check out some of the key points in the image below. Good luck!
 
 [SIGN UP HERE](https://docs.google.com/forms/d/e/1FAIpQLSdFzPK-EngEOw2W5XYItmJytw3j9TB69tSuVuP5AQdi6d7UDg/viewform)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/10/GYS-30-x-30-Challenge-1-2.png)

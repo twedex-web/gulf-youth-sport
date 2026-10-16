@@ -5,8 +5,8 @@ slug: "laliga-academy-osasuna-dominates-at-du-football-champions"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "This weekend witnessed the final day of group stages in Dubai for the du Football Champions nationwide tournament with the UAE Girls Challenge."
+image: "/images/archive/2020/02/girls-gsc-abu-dhabi-international-pvt-school-ais-vs-dwight-school-dubai.webp"
 wpId: 2245
-wpFeaturedImage: "2020/02/Girls-gsc-Abu-Dhabi-International-pvt.-School-AIS-Vs-Dwight-School-Dubai.jpg"
 ---
 
 This weekend witnessed the final day of group stages in Dubai for the du Football Champions nationwide tournament with the UAE Girls Challenge.

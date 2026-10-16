@@ -3,8 +3,8 @@ title: "Dubai Based Swimmer Excited For Youth Olympic Games Homecoming"
 date: 2018-10-04T00:00:00+04:00
 slug: "dubai-based-swimmer-excited-for-youth-olympic-games-homecoming"
 excerpt: "15-year-old swimmer Joaquin Gonzalez Pinero is set to represent his home country of Argentina at this month’s Youth Olympic Games."
+image: "/images/archive/2019/09/main-img-4102018104345.webp"
 wpId: 1113
-wpFeaturedImage: "2019/09/Main-img-4102018104345.jpg"
 ---
 
 15-year-old swimmer Joaquin Gonzalez Pinero is set to represent his home country of Argentina at this month’s Youth Olympic Games.

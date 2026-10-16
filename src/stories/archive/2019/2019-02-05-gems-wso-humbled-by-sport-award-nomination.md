@@ -4,8 +4,8 @@ date: 2019-02-05T00:00:00+04:00
 slug: "gems-wso-humbled-by-sport-award-nomination"
 categories: ["News & Features"]
 excerpt: "GEMS Wellington Academy – Silicon Oasis’ head of secondary sport Stuart Booth says it is an “honour” for his school to have been shortlisted for the 2019 SchoolsCompared.com Best School for Sport award."
+image: "/images/archive/2019/09/img-522019171429-949a0ff636804c26b1542806aeefbe9b.webp"
 wpId: 1174
-wpFeaturedImage: "2019/09/img-522019171429-949a0ff636804c26b1542806aeefbe9b.jpg"
 ---
 
 GEMS Wellington Academy – Silicon Oasis’ head of secondary sport Stuart Booth says it is an “honour” for his school to have been shortlisted for the 2019 SchoolsCompared.com Best School for Sport award.

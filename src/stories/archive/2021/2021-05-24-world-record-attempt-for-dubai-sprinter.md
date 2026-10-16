@@ -5,8 +5,8 @@ slug: "world-record-attempt-for-dubai-sprinter"
 kicker: "Athletics"
 categories: ["Athletics", "News & Features"]
 excerpt: "17-year old Giacamo De Lorenzi is a young man on a mission. We caught up with the Athletes in Schools sprinter ahead of his Guinness World Record attempt at GEMS World Academy this weekend."
+image: "/images/archive/2021/05/ais-record.webp"
 wpId: 5218
-wpFeaturedImage: "2021/05/AIS-Record.png"
 ---
 
 **17-year old Giacamo De Lorenzi is a young man on a mission. We caught up with the Athletes in Schools sprinter ahead of his Guinness World Record attempt at GEMS World Academy this weekend.**

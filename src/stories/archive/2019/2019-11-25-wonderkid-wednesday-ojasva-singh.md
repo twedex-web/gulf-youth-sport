@@ -5,9 +5,9 @@ slug: "wonderkid-wednesday-ojasva-singh"
 kicker: "Swimming"
 categories: ["GYS", "Swimming", "Wonderkid Wednesday"]
 standfirst: "Ojasva Singh was destined to be a swimmer. Known as OJ to his teachers and schoolmates at Repton School Dubai, the 13 year-old started building up his freestyle technique in the bathtub as a toddler."
+image: "/images/archive/2019/11/swimming-pool-873345-960-720.webp"
 metaDescription: "Ojasva Singh was destined to be a swimmer. Known as OJ to his teachers and schoolmates at Repton School Dubai, the 13 year-old started building up his freestyle technique in the bathtub as a toddler."
 wpId: 1525
-wpFeaturedImage: "2019/11/swimming-pool-873345_960_720.jpg"
 ---
 
 Ojasva Singh was destined to be a swimmer.
@@ -23,8 +23,6 @@ Enjoying freestyle, backstroke and breaststroke, OJ said it had not been a tough
 "I train regularly as per the assigned schedules, needless to say it is always fun to train with friends and my school coach.
 
 "I like the speed of the sport and always try to beat my previous timings. Regularly swimming has made me more healthy and disciplined."
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2019/11/OJ-Picture.jpg" alt=""><figcaption>OJ is among Repton's most committed swimmers.</figcaption></figure>
 
 Unsurprisingly OJ's dedication means the multi-talented star makes sure to balance his time in the pool with his schoolwork.
 

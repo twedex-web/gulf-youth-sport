@@ -4,8 +4,8 @@ date: 2019-03-26T00:00:00+04:00
 slug: "uae-teen-sports-fitness-awards-nominations-are-in"
 categories: ["News & Features"]
 excerpt: "The finalists for the 2019 UAE Teen Sports & Fitness Awards have been announced."
+image: "/images/archive/2019/09/img-263201911741-b2f7899fbf3d47e5bf15c7cfd7c6eb73.webp"
 wpId: 1199
-wpFeaturedImage: "2019/09/img-263201911741-b2f7899fbf3d47e5bf15c7cfd7c6eb73.jpg"
 ---
 
 The finalists for the 2019 UAE Teen Sports & Fitness Awards have been announced.

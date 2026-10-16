@@ -5,8 +5,8 @@ slug: "siblings-taking-the-battle-to-the-backyard"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "Remember all the backyard sporting events you’d host with your siblings?"
+image: "/images/archive/2020/04/screen-shot-2020-04-26-at-11-52-59.webp"
 wpId: 3028
-wpFeaturedImage: "2020/04/Screen-Shot-2020-04-26-at-11.52.59.png"
 ---
 
 Remember all the backyard sporting events you’d host with your siblings? 
@@ -19,7 +19,7 @@ Benjamin and Theodor Eisser are both keen footballers with Theodor a member of C
 
 Younger brother Benjamin,9,  said he wouldn’t mind a break from older brother Theodor,10, “because I have to see him every day.”
 
-But Theodor said while there might be a few arguments on the sporting arena that is their Abu Dhabi backyard, usually the whole family is in on the action.![](https://gulfyouthsport.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-26-at-09.17.54-226x300.png)
+But Theodor said while there might be a few arguments on the sporting arena that is their Abu Dhabi backyard, usually the whole family is in on the action.
 
 “It’s nice to be able to play outside with him during my breaks…we do fight a lot too. We play outside every evening with my dad too, and sometimes my mum,” Theodor said.
 

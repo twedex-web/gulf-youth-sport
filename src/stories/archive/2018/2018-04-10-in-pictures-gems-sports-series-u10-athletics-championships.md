@@ -3,8 +3,8 @@ title: "In Pictures: GEMS Sports Series - U10 Athletics Championships"
 date: 2018-04-10T00:00:00+04:00
 slug: "in-pictures-gems-sports-series-u10-athletics-championships"
 excerpt: "The GEMS Sports Series Athletics Championships kicked off in style yesterday at GEMS Modern Academy, Dubai."
+image: "/images/archive/2019/09/main-img-1042018134328.webp"
 wpId: 982
-wpFeaturedImage: "2019/09/Main-img-1042018134328.jpg"
 ---
 
 **The GEMS Sports Series Athletics Championships kicked off in style yesterday at GEMS Modern Academy, Dubai.**

@@ -5,8 +5,8 @@ slug: "ultimate-athletics-ensuring-youth-dont-miss-out-during-unprecedented-year
 kicker: "Athletics"
 categories: ["Athletics", "News & Features"]
 excerpt: "Ultimate Athletics head coach Lisa Campbell was open about the struggles of academies when they were first forced to close and lose income."
+image: "/images/archive/2020/06/ultimate-athletics-trainning-7june20-6.webp"
 wpId: 3337
-wpFeaturedImage: "2020/06/Ultimate-Athletics-trainning-7June20-6-scaled.jpg"
 ---
 
 Ultimate Athletics head coach Lisa Campbell was open about the struggles of academies when they were first forced to close and lose income.
@@ -26,24 +26,6 @@ Although Ultimate Athletics has money again flowing into its bank account, Campb
 "As a business 12+ athletes are only 30% of our members so long term this is not a sustainable model, not when costs remain the same. But as a parent, I understand the safety measures completely. It was wise to start with the teens as they can social distance easily and follow instructions. It is a learning curve for all of us and safety of the athletes and coaches is our number 1 priority," she said.
 
 "We will open the doors to U12 as soon as it is safe to do so. In the meantime, we continue to offer our online Zoom athletics fitness sessions as we have done since the start of this pandemic. We also have a weekly run challenge with prizes from New Balance t-shirts to Kibsons fruits and Monviso water.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/06/IMG_20200605_100303_112.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/06/IMG-20200603-WA0123.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/06/Ultimate-Athletics-trainning-7June20-1-scaled.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/06/Ultimate-Athletics-trainning-7June20-2-scaled.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/06/Ultimate-Athletics-trainning-7June20-3-scaled.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/06/Ultimate-Athletics-trainning-7June20-4-scaled.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/06/Ultimate-Athletics-trainning-7June20-5-scaled.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/06/Ultimate-Athletics-trainning-7June20-6-scaled.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/06/Ultimate-Athletics-trainning-7June20-8-scaled.jpg)
 
   
 

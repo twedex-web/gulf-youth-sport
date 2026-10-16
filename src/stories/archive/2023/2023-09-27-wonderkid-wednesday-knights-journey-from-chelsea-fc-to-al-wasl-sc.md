@@ -5,9 +5,9 @@ slug: "wonderkid-wednesday-knights-journey-from-chelsea-fc-to-al-wasl-sc"
 kicker: "Football"
 categories: ["Football", "GYS", "News & Features", "Wonderkid Wednesday"]
 standfirst: "In the world of football, the rise of young talents is often met with awe and admiration. And today, we have a truly remarkable story to share about a young student named Knight, who has taken the football world by storm."
+image: "/images/archive/2023/09/379329807-320001037199804-366308600109607273-n.webp"
 metaDescription: "In the world of football, the rise of young talents is often met with awe and admiration. And today, we have a truly remarkable story to share about a young student named Knight, who has taken the football world by storm."
 wpId: 6640
-wpFeaturedImage: "2023/09/379329807_320001037199804_366308600109607273_n.jpg"
 ---
 
 **In the world of football, the rise of young players is often met with awe and applause. And today, we have a truly remarkable story to share about a young student from Repton Dubai named Knight, who has taken Gulf football by storm.**
@@ -28,7 +28,7 @@ For many, Knight was the player of the match, which spoke volumes about his grea
 ### **Scouts Take Notice**
 
   
-![](https://gulfyouthsport.com/wp-content/uploads/2023/09/Screenshot-2023-09-26-161819-298x300.jpg)It's not every day that a young footballer catches the attention of seasoned scouts, but Knight's performance on the pitch did just that. An assigned scout, representing prestigious football academies like PSG, AS Monaco, and Le Havre AC, was present to watch Knight in action. The scout, who had the difficult task of choosing among countless talented youngsters, confirmed that all three academies expressed a strong interest in signing Knight when he turns 11 years old.
+![](/images/archive/2023/09/screenshot-2023-09-26-161819.webp)It's not every day that a young footballer catches the attention of seasoned scouts, but Knight's performance on the pitch did just that. An assigned scout, representing prestigious football academies like PSG, AS Monaco, and Le Havre AC, was present to watch Knight in action. The scout, who had the difficult task of choosing among countless talented youngsters, confirmed that all three academies expressed a strong interest in signing Knight when he turns 11 years old.
 
 This exciting news truly showcases Knight's abilities and the remarkable progress he has made in his football journey. It's not just his family and supporters who believe in his potential, but also some of the biggest names in football development.
 
@@ -42,6 +42,6 @@ Luke said: "We are extremely proud of Knight’s recent move to Al Wasl SC, espe
 ### **The Future is Bright**
 
   
-![](https://gulfyouthsport.com/wp-content/uploads/2023/09/379632164_1254848431900366_4741014254325374602_n-225x300.jpg)Knight's remarkable journey from the Chelsea FC Pathway programme to signing with Al Wasl SC is a testament to the power his passion, dedication, and talent. His story reminds us that dreams can be achieved with hard work and unwavering support from family and mentors. We look forward to witnessing the next chapter in Knight's journey as he continues to make waves in the world of football.
+![](/images/archive/2023/09/379632164-1254848431900366-4741014254325374602-n.webp)Knight's remarkable journey from the Chelsea FC Pathway programme to signing with Al Wasl SC is a testament to the power his passion, dedication, and talent. His story reminds us that dreams can be achieved with hard work and unwavering support from family and mentors. We look forward to witnessing the next chapter in Knight's journey as he continues to make waves in the world of football.
 
 Do you know of a telling sport story related to the Gulf youth? Share your [**news**](/) with Gulf Youth Sport by emailing us at **[info@gulfyouthsport.com](mailto:info@gulfyouthsport.com)**.

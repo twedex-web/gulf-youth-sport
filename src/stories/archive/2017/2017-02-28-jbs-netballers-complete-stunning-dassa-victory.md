@@ -3,8 +3,8 @@ title: "JBS Netballers Complete Stunning DASSA Victory"
 date: 2017-02-28T00:00:00+04:00
 slug: "jbs-netballers-complete-stunning-dassa-victory"
 excerpt: "A team of netballers from Jumeirah Baccalaureatte School have defied the odds by claiming the DASSA Netball U14 D7 title in their very first year."
+image: "/images/archive/2019/09/main-img-282201725916.webp"
 wpId: 567
-wpFeaturedImage: "2019/09/Main-img-282201725916.jpg"
 ---
 
 **A team of netballers from Jumeirah Baccalaureatte School have defied the odds by claiming the DASSA Netball U14 D7 title in their very first year.** 

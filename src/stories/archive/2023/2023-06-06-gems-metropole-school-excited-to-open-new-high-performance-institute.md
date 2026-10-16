@@ -5,9 +5,9 @@ slug: "gems-metropole-school-excited-to-open-new-high-performance-institute"
 kicker: "Multi-Sports"
 categories: ["GYS", "Multi-Sports", "News & Features"]
 standfirst: "One particular school from Dubai's Motor City neighbourhood is shifting gears, as it looks forward to opening the new High Performance Institute this autumn."
+image: "/images/archive/2023/06/lift.webp"
 metaDescription: "One particular school from Dubai's Motor City neighbourhood is shifting gears, as it looks forward to opening the new High Performance Institute this autumn."
 wpId: 6462
-wpFeaturedImage: "2023/06/lift.jpg"
 ---
 
 #### _GEMS Metropole Strength and Conditioning Coach Conor Clarke (above) works with dedicated pupils in fitness activities._
@@ -24,7 +24,7 @@ Additionally, students starting in Year 7 will have weekly access to the facilit
 
 ## BUILDING THE MUSTANG CULTURE
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/06/new-226x300.jpg" alt=""><figcaption>GEMS Metropole athletes will soon be working out in new High Performance Institute. Photo credit: Mike Lowery.</figcaption></figure>
+<figure><img src="/images/archive/2023/06/new.webp" alt=""><figcaption>GEMS Metropole athletes will soon be working out in new High Performance Institute. Photo credit: Mike Lowery.</figcaption></figure>
 
 With the remarkable state-of-the art facility coming soon, GEMS Metropole's Director of Sport Mike Lowery explained what inspired the idea to create such a unique place.
 
@@ -46,7 +46,7 @@ Mant also has his nutrition for performance qualifications from the UK and speci
 
 ## UNITING THE COMMUNITY THROUGH FITNESS
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-06-at-12.50.48-1-226x300.jpg" alt=""><figcaption>Brad Mant (above), the campus nutrition coach, will assist students in making healthy choices.</figcaption></figure>
+<figure><img src="/images/archive/2023/06/whatsapp-image-2023-06-06-at-12-50-48-1.webp" alt=""><figcaption>Brad Mant (above), the campus nutrition coach, will assist students in making healthy choices.</figcaption></figure>
 
 The construction process is less about building a winning culture, but is focussed on fulfilling GEMS Metropole's commitment to uniting the community, says Director of Sport Mike.
 

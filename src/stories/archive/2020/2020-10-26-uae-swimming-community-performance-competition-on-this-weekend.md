@@ -5,8 +5,8 @@ slug: "uae-swimming-community-performance-competition-on-this-weekend"
 kicker: "Match Zone"
 categories: ["Match Zone", "Swimming"]
 excerpt: "Swimmers can end the month with a bang! Apex Sports Academy will hold the first UAE Swimming Community Performance Competition on October 30th and 31st, 2020 at Hamdan Sports Complex."
+image: "/images/archive/2020/10/screen-shot-2020-10-26-at-16-40-47.webp"
 wpId: 4168
-wpFeaturedImage: "2020/10/Screen-Shot-2020-10-26-at-16.40.47.png"
 ---
 
 **Swimmers can end the month with a bang! Apex Sports Academy will hold the first UAE Swimming Community Performance Competition on October 30th and 31st, 2020 at Hamdan Sports Complex.**

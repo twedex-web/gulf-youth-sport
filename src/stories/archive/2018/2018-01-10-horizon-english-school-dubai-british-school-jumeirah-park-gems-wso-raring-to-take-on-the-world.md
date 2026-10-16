@@ -3,8 +3,8 @@ title: "Horizon English School, Dubai British School Jumeirah Park & GEMS WSO Ra
 date: 2018-01-10T00:00:00+04:00
 slug: "horizon-english-school-dubai-british-school-jumeirah-park-gems-wso-raring-to-take-on-the-world"
 excerpt: "It’s one month to the day until the best young athletes from around the world descend on the UAE in for The World School Games 2018."
+image: "/images/archive/2019/09/main-img-101201865225.webp"
 wpId: 876
-wpFeaturedImage: "2019/09/Main-img-101201865225.jpg"
 ---
 
 It’s one month to the day until the best young athletes from around the world descend on the UAE in for [The World School Games 2018](https://www.theworldschoolgames.com/). The unique international multi-sport event will present an opportunity to showcase the talent, diversity and sportsmanship of primary school students worldwide.

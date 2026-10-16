@@ -3,8 +3,8 @@ title: "Stage set for historic BSME U13 games"
 date: 2019-01-22T00:00:00+04:00
 slug: "stage-set-for-historic-bsme-u13-games"
 excerpt: "The 2019 Middle East youth sporting calendar gets into full flow this week with the visit of the highly anticipated U13 BSME Games to Dubai."
+image: "/images/archive/2019/09/img-22120198297-47e89767d8d04c308fd4b30aa9a9ea8b.webp"
 wpId: 1170
-wpFeaturedImage: "2019/09/img-22120198297-47e89767d8d04c308fd4b30aa9a9ea8b.jpg"
 ---
 
 The 2019 Middle East youth sporting calendar gets into full flow this week with the visit of the highly anticipated U13 BSME Games to Dubai. Whilst 'the games' is always one of the highlights for young athletes, this particular edition of the games is set to break new ground.  

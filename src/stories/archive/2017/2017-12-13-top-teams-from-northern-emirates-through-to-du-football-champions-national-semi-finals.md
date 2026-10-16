@@ -3,8 +3,8 @@ title: "Top Teams from Northern Emirates Through to du Football Champions Nation
 date: 2017-12-13T00:00:00+04:00
 slug: "top-teams-from-northern-emirates-through-to-du-football-champions-national-semi-finals"
 excerpt: "The largest youth football scouting platform in the UAE, du football champions (duFC), home of the UAE Schools & Streets Cups, saw teams in the Northern Emirates playing their best football to secure their spots in the…"
+image: "/images/archive/2019/09/main-img-1312201795039.webp"
 wpId: 866
-wpFeaturedImage: "2019/09/Main-img-1312201795039.jpg"
 ---
 
 The largest youth football scouting platform in the UAE, du football champions (duFC), home of the UAE Schools & Streets Cups, saw teams in the Northern Emirates playing their best football to secure their spots in the National Semi-Finals which will take place on March 17, 2018 at the Sevens in Dubai.   With LaLiga scouts attending every match in search of the nation’s most talented football players, the young boys from Northern Emirates played their best football, raising the bar for players in Abu Dhabi and Dubai.

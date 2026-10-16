@@ -3,8 +3,8 @@ title: "Man City Abu Dhabi 2018 Cup Spaces Filling Up Fast"
 date: 2017-12-18T00:00:00+04:00
 slug: "man-city-abu-dhabi-2018-cup-spaces-filling-up-fast"
 excerpt: "The second edition of the Manchester City Abu Dhabi Cup is shaping up to be another fantastic festival of football, with spaces for teams looking to take part running out fast."
+image: "/images/archive/2019/09/main-img-18122017142013.webp"
 wpId: 872
-wpFeaturedImage: "2019/09/Main-img-18122017142013.jpg"
 ---
 
 The second edition of the Manchester City Abu Dhabi Cup is shaping up to be another fantastic festival of football, with spaces for teams looking to take part running out fast.

@@ -3,8 +3,8 @@ title: "FOOTBALL: Abu Dhabi Thistle vs. Universal U14s"
 date: 2016-12-04T00:00:00+04:00
 slug: "football-abu-dhabi-thistle-vs-universal-u14s"
 excerpt: "Abu Dhabi Thistle travelled up Sheikh Zayed Road on Saturday to play their final match of the season in the Jebel Ali Youth League."
+image: "/images/archive/2019/09/main-img-4122016215421.webp"
 wpId: 474
-wpFeaturedImage: "2019/09/Main-img-4122016215421.jpg"
 ---
 
 **Abu Dhabi Thistle travelled up Sheikh Zayed Road on Saturday to play their final match of the season in the Jebel Ali Youth League. The message in this week's team talk was clear: win the match and take home the league title.**

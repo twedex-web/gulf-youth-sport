@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Dylan Smith"
 date: 2018-04-12T00:00:00+04:00
 slug: "wonderkid-wednesday-dylan-smith"
 excerpt: "At just 16 years of age, Dylan Smith is one of UAE’s most promising young triathletes. Having started his journey four years ago this month, there really has been no looking back for Smith."
+image: "/images/archive/2019/09/main-img-1242018162816.webp"
 wpId: 990
-wpFeaturedImage: "2019/09/Main-img-1242018162816.jpg"
 ---
 
 At just 16 years of age, Dylan Smith is one of UAE’s most promising young triathletes. Having started his journey four years ago this month, there really has been no looking back for Smith.   

@@ -5,9 +5,9 @@ slug: "guntley-brothers-ultimate-athletics-rgs-dubai-record"
 kicker: "Athletics"
 categories: ["Athletics", "In The Spotlight"]
 standfirst: "Brothers Cody and Jayden Guntley dominate UAE junior athletics. Discover how the RGS Guildford Dubai students secured 6 golds and a brand-new UAE club record."
+image: "/images/archive/2026/05/guntly-brothers-gys-post.webp"
 metaDescription: "Brothers Cody and Jayden Guntley dominate UAE junior athletics. Discover how the RGS Guildford Dubai students secured 6 golds and a brand-new UAE club record."
 wpId: 7178
-wpFeaturedImage: "2026/05/Guntly-brothers-GYS-post.png"
 ---
 
 ## **Track Royalty: Cody and Jayden Guntley Dominate the Arena with Sibling Trebles**

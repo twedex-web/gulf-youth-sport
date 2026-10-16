@@ -29,7 +29,7 @@ The TWEDEX Foundation was established to bridge the gap between elite sports tra
 
 _"The TWEDEX Foundation is the heartbeat of what we do. It’s about taking the energy we see in school sports and directing it toward communities that lack basic infrastructure. Seeing so many teachers turn up today to support our work in places like Sri Lanka and at the Al Noor Training Centre here in Dubai is incredibly rewarding. This tournament wasn't just about Padel; it was about ensuring every child, regardless of their circumstances, gets the chance to play."_
 
-### **![ Teachers from across Dubai competing in the TWEDEX Padel Competition at Emirates Golf Club.](https://gulfyouthsport.com/wp-content/uploads/2026/04/IMG_4457-1-1024x768.jpg)**
+### **![ Teachers from across Dubai competing in the TWEDEX Padel Competition at Emirates Golf Club.](/images/archive/2026/04/img-4457-1.webp)**
 
   
 

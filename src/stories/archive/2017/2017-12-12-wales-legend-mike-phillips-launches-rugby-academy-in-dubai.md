@@ -3,8 +3,8 @@ title: "Wales Legend Mike Phillips Launches Rugby Academy in Dubai"
 date: 2017-12-12T00:00:00+04:00
 slug: "wales-legend-mike-phillips-launches-rugby-academy-in-dubai"
 excerpt: "Welsh international rugby star Mike Phillips has teamed up with Just Play to launch his first rugby academy in the UAE."
+image: "/images/archive/2019/09/main-img-121220171130.webp"
 wpId: 864
-wpFeaturedImage: "2019/09/Main-img-121220171130.jpg"
 ---
 
 **Welsh international rugby star Mike Phillips has teamed up with Just Play to launch his first rugby academy in the UAE.**

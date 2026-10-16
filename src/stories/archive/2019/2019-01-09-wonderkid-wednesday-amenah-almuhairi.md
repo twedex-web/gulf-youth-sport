@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Amenah Almuhairi"
 date: 2019-01-09T00:00:00+04:00
 slug: "wonderkid-wednesday-amenah-almuhairi"
 excerpt: "For the first Wonderkid Wednesday feature of the new year, GYS spoke to ten-year-old freestyle snowboarder Amenah Almuhairi off the back of her hugely successful 2018."
+image: "/images/archive/2019/09/img-712019132910-f283c20c04d64ddcada6f95b4688766e.webp"
 wpId: 1162
-wpFeaturedImage: "2019/09/img-712019132910-f283c20c04d64ddcada6f95b4688766e.jpg"
 ---
 
 For the first Wonderkid Wednesday feature of the new year, GYS spoke to ten-year-old freestyle snowboarder Amenah Almuhairi off the back of her hugely successful 2018.

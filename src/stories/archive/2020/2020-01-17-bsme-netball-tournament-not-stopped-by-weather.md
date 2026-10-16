@@ -5,9 +5,9 @@ slug: "bsme-netball-tournament-not-stopped-by-weather"
 kicker: "Match Zone"
 categories: ["Match Zone", "Netball"]
 standfirst: "Major storms caused weather disruptions last week but 33 teams were still eager to take part in the British Schools in the Middle East netball tournament."
+image: "/images/archive/2020/01/bsme-netball-tournament-jan.webp"
 metaDescription: "Major storms caused weather disruptions last week but 33 teams were still eager to take part in the British Schools in the Middle East netball tournament."
 wpId: 1767
-wpFeaturedImage: "2020/01/BSME-netball-tournament-Jan.jpg"
 ---
 
 Major storms caused weather disruptions last week but 33 teams were still eager to take part in the British Schools in the Middle East netball tournament.
@@ -19,7 +19,7 @@ In under-15 competition Nord Anglia International School stood out by remaining
 17 BSME schools were represented and the under-11 final was a particular highlight when Dubai English Speaking School claimed the winner's trophy in a high quality match.
 
   
-![](https://gulfyouthsport.com/wp-content/uploads/2020/01/BSME-netball-tournament-d.jpg)  
+  
 Showing the strength of Abu Dhabi netballers, the top three sides in the under-13 tournament all hailed from the capital with Brighton College taking out top honours.
 
 _Check out the competition standings below:_
@@ -67,5 +67,3 @@ _Check out the competition standings below:_
   
 
 3rd - Brighton College, Abu Dhabi
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/01/BSME-netball-tournament-janb.jpg)

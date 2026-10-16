@@ -3,8 +3,8 @@ title: "Acena sisters acing Asian tennis circuit"
 date: 2018-06-28T00:00:00+04:00
 slug: "acena-sisters-acing-asian-tennis-circuit"
 excerpt: "When the words tennis and sisters are mentioned in the same sentence, it usually ends up also including Venus and Serena. The American superstars have been global icons for the last couple of decades."
+image: "/images/archive/2019/09/main-img-2862018143934.webp"
 wpId: 1063
-wpFeaturedImage: "2019/09/Main-img-2862018143934.jpg"
 ---
 
 When the words tennis and sisters are mentioned in the same sentence, it usually ends up also including Venus and Serena. The American superstars have been global icons for the last couple of decades. However, here in UAE, two sisters are making a name for themselves. Filipino duo Bea and Renee Acena are part of the Tennis 360 academy in Dubai and taking the sport by storm. GYS spoke to them both to find out about their career so far and plans for the future.  

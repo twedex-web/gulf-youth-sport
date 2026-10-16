@@ -3,8 +3,8 @@ title: "Gulf Youth Sport Needs You!"
 date: 2016-08-11T00:00:00+04:00
 slug: "gulf-youth-sport-needs-you"
 excerpt: "Gulf Youth Sport is the most exciting thing to happen to youth sport in the Middle East for a generation, and we’re giving you the opportunity to be a part of it."
+image: "/images/archive/2019/09/main-img-111201643516.webp"
 wpId: 439
-wpFeaturedImage: "2019/09/Main-img-111201643516.jpg"
 ---
 
 Gulf Youth Sport is the most exciting thing to happen to youth sport in the Middle East for a generation, and we’re giving you the opportunity to be a part of it.

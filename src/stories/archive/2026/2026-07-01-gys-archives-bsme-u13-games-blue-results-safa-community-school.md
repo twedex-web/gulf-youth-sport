@@ -5,10 +5,10 @@ slug: "gys-archives-bsme-u13-games-blue-results-safa-community-school"
 kicker: "BSME Games"
 categories: ["BSME Games"]
 standfirst: "Safa Community School leads a thrilling BSME U13 Games Blue packed with dramatic finals, standout talent, and elite competition. View the full standings."
+image: "/images/archive/2026/06/8b19618d-1aad-4dd5-91ab-5736169b14cb.webp"
 seoTitle: "BSME U13 Games Blue: Safa Community School Storms to Glory"
 metaDescription: "Safa Community School leads a thrilling BSME U13 Games Blue packed with dramatic finals, standout talent, and elite competition. View the full standings."
 wpId: 7238
-wpFeaturedImage: "2026/06/8b19618d-1aad-4dd5-91ab-5736169b14cb.jpeg"
 ---
 
 ## **Ultimate Consistency: Safa Community School Clinches Overall BSME U13 Blue Championship**

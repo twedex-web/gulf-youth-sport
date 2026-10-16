@@ -5,8 +5,8 @@ slug: "du-laliga-hpc-u18-boys-and-girls-crowned-dsc-cup-champions"
 kicker: "Football"
 categories: ["Football", "Match Zone"]
 excerpt: "Al Nasr crowned champions in the U14 & U16 categories"
+image: "/images/archive/2019/08/img-652019104017-30f064caa35445e2887436f554048427.webp"
 wpId: 31
-wpFeaturedImage: "2019/08/img-652019104017-30f064caa35445e2887436f554048427.jpg"
 ---
 
 _Al Nasr crowned champions in the U14 & U16 categories_

@@ -3,8 +3,8 @@ title: "FC Barcelona U13's Arrive in Dubai Ahead of Intercontinental Cup"
 date: 2018-02-21T00:00:00+04:00
 slug: "fc-barcelona-u13s-arrive-in-dubai-ahead-of-intercontinental-cup"
 excerpt: "FC Barcelona’s Under 13’s arrived in Dubai today ahead of their appearance in the Dubai Intercontinental Cup at Dubai Sports City this weekend."
+image: "/images/archive/2019/09/main-img-2122018165245.webp"
 wpId: 921
-wpFeaturedImage: "2019/09/Main-img-2122018165245.jpg"
 ---
 
 **FC Barcelona’s Under 13’s arrived in Dubai today ahead of their appearance in the Dubai Intercontinental Cup at Dubai Sports City this weekend.**

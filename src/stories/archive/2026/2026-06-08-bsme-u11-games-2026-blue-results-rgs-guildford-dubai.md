@@ -5,9 +5,9 @@ slug: "bsme-u11-games-2026-blue-results-rgs-guildford-dubai"
 kicker: "BSME Games"
 categories: ["BSME Games"]
 standfirst: "Royal Grammar School Guildford Dubai captures overall victory at the BSME U11 Games 2026 Blue Division. See full results, swim stats, and highlight reels."
+image: "/images/archive/2026/06/whatsapp-image-2026-06-08-at-09-02-34.webp"
 metaDescription: "Royal Grammar School Guildford Dubai captures overall victory at the BSME U11 Games 2026 Blue Division. See full results, swim stats, and highlight reels."
 wpId: 7196
-wpFeaturedImage: "2026/06/WhatsApp-Image-2026-06-08-at-09.02.34.jpeg"
 ---
 
 ## **Blueprint for Success: Royal Grammar School Guildford Dubai Claims Coveted BSME U11 Blue Championship**

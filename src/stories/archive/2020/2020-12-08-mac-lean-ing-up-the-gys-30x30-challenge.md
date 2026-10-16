@@ -4,8 +4,8 @@ date: 2020-12-08T08:20:38+04:00
 slug: "mac-lean-ing-up-the-gys-30x30-challenge"
 categories: ["News & Features"]
 excerpt: "Hiking with her dogs is one way Maria Mac Lean became the highest performing female parent in the GYS 30X30 Challenge."
+image: "/images/archive/2020/12/image1-2.webp"
 wpId: 4511
-wpFeaturedImage: "2020/12/image1-2.jpeg"
 ---
 
 Hiking with her dogs is one way Maria Mac Lean became the highest performing female parent in the GYS 30X30 Challenge.

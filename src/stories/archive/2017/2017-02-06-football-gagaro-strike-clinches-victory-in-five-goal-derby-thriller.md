@@ -3,8 +3,8 @@ title: "FOOTBALL: Gagaro strike clinches victory in Five-Goal Derby Thriller"
 date: 2017-02-06T00:00:00+04:00
 slug: "football-gagaro-strike-clinches-victory-in-five-goal-derby-thriller"
 excerpt: "City vs United, Real vs Atletico, Inter vs AC...wherever you are in the world, every football fan knows that local derbies provide the perfect recipe for drama, excitement, and entertainment."
+image: "/images/archive/2019/09/main-img-7220170111.webp"
 wpId: 529
-wpFeaturedImage: "2019/09/Main-img-7220170111.jpg"
 ---
 
 **City vs United, Real vs Atletico, Inter vs AC**...**wherever you are in the world, every football fan knows that local derbies provide the perfect recipe for drama, excitement, and entertainment.**

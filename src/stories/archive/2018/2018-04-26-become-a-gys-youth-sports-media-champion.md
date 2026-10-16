@@ -4,8 +4,8 @@ date: 2018-04-26T00:00:00+04:00
 slug: "become-a-gys-youth-sports-media-champion"
 categories: ["Uncategorised"]
 excerpt: "Do you have a passion for sport? Are you based in 14-18 and interested in a career within the sports media industry? Are you based in UAE, Bahrain, Oman, Qatar, Kuwait or Saudi Arabia? If you answered yes to all three…"
+image: "/images/archive/2019/09/main-img-2742018185218.webp"
 wpId: 1008
-wpFeaturedImage: "2019/09/Main-img-2742018185218.jpg"
 ---
 
 Do you have a passion for sport? Are you based in 14-18 and interested in a career within the sports media industry? Are you based in UAE, Bahrain, Oman, Qatar, Kuwait or Saudi Arabia? If you answered yes to all three questions, the brand new GYS Youth Sports Champions programme could be for you! And did we mention it's free?

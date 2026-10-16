@@ -3,8 +3,8 @@ title: "DESS and Foremarke Take Honours at Repton"
 date: 2017-11-24T00:00:00+04:00
 slug: "dess-and-foremarke-take-honours-at-repton"
 excerpt: "The stars of the future descended on Repton School Dubai yesterday for the U8 Boys and U9 Girls Repton Tournaments."
+image: "/images/archive/2019/09/main-img-24112017677.webp"
 wpId: 839
-wpFeaturedImage: "2019/09/Main-img-24112017677.jpg"
 ---
 
 **The stars of the future descended on Repton School Dubai yesterday for the U8 Boys and U9 Girls Repton Tournaments.**

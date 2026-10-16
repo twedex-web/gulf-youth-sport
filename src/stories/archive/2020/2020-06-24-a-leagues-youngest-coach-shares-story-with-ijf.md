@@ -5,8 +5,8 @@ slug: "a-leagues-youngest-coach-shares-story-with-ijf"
 kicker: "Football"
 categories: ["Football", "GYS", "News & Features"]
 excerpt: "You never know where a new opportunity could take you."
+image: "/images/archive/2020/06/d8xxd6kucaavvtt.webp"
 wpId: 3408
-wpFeaturedImage: "2020/06/D8XXD6kUcAAVVTT.jpeg"
 ---
 
 You never know where a new opportunity could take you.
@@ -22,8 +22,6 @@ He told It's Just Football he had an aim, found the perfect job and it led him a
 "The job description–it was almost like someone had written it knowing what I was looking for– it was really strange and it ticked all of the criteria.
 
 "I'd never been to New Zealand, I'd only heard good things, but I can't describe the feeling, it felt right."
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-24-at-16.03.15-300x217.png" alt=""><figcaption>Des Buckingham chats with It's Just Football</figcaption></figure>
 
 Having joined Wellington Phoenix in the 2014-15 season, another huge opportunity came his way shortly after. Phoenix head coach Ernie Merrick resigned when the first eight games of the 2016-17 yielded little return, leaving Buckingham so step in to the top job as interim manager.
 

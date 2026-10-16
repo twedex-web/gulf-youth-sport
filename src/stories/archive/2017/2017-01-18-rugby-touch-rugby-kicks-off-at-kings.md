@@ -3,8 +3,8 @@ title: "RUGBY: Touch Rugby Kicks-off at Kings'"
 date: 2017-01-18T00:00:00+04:00
 slug: "rugby-touch-rugby-kicks-off-at-kings"
 excerpt: "The DASSA Primary Schools touch rugby series got underway last week with 16 under-9 teams from Dubai taking to the field at Kings’ Nad Al Sheba in the second annual tournament."
+image: "/images/archive/2019/09/main-img-241201733126.webp"
 wpId: 508
-wpFeaturedImage: "2019/09/Main-img-241201733126.jpg"
 ---
 
 **The DASSA Primary Schools touch rugby series got underway last week with 16 under-9 teams from Dubai taking to the field at Kings’ Nad Al Sheba in the second annual tournament.**

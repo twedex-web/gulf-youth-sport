@@ -3,8 +3,8 @@ title: "FOOTBALL: BSAK Girls Win BSME U13 Games"
 date: 2017-01-19T00:00:00+04:00
 slug: "football-bsak-girls-win-bsme-u13-games"
 excerpt: "Hosts British School of Al Khubairat (BSAK) came away from Day 1 of the BSME U13 Games as Girls Football champions with a 1-0 win over Sherborne Qatar this afternoon at New York University Abu Dhabi."
+image: "/images/archive/2019/09/main-img-191201784818.webp"
 wpId: 513
-wpFeaturedImage: "2019/09/Main-img-191201784818.jpg"
 ---
 
 **Hosts British School of Al Khubairat (BSAK) came away from Day 1 of the BSME U13 Games as Girls Football champions with a 1-0 win over Sherborne Qatar this afternoon at New York University Abu Dhabi.**

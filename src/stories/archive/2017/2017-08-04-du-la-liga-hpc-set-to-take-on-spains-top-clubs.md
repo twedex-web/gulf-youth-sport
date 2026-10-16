@@ -3,8 +3,8 @@ title: "du La Liga HPC set to Take on Spain's Top Clubs"
 date: 2017-08-04T00:00:00+04:00
 slug: "du-la-liga-hpc-set-to-take-on-spains-top-clubs"
 excerpt: "A group of the UAE’s top footballers have set out on a journey to visit five of Spain’s professional clubs during a 21-day training camp with the du La Liga High Performance Centre this week."
+image: "/images/archive/2019/09/main-img-78201793527.webp"
 wpId: 677
-wpFeaturedImage: "2019/09/Main-img-78201793527.jpg"
 ---
 
 **A group of the UAE’s top footballers have set out on a journey to visit five of Spain’s professional clubs during a 21-day training camp with the du La Liga High Performance Centre this week.**

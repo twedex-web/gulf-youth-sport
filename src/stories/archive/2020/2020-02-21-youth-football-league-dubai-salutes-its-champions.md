@@ -5,9 +5,9 @@ slug: "youth-football-league-dubai-salutes-its-champions"
 kicker: "Football"
 categories: ["Football", "Match Zone"]
 standfirst: "Youth Football League Dubai celebrated its season title winners, with players hoisting the well deserved trophies above their head."
+image: "/images/archive/2020/02/yfl3.webp"
 metaDescription: "Youth Football League Dubai celebrated its season title winners, with players hoisting the well deserved trophies above their head."
 wpId: 2219
-wpFeaturedImage: "2020/02/YFL3.jpg"
 ---
 
 Youth Football League Dubai celebrated its season title winners, with players hoisting the well deserved trophies above their head.
@@ -31,14 +31,4 @@ Such vast numbers make the feats these teams have achieved that little bit more 
 **U14⁣ Champions -** DG PRO Sports Management
 
 **U16 Champions -** The Football Academy  
-⁣![](https://gulfyouthsport.com/wp-content/uploads/2020/02/YFL1.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/YFL2.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/YFL4.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/YFL5.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/YFL6.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/YFL-extra-pic.jpg)
+⁣

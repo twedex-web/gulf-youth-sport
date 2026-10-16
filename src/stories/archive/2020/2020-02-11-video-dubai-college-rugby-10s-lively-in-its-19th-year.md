@@ -5,9 +5,9 @@ slug: "video-dubai-college-rugby-10s-lively-in-its-19th-year"
 kicker: "Match Zone"
 categories: ["Match Zone", "Rugby"]
 standfirst: "Dubai College's popular Rugby 10s tournament continues to thrive in its 19th year and the most recent instalment had DESSC take a clean sweep of all the top-tier divisions."
+image: "/images/archive/2020/02/screen-shot-2020-02-11-at-12-08-04-pm.webp"
 metaDescription: "Dubai College's popular Rugby 10s tournament continues to thrive in its 19th year and the most recent instalment had DESSC take a clean sweep of all the top-tier divisions."
 wpId: 2001
-wpFeaturedImage: "2020/02/Screen-Shot-2020-02-11-at-12.08.04-pm.png"
 ---
 
 Dubai College's popular Rugby 10s tournament continues to thrive in its 19th year and the most recent instalment had DESSC take a clean sweep of all the top-tier divisions.

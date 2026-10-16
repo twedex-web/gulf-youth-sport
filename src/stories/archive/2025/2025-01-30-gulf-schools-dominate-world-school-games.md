@@ -5,9 +5,9 @@ slug: "gulf-schools-dominate-world-school-games"
 kicker: "Multi-Sports"
 categories: ["GYS", "Multi-Sports", "News & Features", "World School Games"]
 standfirst: "Gulf schools put on a show at The World School Games 2025 in Dubai, scooping all the top prizes after three days of competition last week."
+image: "/images/archive/2025/02/dia-eh-wsg.webp"
 metaDescription: "Gulf schools put on a show at The World School Games 2025 in Dubai, scooping all the top prizes after three days of competition last week."
 wpId: 6909
-wpFeaturedImage: "2025/02/DIA-EH-WSG-scaled.jpg"
 ---
 
 **Gulf schools put on a show at The World School Games 2025 in Dubai, scooping all the top prizes after three days of competition last week.**
@@ -20,13 +20,13 @@ In total, 21 schools (11 Gulf-based) from eight countries spanning three contine
 
 The Games' format sees every athlete and team battle it out to not only achieve individual success, but also gain crucial points for their school in the overall rankings which determine the World Champions of School Sport.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2025/01/WSG-Dubai-swimming-300x194.jpg)
+![](/images/archive/2025/01/wsg-dubai-swimming.webp)
 
 The action got underway on Thursday at Hamdan Sports Complex with a fantastic Opening Ceremony setting the tone before a day of swimming followed. Teammates and supporters packed out the stands of the impressive venue, waving their flags and making their voices heard as the first races of the 2025 Games began.
 
 As well as hundreds of individual medals being awarded throughout an action-packed day, it was a successful day in the pool for local Gulf schools in the overall standings.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2025/01/Dubai-Police-Officers-Club-300x200.jpg)
+![](/images/archive/2025/01/dubai-police-officers-club.webp)
 
 **Safa Community School** ended Day 1 as swimming champions in both the U13 (joint-first with ACS Cobham, England) and U15 age group, while **JESS Ranches** picked up the top prize in the U11 category.
 
@@ -36,7 +36,7 @@ A clear-sky day provided the perfect conditions for the young athletes to put in
 
 With everything to play for as the Games headed into their third and final day, attentions turned to the football pitches at ISD Dubai Sports City. Each team across the boys' and girls' U11, U13, and U15 age categories played a number of group stage matches before splitting off into different branches of knockout competition.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2025/01/WSG-Dubai-Football-300x200.jpg)
+![](/images/archive/2025/01/wsg-dubai-football.webp)
 
 As they had done over the course of the full event, the parents and supporters in attendance cheered on their favourites as each team gave 100% and enjoyed another great day of competition.
 

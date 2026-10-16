@@ -5,9 +5,9 @@ slug: "the-jr-nba-abu-dhabi-league-returns-stronger-in-numbers"
 kicker: "Athletics"
 categories: ["Athletics", "Basketball", "GYS", "News & Features"]
 standfirst: "The exciting Junior NBA Abu Dhabi League is returning to the Gulf stronger in 2023 with double the amount of teams on the court."
+image: "/images/archive/2023/01/img-0864.webp"
 metaDescription: "The exciting Junior NBA Abu Dhabi League is returning to the Gulf stronger in 2023 with double the amount of teams on the court."
 wpId: 5947
-wpFeaturedImage: "2023/01/IMG_0864.jpg"
 ---
 
 _NBA legend Tracy McGrady breaks out a group of young basketballers eager to learn from him. Photo credit: @aldar\_academics Instagram account._
@@ -24,7 +24,7 @@ Leading Basketballers spanning ages from 4 to 11 to take on the challenge of rea
 
 The 2023 league campaign will spring into action come 21st January, with qualified teams advancing to the playoffs on 12th March.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/01/IMG_0865-300x223.jpg" alt=""><figcaption>BISAD Team Falcon Sport basketballers shine as they hear their name called on draft night. Credit: @teamfalconsport Instagram account.</figcaption></figure>
+<figure><img src="/images/archive/2023/01/img-0865.webp" alt=""><figcaption>BISAD Team Falcon Sport basketballers shine as they hear their name called on draft night. Credit: @teamfalconsport Instagram account.</figcaption></figure>
 
 Not only is the 2023 season off to a strong start before the first tip-off, but it's becoming quite an entraining atmosphere with off-season festivities.
 
@@ -36,7 +36,7 @@ It wouldn't be the full NBA experience without having former players present. Ma
 
 Leading former Team Argentina basketballer Luis Scola and Basketball Hall of Famer Tracy McGrady to become involved in the celebration movement.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/01/IMG_0860-277x300.jpg" alt=""><figcaption>Basketball Hall of Famer Tracy McGrady helps teach the West Yas Academy Wolves basketball fundamental drills. Photo credit: @aldar_academics Instagram account.</figcaption></figure>
+<figure><img src="/images/archive/2023/01/img-0860.webp" alt=""><figcaption>Basketball Hall of Famer Tracy McGrady helps teach the West Yas Academy Wolves basketball fundamental drills. Photo credit: @aldar_academics Instagram account.</figcaption></figure>
 
 McGrady wouldn't just attend the youth basketball draft at NYU Abu Dhabi.
 

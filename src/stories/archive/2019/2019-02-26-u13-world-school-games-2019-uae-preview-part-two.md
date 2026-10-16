@@ -5,8 +5,8 @@ slug: "u13-world-school-games-2019-uae-preview-part-two"
 kicker: "Match Zone"
 categories: ["Match Zone"]
 excerpt: "Gulf Youth Sport’s final journey before the U13 World School Games get underway this Thursday saw us visit the four remaining UAE teams that will be competing at this weekend’s big tournament."
+image: "/images/archive/2019/09/img-2622019173914-670c17f02a5340bf99be6bb0c79b7a6f.webp"
 wpId: 1186
-wpFeaturedImage: "2019/09/img-2622019173914-670c17f02a5340bf99be6bb0c79b7a6f.jpg"
 ---
 
 Gulf Youth Sport’s final journey before the U13 World School Games get underway this Thursday saw us visit the four remaining UAE teams that will be competing at this weekend’s big tournament.

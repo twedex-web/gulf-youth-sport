@@ -5,8 +5,8 @@ slug: "back-to-netball-part-1"
 kicker: "Netball"
 categories: ["Netball", "News & Features"]
 excerpt: "120 youth and female netball teams are safely taking the court during Active Netball leagues at Kings' School Al Barsha."
+image: "/images/archive/2020/11/screen-shot-2020-11-01-at-15-55-13.webp"
 wpId: 4205
-wpFeaturedImage: "2020/11/Screen-Shot-2020-11-01-at-15.55.13.png"
 ---
 
 **120 youth and female netball teams are safely taking the court during Active Netball leagues at Kings' School Al Barsha.**

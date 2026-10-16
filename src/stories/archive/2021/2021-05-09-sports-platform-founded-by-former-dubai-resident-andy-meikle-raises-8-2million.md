@@ -4,10 +4,10 @@ date: 2021-05-09T08:19:33+04:00
 slug: "sports-platform-founded-by-former-dubai-resident-andy-meikle-raises-8-2million"
 categories: ["News & Features"]
 standfirst: "Sports platform, Recast, founded by former DESS and English College student Andy Meikle Raises $8.2million"
+image: "/images/archive/2021/05/recast-andy-meikle113.webp"
 imageAlt: "CEO and Founder of Recast, Andy Meikle"
 metaDescription: "Sports platform, Recast, founded by former DESS and English College student Andy Meikle Raises $8.2million"
 wpId: 5177
-wpFeaturedImage: "2021/05/Recast-Andy-Meikle113.jpg"
 ---
 
 **Recast, a pioneering UK based sports platform founded by former Dubai English Speaking School and English College graduate, Andy Meikle, has raised $8.2 million (£5.9m) in its Series A round of investment.**
@@ -27,8 +27,6 @@ The money raised will principally be used to further develop the Recast platform
  
 
 Speaking about the raise, Recast’s CEO and founder Andy Meikle said: “The caliber of this investment group reflects the response from the rights holders around the world and Recast’s major potential, particularly as we’re just getting started. We’re often congratulated on how ‘disruptive’ our model is, but in our view the industry has already been disrupted and we’re providing a revolutionary solution.”
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/05/Recast-Chris-Andy-J.C.-2113-1024x666.jpg" alt="Chris, Andy and JC in Recast's Edinburgh office"><figcaption>Chris, Andy and JC in Recast's Edinburgh office</figcaption></figure>
 
 Recast’s OTT micropayment offering hits the market at a time where the global sports organisations are facing numerous challenges with traditional distribution. Rights holders and content creators are struggling to monetise audiences, face regular abuse on social media channels, which has resulted in a social media boycott for many, and are seeing an increasing consumption of content through pirated channels, which has only been exacerbated by the Covid-19 pandemic.
 

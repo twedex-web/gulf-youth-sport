@@ -3,8 +3,8 @@ title: "ICC ACADEMY RENEWS PARTNERSHIP WITH BABYSHOP"
 date: 2017-11-19T00:00:00+04:00
 slug: "icc-academy-renews-partnership-with-babyshop"
 excerpt: "Babyshop, the one-stop destination and leading Omni-channel children’s retail-brand in the UAE has reaffirmed its commitment to the region’s next generation of cricket stars by renewing its partnership with the…"
+image: "/images/archive/2019/09/main-img-191120178329.webp"
 wpId: 826
-wpFeaturedImage: "2019/09/Main-img-191120178329.jpg"
 ---
 
 Babyshop, the one-stop destination and leading Omni-channel children’s retail-brand in the UAE has reaffirmed its commitment to the region’s next generation of cricket stars by renewing its partnership with the International Cricket Council Academy at Dubai Sports City.

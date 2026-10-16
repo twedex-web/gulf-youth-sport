@@ -5,8 +5,8 @@ slug: "teamwork-makes-the-dream-work-for-dubai-international-academy"
 kicker: "Basketball"
 categories: ["Basketball", "Match Zone", "World School Games"]
 excerpt: "Focusing on the end prize meant Dubai International Academy Emirates Hills was ready for whatever came its way at the World School Basketball Championships."
+image: "/images/archive/2020/01/ii2a1631.webp"
 wpId: 1725
-wpFeaturedImage: "2020/01/II2A1631.jpg"
 ---
 
 Focusing on the end prize meant Dubai International Academy Emirates Hills was ready for whatever came its way at the World School Basketball Championships.
@@ -21,8 +21,6 @@ In a tense contest DIA narrowly defeated Greenfield International School in the 
 
 "Our physical and mental stamina was really needed during the game and in particularly in last quarter where the players had to chase in the score versus the very strong team of Greenfield and we set a defence that makes it almost impossible for them to score.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/01/II2A1334.jpg)
-
 "Teamwork makes the dream work. We aimed to stay stable throughout the tournament and particularly at the last quarters where it is very important to be mentally steady.
 
 "We anticipated that all the teams have worked hard to prepare for this tournament, and we knew the differentiator will be the mind set for each game and in particularly the last quarters."
@@ -34,8 +32,6 @@ Kouzev said the team had high aims since it began training in September.
 "As a school, we knew that we have strong basketball programme and a chance to do well at the event, therefore we have combined our top basketball players from the under-16 team and the eligible under-17 athletes from our under-19 team in one WSG team.
 
 "The team had a dedicated programme that they followed in addition to the already existing under-16 and under-19 teams’ practice for the DASSA league."
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/01/II2A1479.jpg)
 
 After all the effort put in Kouzev said it was success the whole school could revel in.
 

@@ -5,9 +5,9 @@ slug: "wonderkids-wednesday-brighton-colleges-lily-and-saiana"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 standfirst: "Sharing this week's Wonderkid Wednesday award are Brighton College, Abu Dhabi teammates Lily and Saiana."
+image: "/images/archive/2020/01/brighton-lily-screenshot.webp"
 metaDescription: "Sharing this week's Wonderkid Wednesday award are Brighton College, Abu Dhabi teammates Lily and Saiana."
 wpId: 1890
-wpFeaturedImage: "2020/01/Brighton-Lily-screenshot.png"
 ---
 
 Sharing this week's Wonderkid Wednesday award are Brighton College, Abu Dhabi teammates Lily and Saiana.

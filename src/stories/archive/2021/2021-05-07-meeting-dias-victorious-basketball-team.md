@@ -4,8 +4,8 @@ date: 2021-05-07T04:15:58+04:00
 slug: "meeting-dias-victorious-basketball-team"
 categories: ["News & Features"]
 excerpt: "Dubai International Academy continually stakes its claim as one of the top basketball schools in the region."
+image: "/images/archive/2021/05/copy-of-virtual-series-3.webp"
 wpId: 5160
-wpFeaturedImage: "2021/05/Copy-of-VIRTUAL-SERIES-3.png"
 ---
 
 Dubai International Academy continually stakes its claim as one of the top basketball schools in the region. Haven't recently won the DASSA Senior Basketball Virtual Challenge, we chatted to the three members of the team that took out the victory.  

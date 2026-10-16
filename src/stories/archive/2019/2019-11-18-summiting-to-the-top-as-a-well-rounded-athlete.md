@@ -5,9 +5,9 @@ slug: "summiting-to-the-top-as-a-well-rounded-athlete"
 kicker: "Multi-Sports"
 categories: ["GYS", "Multi-Sports", "News & Features"]
 standfirst: "Achieving great sporting feats is not all about physical prowess and students found out how to become well-rounded athletes at a talk by fitness coach and author Brian Keane."
+image: "/images/archive/2019/11/image014.webp"
 metaDescription: "Achieving great sporting feats is not all about physical prowess and students found out how to become well-rounded athletes at a talk by fitness coach and author Brian Keane."
 wpId: 1470
-wpFeaturedImage: "2019/11/image014.png"
 ---
 
 Achieving great sporting feats is not all about physical prowess and students found out how to become well-rounded athletes at a talk by fitness coach and author Brian Keane in Dubai.
@@ -19,8 +19,6 @@ GEMS Wellington Academy had 75 students attend thanks to MEFITpro, and sports de
 "Brian Keane’s talk on mindset and nutrition was awesome for the students to hear," she said.
 
 "It hopefully helped to open some of the students' eyes to the importance of focusing on improving their mindset as much as they do their physical attributes.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2019/11/image015.png)
 
 "And for our SDA (Sports Development Academy) students, who have mindset sessions built into their curriculum, it was good for them to hear the same messages from one of the leading professionals in the industry."
 

@@ -3,8 +3,8 @@ title: "DESS cricket programme in good shape as season gets underway"
 date: 2018-04-30T00:00:00+04:00
 slug: "dess-cricket-programme-in-good-shape-as-season-gets-underway"
 excerpt: "Author: Andrew Petrie"
+image: "/images/archive/2019/09/main-img-304201812846.webp"
 wpId: 1010
-wpFeaturedImage: "2019/09/Main-img-304201812846.jpg"
 ---
 
 Author: Andrew Petrie

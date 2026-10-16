@@ -3,8 +3,8 @@ title: "NETBALL: Repton Dubai Test Themselves in UK"
 date: 2017-04-18T00:00:00+04:00
 slug: "netball-repton-dubai-test-themselves-in-uk"
 excerpt: "Repton School Dubai travelled to the UK recently with Trans World Educational Experiences for the school’s first ever netball development tour."
+image: "/images/archive/2019/09/main-img-1942017143947.webp"
 wpId: 630
-wpFeaturedImage: "2019/09/Main-img-1942017143947.jpg"
 ---
 
 **[Repton School Dubai](http://www.reptondubai.org/) travelled to the UK recently with [Trans World Educational Experiences](http://twedex.com/) for the school’s first ever netball development tour.**

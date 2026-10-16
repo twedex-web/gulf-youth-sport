@@ -5,8 +5,8 @@ slug: "hoop-mountain-helping-youth-continue-sport-after-high-school"
 kicker: "Basketball"
 categories: ["Basketball", "News & Features"]
 excerpt: "One of the most difficult and important decisions in a young person’s life is trying to decide their next step after high school."
+image: "/images/archive/2020/06/img-3621.webp"
 wpId: 3378
-wpFeaturedImage: "2020/06/IMG-3621.jpg"
 ---
 
 One of the most difficult and important decisions in a young person’s life is trying to decide their next step after high school.
@@ -19,7 +19,7 @@ The academy can assist in helping a potential student-athlete fulfil their desir
 
 Hoop Mountain Dubai uses its large prep school and college data base to contact coaches that are seeking quality basketball players. Coaches are always looking for talented players, solid students and great people to enhance their basketball programs.
 
-After having an opportunity to evaluate many basketball players and other athletes alike in the Gulf region, the academy said it feels there are tons of talented players here. Hoop Mountain's coaches believe they can offer the exposure and guidance necessary to assist many Gulf region players in achieving opportunities to play beyond high school.![](https://gulfyouthsport.com/wp-content/uploads/2020/06/IMG-3566-e1592627335703-201x300.png)
+After having an opportunity to evaluate many basketball players and other athletes alike in the Gulf region, the academy said it feels there are tons of talented players here. Hoop Mountain's coaches believe they can offer the exposure and guidance necessary to assist many Gulf region players in achieving opportunities to play beyond high school.
 
 The inspiration for this service is that so many talented players go unnoticed in countries around the world now playing basketball. Hoop Mountain is making it a priority to change that distinction. With over 600 schools fielding basketball teams in the United States, there are plenty of opportunities for players to find a desired team.
 

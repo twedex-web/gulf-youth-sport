@@ -4,9 +4,9 @@ date: 2021-05-17T10:30:39+04:00
 slug: "dassa-teams-up-with-surridge-sports-for-dassa-select-kit-design-contest"
 categories: ["News & Features"]
 excerpt: "After a frustratingly quiet year for school sport, Dubai's school students are being given a unique opportunity to kick-start the 2021-22 season by designing the official DASSA Select team kits for next academic year."
+image: "/images/archive/2021/03/dassa.webp"
 imageAlt: "DASSA Basketball Challenge"
 wpId: 5135
-wpFeaturedImage: "2021/03/DASSA.png"
 ---
 
 **After a frustratingly quiet year for school sport, Dubai's school students are being given a unique opportunity to kick-start the 2021-22 season by designing the official DASSA Select team kits for next academic year.**
@@ -14,8 +14,6 @@ wpFeaturedImage: "2021/03/DASSA.png"
 The competition, which is sponsored by teamwear specialists [Surridge Sport](https://surridgesport.ae/), features four categories - Football, Rugby, Netball, and Basketball.
 
 Not only will the four winning designers see their designs brought to life by Surridge Sport, they will be the official team kits worn by the DASSA Select teams for the 2021-22 season. As a special reward, each designer will receive their very own set of team kit to reward them for their efforts.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/05/DASSA-netball-300x175.jpg" alt=""><figcaption>Students have the chance to design the 2021-2022 DASSA Select kit.</figcaption></figure>
 
 [DASSA](http://www.dassasport.org/) Secondary Chairman, **Andy Jones**, explained how he sees the competition as a way to start a fresh ahead of next year.
 
@@ -33,10 +31,10 @@ To enter, download the Surridge Kit Template for the sport of your choice (footb
 
 **Download the playing kit of the sport you'd like to design by clicking on its name below, and saving the picture to your computer.**
 
-[FOOTBALL](/wp-content/uploads/2021/05/Football-SD-2-scaled.jpg)
+FOOTBALL
 
-[NETBALL](/wp-content/uploads/2021/05/netballNV-2-scaled.jpg)
+NETBALL
 
-[RUGBY](/wp-content/uploads/2021/05/rugby-2-scaled.jpg)
+RUGBY
 
-[BASKETBALL](/wp-content/uploads/2021/05/basketball-SD-2-scaled.jpg)
+BASKETBALL

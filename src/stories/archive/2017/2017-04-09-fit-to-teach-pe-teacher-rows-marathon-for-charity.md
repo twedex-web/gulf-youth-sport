@@ -3,8 +3,8 @@ title: "FIT TO TEACH: PE Teacher Rows Marathon for Charity"
 date: 2017-04-09T00:00:00+04:00
 slug: "fit-to-teach-pe-teacher-rows-marathon-for-charity"
 excerpt: "Don't fancy running a marathon? How about rowing one instead?!"
+image: "/images/archive/2019/09/main-img-94201712364.webp"
 wpId: 617
-wpFeaturedImage: "2019/09/Main-img-94201712364.jpg"
 ---
 
 **Don't fancy running a marathon? How about rowing one instead?!**

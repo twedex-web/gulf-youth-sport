@@ -5,9 +5,9 @@ slug: "jess-students-mean-business-at-world-school-games"
 kicker: "Match Zone"
 categories: ["Match Zone", "News & Features", "World School Games"]
 standfirst: "Jumeirah English Speaking School students are impatient to start their U-13 World School Games campaign."
+image: "/images/archive/2020/02/equu9gfxkaarye6.webp"
 metaDescription: "Jumeirah English Speaking School students are impatient to start their U-13 World School Games campaign."
 wpId: 2250
-wpFeaturedImage: "2020/02/EQuu9GfXkAARYE6.jpeg"
 ---
 
 Jumeirah English Speaking School students are impatient to start their U-13 [World School Games](http://wsgevents.com/) campaign.
@@ -15,8 +15,6 @@ Jumeirah English Speaking School students are impatient to start their U-13 [Wo
 Eagerly anticipating their chance to compete against teams from around the world at the three-day Dubai event, the school has been putting countless hours into preparing.
 
 From added hours at school to be ready for athletics on Thursday to competing in external tournaments, coach Daniel Main said his squad is ready to go.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/02/8B5A7644-200x300.jpg" alt=""><figcaption>JESS' U-11 WSG success.</figcaption></figure>
 
 "JESS are looking forward to competing against schools from all over the world this weekend," he said.
 

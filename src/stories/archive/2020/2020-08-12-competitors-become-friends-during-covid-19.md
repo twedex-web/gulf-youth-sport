@@ -4,8 +4,8 @@ date: 2020-08-12T10:03:42+04:00
 slug: "competitors-become-friends-during-covid-19"
 categories: ["GYS", "News & Features"]
 excerpt: "What is the sporting scene looking like right now and where is it headed?"
+image: "/images/archive/2020/08/screen-shot-2020-08-12-at-21-36-22-e1597232248397.webp"
 wpId: 3654
-wpFeaturedImage: "2020/08/Screen-Shot-2020-08-12-at-21.36.22-e1597232248397.png"
 ---
 
 What is the sporting scene looking like right now and where is it headed?

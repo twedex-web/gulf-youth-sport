@@ -3,8 +3,8 @@ title: "World School Games: Day Two"
 date: 2018-02-09T00:00:00+04:00
 slug: "world-school-games-day-two"
 excerpt: "It was a day of football action at The World School Games in Dubai on Friday as 12 teams from across the globe travelled to Sports City on the second of three days of competition."
+image: "/images/archive/2019/09/main-img-92201817730.webp"
 wpId: 903
-wpFeaturedImage: "2019/09/Main-img-92201817730.jpg"
 ---
 
 **It was a day of football action at The World School Games in Dubai on Friday as 12 teams from across the globe travelled to Sports City on the second of three days of competition.**

@@ -5,8 +5,8 @@ slug: "stunning-jess-performance-puts-dubai-netball-on-the-map-at-world-schools-
 kicker: "Netball"
 categories: ["Netball", "News & Features", "World School Games"]
 excerpt: "The U13 Netball team of JESS Ranches defied the odds against some of the most prestigious schools in the UK to claim silver medals in the inaugural World Schools Netball Cup."
+image: "/images/archive/2019/07/small-img-27201993954-c886bafd0c1b41caba40e47ee00971f6.webp"
 wpId: 13
-wpFeaturedImage: "2019/07/small-img-27201993954-c886bafd0c1b41caba40e47ee00971f6.png"
 ---
 
 **The U13 Netball team of JESS Ranches defied the odds against some of the most prestigious schools in the UK to claim silver medals in the inaugural World Schools Netball Cup.**

@@ -5,9 +5,9 @@ slug: "bsme-u15-games-get-underway-in-bahrain-and-uae"
 kicker: "BSME Games"
 categories: ["BSME Games", "News & Features"]
 standfirst: "The first BSME Games multi-sports events of 2024 are underway this weekend in Bahrain and Abu Dhabi, UAE with schools from across the region."
+image: "/images/archive/2024/01/20240118-ron-0880.webp"
 metaDescription: "The first BSME Games multi-sports events of 2024 are underway this weekend in Bahrain and Abu Dhabi, UAE with schools from across the region."
 wpId: 6777
-wpFeaturedImage: "2024/01/20240118-RON_0880-scaled.jpg"
 ---
 
 The first BSME Games multi-sports events of 2024 are underway this weekend in Bahrain and Abu Dhabi, UAE with students from across the region coming together to compete, learn and meet friends new and old.

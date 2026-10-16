@@ -4,8 +4,8 @@ date: 2020-10-16T04:38:29+04:00
 slug: "swimming-the-english-channel-for-grandad"
 categories: ["News & Features"]
 excerpt: "Young athletes in the Gulf love setting themselves a challenge and Shamsa Al Mheiri,11, has given herself the goal of swimming the equivalent of the English Channel."
+image: "/images/archive/2020/10/screenshot-20201015-172324-instagram-e1602819476247.webp"
 wpId: 4128
-wpFeaturedImage: "2020/10/Screenshot_20201015-172324_Instagram-e1602819476247.jpg"
 ---
 
 **Young athletes in the Gulf love setting themselves a challenge and Shamsa Al Mheiri,11, has given herself the goal of swimming the equivalent of the English Channel.**
@@ -18,7 +18,7 @@ wpFeaturedImage: "2020/10/Screenshot_20201015-172324_Instagram-e1602819476247.jp
 
 _My passion lies with the horses. I currently hold the title of UAE junior dressage champion. I am also a showjumper on the FBMA team "Fatima Bint Mubarak Academy' an academy aimed at encouraging and supporting Emirati females into sports._
 
-_My dream and goal is to one day to represent the UAE at the Olympics in equestrian and  not only will I do it for my country, but for my grandfather. ![](https://gulfyouthsport.com/wp-content/uploads/2020/10/DSC04235-640x427.jpg)_ 
+_My dream and goal is to one day to represent the UAE at the Olympics in equestrian and  not only will I do it for my country, but for my grandfather._
 
 _I'm very much into a lot of team sports. I was chosen to represent my school at the BSME Games which unfortunately didn't take place this year._ 
 

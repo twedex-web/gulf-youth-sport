@@ -4,8 +4,8 @@ date: 2020-07-23T08:45:18+04:00
 slug: "dubai-sports-council-holds-international-women-and-sports-forum"
 categories: ["GYS", "News & Features"]
 excerpt: "Yesterday Dubai Sports Council brought together minds from across the world for an International Women and Sports Forum."
+image: "/images/archive/2020/07/screen-shot-2020-07-22-at-17-59-56.webp"
 wpId: 3561
-wpFeaturedImage: "2020/07/Screen-Shot-2020-07-22-at-17.59.56.png"
 ---
 
 Yesterday Dubai Sports Council brought together minds from across the world for an International Women and Sports Forum.
@@ -13,8 +13,6 @@ Yesterday Dubai Sports Council brought together minds from across the world for 
 Panellists discussed challenges facing women's sport, the sector's response to COVID-19 and what assistance is needed in the future.
 
 A notable guest speaker was French footballer Laura Stephanie Georges. With three World Cup appearances (2003, 2011 and 2015) behind her as well as a host of UEFA Women's Championships, she had plenty of knowledge to impart.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/07/Laura_Georges_in_2011.jpg" alt=""><figcaption>Laura Georges in action.</figcaption></figure>
 
 "We know what sports bring to us. Thanks to sports we feel more emancipated, we feel more powerful," Georges said.
 

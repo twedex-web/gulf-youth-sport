@@ -3,8 +3,8 @@ title: "WSO girls' rugby success inspires next generation"
 date: 2018-03-26T00:00:00+04:00
 slug: "wso-girls-rugby-success-inspires-next-generation"
 excerpt: "Author: Liam Dickson"
+image: "/images/archive/2019/09/main-img-263201895410.webp"
 wpId: 966
-wpFeaturedImage: "2019/09/Main-img-263201895410.jpg"
 ---
 
 Author: Liam Dickson

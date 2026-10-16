@@ -4,8 +4,8 @@ date: 2019-03-12T00:00:00+04:00
 slug: "city-fc-look-to-break-the-mould-with-new-city-sixes-tournament"
 categories: ["News & Features"]
 excerpt: "City Football Club are excited for the launch of the first City Sixes Tournament later this week."
+image: "/images/archive/2019/09/img-1932019153758-172c7f19169b4f85b497340443d13cd6.webp"
 wpId: 1194
-wpFeaturedImage: "2019/09/img-1932019153758-172c7f19169b4f85b497340443d13cd6.jpg"
 ---
 
 City Football Club are excited for the launch of the first City Sixes Tournament later this week.

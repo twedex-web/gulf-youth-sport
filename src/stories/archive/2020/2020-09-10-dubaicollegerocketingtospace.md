@@ -4,15 +4,15 @@ date: 2020-09-10T03:54:39+04:00
 slug: "dubaicollegerocketingtospace"
 categories: ["GYS", "News & Features"]
 excerpt: "Dubai College’s sporting facilities are first rate after major improvements were completed across the summer break."
+image: "/images/archive/2020/09/118653375-1437203123142923-4999979462776535208-o.webp"
 wpId: 3844
-wpFeaturedImage: "2020/09/118653375_1437203123142923_4999979462776535208_o.jpg"
 ---
 
 Dubai College’s sporting facilities are first rate after major improvements were completed across the summer break.
 
 Director of sport Andy Jones said students were in awe as they toured the new courts, gym, fitness centres and pool they’ll now use for PE lessons and extra-curricular sport.
 
-“The students have been amazed by the new facilities available to them, having had the previous academic year in makeshift facilities. We are very excited to offer the students a wide and varied exercise and sporting programme, which will become available when Covid restrictions ease,” he said.![](https://gulfyouthsport.com/wp-content/uploads/2020/09/Fitness-suite-new-640x480.jpg)
+“The students have been amazed by the new facilities available to them, having had the previous academic year in makeshift facilities. We are very excited to offer the students a wide and varied exercise and sporting programme, which will become available when Covid restrictions ease,” he said.
 
 “We are delighted that our new facility, The SPACE (Sport, Performing Arts Centre of Excellence) is complete and ready for the start of term. We have a few last minute tasks to complete, such as finishing touches with the swimming pool but we are almost fully open.”
 

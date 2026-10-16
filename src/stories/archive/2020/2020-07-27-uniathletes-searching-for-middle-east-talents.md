@@ -4,8 +4,8 @@ date: 2020-07-27T08:34:38+04:00
 slug: "uniathletes-searching-for-middle-east-talents"
 categories: ["GYS", "News & Features"]
 excerpt: "Two former USA college swimmers are searching for talents in the Middle East to send on the same path."
+image: "/images/archive/2020/07/80814671-732615133902464-3765934798099447808-n.webp"
 wpId: 3572
-wpFeaturedImage: "2020/07/80814671_732615133902464_3765934798099447808_n.jpg"
 ---
 
 Two former USA college swimmers are searching for talents in the Middle East to send on the same path.
@@ -17,8 +17,6 @@ Frenchwoman Valerie Inghels and Italian Ilaria Manzella met while swimming at Fl
 "Even though I was super happy with being in the US and the entire experience, I felt with the entire process before getting there I wasn’t really getting the help I needed and Illaria doing it by herself felt she missed out on something."
 
 UniAthletes has spread across Europe and is now moving into the Middle East. It has consultants working on finding schools for students specialising in swimming, tennis, football, rowing and track and field, and Inghels stressed the importance of employing those in the know.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-27-at-17.27.38-1024x621.png" alt=""><figcaption>UniAthletes co-founders Valerie Inghels (left) and Illaria Manzella.</figcaption></figure>
 
 "We only really work with consultants that have been to the US and are international students that have that experience of coming from another country and going to the US so maybe they've had to learn the language or even if they're English speaking, they've had to get used to a new culture," she said.
 

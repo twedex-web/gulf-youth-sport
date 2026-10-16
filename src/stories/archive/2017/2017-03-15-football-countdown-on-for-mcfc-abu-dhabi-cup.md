@@ -3,8 +3,8 @@ title: "FOOTBALL: Countdown on for MCFC Abu Dhabi Cup"
 date: 2017-03-15T00:00:00+04:00
 slug: "football-countdown-on-for-mcfc-abu-dhabi-cup"
 excerpt: "The inaugural Manchester City Abu Dhabi Cup is now just ten days away, and with more than 800 players across four age-groups battling it out for some incredible prizes, the excitement in the capital is building."
+image: "/images/archive/2019/09/main-img-153201772212.webp"
 wpId: 590
-wpFeaturedImage: "2019/09/Main-img-153201772212.jpg"
 ---
 
 The inaugural **Manchester City Abu Dhabi Cup** is now just ten days away, and with more than 800 players across four age-groups battling it out for some incredible prizes, the excitement in the capital is building.

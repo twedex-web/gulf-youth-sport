@@ -5,9 +5,9 @@ slug: "hamilton-aquatics-diving-in-to-a-busy-month"
 kicker: "Swimming"
 categories: ["News & Features", "Swimming"]
 standfirst: "Hamilton Aquatic Dubai swimmers are preparing for a hectic few weeks that began this weekend."
+image: "/images/archive/2019/11/screen-shot-2019-11-26-at-12-32-39-pm.webp"
 metaDescription: "Hamilton Aquatic Dubai swimmers are preparing for a hectic few weeks that began this weekend."
 wpId: 1558
-wpFeaturedImage: "2019/11/Screen-Shot-2019-11-26-at-12.32.39-pm.png"
 ---
 
 Hamilton Aquatics will yet again bid farewell to three star pupils next year when they head to US universities.
@@ -24,7 +24,7 @@ But next weekend's results are not as assured when Hamilton Aquatics hosts the f
 
 Third in a trio of busy weekends is an extravaganza of swimming on Dec 13-14 with teams spread out across the HA Development Gala, Speedo Swim Fast League and UAE Abu Dhabi Championships.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2019/11/74243349_2764625770215151_8629954891105697792_o.jpg)It may seem like a heavy workload but Morris and his fellow coaches are well versed in preparing their swimmers.
+It may seem like a heavy workload but Morris and his fellow coaches are well versed in preparing their swimmers.
 
 "At Hamilton Aquatics we plan our training cycles to peak at main events," he said.
 

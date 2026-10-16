@@ -3,11 +3,11 @@ title: "Gulf Youth Sport Announced as Official Media Partner of U11 BSME Games 2
 date: 2018-02-27T00:00:00+04:00
 slug: "gulf-youth-sport-announced-as-official-media-partner-of-u11-bsme-games-2018"
 excerpt: "Gulf Youth Sport is delighted to announce its position as Official Media Partner for the BSME U11 Large School Games at Dubai’s Kings’ School Al Barsha this week."
+image: "/images/archive/2019/09/main-img-272201892217.webp"
 wpId: 931
-wpFeaturedImage: "2019/09/Main-img-272201892217.jpg"
 ---
 
-**Gulf Youth Sport is delighted to announce its position as Official Media Partner for the BSME U11 Large School Games at Dubai’s Kings’ School Al Barsha this week.**![](http://gulfyouthsport.com/Admin/Content/UserFiles/bsme-logo.png)
+**Gulf Youth Sport is delighted to announce its position as Official Media Partner for the BSME U11 Large School Games at Dubai’s Kings’ School Al Barsha this week.**
 
 The event will see 16 schools from across the Middle East travel to the UAE in a bid to be crowned 2018 Champions. The event includes five sports; athletics, swimming, football, boys’ basketball and girls’ netball, all to be hosted at Kings’ Al Barsha.
 

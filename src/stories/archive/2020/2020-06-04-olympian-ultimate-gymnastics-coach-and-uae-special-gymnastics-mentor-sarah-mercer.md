@@ -5,8 +5,8 @@ slug: "olympian-ultimate-gymnastics-coach-and-uae-special-gymnastics-mentor-sara
 kicker: "Gymnastics"
 categories: ["Gymnastics", "News & Features"]
 excerpt: "The Olympics marks the pinnacle of competition for many sports, and regardless of how slim the chance is of reaching the Games, so many athletes devote much of their life to reaching them."
+image: "/images/archive/2020/06/screen-shot-2020-06-03-at-11-48-09.webp"
 wpId: 3309
-wpFeaturedImage: "2020/06/Screen-Shot-2020-06-03-at-11.48.09.png"
 ---
 
 The Olympics marks the pinnacle of competition for many sports, and regardless of how slim the chance is of reaching the Games, so many athletes devote much of their life to reaching them. Absolute Gymnastics coach Sarah Mercer in one athlete who reached the top of her sport, and competed for Great Britain at the 1992 Olympics in Barcelona.
@@ -25,7 +25,7 @@ It was like nothing I had ever seen before. 10,000 athletes in an Olympic Villag
   
 Around the age of 11, my coaches and my parents started making it possible for me to have an international career. My family moved halfway across the world so that I could represent the United Kingdom internationally. I always knew that 1992 Barcelona was my only chance and that’s all I ever dreamed about and worked towards.  
 
-#### **Who impacted when you were moving up the ranks as a young gymnast?![](https://gulfyouthsport.com/wp-content/uploads/2020/06/Sarah-Mercer-640x905.jpg)**
+#### **Who impacted when you were moving up the ranks as a young gymnast?**
 
   
 My idol was Russian gymnast Elena Shushunova who won the 1988 Olympic all-around. I loved how hard working and determined she was, not naturally talented but always gave it her all. I suppose I wanted to be exactly like her, as I was not naturally talented but worked hard to achieve what I did.  

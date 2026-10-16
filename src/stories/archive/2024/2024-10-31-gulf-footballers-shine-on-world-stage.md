@@ -45,7 +45,7 @@ Their stellar record saw them book their place in the Cup Final, where a tough t
 
 However, despite a goalless draw when the sides met earlier in Group A, GEMS WEK ran out comfortable 2-0 winners in front of the live stream cameras and got their hands on the illustrious World Schools Football Cup.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2024/10/dbewug67421472-1024x683.jpg)
+![](/images/archive/2024/10/dbewug67421472.webp)
 
 Alfie Jowett-Yorke, who scored both of GEMS WEK’s goals in the final, spoke post-match of his delight at firing his team to victory.
 
@@ -58,7 +58,7 @@ Another Gulf-based school to enjoy success in Barcelona was Brighton College Abu
 
 After finishing top of Group A with a near-perfect record of six wins and one draw, BCAD faced Tanzanian team Braeburn School in Sunday’s Cup Final.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2024/10/dbewug67421377-300x200.jpg)
+![](/images/archive/2024/10/dbewug67421377.webp)
 
 A highly-entertaining match played out in front of a packed Pitch B crowd, with BCAD eventually running out 5-3 victors and securing the U15 Girls World Schools Football Cup for 2024.
 

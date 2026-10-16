@@ -3,8 +3,8 @@ title: "COMPETITION: Win a Place at the Great Britain Athletics Academy"
 date: 2018-02-25T00:00:00+04:00
 slug: "competition-win-a-place-at-the-great-britain-athletics-academy"
 excerpt: "The British Olympians are coming! For your chance to win a FREE place at next week's Great Britain Athletics Academy, held at Kings' School Nad Al Sheba Sunday 4th March - Thursday 8th March, complete the form below by…"
+image: "/images/archive/2019/09/main-img-252201810477.webp"
 wpId: 927
-wpFeaturedImage: "2019/09/Main-img-252201810477.jpg"
 ---
 
 **The British Olympians are coming! For your chance to win a FREE place at next week's Great Britain Athletics Academy, held at Kings' School Nad Al Sheba Sunday 4th March - Thursday 8th March, complete the form below by 5pm (UAE time) on Wednesday 28th February 2018.**

@@ -3,8 +3,8 @@ title: "Ardakani Magic Nets Raffles World Academy First DASSA Win"
 date: 2017-11-09T00:00:00+04:00
 slug: "ardakani-magic-nets-raffles-world-academy-first-dassa-win"
 excerpt: "Rajai Ardakani lit up the basketball arena at Dubai British School with fourteen baskets in an eye-catching display as Raffles World Academy (RWA) overcame Dubai British School (DBS) in the fourth week of fixtures in…"
+image: "/images/archive/2019/09/main-img-911201772150.webp"
 wpId: 818
-wpFeaturedImage: "2019/09/Main-img-911201772150.jpg"
 ---
 
 Rajai Ardakani lit up the basketball arena at Dubai British School with fourteen baskets in an eye-catching display as [Raffles World Academy (RWA)](http://www.rwadubai.com/) overcame [Dubai British School (DBS)](https://www.dubaibritishschool.ae/) in the fourth week of fixtures in the [DASSA](http://www.dassasport.org/) U16 league sponsored by [Trans World Educational Experiences](http://twedex.com/), Gulf Youth Sport reports.

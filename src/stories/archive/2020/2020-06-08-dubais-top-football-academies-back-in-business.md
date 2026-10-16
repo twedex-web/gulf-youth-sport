@@ -5,15 +5,15 @@ slug: "dubais-top-football-academies-back-in-business"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "Some of Dubai’s top football academies, including Manchester City, Barcelona and Juventus have reopened their doors for training after weeks of closure due to COVID-19."
+image: "/images/archive/2020/06/it-s-just-football.webp"
 wpId: 3327
-wpFeaturedImage: "2020/06/It’s-Just-Football.jpg"
 ---
 
 Some of Dubai’s top football academies, including Manchester City, Barcelona and Juventus have reopened their doors for training after weeks of closure due to COVID-19. Others are waiting for restrictions to ease on players under the age of 12.
 
 Manchester City Football Schools, Barca Academy, It's Just Football, Elite Sports and Juventus Academy Dubai have already resumed training players in the 12-18 age group in accordance with regulations approved by the Government of Dubai, as well as the guidelines issued by Dubai Sports Council.
 
-Other prominent academies are waiting for the authorities to ease restrictions on players aged 12 and under. Chief among them are Real Madrid Foundation Football Academy, Liverpool Football Academy, Arsenal Soccer School, Manchester United Soccer School and AS Roma Academy.![Dubai Sports Council](https://gulfyouthsport.com/wp-content/uploads/2020/04/DSC_Logo-300x212.jpg)
+Other prominent academies are waiting for the authorities to ease restrictions on players aged 12 and under. Chief among them are Real Madrid Foundation Football Academy, Liverpool Football Academy, Arsenal Soccer School, Manchester United Soccer School and AS Roma Academy.
 
 In the first phase of reopening of sports facilities in the Emirate of Dubai, authorities have not permitted children below the age of 12 and people above the age of 60 to take part in sports activities at these facilities.
 

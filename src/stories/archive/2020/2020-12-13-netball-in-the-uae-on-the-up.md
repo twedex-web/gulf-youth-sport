@@ -4,8 +4,8 @@ date: 2020-12-13T04:43:35+04:00
 slug: "netball-in-the-uae-on-the-up"
 categories: ["News & Features"]
 excerpt: "Active Netball director Susanne Skelding is synonymous with netball in the UAE!"
+image: "/images/archive/2020/12/screen-shot-2020-12-13-at-15-43-07.webp"
 wpId: 4558
-wpFeaturedImage: "2020/12/Screen-Shot-2020-12-13-at-15.43.07.png"
 ---
 
 **Active Netball director Susanne Skelding is synonymous with netball in the UAE!**

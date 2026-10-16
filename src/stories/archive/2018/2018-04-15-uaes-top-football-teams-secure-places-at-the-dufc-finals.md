@@ -3,8 +3,8 @@ title: "UAE's Top Football Teams Secure Places at the duFC Finals"
 date: 2018-04-15T00:00:00+04:00
 slug: "uaes-top-football-teams-secure-places-at-the-dufc-finals"
 excerpt: "One of the most anticipated days at the du Football Champions - the national semi-finals, took place on Saturday where the 48 strongest youth football teams from Abu Dhabi, Al Ain, Northern Emirates and Dubai faced off…"
+image: "/images/archive/2019/09/main-img-1542018101116.webp"
 wpId: 994
-wpFeaturedImage: "2019/09/Main-img-1542018101116.jpg"
 ---
 
 **One of the most anticipated days at the du Football Champions - the national semi-finals, took place on Saturday where the 48 strongest youth football teams from Abu Dhabi, Al Ain, Northern Emirates and Dubai faced off for the first time to secure their place in the finals of du Football Champions taking place at Dubai Mall on 20th April.**

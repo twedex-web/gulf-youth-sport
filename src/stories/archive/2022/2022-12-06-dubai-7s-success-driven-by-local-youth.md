@@ -5,9 +5,9 @@ slug: "dubai-7s-success-driven-by-local-youth"
 kicker: "Rugby"
 categories: ["GYS", "News & Features", "Rugby"]
 standfirst: "The Dubai 7s 2023 became a huge hit with the gulf youth, as youngsters had a phenomenal time enjoying sport over the weekend."
+image: "/images/archive/2022/12/fjhdzv6xeaax6ww.webp"
 metaDescription: "The Dubai 7s 2023 became a huge hit with the gulf youth, as youngsters had a phenomenal time enjoying sport over the weekend."
 wpId: 5819
-wpFeaturedImage: "2022/12/FjHdZV6XEAAx6ww.jpg"
 ---
 
 **The Dubai 7s 2023 became a huge hit with the Gulf youth, as youngsters had a phenomenal time enjoying sport over the weekend.** 
@@ -20,13 +20,13 @@ First, Jumeirah English Speaking School's (JESS) Boys U19 Rugby team made the mo
 
 On the girls' side of the Gulf Under 19s rugby action, it was Dubai College's (DC) team chemistry leading them to become cup final bound. Next, DC had a challenging cup final quest, as they went head-on with the JESS Blues. DC overcame the adversity with a team effort that led to a commanding 33-12 result, crowning them cup champions.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2022/12/FjESWqeWIAEUbqq-300x221.jpg" alt="Dubai College taking on JESS in the Gulf U19 Champions. Photo credit: Dubai College"><figcaption>Dubai College taking on JESS in the Gulf U19 tournament. Photo credit: Dubai College</figcaption></figure>
+<figure><img src="/images/archive/2022/12/fjeswqewiaeubqq.webp" alt="Dubai College taking on JESS in the Gulf U19 Champions. Photo credit: Dubai College"><figcaption>Dubai College taking on JESS in the Gulf U19 tournament. Photo credit: Dubai College</figcaption></figure>
 
 Not only was Dubai College sport dominant on the rugby pitch, but displayed tremendous success in Dubai 7s netball too. After pivoting through the Gulf Youth Aspire Cup, DC would have a match date set against Jebel Ali School. It would take the final whistle blown for Dubai College to be victors in the cup final, with a close 9-8 win.
 
 Continuing with netball, JESS Dubai Sport continued to make noise in the Dubai 7s. Through sensational performances the school won a tournament triple-crown, winning silverware in the U11, U13, and U15 age group categories.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2022/12/317663865_3352518984961838_3923495723866153126_n-300x165.jpg" alt=""><figcaption>JESS netball worked their way to a tournament triple-crown last weekend in the Dubai 7s. Photo credit: JESS Sport</figcaption></figure>
+<figure><img src="/images/archive/2022/12/317663865-3352518984961838-3923495723866153126-n.webp" alt=""><figcaption>JESS netball worked their way to a tournament triple-crown last weekend in the Dubai 7s. Photo credit: JESS Sport</figcaption></figure>
 
 It wasn't just local schools that enjoyed the atmosphere and festivities of the tournament, but also the community youth. 
 

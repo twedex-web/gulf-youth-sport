@@ -5,11 +5,11 @@ slug: "dbsj-bsme-muscat-2026-results"
 kicker: "BSME Games"
 categories: ["BSME Games", "In The Spotlight", "News & Features"]
 standfirst: "DBS Jumeira makes history at the BSME U11 Games in Muscat! Read the full tournament report featuring Football and Athletics, swimming highlights, and team results."
+image: "/images/archive/2026/04/bsme-u11-games-dbs-jumeira.webp"
 imageAlt: "DBS Jumeira in Muscat, competing in their first BSME Games"
 seoTitle: "DBS Jumeira BSME Games Muscat 2026: Results & Highlights"
 metaDescription: "DBS Jumeira makes history at the BSME U11 Games in Muscat! Read the full tournament report featuring Football and Athletics, swimming highlights, and team results."
 wpId: 7093
-wpFeaturedImage: "2026/04/BSME-U11-games-DBS-Jumeira.png"
 ---
 
 ## **A New Era: DBS Jumeira Navigates International Debut at the BSME U11 Muscat Classic**
@@ -105,4 +105,4 @@ For the families of the "DBSJ Debutants," the Muscat trip was about more than ju
 
 The BSME U11 Games are a development milestone. For DBS Jumeira, the Muscat Classic wasn't just about the points on the board; it was about building a culture of international competition. As they return to Dubai, the "Jumeira Spirit" has been forged in the heat of BSME battle, setting the stage for years of success to come.
 
-[See the photos from the U11 BSME White Games](<http://Link to photos from event. https://gys001.zenfolio.com/f1029210220>)
+See the photos from the U11 BSME White Games

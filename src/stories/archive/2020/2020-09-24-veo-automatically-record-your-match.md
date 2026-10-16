@@ -4,8 +4,8 @@ date: 2020-09-24T04:23:57+04:00
 slug: "veo-automatically-record-your-match"
 categories: ["News & Features"]
 excerpt: "Focus on the live match in front of you, but still benefit from a polished recording of the game afterwards with a Veo camera."
+image: "/images/archive/2020/09/1-how-to-thumbnail-1.webp"
 wpId: 3977
-wpFeaturedImage: "2020/09/1-how-to-thumbnail-1.jpg"
 ---
 
 Focus on the live match in front of you, but still benefit from a polished recording of the game afterwards with a Veo camera. The camera needs no operator and automatically follows the ball so you can relive every superb goal or blistering play.

@@ -4,8 +4,8 @@ date: 2021-02-18T05:41:07+04:00
 slug: "study-play-and-develop-internationally"
 categories: ["News & Features"]
 excerpt: "A tailored nutritional breakfast followed by high performance training on supreme pitches, rehab in an inviting pool surrounded by palm trees and study in your room overlooking greenery."
+image: "/images/archive/2021/02/125269453-244996867050355-2700645162672435574-o.webp"
 wpId: 4939
-wpFeaturedImage: "2021/02/125269453_244996867050355_2700645162672435574_o.jpg"
 ---
 
 **A tailored nutritional breakfast followed by high performance training on supreme pitches, rehab in an inviting pool surrounded by palm trees and study in your room overlooking greenery. That's the life of a student athlete at International Development Academy's Valencia campus.**

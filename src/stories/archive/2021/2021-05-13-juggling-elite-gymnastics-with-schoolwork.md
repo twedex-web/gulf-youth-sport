@@ -5,8 +5,8 @@ slug: "juggling-elite-gymnastics-with-schoolwork"
 kicker: "Sports Media Course"
 categories: ["Sports Media Course"]
 excerpt: "By Zeina Kareem Elwy Have you ever wondered how to juggle schoolwork and your passions? Do you want to dedicate your life to your passions but are still a student? In this article, we interview Elizabeth Golding,…"
+image: "/images/archive/2021/05/pastedimagebase640-2-e1620898816900.webp"
 wpId: 5192
-wpFeaturedImage: "2021/05/pastedImagebase640-2-e1620898816900.jpg"
 ---
 
 _By Zeina Kareem Elwy  

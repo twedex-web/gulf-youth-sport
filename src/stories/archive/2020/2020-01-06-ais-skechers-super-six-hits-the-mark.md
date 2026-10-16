@@ -5,9 +5,9 @@ slug: "ais-skechers-super-six-hits-the-mark"
 kicker: "Multi-Sports"
 categories: ["Multi-Sports", "News & Features"]
 standfirst: "The AIS Sketchers Super Six event held last month was Dubai's first multi-event tournament for kids and 230 students took part in all six events including long jump, discus and sprints."
+image: "/images/archive/2020/01/screen-shot-2020-01-06-at-10-58-05-am.webp"
 metaDescription: "The AIS Sketchers Super Six event held last month was Dubai's first multi-event tournament for kids and 230 students took part in all six events including long jump, discus and sprints."
 wpId: 1708
-wpFeaturedImage: "2020/01/Screen-Shot-2020-01-06-at-10.58.05-am.png"
 ---
 
 Student athletes across Dubai are being encouraged to throw, jump or run in every athletic discipline.
@@ -25,8 +25,6 @@ With meets being held across the UK, event director Umar Hameed said this opport
 "Half the battle is getting over your fear of the event and just enjoying it.
 
 "It’s very important that kids have the opportunity to try different disciplines because at a young age it’s not about finding the next Olympic champion, but in fact teaching kids transferable skills and basic movement patterns.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-06-at-10.58.33-am.png)
 
 "(A) pleasing thing was seeing young athletes who don’t participate in athletics usually giving the event a go! We found some diamonds in the rough!"
 

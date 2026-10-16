@@ -5,15 +5,13 @@ slug: "dive-right-in-with-dudive-dubai"
 kicker: "Sports Media Course"
 categories: ["GYS", "News & Features", "Sports Media Course"]
 excerpt: "By Danielle Guerin DuDive Dubai is the only springboard and highboard diving club in the UAE."
+image: "/images/archive/2020/08/pike.webp"
 wpId: 3612
-wpFeaturedImage: "2020/08/pike-scaled-e1596455729453.jpg"
 ---
 
 _By Danielle Guerin  
 _  
 DuDive Dubai is the only springboard and highboard diving club in the UAE. Whether you’re a complete newbie to the sport or just want to get on the boards to have some fun, DuDive has a lesson for you. DuDive offers diving lessons for children aged three and up.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/08/pike2-scaled-e1596455913586-640x619.jpg" alt=""><figcaption>Danielle Guerin is a talented diver and also the author of this article.</figcaption></figure>
 
 DuDive has an excellent talent identification program in which experienced coaches go into schools to perform a series of fun and challenging tests. This usually takes place in the school gymnasium or hall and is usually during PE lessons. Many children are usually unaware of the talent they have and if they seem fit then they will be given a letter inviting them to attend Phase 2.
 

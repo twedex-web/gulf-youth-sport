@@ -5,8 +5,8 @@ slug: "what-are-usa-coaches-looking-for-in-a-gulf-basketball-recruit"
 kicker: "Basketball"
 categories: ["Basketball", "News & Features"]
 excerpt: "USA prep school and college basketball coaches are constantly looking for a recruiting advantage or an innovative method to bring in impact players."
+image: "/images/archive/2020/05/img-7386.webp"
 wpId: 3145
-wpFeaturedImage: "2020/05/IMG_7386-scaled.jpg"
 ---
 
 USA prep school and college basketball coaches are constantly looking for a recruiting advantage or an innovative method to bring in impact players.
@@ -19,7 +19,7 @@ Tom DiCollela, a basketball coach at Marianapolis Prep, said he looked to bring 
 
 "Our aim every year is to bring in to our team at least one or two foreign players. There is no doubt international players bring an element of teamwork which is hard to find in local players. Ali Abdel-Jalil was the consummate teammate always putting the team first and himself second," he said.
 
-"Our international players bring a level of physicality that is hard to find in the U.S.A.![](https://gulfyouthsport.com/wp-content/uploads/2020/05/IMG_7388-1024x683.jpg)"
+"Our international players bring a level of physicality that is hard to find in the U.S.A."
 
 The basketball culture in the USA does not lend itself to raising 'team first' players. From a very young age, club basketball raises players to play one-on-one basketball. DiCollela said he believed the reason his team has been so successful recently is the influx of Gulf-born players who set the tone for the team.
 

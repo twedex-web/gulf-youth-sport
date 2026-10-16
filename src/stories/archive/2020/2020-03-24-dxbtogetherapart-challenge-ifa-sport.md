@@ -4,8 +4,8 @@ date: 2020-03-24T12:14:52+04:00
 slug: "dxbtogetherapart-challenge-ifa-sport"
 categories: ["GYS"]
 excerpt: "Like every other sporting league in the world, DASSA’s regular season has been thrown into turmoil. But this has not stopped the organisation creating an initiative to unite schools through sport."
+image: "/images/archive/2020/03/screen-shot-2020-03-24-at-12-10-03.webp"
 wpId: 2652
-wpFeaturedImage: "2020/03/Screen-Shot-2020-03-24-at-12.10.03.png"
 ---
 
 _Like every other sporting league in the world, DASSA’s regular season has been thrown into turmoil. But this has not stopped the organisation creating an initiative to unite schools through sport._

@@ -51,7 +51,7 @@ The gathering at RGS Dubai provided a venue for athletic directors to align on r
 
 "The Welcome Back meeting is always a pivotal moment on the calendar because it locks in the standards, values, and competitive opportunities for every student competing under the DASSA banner," said Roger Nicholson, Associate Head Co-Curricular at JESS Dubai and DASSA Secondary Chair. "Bringing all Heads of PE together under one roof sets the tone for the entire academic year and ensures we are delivering the best possible sporting experience for our young athletes."
 
-### **![](https://gulfyouthsport.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-4.36.24-pm.png)**
+### **![](/images/archive/2026/09/screenshot-2026-09-02-at-4-36-24-pm.webp)**
 
   
 

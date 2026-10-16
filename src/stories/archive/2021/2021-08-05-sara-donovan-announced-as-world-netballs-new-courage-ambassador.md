@@ -5,15 +5,13 @@ slug: "sara-donovan-announced-as-world-netballs-new-courage-ambassador"
 kicker: "Netball"
 categories: ["Netball", "News & Features"]
 standfirst: "Dubai British School's Director of Sport, Sara Donovan, selected by World Netball, ahead of 350 candidates from around the world."
+image: "/images/archive/2021/08/sara-donovan.webp"
 imageAlt: "Sara Donovan"
 metaDescription: "Dubai British School's Director of Sport, Sara Donovan, selected by World Netball, ahead of 350 candidates from around the world."
 wpId: 5366
-wpFeaturedImage: "2021/08/Sara-Donovan.jpg"
 ---
 
 Following a worldwide search for inspiring candidates from the global netball family, World Netball has announced Dubai British School's Director of Sports, Sara Donovan, as its official Courage Ambassador. Standing alongside fellow ambassadors, who will comprise of globally recognised athletes, officials and sporting figures, as Courage Ambassador Sara will be a powerful advocate for netball as it moves into an exciting new chapter following World Netball’s [recent rebrand](https://netball.sport/archives/19927) (formerly known as the International Netball Federation) and the unveiling of its new strategic plan and vision for the sport.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/08/Graduating-chemo-with-the-best-nurses--241x300.jpeg" alt="Sara alongside the nurses that cared for her during her Chemotherapy treatment"><figcaption>Sara alongside the nurses that cared for her during her Chemotherapy treatment</figcaption></figure>
 
 Narrowing down over 350 entries, a judging panel chose Sara to stand alongside fellow ambassadors, as she perfectly embodies World Netball’s Courage Value with bravery, decisiveness and perseverance.
 
@@ -24,8 +22,6 @@ After a move to Dubai in 2015, Sara became the chair of the Dubai Netball League
 In December 2017, days before the third year of netball at the Dubai Rugby 7s tournament, Sara was diagnosed with stage 3 breast cancer at the age of 39. Just before this diagnosis, Sara was selected for the first ever UAE netball team. Not letting her diagnosis stand in her way, Sara began chemotherapy in January 2018 and went on to play for the UAE team in the Netball Europe Open Championship in Gibraltar in the May. Whilst battling cancer, in the midst of a chemotherapy programme, she was the starting shooter in the Netball Europe competition where the team made history, bringing home the bronze, scoring almost 200 goals in four games. Sara represented the UAE again after a double mastectomy in May 2019.
 
 In total, Sara has had 16 sessions of chemotherapy, a double mastectomy, 25 sessions of radiotherapy and reconstructive surgery, and has remained playing, coaching and teaching throughout. She raises awareness of breast cancer and fundraises using her personal experience. In her spare time Sara can be found completing triathlons, scuba diving and running - one of her biggest accomplishments is the London Marathon.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/08/7s-2019-with-the-umpires-300x225.jpeg" alt="Sara represented the UAE Netball national team whilst battling cancer"><figcaption>Sara represented the UAE Netball national team whilst battling cancer</figcaption></figure>
 
 In recognition of her embodiment of a core World Netball value, Sara will have a role at the Netball World Cup 2023, South Africa in a once-in-a-lifetime experience to be part of the global, iconic event.
 

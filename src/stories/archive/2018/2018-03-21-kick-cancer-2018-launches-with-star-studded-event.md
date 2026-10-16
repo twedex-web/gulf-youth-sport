@@ -3,8 +3,8 @@ title: "Kick Cancer 2018 Launches with Star Studded Event"
 date: 2018-03-21T00:00:00+04:00
 slug: "kick-cancer-2018-launches-with-star-studded-event"
 excerpt: "The Kick Cancer 2018 Campaign launched last night at a star studded event in Nove Cinemas, Dubai Festival City."
+image: "/images/archive/2019/09/main-img-213201872335.webp"
 wpId: 954
-wpFeaturedImage: "2019/09/Main-img-213201872335.jpg"
 ---
 
 The Kick Cancer 2018 Campaign launched last night at a star studded event in Nove Cinemas, Dubai Festival City.

@@ -4,8 +4,8 @@ date: 2020-08-16T06:06:29+04:00
 slug: "kareem9-finds-his-calling-with-judo"
 categories: ["GYS", "News & Features"]
 excerpt: "Kareem Hijaz ,9, has a message for all children in the UAE."
+image: "/images/archive/2020/08/unnamed-11-e1597542912905.webp"
 wpId: 3678
-wpFeaturedImage: "2020/08/unnamed-11-e1597542912905.jpg"
 ---
 
 Kareem Hijaz ,9, has a message for all children in the UAE.

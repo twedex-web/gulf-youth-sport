@@ -4,8 +4,8 @@ date: 2021-03-24T09:38:21+04:00
 slug: "infinite-sports-spring-break-session-information"
 categories: ["News & Features"]
 excerpt: "Whether football, cricket, gymnastics, swimming or multi-sports is your thing, Infinite Sports has something to suit for your spring break."
+image: "/images/archive/2021/03/generic-infinite-e1616578633441.webp"
 wpId: 5076
-wpFeaturedImage: "2021/03/Generic_Infinite-e1616578633441.png"
 ---
 
 Whether football, cricket, gymnastics, swimming or multi-sports is your thing, Infinite Sports has something to suit for your spring break.
@@ -28,21 +28,3 @@ Discount Code : GYS25
 To book now:
 
 [https://infinitesports.classcard.app](https://infinitesports.classcard.app/)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/03/Generic_Infinite-1.png)
-
-  
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/03/JC_IJF_SpringBreak_Flyer.png)
-
-  
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/03/IJC_DC.png)
-
-  
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/03/AG_WSO.png)
-
-  
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/03/AS_ZabeelHouse.png)

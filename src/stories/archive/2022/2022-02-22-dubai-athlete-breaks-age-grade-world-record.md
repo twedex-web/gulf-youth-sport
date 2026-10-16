@@ -5,14 +5,14 @@ slug: "dubai-athlete-breaks-age-grade-world-record"
 kicker: "Athletics"
 categories: ["Athletics", "News & Features", "Wonderkid Wednesday"]
 standfirst: "A Dubai athlete recently broke an age-grade 3,000m world record with an impressive run at Dubai International Academy this month."
+image: "/images/archive/2022/02/mia.webp"
 metaDescription: "A Dubai athlete recently broke an age-grade 3,000m world record with an impressive run at Dubai International Academy this month."
 wpId: 5578
-wpFeaturedImage: "2022/02/Mia.png"
 ---
 
 **A seven-year-old Dubai athlete has recently broken the age world record for running 3,000 metres after an incredible show of determination and self-pride.**
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/02/Mia-Hobeika-e1645540508447-242x300.jpg)
+![](/images/archive/2022/02/mia-hobeika-e1645540508447.webp)
 
 Mia Hobeika, an Ultimate Athletics athlete and student of Repton Al Barsha, recorded a time of 13:02.4 just one day before her eight birthday earlier this month to claim the record which has stood since 2019.
 

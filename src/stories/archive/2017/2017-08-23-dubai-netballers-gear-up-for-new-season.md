@@ -3,8 +3,8 @@ title: "Dubai Netballers Gear Up for New Season"
 date: 2017-08-23T00:00:00+04:00
 slug: "dubai-netballers-gear-up-for-new-season"
 excerpt: "Dubai's netballers will be back in action on the 16th of September with the annual, pre-season, Versatility Tournament."
+image: "/images/archive/2019/09/main-img-238201784543.webp"
 wpId: 695
-wpFeaturedImage: "2019/09/Main-img-238201784543.jpg"
 ---
 
 **Dubai's netballers will be back in action on the 16th of September with the annual, pre-season, Versatility Tournament.**

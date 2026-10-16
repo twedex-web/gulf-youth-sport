@@ -5,9 +5,9 @@ slug: "dassa-select-hong-kong-tour"
 kicker: "DASSA"
 categories: ["DASSA", "News & Features", "Twedex"]
 standfirst: "The U15 DASSA Select players are in Hong Kong this week for a unique five-day, multisport tour on foreign soil."
+image: "/images/archive/2024/12/screenshot-2024-12-03-103252.webp"
 metaDescription: "The U15 DASSA Select players are in Hong Kong this week for a unique five-day, multisport tour on foreign soil."
 wpId: 6858
-wpFeaturedImage: "2024/12/Screenshot-2024-12-03-103252.png"
 ---
 
 **The U15 DASSA Select players are in Hong Kong this week for a unique five-day, multisport tour on foreign soil.**

@@ -5,8 +5,8 @@ slug: "turbo-charge-your-childs-balance-and-pressing-skills"
 kicker: "Football"
 categories: ["Football"]
 excerpt: "LEARN TO PRESS"
+image: "/images/archive/2020/02/8b5a5106.webp"
 wpId: 2390
-wpFeaturedImage: "2020/02/8B5A5106.jpg"
 ---
 
 ### **_In the final part in a series of expert coaching articles to improve young players skills in youth football, Kids DXB owner Tom Green explains how to improve your child's balance and learn to press._**

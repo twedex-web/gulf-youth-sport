@@ -4,8 +4,8 @@ date: 2020-12-15T06:34:55+04:00
 slug: "a-spotlight-on-cameron-henry-thorne"
 categories: ["News & Features"]
 excerpt: "Cameron Henry-Thorne is proving to be a very strong, athletic individual who always tries hard and wants to improve - she absolutely loves her running!"
+image: "/images/archive/2020/12/image008.webp"
 wpId: 4589
-wpFeaturedImage: "2020/12/image008.jpg"
 ---
 
 Cameron Henry-Thorne is proving to be a very strong, athletic individual who always tries hard and wants to improve - she absolutely loves her running!

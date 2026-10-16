@@ -3,8 +3,8 @@ title: "Wonder Kid Wednesday - GWA's Relentless 13 Year-Old Naomi Nohar"
 date: 2017-10-25T00:00:00+04:00
 slug: "wonder-kid-wednesday-gwas-relentless-13-year-old-naomi-nohar"
 excerpt: "WONDER KID WEDNESDAY"
+image: "/images/archive/2019/09/main-img-221020178338.webp"
 wpId: 800
-wpFeaturedImage: "2019/09/Main-img-221020178338.jpg"
 ---
 
 **WONDER KID WEDNESDAY**

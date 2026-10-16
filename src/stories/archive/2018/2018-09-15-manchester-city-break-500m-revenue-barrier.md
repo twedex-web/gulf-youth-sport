@@ -3,8 +3,8 @@ title: "Manchester City Break £500m Revenue Barrier"
 date: 2018-09-15T00:00:00+04:00
 slug: "manchester-city-break-500m-revenue-barrier"
 excerpt: "Manchester City Football Club recently released its Annual Report for 2017-18, announcing revenues of more than £500 million for the first time in City history, and the tenth successive year of improved financial…"
+image: "/images/archive/2019/09/main-img-159201816030.webp"
 wpId: 1109
-wpFeaturedImage: "2019/09/Main-img-159201816030.jpg"
 ---
 
 **Manchester City Football Club recently released its Annual Report for 2017-18, announcing revenues of more than £500 million for the first time in City history, and the tenth successive year of improved financial performance. The Club enters its fourth consecutive year as a profitable business, posting a profit of £10 million.**

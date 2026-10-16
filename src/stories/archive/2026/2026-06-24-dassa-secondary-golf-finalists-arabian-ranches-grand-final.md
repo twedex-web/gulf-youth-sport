@@ -5,10 +5,10 @@ slug: "dassa-secondary-golf-finalists-arabian-ranches-grand-final"
 kicker: "DASSA"
 categories: ["DASSA", "Golf"]
 standfirst: "After 6 intense qualifiers, the official student finalists have been named for the DASSA Secondary Golf Championship showdown at Arabian Ranches."
+image: "/images/archive/2026/06/2faa4083-1bbc-4767-abb2-43430d2fe7f6.webp"
 seoTitle: "DASSA Secondary Golf Finalists Confirmed for Arabian Ranches Grand Final"
 metaDescription: "After 6 intense qualifiers, the official student finalists have been named for the DASSA Secondary Golf Championship showdown at Arabian Ranches."
 wpId: 7229
-wpFeaturedImage: "2026/06/2faa4083-1bbc-4767-abb2-43430d2fe7f6.jpeg"
 ---
 
 ## **Elite Field Confirmed: Dubai’s Finest Student Golfers Set for Dramatic Grand Final at Arabian Ranches**

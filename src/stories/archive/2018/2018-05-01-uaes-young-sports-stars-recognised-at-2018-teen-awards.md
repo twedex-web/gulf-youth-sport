@@ -3,8 +3,8 @@ title: "UAE's Young Sports Stars Recognised at 2018 Teen Awards"
 date: 2018-05-01T00:00:00+04:00
 slug: "uaes-young-sports-stars-recognised-at-2018-teen-awards"
 excerpt: "The achievements of the UAE's future sports stars were celebrated in Dubai on Friday evening at the 3rd edition of the UAE Teen Sports & Fitness Awards."
+image: "/images/archive/2019/09/main-img-152018103639.webp"
 wpId: 1012
-wpFeaturedImage: "2019/09/Main-img-152018103639.jpg"
 ---
 
 **The achievements of the UAE's future sports stars were celebrated in Dubai on Friday evening at the 3rd edition of the UAE Teen Sports & Fitness Awards.**

@@ -5,9 +5,9 @@ slug: "dapsa-dassa-select-squads-program-expanding"
 kicker: "DASSA"
 categories: ["DASSA", "Football", "Netball", "News & Features", "Rugby"]
 standfirst: "The chance to represent the DAPSA and DASSA leagues is a chance too good to miss for many students.Trials are underway to be chosen in the representative squads and the program is rapidly expanding."
+image: "/images/archive/2020/01/a65f3558-7143-4160-ad3a-2877b99e8b6d.webp"
 metaDescription: "The chance to represent the DAPSA and DASSA leagues is a chance too good to miss for many students.Trials are underway to be chosen in the representative squads and the program is rapidly expanding."
 wpId: 1735
-wpFeaturedImage: "2020/01/a65f3558-7143-4160-ad3a-2877b99e8b6d.jpg"
 ---
 
 The chance to represent the DAPSA and DASSA leagues is an opportunity too good to miss for many students.

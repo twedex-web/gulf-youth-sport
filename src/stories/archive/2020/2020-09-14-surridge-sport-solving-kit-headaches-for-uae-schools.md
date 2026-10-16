@@ -4,15 +4,15 @@ date: 2020-09-14T06:26:22+04:00
 slug: "surridge-sport-solving-kit-headaches-for-uae-schools"
 categories: ["GYS", "News & Features"]
 excerpt: "Supreme quality sports kit that takes away the pressure of ordering and organising from schools is the dream of PE teachers in the UAE."
+image: "/images/archive/2020/09/elakt-yxuaavfvg-2.webp"
 wpId: 3854
-wpFeaturedImage: "2020/09/ELAKT_YXUAAvfVG-2.jpeg"
 ---
 
 Supreme quality sports kit that takes away the pressure of ordering and organising from schools is the dream of PE teachers in the UAE. Surridge Sport has solved all these problems, leaving PE teachers more time to focus on students rather than administration.
 
 A web shop for UAE schools has been an excellent addition for a respected company which has been providing top schools and clubs in the UK with durable kit for more than 150 years. Schools in the Middle East are now benefitting from this know-how, as well as the innovation behind the clothing and its ordering process.
 
-The web shop has solved the headache of ordering for PE teachers, allowing parents to go direct to the site and place their order.![](https://gulfyouthsport.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-14-at-15.01.54-e1600060556485-300x161.png)
+The web shop has solved the headache of ordering for PE teachers, allowing parents to go direct to the site and place their order.
 
 Jumeirah College and Brighton College are already benefiting from this set up with an easy interface for parents and students to see the type and size of each garment.
 

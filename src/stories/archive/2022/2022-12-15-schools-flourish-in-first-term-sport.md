@@ -5,20 +5,20 @@ slug: "schools-flourish-in-first-term-sport"
 kicker: "Multi-Sports"
 categories: ["GYS", "Multi-Sports", "News & Features"]
 standfirst: "Now as the first term is ending for local DASSA and ADISSA schools, we look back at the most phenomenal sport stories around the Gulf."
+image: "/images/archive/2022/12/d7qznay8.webp"
 metaDescription: "Now as the first term is ending for local DASSA and ADISSA schools, we look back at the most phenomenal sport stories around the Gulf."
 wpId: 5834
-wpFeaturedImage: "2022/12/D7QzNaY8-scaled.jpg"
 ---
 
 **Now as the first term is ending for local DASSA and ADISSA schools, we look back at the most phenomenal sport stories around the Gulf.**
 
 One DASSA squad that had an exacting story to tell was Dubai International Academy's (DIA) U19 Boys Basketball team. During the season DIA overcame adversity time and time again. Through perseverance and determination, the Wolves stayed ahead of their competition by ending a spectacular first term with 12 points in the Division 1-B League standings. To finally accomplish their season goal, being crowned DASSA 2022-2023 Champions.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2022/12/318809372_1571089309981673_2541604463568808488_n.jpg" alt=""><figcaption>The DIA Wolves lift up Coach Mihail Kouzev after securing a DASSA Championship title. Credit: DIA Dubai Sport</figcaption></figure>
+<figure><img src="/images/archive/2022/12/318809372-1571089309981673-2541604463568808488-n.webp" alt=""><figcaption>The DIA Wolves lift up Coach Mihail Kouzev after securing a DASSA Championship title. Credit: DIA Dubai Sport</figcaption></figure>
 
 Continuing with Gulf U19 basketball, Brighton College Abu Dhabi (BCAD) showed their exceptional talents off in remarkable style in ADISSA court action. BCAD’s U19 team was able to cap off their strong performances this season with amazing team effort abilities. Leading the youngsters to claim the number one spot in the table, earning the right to be ADISSA League Champions.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2022/12/319075079_729375418180059_2332841699597815518_n.jpg" alt=""><figcaption>One of the many successful DESC football teams celebrating a productive first term. Credit: DESC Dubai Sport</figcaption></figure>
+<figure><img src="/images/archive/2022/12/319075079-729375418180059-2332841699597815518-n.webp" alt=""><figcaption>One of the many successful DESC football teams celebrating a productive first term. Credit: DESC Dubai Sport</figcaption></figure>
 
 Staying with ADISSA play, Cranleigh School Abu Dhabi (CAD) performed exceptionally well in first term netball. It was CAD's U15 group that kept up with their opponents in the tables. From battling adversity in matches to building a strong camaraderie with teammates, the school was able to reach what they have been practising intensely for all season, a ADISSA Championship.
 

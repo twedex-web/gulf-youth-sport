@@ -3,8 +3,8 @@ title: "UAE FA Academy League Round-Up: Week Four"
 date: 2018-02-19T00:00:00+04:00
 slug: "uae-fa-academy-league-round-up-week-four"
 excerpt: "It was another blistering week in the UAE FA Academy League, with a number of top teams in action in high-stakes matches across the country."
+image: "/images/archive/2019/09/main-img-1922018105525.webp"
 wpId: 911
-wpFeaturedImage: "2019/09/Main-img-1922018105525.jpg"
 ---
 
 **It was another blistering week in the UAE FA Academy League, with a number of top teams in action in high-stakes matches across the country.**

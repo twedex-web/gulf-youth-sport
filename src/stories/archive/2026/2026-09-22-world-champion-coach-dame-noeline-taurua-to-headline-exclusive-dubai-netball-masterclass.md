@@ -5,8 +5,8 @@ slug: "world-champion-coach-dame-noeline-taurua-to-headline-exclusive-dubai-netb
 kicker: "Netball"
 categories: ["Netball"]
 excerpt: "The UAE netball community is about to receive a masterclass from the very top of the global game."
+image: "/images/archive/2026/09/wsg-golf-championship-scotland-gys-post-3.webp"
 wpId: 7340
-wpFeaturedImage: "2026/09/WSG-GOLF-CHAMPIONSHIP-SCOTLAND-GYS-post-3.png"
 ---
 
 The UAE netball community is about to receive a masterclass from the very top of the global game.

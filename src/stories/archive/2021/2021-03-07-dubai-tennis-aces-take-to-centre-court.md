@@ -4,8 +4,8 @@ date: 2021-03-07T04:40:02+04:00
 slug: "dubai-tennis-aces-take-to-centre-court"
 categories: ["News & Features"]
 excerpt: "The beginning of the Dubai Duty Free Tennis Championships doesn't just bring an opportunity to watch some of the best players in the world."
+image: "/images/archive/2021/03/156026792-10159501739254602-724125567858030591-o.webp"
 wpId: 5002
-wpFeaturedImage: "2021/03/156026792_10159501739254602_724125567858030591_o.jpg"
 ---
 
 **The beginning of the Dubai Duty Free Tennis Championships doesn't just bring an opportunity to watch some of the best players in the world. For aspiring stars, like those at CF Tennis Academy, they are a granted chance to be ball kids to their heroes.**

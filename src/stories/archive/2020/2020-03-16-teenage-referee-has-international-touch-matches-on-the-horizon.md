@@ -5,8 +5,8 @@ slug: "teenage-referee-has-international-touch-matches-on-the-horizon"
 kicker: "Rugby"
 categories: ["News & Features", "Rugby"]
 excerpt: "Hannah Lear is on the cusp of refereeing internationally after passing her level two touch rugby refereeing course."
+image: "/images/archive/2020/03/referee-hannah-1-e1584012397785.webp"
 wpId: 2485
-wpFeaturedImage: "2020/03/REFEREE-Hannah-1-e1584012397785.jpg"
 ---
 
 Hannah Lear is on the cusp of refereeing internationally after passing her level two touch rugby refereeing course.
@@ -18,8 +18,6 @@ Lear,16, joined a group of fellow referees who achieved their level two badge to
 Now armed with the added knowledge of how to moderate complex situations on the field and with tools to action against all offences Lear can start umpiring international touch competitions. This will mark a major increase in the intensity of games covered, as well as scrutiny on herself to make the right calls.
 
 "We are able to go and referee international tournaments around the world, including the upcoming European Touch Championships and Junior Touch Championships held in the UK this year," she said.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/03/REFEREE-Hannah-4-1024x683.jpg" alt=""><figcaption>Hannah Lear keeps her eyes on the action.</figcaption></figure>
 
   
 

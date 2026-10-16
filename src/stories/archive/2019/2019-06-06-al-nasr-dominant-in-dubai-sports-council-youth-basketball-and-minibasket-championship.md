@@ -5,8 +5,8 @@ slug: "al-nasr-dominant-in-dubai-sports-council-youth-basketball-and-minibasket-
 kicker: "Basketball"
 categories: ["Basketball", "News & Features"]
 excerpt: "Dubai club win U10 title and finish runners-up in U12 and U16"
+image: "/images/archive/2019/08/img-75201991427-fb7a09d48d144cc4ad4171167519b1df.webp"
 wpId: 29
-wpFeaturedImage: "2019/08/img-75201991427-fb7a09d48d144cc4ad4171167519b1df.jpg"
 ---
 
 **Dubai club win U10 title and finish runners-up in U12 and U16**

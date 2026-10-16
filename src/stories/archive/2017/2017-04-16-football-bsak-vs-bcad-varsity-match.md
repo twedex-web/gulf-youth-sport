@@ -3,8 +3,8 @@ title: "FOOTBALL: BSAK vs. BCAD Varsity Match"
 date: 2017-04-16T00:00:00+04:00
 slug: "football-bsak-vs-bcad-varsity-match"
 excerpt: "The girls and boys senior football teams from British School of Al Khubairat (BSAK) and Brighton College (BCAD) went toe to toe in the annual Varsity match at Zayed Sports City stadium this week, in front of a…"
+image: "/images/archive/2019/09/main-img-1242017123749.webp"
 wpId: 621
-wpFeaturedImage: "2019/09/Main-img-1242017123749.jpg"
 ---
 
 The girls and boys senior football teams from **British School of Al Khubairat (BSAK)** and **Brighton College** **(BCAD)** went toe to toe in the annual Varsity match at Zayed Sports City stadium this week, in front of a passionate 500 strong crowd, in what were the final matches of the Abu Dhabi International School Sports Association (ADISSA) football season.

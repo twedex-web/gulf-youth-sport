@@ -4,8 +4,8 @@ date: 2020-06-22T11:49:02+04:00
 slug: "rival-sports-academies-band-together-during-covid-19"
 categories: ["GYS", "News & Features"]
 excerpt: "We think Infinite Sports CEO Gareth Mordey perfectly summed up the resilience of sports academies in the UAE during this difficult time in his speech at the Dubai Sports Academies Online Forum."
+image: "/images/archive/2020/06/14120be1-edf1-4884-b9fa-ccad956c17c0-2.webp"
 wpId: 3392
-wpFeaturedImage: "2020/06/14120BE1-EDF1-4884-B9FA-CCAD956C17C0-2.jpg"
 ---
 
 We think Infinite Sports CEO **Gareth Mordey** perfectly summed up the resilience of sports academies in the UAE during this difficult time in his speech at the Dubai Sports Academies Online Forum.

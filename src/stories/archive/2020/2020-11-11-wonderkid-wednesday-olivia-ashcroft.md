@@ -5,11 +5,11 @@ slug: "wonderkid-wednesday-olivia-ashcroft"
 kicker: "Athletics"
 categories: ["Athletics", "News & Features", "Wonderkid Wednesday"]
 excerpt: "Olivia Ashcroft is an all-rounder in sport. Her main sports are athletics, netball, and football. She recently won Sportswoman of the Year at DESS in Year 6, one of the most prestigious accolades at the school."
+image: "/images/archive/2020/11/image001-e1605062732185.webp"
 wpId: 4301
-wpFeaturedImage: "2020/11/image001-e1605062732185.jpg"
 ---
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/11/3.800mrace2girlssml-10-1-214x300.jpg)Olivia Ashcroft is an all-rounder in sport.  Her main sports are athletics, netball, and football. She recently won Sportswoman of the Year at DESS in Year 6, one of the most prestigious accolades at the school.
+Olivia Ashcroft is an all-rounder in sport.  Her main sports are athletics, netball, and football. She recently won Sportswoman of the Year at DESS in Year 6, one of the most prestigious accolades at the school.
 
 Athletics is her passion, and her long-term goal is to be an Olympic athlete!
 

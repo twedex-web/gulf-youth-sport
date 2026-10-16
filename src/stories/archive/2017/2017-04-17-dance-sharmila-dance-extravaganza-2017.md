@@ -3,8 +3,8 @@ title: "DANCE: Sharmila Dance Extravaganza 2017"
 date: 2017-04-17T00:00:00+04:00
 slug: "dance-sharmila-dance-extravaganza-2017"
 excerpt: "This weekend (April 21 & 22), Sharmila's protégés will showcase their talents at her annual Extravaganza in front of a packed-out DUCTAC theatre."
+image: "/images/archive/2019/09/main-img-184201710259.webp"
 wpId: 628
-wpFeaturedImage: "2019/09/Main-img-184201710259.jpg"
 ---
 
 ### **For over a decade, the Sharmila Dance School has been the go-to dance academy for the city's most ambitious and talented dancers.**

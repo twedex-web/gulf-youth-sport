@@ -5,9 +5,9 @@ slug: "dubai-schools-going-the-distance-at-dassa-primary-cross-country"
 kicker: "Athletics"
 categories: ["Athletics", "DASSA", "GYS", "News & Features"]
 standfirst: "Young Dubai runners went the extra mile by representing their schools in the first-ever DASSA Primary Cross Country meet at The Sevens."
+image: "/images/archive/2023/01/5t5a5053.webp"
 metaDescription: "Young Dubai runners went the extra mile by representing their schools in the first-ever DASSA Primary Cross Country meet at The Sevens."
 wpId: 5915
-wpFeaturedImage: "2023/01/5T5A5053-scaled.jpg"
 ---
 
 **Young Dubai runners went the extra mile by representing their schools in the first-ever DASSA Primary Cross Country meet at The Sevens.**
@@ -20,11 +20,11 @@ Thus leading schools to be well represented in strong numbers in DASSA (Dubai Af
 
 The exciting new running meet would be held at The Seven Stadium from last Monday and Tuesday.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/01/5T5A5202-scaled.jpg)
+![](/images/archive/2023/01/5t5a5202.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/01/5T5A4173-scaled.jpg)
+![](/images/archive/2023/01/5t5a4173.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/01/5T5A5861-scaled.jpg)
+![](/images/archive/2023/01/5t5a5861.webp)
 
 Furthermore the series consisted of three electrifying events which included four-person relays where each team member ran 1k. Next came the single-person running races, first the thrilling developmental 1k event, and then the longer competitive 2k race.
 
@@ -40,6 +40,6 @@ Finally, all the youngsters who ran in the multiple-day Gulf series should be pr
 
 **_You can view the entire photo gallery of the 1st DASSA Primary Cross Country meet [here](https://gys001.zenfolio.com/f874903112)._** 
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/01/5T5A5723-640x412.jpg)
+![](/images/archive/2023/01/5t5a5723.webp)
 
 Do you know of a telling sport story related to the Gulf youth? Share your [**news**](/) with Gulf Youth Sport by emailing us at [**info@gulfyouthsport.com.**](mailto:info@gulfyouthsport.com)

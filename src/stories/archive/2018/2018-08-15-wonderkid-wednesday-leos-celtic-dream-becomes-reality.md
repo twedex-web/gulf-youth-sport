@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Leo's Celtic dream becomes reality"
 date: 2018-08-15T00:00:00+04:00
 slug: "wonderkid-wednesday-leos-celtic-dream-becomes-reality"
 excerpt: "This week Dubai based rising star Leo Mulrainey was quite literally living the dream, as he jetted off to Scotland to train with heroes Celtic FC."
+image: "/images/archive/2019/09/main-img-1582018141044.webp"
 wpId: 1085
-wpFeaturedImage: "2019/09/Main-img-1582018141044.jpg"
 ---
 
 This week Dubai based rising star Leo Mulrainey was quite literally living the dream, as he jetted off to Scotland to train with heroes Celtic FC.   

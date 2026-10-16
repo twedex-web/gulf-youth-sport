@@ -5,8 +5,8 @@ slug: "star-dubai-runners-topping-womens-series"
 kicker: "Match Zone"
 categories: ["Match Zone"]
 excerpt: "Dubai International Academy student and Ultimate Athletics ace Ingrid Feliza Fuglestad topped the overall charts in 5K Run in stage one of the Dubai Women's Running Challenge."
+image: "/images/archive/2021/01/553a2413.webp"
 wpId: 4755
-wpFeaturedImage: "2021/01/553A2413-scaled.jpg"
 ---
 
 Dubai International Academy student and Ultimate Athletics ace Ingrid Feliza Fuglestad topped the overall charts in 5K Run in stage one of the Dubai Women's Running Challenge.

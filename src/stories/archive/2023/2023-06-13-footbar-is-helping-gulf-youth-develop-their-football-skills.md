@@ -5,9 +5,9 @@ slug: "footbar-is-helping-gulf-youth-develop-their-football-skills"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 standfirst: "A new useful tool combining 21st-century technology and sport is helping youth footballers in the Middle East kick their game in the right direction."
+image: "/images/archive/2023/06/footbar-post.webp"
 metaDescription: "A new useful tool combining 21st-century technology and sport is helping youth footballers in the Middle East kick their game in the right direction."
 wpId: 6520
-wpFeaturedImage: "2023/06/footbar-post.png"
 ---
 
 **A useful new tool combining 21st-century technology and sport is helping youth footballers in the Middle East kick their game in the right direction.**
@@ -22,7 +22,7 @@ The accuracy and reliability of Footbar data is certified by the KNVB, the Dutch
 
 ## **What exactly is Footbar and how does it work?**
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/06/FOR-FLYER-1-300x300.png" alt=""><figcaption>This new unique device helps analyse a player's performance through 21st century technology. Credit: Footbar</figcaption></figure>
+<figure><img src="/images/archive/2023/06/for-flyer-1.webp" alt=""><figcaption>This new unique device helps analyse a player's performance through 21st century technology. Credit: Footbar</figcaption></figure>
 
 The Footbar tracker is an accurate, reliable and easy to use football tracking device that allows players of all ages and ability to accurately measure and compare their performances through a user-friendly mobile application.
 
@@ -36,7 +36,7 @@ Light and comfortable, it quietly records your sessions in details - the Footbar
 
 ## **Footbar is** **officially** **here in the Middle East**
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/06/EMO00024-2-2-169x300.jpg" alt=""><figcaption>Footbar is now offically here in the Middle East to help youngsters develop their football skills. Credit: Footbar</figcaption></figure>
+<figure><img src="/images/archive/2023/06/emo00024-2-2.webp" alt=""><figcaption>Footbar is now offically here in the Middle East to help youngsters develop their football skills. Credit: Footbar</figcaption></figure>
 
 The brand has established a new headquarters in the technology hub of the Middle East - Dubai, UAE last year.
 

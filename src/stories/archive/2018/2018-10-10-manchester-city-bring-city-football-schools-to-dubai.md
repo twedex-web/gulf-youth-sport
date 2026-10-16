@@ -3,8 +3,8 @@ title: "Manchester City Bring City Football Schools to Dubai"
 date: 2018-10-10T00:00:00+04:00
 slug: "manchester-city-bring-city-football-schools-to-dubai"
 excerpt: "Manchester City FC is bringing City Football Schools (CFS) to Dubai – giving young aspiring players the chance to develop their football skills under the expert guidance of professional coaches from the Premier League…"
+image: "/images/archive/2019/09/main-img-1010201872546.webp"
 wpId: 1119
-wpFeaturedImage: "2019/09/Main-img-1010201872546.jpg"
 ---
 
 **Manchester City FC is bringing City Football Schools (CFS) to Dubai** – giving young aspiring players the chance to develop their football skills under the expert guidance of professional coaches from the Premier League champions.

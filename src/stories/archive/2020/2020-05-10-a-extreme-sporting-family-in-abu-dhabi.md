@@ -4,8 +4,8 @@ date: 2020-05-10T04:38:09+04:00
 slug: "a-extreme-sporting-family-in-abu-dhabi"
 categories: ["GYS", "News & Features"]
 excerpt: "Ferrying kids to trainings, competition days and making sure everyone is where they need to be at the right time can be a sport in itself."
+image: "/images/archive/2020/05/patricd.webp"
 wpId: 3135
-wpFeaturedImage: "2020/05/patricd.jpeg"
 ---
 
 Ferrying kids to trainings, competition days and making sure everyone is where they need to be at the right time can be a sport in itself.
@@ -16,7 +16,7 @@ But no matter how hectic a week can get, the sports mad family sticks together w
 
 "There are multiple amazing events happening literally every weekend both here in Abu Dhabi and in Dubai, so there are weekends when the kids end up racing in multiple events," Helena said.
 
-"This is what we do for fun as a family – get up early (as in really early) in the morning, go to the race venue, arrive before the sun is up, set up, meet with friends, chat, race, and then spend some more time with friends and fellow racers.![](https://gulfyouthsport.com/wp-content/uploads/2020/05/Patrikb-682x1024.jpeg)
+"This is what we do for fun as a family – get up early (as in really early) in the morning, go to the race venue, arrive before the sun is up, set up, meet with friends, chat, race, and then spend some more time with friends and fellow racers.
 
 "Dominik is the one competing in all races we attend, with now Patrik joining him in quite a few, while Mark still spends most of his time as the main cheerleader for his brothers. However, he has now also started competing, and is really enjoying the Spartan Kids Races, and is hoping to earn his very first trifecta medal this year!"
 
@@ -34,7 +34,7 @@ Dominik is most proud of racing in his first triathlon, as well as representing 
 
 He is hopeful of again linking up with these friends, with this year's World Championship scheduled to take place right here in the Gulf in the Liwa Oasis in December.
 
-COVID-19 has put a slight halt the madness that is normally a weekend in the Jordan household, but Viktor said the family will band together and be back competing soon.![](https://gulfyouthsport.com/wp-content/uploads/2020/05/patrikc-300x225.jpeg)
+COVID-19 has put a slight halt the madness that is normally a weekend in the Jordan household, but Viktor said the family will band together and be back competing soon.
 
 "Helena is usually the one who keeps track of all the races, registrations, kit, snacks, schedules and making sure everyone is where they need to be, plus she manages the boys’ Instagram pages. It’s all one big family effort!" he said.
 

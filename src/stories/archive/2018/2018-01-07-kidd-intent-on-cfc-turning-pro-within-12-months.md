@@ -3,8 +3,8 @@ title: "Kidd Intent on CFC Turning Pro' within 12 Months"
 date: 2018-01-07T00:00:00+04:00
 slug: "kidd-intent-on-cfc-turning-pro-within-12-months"
 excerpt: "The latest football club to launch in Dubai, City Football Club, has a masterplan to turn professional in the next 12 months – eventually hoping to take a place in the UAE Pro League."
+image: "/images/archive/2019/09/main-img-71201882451.webp"
 wpId: 874
-wpFeaturedImage: "2019/09/Main-img-71201882451.jpg"
 ---
 
 The latest football club to launch in Dubai, City Football Club, has a masterplan to turn professional in the next 12 months – eventually hoping to take a place in the UAE Pro League. Offering a completely new approach to football, player identification and development – it’s a first of its kind in the GCC.

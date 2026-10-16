@@ -3,8 +3,8 @@ title: "Sharmila Launches New Dance Academy for Dubai’s Mini Movers"
 date: 2018-09-06T00:00:00+04:00
 slug: "sharmila-launches-new-dance-academy-for-dubais-mini-movers"
 excerpt: "Exciting news for the next generation of dancers in Dubai – Sharmila Dance has launched a new category specifically aimed at 4, 5 and 6 year olds."
+image: "/images/archive/2019/09/main-img-69201892434.webp"
 wpId: 1105
-wpFeaturedImage: "2019/09/Main-img-69201892434.jpg"
 ---
 
 **Exciting news for the next generation of dancers in Dubai – [Sharmila Dance](http://sharmiladance.com/) has launched a new category specifically aimed at 4, 5 and 6 year olds.**

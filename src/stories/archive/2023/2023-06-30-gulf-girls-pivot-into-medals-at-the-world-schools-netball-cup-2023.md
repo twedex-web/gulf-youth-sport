@@ -5,9 +5,9 @@ slug: "gulf-girls-pivot-into-medals-at-the-world-schools-netball-cup-2023"
 kicker: "Netball"
 categories: ["GYS", "Netball", "News & Features", "World School Games"]
 standfirst: "Gulf netballers went above expectations in last week’s World Schools Netball Cup in England, with many girls finishing with strong showings on the court."
+image: "/images/archive/2023/06/awards-74.webp"
 metaDescription: "Gulf netballers went above expectations in last week’s World Schools Netball Cup in England, with many girls finishing with strong showings on the court."
 wpId: 6573
-wpFeaturedImage: "2023/06/Awards_74-scaled.jpg"
 ---
 
 **Gulf** **netballers exceeded expectations in last week’s World Schools Netball Cup, with a strong showing on the court.**
@@ -20,7 +20,7 @@ This years event saw over 30 schools, six countries and three continents represe
 
 Before the action got underway, some schools had the opportunity to refine their skills and gather any final tips on Thursday afternoon as they were put through their paces by Lightning development coaches in a number of private masterclass sessions.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/06/Action_443-300x200.jpg" alt=""><figcaption>Dubai College taking on the world at The World Schools Netball Cup 2023 last weekend.</figcaption></figure>
+<figure><img src="/images/archive/2023/06/action-443.webp" alt=""><figcaption>Dubai College taking on the world at The World Schools Netball Cup 2023 last weekend.</figcaption></figure>
 
 That same evening, the main event was in full swing, with all participating schools welcomed to the event in a spectacle of lights and sparks during the opening ceremony before schools took to the court for the first time in their quest to become world champions.
 
@@ -34,7 +34,7 @@ In what will go down as a classic game for the ages, Dubai College narrowly edge
 
 U13 Dubai College Netball Coach, Keneiloe Kgasi, explained just what an incredible win it was to come out on top against DESC.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/06/Action_377-300x200.jpg" alt=""><figcaption>Dubai College and DESC take their rivalry to the next level by competing on the international stage.</figcaption></figure>
+<figure><img src="/images/archive/2023/06/action-377.webp" alt=""><figcaption>Dubai College and DESC take their rivalry to the next level by competing on the international stage.</figcaption></figure>
 
 "Today we had a point to prove, and what a great platform to do it on the world stage. We just won by one goal; it just shows the competitive nature of the game."
 
@@ -56,6 +56,6 @@ Thank you, everyone, from The World Schools Netball Cup organisation team. Will 
 
 Be there in 2024 by **[clicking here!](http://wsgevents.com/wsgnetball24brochure)**[
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/06/Action_412-1-300x200.jpg" alt=""><figcaption>DESC with an incredible showing at Loughborough University, securing bronze in the U13 category.</figcaption></figure>
+<figure><img src="/images/archive/2023/06/action-412-1.webp" alt=""><figcaption>DESC with an incredible showing at Loughborough University, securing bronze in the U13 category.</figcaption></figure>
 
 ](http://wsgevents.com/wsgnetball24brochure)

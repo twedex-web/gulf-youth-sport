@@ -3,8 +3,8 @@ title: "New Business Hub Set to Shake Up Dubai Sports Industry"
 date: 2018-05-15T00:00:00+04:00
 slug: "new-business-hub-set-to-shake-up-dubai-sports-industry"
 excerpt: "There's no denying it - setting up any business here in the glittering sandpit we call home can be a minefield (trust us, we know)."
+image: "/images/archive/2019/09/main-img-1652018215332.webp"
 wpId: 1030
-wpFeaturedImage: "2019/09/Main-img-1652018215332.jpg"
 ---
 
 **There's no denying it - setting up any business here in the glittering sandpit we call home can be a minefield (trust us, we know).**

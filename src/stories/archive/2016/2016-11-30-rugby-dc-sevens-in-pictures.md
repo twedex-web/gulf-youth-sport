@@ -3,8 +3,8 @@ title: "RUGBY: DC Sevens in Pictures"
 date: 2016-11-30T00:00:00+04:00
 slug: "rugby-dc-sevens-in-pictures"
 excerpt: "The Dubai College rugby sevens took place at a sun-soaked DC campus on Saturday - and with 49 teams competing across six age categories it was rugby as far as the eye could see."
+image: "/images/archive/2019/09/main-img-29112016221629.webp"
 wpId: 470
-wpFeaturedImage: "2019/09/Main-img-29112016221629.jpg"
 ---
 
 **The Dubai College rugby sevens took place at a sun-soaked DC campus on Saturday - and with 49 teams competing across six age categories it was rugby as far as the eye could see.**

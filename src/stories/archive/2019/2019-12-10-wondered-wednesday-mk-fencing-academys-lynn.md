@@ -5,9 +5,9 @@ slug: "wondered-wednesday-mk-fencing-academys-lynn"
 kicker: "Wonderkid Wednesday"
 categories: ["GYS", "Wonderkid Wednesday"]
 standfirst: "Lycée Français international de Dubaï (AFLEC) student Lynn finished fifth at the recent Asian Cadet Circuit in her sixth year competing in the sport."
+image: "/images/archive/2019/12/lynn.webp"
 metaDescription: "Lycée Français international de Dubaï (AFLEC) student Lynn finished fifth at the recent Asian Cadet Circuit in her sixth year competing in the sport."
 wpId: 1663
-wpFeaturedImage: "2019/12/Lynn.jpg"
 ---
 
 Training the mind to never give up is what star fencer Lynn,16, recommends for any sportsperson.
@@ -21,8 +21,6 @@ Guided by MK Fencing Academy head coach Mihail Kouzev, Lynn said the competition
 "The stadium was one of the biggest ones I had ever seen and the participants came from many different countries. It was very professional and organised from the referees to the competition itself and the media."
 
 Having trained for around six hours a week, Lynn was in a solid position to produce a strong showing at the event.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2019/12/Lynnb.jpg" alt=""><figcaption>Lynn</figcaption></figure>
 
 "The competition was not extremely tough, but 50% of each one (bout) depends on luck and on the performance that differs on the person’s mental situation," she said.
 

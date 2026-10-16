@@ -5,8 +5,8 @@ slug: "english-assistant-coach-paul-farbrace-talks-resilience-in-cricket"
 kicker: "Cricket"
 categories: ["Cricket", "News & Features"]
 excerpt: "“To be the best you can be takes a lot of guts, it takes a lot of determination, it takes being out of your comfort zone.”"
+image: "/images/archive/2020/05/img-3481.webp"
 wpId: 3081
-wpFeaturedImage: "2020/05/IMG_3481.png"
 ---
 
 > "Cricket’s a game where you don’t have millions of fantastic days, there’s a lot of tough days and there’s nothing better for me than watching a player practising and working at their game and showing that they have got the desire and the drive to keep improving.
@@ -19,8 +19,6 @@ Those are the words of former England cricket assistant coach Paul Farbrace when
 Speaking to It's Just Cricket's Sam Charnley during an Infinite Sports webinar podcast he gave advice to players on how to find motivation in the nets, even when it feels like the day could be a ride off.
 
 "We always say to players 'c’mon it’s about working hard.' You can’t work hard every day but you can show a certain amount of improvement every day if you’ve got the resilience and the guts and the drive to actually want to do it and it’s not easy," Farbrace said.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/05/England_Cricket_Team_-_The_Ashes_Trent_Bridge_2015_20410463691_Farbrace_cropped-247x300.jpg" alt=""><figcaption>Paul Farbrace as England assistant</figcaption></figure>
 
 He said resilience is among the factors that led to England winning a sensational home World Cup last year, in a gripping victory that went down in history as one of the best.
 

@@ -5,8 +5,8 @@ slug: "team-gb-olympian-reece-prescod-speaks-in-dubai-ahead-of-olympics"
 kicker: "Athletics"
 categories: ["Athletics", "News & Features", "World School Games"]
 excerpt: "Great Britain sprinter Reece Prescod is gunning for a spot in TEAM GB's athletic team for the upcoming Tokyo Olympics."
+image: "/images/archive/2020/03/jean2899.webp"
 wpId: 2303
-wpFeaturedImage: "2020/03/JEAN2899.jpg"
 ---
 
 Great Britain sprinter Reece Prescod is gunning for a spot in TEAM GB's athletic team for the upcoming Tokyo Olympics.

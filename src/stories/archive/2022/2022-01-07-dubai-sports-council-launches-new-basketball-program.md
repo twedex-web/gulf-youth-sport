@@ -5,9 +5,9 @@ slug: "dubai-sports-council-launches-new-basketball-program"
 kicker: "Basketball"
 categories: ["Basketball"]
 standfirst: "Dubai Sports Council has launched a new Basketball Development Program to encourage aspiring Emirati coaches to get involved in the sport."
+image: "/images/archive/2022/01/champs-coaches-clinic-8390.webp"
 metaDescription: "Dubai Sports Council has launched a new Basketball Development Program to encourage aspiring Emirati coaches to get involved in the sport."
 wpId: 5547
-wpFeaturedImage: "2022/01/Champs-Coaches-Clinic-8390.jpg"
 ---
 
 **Dubai Sports Council has launched a ‘Basketball Development Program’ for Dubai clubs, with the aim of developing the skills of Emirati coaches and players.**
@@ -18,7 +18,7 @@ The development program is being organised in cooperation with Lebanese basketba
 
 Nicknamed the “Lebanese Tiger” for his aggression and scoring abilities, El Khatib took part in three consecutive FIBA World Championships (2002, 2006, 2010), where Lebanon defeated the likes of Venezuela and France in 2006. He also played a stellar role as Lebanon finished runners-up at three FIBA Asia Championship finals (2001, 2005, 2007).
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/01/AB8I4853-e1641550220603-300x166.jpg)The ‘Basketball Development Program’ will involve workshops and practical training sessions, and participating Emirati coaches will be able to earn advanced training badges (Pro Licence) through the program, which will open further doors for them.
+![](/images/archive/2022/01/ab8i4853-e1641550220603.webp)The ‘Basketball Development Program’ will involve workshops and practical training sessions, and participating Emirati coaches will be able to earn advanced training badges (Pro Licence) through the program, which will open further doors for them.
 
 The program seeks to enable Emirati coaches to work at different clubs and sports companies and gain confidence as well as experience on the job. It also seeks to give them an opportunity to enhance their abilities and develop their skills; and to support and encourage Emirati coaches.
 

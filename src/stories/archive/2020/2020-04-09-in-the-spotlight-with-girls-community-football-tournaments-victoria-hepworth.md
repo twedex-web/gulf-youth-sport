@@ -5,8 +5,8 @@ slug: "in-the-spotlight-with-girls-community-football-tournaments-victoria-hepwo
 kicker: "In The Spotlight"
 categories: ["In The Spotlight"]
 excerpt: "YTEMBED0000"
+image: "/images/archive/2020/04/screen-shot-2020-04-09-at-16-05-36.webp"
 wpId: 2902
-wpFeaturedImage: "2020/04/Screen-Shot-2020-04-09-at-16.05.36.png"
 ---
 
 ### _‘In the Spotlight’ is a Gulf Youth Sport feature series giving schools and academies a forum to chat about achievements, upcoming events and general views on sport in the UAE._

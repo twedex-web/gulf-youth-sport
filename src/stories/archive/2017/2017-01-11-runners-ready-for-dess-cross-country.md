@@ -3,8 +3,8 @@ title: "Runners Ready for DESS Cross-Country"
 date: 2017-01-11T00:00:00+04:00
 slug: "runners-ready-for-dess-cross-country"
 excerpt: "Over 500 young athletes from across Dubai and the Northern Emirates are set to lace up their running shoes and descend on Rashid School for Boys next Tuesday (17th January) for the DESS Dubai Primary Schools Cross…"
+image: "/images/archive/2019/09/main-img-111201722259.webp"
 wpId: 501
-wpFeaturedImage: "2019/09/Main-img-111201722259.jpg"
 ---
 
 **Over 500 young athletes from across Dubai and the Northern Emirates are set to lace up their running shoes and descend on Rashid School for Boys next Tuesday (17th January) for the DESS Dubai Primary Schools Cross Country Race.**

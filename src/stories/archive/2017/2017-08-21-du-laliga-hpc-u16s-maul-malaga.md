@@ -3,8 +3,8 @@ title: "du Laliga HPC U16s Maul Malaga"
 date: 2017-08-21T00:00:00+04:00
 slug: "du-laliga-hpc-u16s-maul-malaga"
 excerpt: "du LaLiga HPC U16's ended their 21-day scouting camp in Spain with a famous victory over LaLiga Youth League Champions Malaga CF."
+image: "/images/archive/2019/09/main-img-2182017104628.webp"
 wpId: 689
-wpFeaturedImage: "2019/09/Main-img-2182017104628.jpg"
 ---
 
 **du LaLiga HPC U16's ended their 21-day scouting camp in Spain with a famous victory over LaLiga Youth League Champions Malaga CF.**

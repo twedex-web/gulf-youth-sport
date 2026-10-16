@@ -5,9 +5,9 @@ slug: "dassa-looks-to-the-future"
 kicker: "DASSA"
 categories: ["DASSA", "News & Features"]
 excerpt: "At DASSA's Town Hall meeting on Sunday the committee shared its thoughts on a host of important issues regarding PE and sport in Dubai and the UAE."
+image: "/images/archive/2021/03/dassa.webp"
 imageAlt: "DASSA Basketball Challenge"
 wpId: 5071
-wpFeaturedImage: "2021/03/DASSA.png"
 ---
 
 **At DASSA's Town Hall meeting on Sunday the committee shared its thoughts on a host of important issues regarding PE and sport in Dubai and the UAE.**

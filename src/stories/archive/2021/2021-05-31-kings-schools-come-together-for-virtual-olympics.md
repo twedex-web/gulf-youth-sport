@@ -4,8 +4,8 @@ date: 2021-05-31T11:31:57+04:00
 slug: "kings-schools-come-together-for-virtual-olympics"
 categories: ["News & Features"]
 excerpt: "Dubai’s Kings’ Schools have come together to get in the mood for a summer of sport with their Virtual Olympic Games at Kings’ School Al Barsha, Kings’ Dubai and Kings’ Nad Al Sheba last week."
+image: "/images/archive/2021/05/kings-olympics-cover-2.webp"
 wpId: 5247
-wpFeaturedImage: "2021/05/Kings-Olympics-Cover-2.png"
 ---
 
 Dubai’s Kings’ Schools have come together to get in the mood for a summer of sport with their Virtual Olympic Games at Kings’ School Al Barsha, Kings’ Dubai and Kings’ Nad Al Sheba last week.
@@ -22,21 +22,7 @@ James Bedford, Head of PE at Kings’ School Al Barsha, believes that after a wh
 
 “All the schools held an Olympic theme dress-up day on Sunday to start the games, with a real Olympic Torch from the London 2012 games making its way in Kings' Al Barsha for photo opportunities and to inspire the students to chase the Olympic dream!”
 
-![](https://gulfyouthsport.com/wp-content/uploads/2021/05/6.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/05/5.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/05/4.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/05/3.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/05/2.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/05/1.jpg)
-
 Activities throughout the week gave students the chance to earn important points for their house, with the house gaining the most points across five days of challenges being crowed Olympic Champions.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/05/Kings-Olympics-294x300.png)
 
 With daily activities uploaded to the Kings’ Virtual Olympics website the tasks were tailored to Foundation, KS1,
 
@@ -46,7 +32,7 @@ Some of the challenges included keepy ups, the Mount Fuji Challenge (covering 3.
 
 Mr Bedford was pleased to see such a good reaction to the challenges throughout the week, with students from all three schools really getting into the Olympic spirit. Entries came in from all three schools with young people of all ages and their families trying their hand at the activities pulled together by school PE staff.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2021/05/Picture13-225x300.jpg)“Having held previous virtual games we knew it was a great way to bring all the Kings' community together and get the competitive juices flowing.
+“Having held previous virtual games we knew it was a great way to bring all the Kings' community together and get the competitive juices flowing.
 
 “To kick off the event the three Kings' Schools held an Olympic Dress up day with all staff and students coming into school in Olympic dress-up. Days like this have brought some colour to what has been a difficult year.
 

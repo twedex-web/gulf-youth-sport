@@ -5,9 +5,9 @@ slug: "archive-bsme-u13-netball-championship-results-arcadia-dubai-sevens"
 kicker: "BSME Games"
 categories: ["BSME Games", "Netball"]
 standfirst: "From the GYS Vault: Full official results from the BSME U13 Netball Championship hosted by Jumeirah College at Dubai Sevens, where Arcadia British School took home gold."
+image: "/images/archive/2026/07/22850238-022c-4294-abaf-43e968281238.webp"
 metaDescription: "From the GYS Vault: Full official results from the BSME U13 Netball Championship hosted by Jumeirah College at Dubai Sevens, where Arcadia British School took home gold."
 wpId: 7278
-wpFeaturedImage: "2026/07/22850238-022c-4294-abaf-43e968281238.jpeg"
 ---
 
 **GYS Flashback: Arcadia British School Claims Glory at BSME U13 Netball Championship**

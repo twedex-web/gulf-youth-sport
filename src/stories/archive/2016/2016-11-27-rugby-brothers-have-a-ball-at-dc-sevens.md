@@ -12,7 +12,7 @@ The visiting side were made to feel welcome by the large numbers of spectators w
 
 “We came over here to play in the sevens tournament. We’re playing in this tournament and then we’re going to play a big of rugby in Abu Dhabi and Al Ain but the main reason was to come and play in this tournament,” Richard said.
 
-The touring side made sure that their trip was more than just a holiday as they played their way through their pool gaining many admirers along the way. ![](http://gulfyouthsport.com/Admin/Content/UserFiles/II2A0862.jpg)
+The touring side made sure that their trip was more than just a holiday as they played their way through their pool gaining many admirers along the way. 
 
 Brothers faced a tough game in the semi-finals but made their way through to the Cup Final where they met hosts Dubai College on the campus’ pitch 1.
 
@@ -26,7 +26,7 @@ Coach Richard was quick to praise the winners, Dubai College, after an exhilarat
 
 “I thought our boys put in a really good effort in the final and they’re a good team. Our boys did pretty well, we had a really tough semi-final and the final was a real tough game as well – we’re very proud of how they played,” he said.
 
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/II2A0863.jpg)Although the tour was primarily focussed on rugby and the Dubai College tournament, Josh said his teammates are looking forward to exploring more of Dubai in the time the team have left in the UAE.
+Although the tour was primarily focussed on rugby and the Dubai College tournament, Josh said his teammates are looking forward to exploring more of Dubai in the time the team have left in the UAE.
 
 “We’re over here for ten days. Tomorrow we’re going to the sand dunes to do some things there and then we’re going to spend a day in Atlantis so that will be good fun. We’re going to the mall one day too - the boys are really keen to do all those activities.”
 

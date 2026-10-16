@@ -3,8 +3,8 @@ title: "Dubai College Host a Weekend of Sevens"
 date: 2017-11-26T00:00:00+04:00
 slug: "dubai-college-host-a-weekend-of-sevens"
 excerpt: "After a successful two days of competitive rugby play, here are the results of the Dubai College 7s Games:"
+image: "/images/archive/2019/09/main-img-26112017113059.webp"
 wpId: 846
-wpFeaturedImage: "2019/09/Main-img-26112017113059.jpg"
 ---
 
 **After a successful two days of competitive rugby play, here are the results of the Dubai College 7s Games:**

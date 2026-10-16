@@ -3,8 +3,8 @@ title: "SWIMMING: GEMS Sports Series Takes to the Pool"
 date: 2017-04-19T00:00:00+04:00
 slug: "swimming-gems-sports-series-takes-to-the-pool"
 excerpt: "The final event on the GEMS Sports Series calendar kicked off this morning at the awe-inspiring Hamdan Sports Complex, with over 250 girls from 17 different GEMS schools competing in a host of swimming races."
+image: "/images/archive/2019/09/main-img-1942017133015.webp"
 wpId: 634
-wpFeaturedImage: "2019/09/Main-img-1942017133015.jpg"
 ---
 
 **The final event on the GEMS Sports Series calendar kicked off this morning at the awe-inspiring Hamdan Sports Complex, with over 250 girls from 17 different GEMS schools competing in a host of swimming races.**

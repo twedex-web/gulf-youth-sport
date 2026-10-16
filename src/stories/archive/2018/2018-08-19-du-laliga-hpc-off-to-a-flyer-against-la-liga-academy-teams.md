@@ -3,8 +3,8 @@ title: "du LaLiga HPC off to a flyer against La Liga Academy Teams"
 date: 2018-08-19T00:00:00+04:00
 slug: "du-laliga-hpc-off-to-a-flyer-against-la-liga-academy-teams"
 excerpt: "The du LaLiga HPC U14 and U16 teams have had a winning week in Spain, beating two major LaLiga Youth Club Teams."
+image: "/images/archive/2019/09/main-img-198201854113.webp"
 wpId: 1087
-wpFeaturedImage: "2019/09/Main-img-198201854113.jpg"
 ---
 
 **The du LaLiga HPC U14 and U16 teams have had a winning week in Spain, beating two major LaLiga Youth Club Teams.**  The du LaLiga HPC U14 team delivered a stellar performance in their match against Cadiz, snatching a well-deserved victory with a fierce defense in a highly competitive match played on the Spanish club’s home ground.

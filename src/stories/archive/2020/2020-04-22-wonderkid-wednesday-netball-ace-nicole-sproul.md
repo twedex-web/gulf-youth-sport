@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-netball-ace-nicole-sproul"
 kicker: "Netball"
 categories: ["Netball", "Wonderkid Wednesday"]
 excerpt: "There are no gaps for free time on Nicole Sproul's calendar. Alongside blocks for school, eating and sleeping, any other spare chunk has been devoted to netball."
+image: "/images/archive/2020/04/ad9b8345-eaf2-4f45-aeeb-279775066637.webp"
 wpId: 3005
-wpFeaturedImage: "2020/04/ad9b8345-eaf2-4f45-aeeb-279775066637.jpg"
 ---
 
 There are no gaps for free time on Nicole Sproul's calendar. Alongside blocks for school, eating and sleeping, any other spare chunk has been devoted to netball.
@@ -21,13 +21,9 @@ Pulling on the goal defence bib as likely the youngest player competing in Hudde
 
 The journey to make the team was extensive and a feeling or relief washed over Sproul when she was first selected for the squad, and again when she was chosen to form the travelling team.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/04/662895f6-45b2-4bda-b47a-e0780c164d6c.jpg" alt=""><figcaption>The UAE U17 team in England.</figcaption></figure>
-
 "The trials at the beginning were tough, everyone there was so talented and there was only one day of trialling, but finally getting the e-mail saying I made the squad was worth the wait and such a relief. After that the training sessions became more intense and the level of effort put in by all the girls was exceptional," she said.
 
 Then following five months of training, Sproul received the nod she would be on the flight to England as a goal defence. But she could just as easily have played at the opposite end of the court.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/04/10746405168_017A4941-200x300.jpg" alt=""><figcaption>Nicole gathers an intercept.</figcaption></figure>
 
 "For six years I played goal attack but every netball camp I went to in South Africa all my coaches said I would be such a good defender due to my height. When I moved to Dubai, during my first netball trial at DESC in year 7 more than half of the girls were trying out to be a shooter. To have more of a chance, instead I decided to trial in the goal defence position, and I am so glad I did because now I am a GD and that is the position I was selected for to play in England," Sproul said.
 

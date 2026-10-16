@@ -5,9 +5,9 @@ slug: "dubai-college-rugby-tackles-singapore-competition"
 kicker: "Rugby"
 categories: ["News & Features", "Rugby", "Sports Travel"]
 standfirst: "Dubai College Rugby's team recently became champions at the Singapore Cricket Club International Rugby Sevens tournament."
+image: "/images/archive/2022/11/scc-winners.webp"
 metaDescription: "Dubai College Rugby's team recently became champions at the Singapore Cricket Club International Rugby Sevens tournament."
 wpId: 5752
-wpFeaturedImage: "2022/11/SCC-Winners.jpg"
 ---
 
 **Dubai College Rugby's team recently became champions at the Singapore Cricket Club International Rugby Sevens tournament.**

@@ -5,9 +5,9 @@ slug: "gulf-schools-exceed-u11-wsg-dubai-expectations"
 kicker: "Multi-Sports"
 categories: ["GYS", "Multi-Sports", "News & Features"]
 standfirst: "U11 Gulf athletes exceeded expectations in last week's World School Games 2023 in Dubai, with many leaving as decorated global champions."
+image: "/images/archive/2023/01/5t5a1603.webp"
 metaDescription: "U11 Gulf athletes exceeded expectations in last week's World School Games 2023 in Dubai, with many leaving as decorated global champions."
 wpId: 6017
-wpFeaturedImage: "2023/01/5T5A1603-scaled.jpg"
 ---
 
 **U11 Gulf athletes exceeded expectations in last week's World School Games 2023 in Dubai, with many leaving as decorated global champions.**
@@ -20,7 +20,7 @@ Each school competed in a three-day event which comprised competing in swimming,
 
 The development table being for athletes newer to the respect sport, as the performance competition for more experienced athletes in the particular game.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/01/5T5A7298-300x298.jpg" alt=""><figcaption>A swimmer from German International School Dubai getting ready for a race at the famous Hamdan Sports Complex.</figcaption></figure>
+<figure><img src="/images/archive/2023/01/5t5a7298.webp" alt=""><figcaption>A swimmer from German International School Dubai getting ready for a race at the famous Hamdan Sports Complex.</figcaption></figure>
 
 Further, each team look to take points from each sporting event to contribute to overall World School Games table points.
 
@@ -36,13 +36,13 @@ Through a total team effort, Kings' School Dubai won an instant classic by beati
 
 Leadership from Kings' School Dubai's Rayan helped his team hoist the cup trophy to become World School Games Champions. For Rayan's expectational play on the pitch, he was awarded cup final MVP.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/01/5T5A9613-300x240.jpg" alt=""><figcaption>Kings' School Dubai's Rayan, making a play in the Development Final Cup.</figcaption></figure>
+<figure><img src="/images/archive/2023/01/5t5a9613.webp" alt=""><figcaption>Kings' School Dubai's Rayan, making a play in the Development Final Cup.</figcaption></figure>
 
 Moving on to World School Games athletics, one UAE runner overcame all obstacles to become a double gold medallist champion on the track.
 
 James, sporting bib number 188, from Repton Al Barsha, overcame back and concussion injuries to not only win the Boys developmental 800m race.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/01/5T5A1005-300x218.jpg" alt=""><figcaption>Repton Al Barsha's James (middle), with the many medals he earned at WSG Dubai.</figcaption></figure>
+<figure><img src="/images/archive/2023/01/5t5a1005.webp" alt=""><figcaption>Repton Al Barsha's James (middle), with the many medals he earned at WSG Dubai.</figcaption></figure>
 
 Not only did he win a single event but his leadership led his school to win the highly competitive mixed-gender 4x100m race.
 

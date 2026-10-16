@@ -4,8 +4,8 @@ date: 2019-03-27T00:00:00+04:00
 slug: "dubai-school-bond-through-football-on-tanzanian-trip"
 categories: ["News & Features"]
 excerpt: "We often hear it said that football unites the world, and one Dubai school was lucky enough to experience that first-hand when they took on their local counterparts during a trip to Tanzania."
+image: "/images/archive/2019/09/img-2732019161127-af39b27f3e9144a297a7292240e8574b.webp"
 wpId: 1203
-wpFeaturedImage: "2019/09/img-2732019161127-af39b27f3e9144a297a7292240e8574b.jpg"
 ---
 
 We often hear it said that football unites the world, and one Dubai school was lucky enough to experience that first-hand when they took on their local counterparts during a trip to Tanzania.

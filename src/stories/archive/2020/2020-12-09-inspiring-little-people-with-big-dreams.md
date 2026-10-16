@@ -4,8 +4,8 @@ date: 2020-12-09T06:16:08+04:00
 slug: "inspiring-little-people-with-big-dreams"
 categories: ["News & Features"]
 excerpt: "During this year's Dubai Fitness Challenge Claire Feyling ran 20km for the first time. She enjoyed the experience so much, she did it all again the next week."
+image: "/images/archive/2020/12/image0-3.webp"
 wpId: 4539
-wpFeaturedImage: "2020/12/image0-3-scaled-e1607494478808.jpeg"
 ---
 
 During this year's Dubai Fitness Challenge Claire Feyling ran 20km for the first time. She enjoyed the experience so much, she did it all again the next week.

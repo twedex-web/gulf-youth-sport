@@ -5,15 +5,13 @@ slug: "wonderkid-wednesday-yorgen-engmann"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 excerpt: "Yorgen Engmann is as close to unstoppable as it gets."
+image: "/images/archive/2020/12/uarn2-jnr-bib457-3.webp"
 wpId: 4593
-wpFeaturedImage: "2020/12/UARN2-Jnr-bib457-3.jpg"
 ---
 
 Yorgen Engmann is as close to unstoppable as it gets.
 
 The Dubai College ace won four gold medals at Ultimate Athletics' Juniors Racenight on Thursday November 26. Head coach Lisa Campbell was so impressed with the way Engmann,12, dominated the 80m, 150m, 300m and shot putt.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/12/UARN2-Jnr-bib457-1-1024x683.jpg" alt=""><figcaption>Yorgen Engmann at full speed.</figcaption></figure>
 
 He also said he was rapt with his efforts, especially considering it was his first time competing in months.
 

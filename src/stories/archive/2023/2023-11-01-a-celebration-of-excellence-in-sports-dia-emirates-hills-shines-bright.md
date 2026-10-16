@@ -5,9 +5,9 @@ slug: "a-celebration-of-excellence-in-sports-dia-emirates-hills-shines-bright"
 kicker: "DASSA"
 categories: ["DASSA", "GYS", "News & Features"]
 standfirst: "The World Schools Football Cup brought young players together from across the Gulf in Barcelona last week, resulting in some remarkable performances that they can take immense pride in."
+image: "/images/archive/2023/11/dia-eh.webp"
 metaDescription: "The World Schools Football Cup brought young players together from across the Gulf in Barcelona last week, resulting in some remarkable performances that they can take immense pride in."
 wpId: 6754
-wpFeaturedImage: "2023/11/DIA-EH-scaled.jpg"
 ---
 
 **Mansoor bin Mohammed** **Honours** **DIA Emirates Hills, Winners of the Hamdan bin Mohammed Order of Merit for Sports.**
@@ -16,7 +16,7 @@ His Highness Sheikh Mansoor bin Mohammed bin Rashid Al Maktoum, Chairman of the 
 
 The award is an accolade that acknowledges educational institutions that have demonstrated an exceptional commitment to sports education, the development of young talent, and the promotion of sportsmanship among students. DIA EH's dedication to these principles made it a standout recipient of this prestigious recognition.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/11/DASSA-Social-Posts-Template-300x300.png" alt=""><figcaption><em>More than 1,600 DIA EH students have competed in over 700 fixtures or matches in the elite DASSA leagues of Dubai in 2022-23.</em></figcaption></figure>
+<figure><img src="/images/archive/2023/11/dassa-social-posts-template.webp" alt=""><figcaption><em>More than 1,600 DIA EH students have competed in over 700 fixtures or matches in the elite DASSA leagues of Dubai in 2022-23.</em></figcaption></figure>
 
 ### **Inclusion and Development**
 
@@ -37,7 +37,7 @@ DIA EH's students actively engage in a diverse range of sports, achieving excell
 
 Their participation in the DASSA leagues in Dubai and representation in international sporting events is a testament to their dedication and passion, all of which align with the school's commitment to creating an environment where students can thrive as athletes.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/11/DASSA-Social-Posts-Template-2-300x300.png" alt=""><figcaption><em>DIA EH pupils sharing their success after the DASSA Tennis Singles Finals earlier this year. Credit: George Spurling</em></figcaption></figure>
+<figure><img src="/images/archive/2023/11/dassa-social-posts-template-2.webp" alt=""><figcaption><em>DIA EH pupils sharing their success after the DASSA Tennis Singles Finals earlier this year. Credit: George Spurling</em></figcaption></figure>
 
 This commitment is evident in the remarkable achievements they have unlocked over the years and continue to strive for this year as Term 1 is well and truly underway for all DASSA and ADISSA schools.
 

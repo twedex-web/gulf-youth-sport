@@ -5,8 +5,8 @@ slug: "gys-free-sports-journalism-course-for-12-18-year-olds"
 kicker: "Sports Media Course"
 categories: ["GYS", "Sports Media Course"]
 excerpt: "Do you love your sport?"
+image: "/images/archive/2020/05/screen-shot-2020-09-14-at-17-03-46.webp"
 wpId: 3179
-wpFeaturedImage: "2020/05/Screen-Shot-2020-09-14-at-17.03.46.png"
 ---
 
 Do you love your sport?
@@ -27,7 +27,7 @@ Each module requires you to read through information on each topic, before compl
 #### How long is the course?
 
   
-The beauty of the course is that you can set your own pace.![](https://gulfyouthsport.com/wp-content/uploads/2020/05/Screen-Shot-2020-09-14-at-17.09.18-300x172.png)
+The beauty of the course is that you can set your own pace.
 
 Consisting of five modules, each module requires you to set aside around two-three hours to finish each. However, depending on how busy your week is you have up to eight weeks to finish the course, and you'll be sent a certificate on completion.
 

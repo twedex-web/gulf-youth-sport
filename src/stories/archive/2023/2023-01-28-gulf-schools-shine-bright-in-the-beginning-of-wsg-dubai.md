@@ -5,14 +5,14 @@ slug: "gulf-schools-shine-bright-in-the-beginning-of-wsg-dubai"
 kicker: "World School Games"
 categories: ["GYS", "News & Features", "World School Games"]
 standfirst: "It's been a remarkable start for Gulf schools showcasing their talents on the global stage in the U11 World School Games."
+image: "/images/archive/2023/01/screenshot-2023-01-27-124830.webp"
 metaDescription: "It's been a remarkable start for Gulf schools showcasing their talents on the global stage in the U11 World School Games."
 wpId: 5995
-wpFeaturedImage: "2023/01/Screenshot-2023-01-27-124830.jpg"
 ---
 
 **It's been a remarkable start for Gulf schools showcasing their talents on the global stage in the U11 World School Games.**
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/01/Screenshot-2023-01-27-133046-300x259.jpg)Students across the Gulf are having quite the eventual time in Dubai for entertaining The World School Games 2023.
+![](/images/archive/2023/01/screenshot-2023-01-27-133046.webp)Students across the Gulf are having quite the eventual time in Dubai for entertaining The World School Games 2023.
 
 Day one of the games consisted of an incredible opportunity for pupils, as it allowed youngsters to test their athletic capabilities through track and field events.
 
@@ -28,7 +28,7 @@ One Gulf swimmer stood above the rest was Al Muna Academy’s Faris Hekal in the
 
 On to swim relays, a particular school wasn’t afraid to dive into the competition at Hamdan Sports Complex. King’s School Dubai made a statement on teamwork after cruising to victory in the 200m Freestyle Relay race. It was all smiles for the team on the podium as they held their precious new gold medals with pride.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/01/Screenshot-2023-01-27-133328-300x266.jpg)We at Gulf Youth Sport are a proud sponsor of The World School Games, learn more about the international organisation's sport opportunities by [**visiting here.**](https://wsgevents.com/) 
+![](/images/archive/2023/01/screenshot-2023-01-27-133328.webp)We at Gulf Youth Sport are a proud sponsor of The World School Games, learn more about the international organisation's sport opportunities by [**visiting here.**](https://wsgevents.com/) 
 
 Great effort pupils on a fantastic beginning in the World School Games, keep it up!
 

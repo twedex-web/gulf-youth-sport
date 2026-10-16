@@ -5,8 +5,8 @@ slug: "football-communications-guru-adrian-bevington-talks-footballs-restart"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "Former FA communications director Adrian Bevington said \"now is the time where nothing should be off the agenda\" to ensure football in the UK and across the world remains viable post COVID-19."
+image: "/images/archive/2020/04/screen-shot-2020-04-28-at-11-10-35.webp"
 wpId: 3055
-wpFeaturedImage: "2020/04/Screen-Shot-2020-04-28-at-11.10.35.png"
 ---
 
 Former FA communications director Adrian Bevington said "now is the time where nothing should be off the agenda" to ensure football in the UK and across the world remains viable post COVID-19.
@@ -17,7 +17,7 @@ Speaking to Dubai Eye's Chris McHardy during an Infinite Sports webinar today, t
 
 "There are some massive challenges facing the industry. Football is a wealthy industry in terms of the revenue it generates but it's also an incredibly expensive business to run club football. Outside of those big elite clubs that generate big incomes, they're (remainder of clubs) still relying on the cash that comes in through the turnstiles and through corporate hospitality."
 
-The top tier of the English Premier League is of course in a different sphere to lower divisions as well as those across Scotland, Wales and Ireland. Bevington said they should all be treated accordingly. ![](https://gulfyouthsport.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-28-at-11.09.22-300x202.png)
+The top tier of the English Premier League is of course in a different sphere to lower divisions as well as those across Scotland, Wales and Ireland. Bevington said they should all be treated accordingly.
 
 "I think you will see a lot of innovation, I think you've already seen a lot coming forward and being creative in how they're currently supporting the crisis. Let's be frank, football has really stepped up in that regard," he said.
 

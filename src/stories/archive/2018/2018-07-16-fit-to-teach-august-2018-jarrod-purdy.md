@@ -3,8 +3,8 @@ title: "Fit to Teach - August 2018 - Jarrod Purdy"
 date: 2018-07-16T00:00:00+04:00
 slug: "fit-to-teach-august-2018-jarrod-purdy"
 excerpt: "The Gulf Youth Sport 'Fit to Teach' Award for August goes to Jarrod Purdy from Raha International School."
+image: "/images/archive/2019/09/main-img-158201894944.webp"
 wpId: 1071
-wpFeaturedImage: "2019/09/Main-img-158201894944.jpg"
 ---
 
 **The Gulf Youth Sport 'Fit to Teach' Award for August goes to Jarrod Purdy from Raha International School.**

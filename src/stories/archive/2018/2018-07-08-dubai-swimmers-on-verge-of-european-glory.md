@@ -3,8 +3,8 @@ title: "Dubai Swimmers on Verge of European Glory"
 date: 2018-07-08T00:00:00+04:00
 slug: "dubai-swimmers-on-verge-of-european-glory"
 excerpt: "Hamilton Aquatics swimmer, Lewis Burras (Team GB) has a busy evening ahead at the European Junior Championships in Helsinki. Lewis is through to the Semi Final (2nd fastest) of the 50m Freestyle at 18:00 UAE time."
+image: "/images/archive/2019/09/main-img-872018104550.webp"
 wpId: 1067
-wpFeaturedImage: "2019/09/Main-img-872018104550.jpg"
 ---
 
 **Hamilton Aquatics swimmer, Lewis Burras (Team GB) has a busy evening ahead at the European Junior Championships in Helsinki.**   

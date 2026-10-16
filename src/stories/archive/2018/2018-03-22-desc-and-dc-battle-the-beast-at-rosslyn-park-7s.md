@@ -3,8 +3,8 @@ title: "DESC and DC Battle the Beast at Rosslyn Park 7's"
 date: 2018-03-22T00:00:00+04:00
 slug: "desc-and-dc-battle-the-beast-at-rosslyn-park-7s"
 excerpt: "It was a case of out of the frying pan and into the freezer this week for two of the UAE's top rugby schools, as they swapped the baking heat of Dubai for the icy chill of the so-called 'beast from the east' at the…"
+image: "/images/archive/2019/09/main-img-2232018104026.webp"
 wpId: 962
-wpFeaturedImage: "2019/09/Main-img-2232018104026.jpg"
 ---
 
 **It was a case of out of the frying pan and into the freezer this week for two of the UAE's top rugby schools, as they swapped the baking heat of Dubai for the icy chill of the so-called 'beast from the east' at the Rosslyn Park National School Sevens in London.** 

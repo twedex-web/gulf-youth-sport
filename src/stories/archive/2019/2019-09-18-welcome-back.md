@@ -4,8 +4,8 @@ date: 2019-09-18T11:15:43+04:00
 slug: "welcome-back"
 categories: ["GYS"]
 excerpt: "Let us know how were you keeping fit during the summer or if have you got a new kit and shiny pair of sports shoes to take your game to the next level?"
+image: "/images/archive/2019/09/welcome-back-2.webp"
 wpId: 1256
-wpFeaturedImage: "2019/09/Welcome-BACk-2.png"
 ---
 
 ## Gulf Youth Sport would like to officially welcome everyone back to the new school year.

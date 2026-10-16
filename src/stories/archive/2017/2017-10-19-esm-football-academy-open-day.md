@@ -3,8 +3,8 @@ title: "ESM Football Academy Open Day"
 date: 2017-10-19T00:00:00+04:00
 slug: "esm-football-academy-open-day"
 excerpt: "If your child loves football, we have some great news for you!"
+image: "/images/archive/2019/09/main-img-1910201791633.webp"
 wpId: 795
-wpFeaturedImage: "2019/09/Main-img-1910201791633.jpg"
 ---
 
 **If your child loves football, we have some great news for you!**

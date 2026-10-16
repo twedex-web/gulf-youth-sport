@@ -4,9 +4,9 @@ date: 2020-01-15T12:38:44+04:00
 slug: "golf-sensation-josh-hill-beats-world-number-one"
 categories: ["GYS", "News & Features"]
 standfirst: "Josh Hill,15, can now sensationally lay claim to defeating world number one Brooks Koepka in a nine-hole friendly."
+image: "/images/archive/2020/01/josh-hill.webp"
 metaDescription: "Josh Hill,15, can now sensationally lay claim to defeating world number one Brooks Koepka in a nine-hole friendly."
 wpId: 1751
-wpFeaturedImage: "2020/01/Josh-Hill-.jpeg"
 ---
 
 Dubai English Speaking College student Josh Hill should be filled with confidence leading in to tomorrow's Abu Dhabi HSBC Championships.

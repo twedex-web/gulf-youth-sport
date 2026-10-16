@@ -5,9 +5,9 @@ slug: "preston-family-uae-rugby-netball-international-triples"
 kicker: "Netball"
 categories: ["Netball", "News & Features", "Rugby"]
 standfirst: "Elle Preston joins the UAE Women's Rugby squad, completing a historic milestone as all three Preston siblings represent the UAE in rugby and netball."
+image: "/images/archive/2026/08/d291fa65-7bf5-4512-adad-eded2ebc65e6.webp"
 metaDescription: "Elle Preston joins the UAE Women's Rugby squad, completing a historic milestone as all three Preston siblings represent the UAE in rugby and netball."
 wpId: 7299
-wpFeaturedImage: "2026/08/d291fa65-7bf5-4512-adad-eded2ebc65e6.jpeg"
 ---
 
 ## **Dynasty in the Making: Elle Preston Completes Unprecedented Family Treble for UAE International Sport**

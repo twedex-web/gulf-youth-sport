@@ -3,8 +3,8 @@ title: "du La Liga Set Sights on Atléti"
 date: 2017-05-18T00:00:00+04:00
 slug: "du-la-liga-set-sights-on-atleti"
 excerpt: "After a flawless campaign in the inaugural season of the UAE FA Academy League, the du LaLiga High Performance Centre team is now set to take on the best in Europe."
+image: "/images/archive/2019/09/main-img-1852017114832.webp"
 wpId: 662
-wpFeaturedImage: "2019/09/Main-img-1852017114832.jpg"
 ---
 
 **After a flawless campaign in the inaugural season of the UAE FA Academy League, the du LaLiga High Performance Centre team is now set to take on the best in Europe.** 

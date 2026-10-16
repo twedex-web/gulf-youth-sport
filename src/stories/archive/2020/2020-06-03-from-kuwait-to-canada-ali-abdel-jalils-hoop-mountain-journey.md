@@ -5,13 +5,13 @@ slug: "from-kuwait-to-canada-ali-abdel-jalils-hoop-mountain-journey"
 kicker: "Basketball"
 categories: ["Basketball"]
 excerpt: "Ali Abdel-Jalil is proof basketball has no boundaries."
+image: "/images/archive/2020/06/unnamed-9.webp"
 wpId: 3290
-wpFeaturedImage: "2020/06/unnamed-9.jpg"
 ---
 
 Ali Abdel-Jalil is proof basketball has no boundaries.
 
-The former American international School of Kuwait student first hit the court with Hoop Mountain Kuwait in 2014 where he flourished in the fast-paced environment. Beginning training in his home country Abdel-Jalil received the opportunity to see what playing sport in the United States of America was all about.![](https://gulfyouthsport.com/wp-content/uploads/2020/06/unnamed-10-640x959.jpg)
+The former American international School of Kuwait student first hit the court with Hoop Mountain Kuwait in 2014 where he flourished in the fast-paced environment. Beginning training in his home country Abdel-Jalil received the opportunity to see what playing sport in the United States of America was all about.
 
 "The biggest impact was Hoop Mountain International where I was able to go to the United States and play at the Hoop Mountain camp. It was the best experience for me as I was able to compete against great athletes that helped push me past my limits. The intensity of the workouts were at a higher level as more people were determined and focused to become better and helped push me too," he said.
 

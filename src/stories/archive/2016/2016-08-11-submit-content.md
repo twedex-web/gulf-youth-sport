@@ -3,8 +3,8 @@ title: "Submit content"
 date: 2016-08-11T00:00:00+04:00
 slug: "submit-content"
 excerpt: "If you have some exciting football news you’d like to share with the world, we want to hear about it!"
+image: "/images/archive/2019/09/main-img-1411201675959.webp"
 wpId: 443
-wpFeaturedImage: "2019/09/Main-img-1411201675959.jpg"
 ---
 
 If you have some exciting football news you’d like to share with the world, we want to hear about it!

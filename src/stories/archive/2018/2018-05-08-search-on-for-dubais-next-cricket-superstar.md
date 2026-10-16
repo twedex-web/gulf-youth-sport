@@ -3,8 +3,8 @@ title: "Search On For Dubai's Next Cricket Superstar"
 date: 2018-05-08T00:00:00+04:00
 slug: "search-on-for-dubais-next-cricket-superstar"
 excerpt: "As part of the commitment to enhance grassroots cricket in the UAE the ICC Academy is on the hunt to find the best emerging young cricket talent in the region as it hosts the second open Scholarship trials."
+image: "/images/archive/2019/09/main-img-85201855335.webp"
 wpId: 1017
-wpFeaturedImage: "2019/09/Main-img-85201855335.jpg"
 ---
 
 **As part of the commitment to enhance grassroots cricket in the UAE the ICC Academy is on the hunt to find the best emerging young cricket talent in the region as it hosts the second open Scholarship trials.**

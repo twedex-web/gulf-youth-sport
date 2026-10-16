@@ -5,8 +5,8 @@ slug: "dubai-sports-council-football-academies-championship-kicks-off"
 kicker: "Match Zone"
 categories: ["Match Zone"]
 excerpt: "850 players and 56 teams representing 21 clubs and private academies will take part in the tournament which begins on November 21 at The Football Centre DSC."
+image: "/images/archive/2020/11/screen-shot-2020-11-19-at-21-04-00.webp"
 wpId: 4396
-wpFeaturedImage: "2020/11/Screen-Shot-2020-11-19-at-21.04.00.png"
 ---
 
 850 players and 56 teams representing 21 clubs and private academies will take part in the tournament which begins on November 21 at The Football Centre DSC.

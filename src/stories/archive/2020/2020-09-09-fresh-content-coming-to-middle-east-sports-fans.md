@@ -4,8 +4,8 @@ date: 2020-09-09T04:08:59+04:00
 slug: "fresh-content-coming-to-middle-east-sports-fans"
 categories: ["GYS", "News & Features"]
 excerpt: "ESPN watchers in the Middle East will be able to access more sporting films on ESPN Player including live college sports and award-winning documentaries."
+image: "/images/archive/2020/09/espn-player-homepage.webp"
 wpId: 3818
-wpFeaturedImage: "2020/09/ESPN-Player-Homepage.jpg"
 ---
 
 ESPN watchers in the Middle East will be able to access more sporting films on ESPN Player including live college sports and award-winning documentaries.

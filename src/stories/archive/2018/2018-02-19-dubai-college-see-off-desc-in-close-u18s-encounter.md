@@ -3,8 +3,8 @@ title: "Dubai College See Off DESC In Close U18's Encounter"
 date: 2018-02-19T00:00:00+04:00
 slug: "dubai-college-see-off-desc-in-close-u18s-encounter"
 excerpt: "Dubai English Speaking College travelled to Dubai College in DASSA Division One netball action on Monday afternoon with the sides hoping to build on strong starts to the season."
+image: "/images/archive/2019/09/main-img-1922018144559.webp"
 wpId: 915
-wpFeaturedImage: "2019/09/Main-img-1922018144559.jpg"
 ---
 
 **Dubai English Speaking College travelled to Dubai College in DASSA Division One netball action on Monday afternoon with the sides hoping to build on strong starts to the season.**

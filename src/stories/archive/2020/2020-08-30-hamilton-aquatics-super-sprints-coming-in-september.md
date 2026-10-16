@@ -5,8 +5,8 @@ slug: "hamilton-aquatics-super-sprints-coming-in-september"
 kicker: "Match Zone"
 categories: ["Match Zone", "Swimming"]
 excerpt: "Hamilton Aquatics has been given approval from Dubai Sports Council to hold competitions again!"
+image: "/images/archive/2020/08/118458796-3414645861908004-8885610008084871720-o.webp"
 wpId: 3735
-wpFeaturedImage: "2020/08/118458796_3414645861908004_8885610008084871720_o.jpg"
 ---
 
 Hamilton Aquatics has been given approval from Dubai Sports Council to hold competitions again!

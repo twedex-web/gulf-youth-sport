@@ -4,9 +4,9 @@ date: 2022-12-01T11:53:34+04:00
 slug: "schools-get-moving-in-the-dubai-fitness-challenge"
 categories: ["News & Features"]
 standfirst: "Schools across Dubai accepted the challenge of getting their fitness on during the month-long health campaign."
+image: "/images/archive/2022/12/72636944-2520328801440067-8087977980250292224-n.webp"
 metaDescription: "Schools across Dubai accepted the challenge of getting their fitness on during the month-long health campaign."
 wpId: 5797
-wpFeaturedImage: "2022/12/72636944_2520328801440067_8087977980250292224_n.jpg"
 ---
 
 **Schools across Dubai accepted the challenge of getting their fitness on during the month-long health campaign.**
@@ -25,7 +25,7 @@ Furthermore, Kent College of Dubai made the 30x30 challenge a family event. Lead
 
 Later the North London Collegiate School (NLCS) Dubai made their 30-day movement an opportunity to be filled with sport. Coaches from around the area came together to teach youngsters various popular sports. Kids of all ages then came to NLCS Dubai’s fitness village to get their game on. For students, their itinerary contained playing netball, swimming, football, athletics events, and other sports.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/11/317426149_527336432742184_7405000670777481547_n-300x200.jpg)During the Dubai Fitness Challenge, another school decided to make a healthy splash. Royal Grammar School (RGS) Guildford Dubai would welcome Australian Paralympic Swimmer Jessica Smith to speak with students. Her message to kids was explaining “everyone is different in their own way” and to believe in themselves.![](https://gulfyouthsport.com/wp-content/uploads/2022/12/316856575_924197075216618_1728010141465220912_n-264x300.jpg)
+![](/images/archive/2022/11/317426149-527336432742184-7405000670777481547-n.webp)During the Dubai Fitness Challenge, another school decided to make a healthy splash. Royal Grammar School (RGS) Guildford Dubai would welcome Australian Paralympic Swimmer Jessica Smith to speak with students. Her message to kids was explaining “everyone is different in their own way” and to believe in themselves.![](/images/archive/2022/12/316856575-924197075216618-1728010141465220912-n.webp)
 
 Furthermore, RGS Guildford Dubai made plans to make its fitness journey a community affair. A special assembly was being held for their community and students to engage in exercise. Participants learned how to stay in shape by actively stretching, and getting their hearts pumping through cardio workouts. 
 

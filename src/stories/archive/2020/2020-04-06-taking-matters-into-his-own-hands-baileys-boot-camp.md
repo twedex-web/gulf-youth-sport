@@ -4,8 +4,8 @@ date: 2020-04-06T12:28:57+04:00
 slug: "taking-matters-into-his-own-hands-baileys-boot-camp"
 categories: ["GYS", "News & Features"]
 excerpt: "Move over Joe Wicks–Bailey Nixon is in town."
+image: "/images/archive/2020/04/screen-shot-2020-04-05-at-14-38-14.webp"
 wpId: 2753
-wpFeaturedImage: "2020/04/Screen-Shot-2020-04-05-at-14.38.14.jpg"
 ---
 
 Move over Joe Wicks–Bailey Nixon is in town.

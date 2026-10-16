@@ -3,8 +3,8 @@ title: "PHOTOS: The World School Games 2018"
 date: 2018-02-18T00:00:00+04:00
 slug: "photos-the-world-school-games-2018"
 excerpt: "A full gallery from the recent World Primary School Games, held in Dubai 8th - 10th February, can now be viewed at the following link."
+image: "/images/archive/2019/09/main-img-192201863956.webp"
 wpId: 909
-wpFeaturedImage: "2019/09/Main-img-192201863956.jpg"
 ---
 
 **A full gallery from the recent World Primary School Games, held in Dubai 8th - 10th February, can now be viewed at the following link.**

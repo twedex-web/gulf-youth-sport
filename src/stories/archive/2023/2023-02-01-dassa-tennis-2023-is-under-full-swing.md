@@ -5,9 +5,9 @@ slug: "dassa-tennis-2023-is-under-full-swing"
 kicker: "DASSA"
 categories: ["DASSA", "GYS", "News & Features", "Tennis"]
 standfirst: "DASSA Tennis 2023 was in full swing earlier this week with U14/16 Boys' and Girls' Singles taking place in beautiful Dubai."
+image: "/images/archive/2023/02/img-6986.webp"
 metaDescription: "DASSA Tennis 2023 was in full swing earlier this week with U14/16 Boys' and Girls' Singles taking place in beautiful Dubai."
 wpId: 6048
-wpFeaturedImage: "2023/02/IMG_6986-scaled.jpg"
 ---
 
 **DASSA Tennis** **2023 was in full swing earlier this week by tipping off U14/16 Boys' and Girls' Singles play in** **beautiful** **Dubai.**
@@ -16,13 +16,13 @@ To say the start of DASSA Tennis was eventful was an understatement, as over 163
 
 Further, students were eager to represent their respected schools in the exciting singles event hosted by Kings' School Dubai's sports venue.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/02/IMG_7008-300x225.jpg" alt=""><figcaption>Delighted pupils at the DASSA Tennis Singles event take a group picture on the court. Credit: George Spurling</figcaption></figure>
+<figure><img src="/images/archive/2023/02/img-7008.webp" alt=""><figcaption>Delighted pupils at the DASSA Tennis Singles event take a group picture on the court. Credit: George Spurling</figcaption></figure>
 
 Additionally, the DASSA Tennis Singles event wasn't just any ordinary tournament.
 
 Well-recognised nationally ranked players would compete in the highly anticipated tennis contest.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/02/IMG_7042-300x225.jpg" alt=""><figcaption>Dubai College had an extremely strong performance in the recent DASSA Tennis Singles event. Finishing in all top three spots in the DASSA Tennis Singles Finals. Credit: George Spurling</figcaption></figure>
+<figure><img src="/images/archive/2023/02/img-7042.webp" alt=""><figcaption>Dubai College had an extremely strong performance in the recent DASSA Tennis Singles event. Finishing in all top three spots in the DASSA Tennis Singles Finals. Credit: George Spurling</figcaption></figure>
 
 Leading to an excellent standard of play on the court for Dubai pupils. The youth looked ready to make a statement in their upcoming play on the court.
 
@@ -34,7 +34,7 @@ Smacking his way through a highly intense match-up, Alex Mantzavinatos defeated 
 
 Flipping to the girls' court, a thrilling series of matches had happened in the U14 DASSA Singles play.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/02/IMG_7030-300x225.jpg" alt=""><figcaption>Girls' tennis action was underway this week at Kings' School Dubai's sports complex. Credit: George Spurling</figcaption></figure>
+<figure><img src="/images/archive/2023/02/img-7030.webp" alt=""><figcaption>Girls' tennis action was underway this week at Kings' School Dubai's sports complex. Credit: George Spurling</figcaption></figure>
 
 However, one young tennis superstar from Dubai's Motor City made a name for herself this week.
 

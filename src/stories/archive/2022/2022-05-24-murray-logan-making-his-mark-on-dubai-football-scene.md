@@ -5,9 +5,9 @@ slug: "murray-logan-making-his-mark-on-dubai-football-scene"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 standfirst: "Kings' School Al Barsha's Murray Logan has settled into life in Dubai and he has used his passion for football to help him."
+image: "/images/archive/2022/05/jaki2632.webp"
 metaDescription: "Kings' School Al Barsha's Murray Logan has settled into life in Dubai and he has used his passion for football to help him."
 wpId: 5646
-wpFeaturedImage: "2022/05/JAKI2632.jpg"
 ---
 
 **For many students across Dubai, UAE and the Middle East, lifestyle changes result in moving to a new country to join a new school - leaving behind friends and family to embark on a new adventure.**
@@ -18,7 +18,7 @@ Murray Logan’s story begins in Scotland, where the young football fanatic repr
 
 A talented young midfielder, Murray plays his club football for City FC under the guidance of coach Adam Burrows. He is grateful for the help offered to him by everyone at the club - as well as sprint coach Costa at Ultimate Athletics - and he is working hard to become the best version of himself on and off the pitch.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/05/IMG_6822-300x177.jpg)  
+![](/images/archive/2022/05/img-6822.webp)  
 Murray said: “I know that Adam is always there for me when I need help and support from him. I train Monday, Tuesday, Thursday & Friday with City and play YFL on a Sunday at Dubai Sevens. On a Wednesday I work with Coach Costa at sprint training where I do my speed and agility training, this is the part of my game that I am working very hard on at present.
 
 “I also undertake a gym routine designed by Coach Costa to help my speed and agility which I really enjoy. Saturday is a rest day for me and I spend time with friends and family normally.”
@@ -41,7 +41,7 @@ Murray is hugely thankful for his dad’s input in his football career, and he c
 
 “We always discuss the aspects of the game that went well and also the points that didn’t go so well and how I can take those points into improving my performance in my next match or at training. I also benefit massively from my dad’s experiences good and bad in football which is great, he always gives me his thoughts but lets me make my own choices to help me progress and a footballer and a person which I really appreciate.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2022/05/0abef0ec-9e32-46f4-b7cd-258cab86ce51-300x225.jpg" alt="Murray with former St Johnstone team mates"><figcaption>Murray with former St Johnstone team mates in Scotland.</figcaption></figure>
+<figure><img src="/images/archive/2022/05/0abef0ec-9e32-46f4-b7cd-258cab86ce51.webp" alt="Murray with former St Johnstone team mates"><figcaption>Murray with former St Johnstone team mates in Scotland.</figcaption></figure>
 
 Murray also has great respect for the coaches at old club St Johnstone who helped mould the midfielder into the type of player - and young man - that he is today, with coach Toni still keeping a keen eye on how he is progressing in the sun-soaked surroundings of Dubai.
 

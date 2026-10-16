@@ -5,8 +5,8 @@ slug: "bsak-celebrate-girls-treble-glory"
 kicker: "Match Zone"
 categories: ["Match Zone"]
 excerpt: "Fresh from winning a remarkable treble, GYS had the opportunity to speak to a delighted BSAK U16 Girl’s Football team to reflect on an incredible season."
+image: "/images/archive/2019/09/img-342019172421-5668f96da87942e2a15e2faf862a61b9.webp"
 wpId: 1205
-wpFeaturedImage: "2019/09/img-342019172421-5668f96da87942e2a15e2faf862a61b9.jpg"
 ---
 
 Fresh from winning a remarkable treble, GYS had the opportunity to speak to a delighted BSAK U16 Girl’s Football team to reflect on an incredible season.

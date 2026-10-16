@@ -4,8 +4,8 @@ date: 2021-03-14T09:50:53+04:00
 slug: "building-a-sustainable-club-from-the-beginning"
 categories: ["News & Features"]
 excerpt: "Alliance Football Club is an academy with a difference. Founded in 2015 the club aims to provide young athletes with life coaching, alongside building up their football skills."
+image: "/images/archive/2021/03/142851630-3895881150478347-5384451930925437218-o-e1615715376220.webp"
 wpId: 5023
-wpFeaturedImage: "2021/03/142851630_3895881150478347_5384451930925437218_o-e1615715376220.jpg"
 ---
 
 **Alliance Football Club is an academy with a difference. Founded in 2015 the club aims to provide young athletes with life coaching, alongside building up their football skills.**
@@ -19,8 +19,6 @@ Alliance runs a [program donating kit](/2021/03/01/alliance-fc-bringing-football
 "Almost a decade ago, I noticed how much plastic waste was being created from our football sessions while coaching at a well-known club. I realised that we could not achieve anything without educating our players about the environmental impacts of our behaviour.
 
 Resultantly, each member receives a reusable bottle meaning the club can do away with plastic bottles.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/03/143332674_3895904967142632_9192913823276447308_o-300x300.jpg" alt=""><figcaption>Each player at Alliance FC receives a reusable water bottle.</figcaption></figure>
 
 "When I started Alliance Football Club in 2015, I decided to give our players a stainless-steel water bottle and ban single-use plastic bottles inside the club. Most parents welcomed the idea and supported us, which made a significant impact on our long-term target. Currently, we have kids as young as three-years-old who train with their eco-friendly bottles," Rowshan said.
 

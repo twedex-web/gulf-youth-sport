@@ -5,9 +5,9 @@ slug: "latest-bsme-photo-galleries-highlights-videos"
 kicker: "BSME Games"
 categories: ["BSME Games", "GYS", "Multi-Sports", "News & Features"]
 standfirst: "After an action-packed start to 2025, view the latest BSME Games photo galleries and highlights videos courtesy of the GYS Media Team!"
+image: "/images/archive/2025/02/bsme-games-doha-jan-2025-day-02-153.webp"
 metaDescription: "After an action-packed start to 2025, view the latest BSME Games photo galleries and highlights videos courtesy of the GYS Media Team!"
 wpId: 6935
-wpFeaturedImage: "2025/02/BSME-GAMES-DOHA-JAN-2025-DAY-02-153-scaled.jpg"
 ---
 
 **It** **has been an action-packed start to 2025, with a number of BSME Games taking place across January and early February.**

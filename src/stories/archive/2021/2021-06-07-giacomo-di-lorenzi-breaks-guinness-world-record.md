@@ -5,9 +5,9 @@ slug: "giacomo-di-lorenzi-breaks-guinness-world-record"
 kicker: "Athletics"
 categories: ["Athletics", "News & Features"]
 standfirst: "Dubai's Giacomo Di Lorenzi is a new Guinness World Record holder after he completed 150 mountain climbers in 60 seconds."
+image: "/images/archive/2021/06/giacomo-di-lorenzi.webp"
 metaDescription: "Dubai's Giacomo Di Lorenzi is a new Guinness World Record holder after he completed 150 mountain climbers in 60 seconds."
 wpId: 5309
-wpFeaturedImage: "2021/06/Giacomo-Di-Lorenzi.png"
 ---
 
 * * *

@@ -5,9 +5,9 @@ slug: "a-spotlight-on-jess-under-16-basketball-squad"
 kicker: "Basketball"
 categories: ["Basketball", "DASSA", "News & Features"]
 standfirst: "Sporting talents in Jumeirah English Speaking School's under-16s basketball squad have their sights on the DASSA division one title."
+image: "/images/archive/2019/11/jess-u16-team.webp"
 metaDescription: "Sporting talents in Jumeirah English Speaking School's under-16s basketball squad have their sights on the DASSA division one title."
 wpId: 1483
-wpFeaturedImage: "2019/11/JESS-u16-Team.jpg"
 ---
 
 They are a handy bunch of sporting talents in Jumeirah English Speaking School's under-16s basketball squad.
@@ -22,7 +22,7 @@ The side's strength is its strong connection on court as all the members of the 
 
 The players know their team mates' individual games like they have played together for years and Andrew's main message before each match is to use this to create scoring opportunities.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2019/11/JESS-u16-Team.jpg)With two training sessions to organise strategy and improve skills, an additional strength and conditioning session keeps the girls at their optimum fitness.
+With two training sessions to organise strategy and improve skills, an additional strength and conditioning session keeps the girls at their optimum fitness.
 
 Having a common goal in mind helps of course.
 

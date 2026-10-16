@@ -4,9 +4,9 @@ date: 2021-10-12T14:22:23+04:00
 slug: "rgsgd-isd-join-forces"
 categories: ["News & Features"]
 standfirst: "The Royal Grammar School Guildford Dubai and ISD Dubai Sports City have joined forces to provide students with top class sport facilities."
+image: "/images/archive/2021/10/popup-banner.webp"
 metaDescription: "The Royal Grammar School Guildford Dubai and ISD Dubai Sports City have joined forces to provide students with top class sport facilities."
 wpId: 5462
-wpFeaturedImage: "2021/10/popup-banner.jpg"
 ---
 
 **The Royal Grammar School Guildford Dubai (RGSGD) has partnered with Inspiratus Sports District (ISD) Dubai Sports City to enhance its year-round sports offering for the whole school.**

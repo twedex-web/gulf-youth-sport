@@ -3,8 +3,8 @@ title: "#MeetTheTeams: Haileybury Almaty Excited to Attend World School Games"
 date: 2018-01-16T00:00:00+04:00
 slug: "meettheteams-haileybury-almaty-excited-to-attend-world-school-games"
 excerpt: "Haileybury Almaty are will fly the flag for Kazakhstan when they join schools from across the globe at the inaugural World School Games event in Dubai in February."
+image: "/images/archive/2019/09/main-img-161201813138.webp"
 wpId: 883
-wpFeaturedImage: "2019/09/Main-img-161201813138.jpg"
 ---
 
 **Haileybury Almaty are will fly the flag for Kazakhstan when they join schools from across the globe at the inaugural World School Games event in Dubai in February.**

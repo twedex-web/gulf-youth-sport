@@ -4,8 +4,8 @@ date: 2021-01-03T08:48:58+04:00
 slug: "awfl-an-ecosystem-for-female-footballers"
 categories: ["News & Features"]
 excerpt: "Three months ago a new league was formed to encourage women and girls to participate in football in the Middle East."
+image: "/images/archive/2021/01/121531169-103972501500387-8654912892486648225-o.webp"
 wpId: 4650
-wpFeaturedImage: "2021/01/121531169_103972501500387_8654912892486648225_o.jpg"
 ---
 
 Three months ago a new league was formed to encourage women and girls to participate in football in the Middle East.

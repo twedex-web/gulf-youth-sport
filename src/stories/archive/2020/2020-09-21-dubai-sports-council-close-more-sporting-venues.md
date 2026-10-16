@@ -4,8 +4,8 @@ date: 2020-09-21T10:52:41+04:00
 slug: "dubai-sports-council-close-more-sporting-venues"
 categories: ["GYS"]
 excerpt: "The DSC and Dubai Economy teams visited 124 sports facilities and five sports events for inspection between September 15 and 19 to ensure they complied with all safety protocols."
+image: "/images/archive/2020/09/field-closed-sign-e1600668868668.webp"
 wpId: 3938
-wpFeaturedImage: "2020/09/field-closed-sign-e1600668868668.jpg"
 ---
 
 Three facilities have been closed down and six others issued monetary fines after Dubai Sports Council and Dubai Economy intensified COVID-19 checks. In addition, 35 other sporting venues or academies were issued a warning.

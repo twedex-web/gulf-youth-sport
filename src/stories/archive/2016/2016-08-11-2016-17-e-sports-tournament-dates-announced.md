@@ -2,11 +2,10 @@
 title: "2016-17 E-Sports Tournament Dates Announced"
 date: 2016-08-11T00:00:00+04:00
 slug: "2016-17-e-sports-tournament-dates-announced"
+excerpt: "After a hugely successful inaugural year, the E-Sports Silicon 7’s tournaments are back for season 2016-17."
+image: "/images/archive/2019/09/main-img-211201674140.webp"
 wpId: 441
-wpFeaturedImage: "2019/09/Main-img-211201674140.jpg"
 ---
-
-![](http://gys1.r-y-x.com/Admin/Content/UserFiles/2015_kidsfootball_3_base.jpg)
 
 After a hugely successful inaugural year, the E-Sports Silicon 7’s tournaments are back for season 2016-17.
 

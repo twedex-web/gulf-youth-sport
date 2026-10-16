@@ -3,8 +3,8 @@ title: "FOOTBALL: All Smiles at My Football Cup"
 date: 2017-03-20T00:00:00+04:00
 slug: "football-all-smiles-at-my-football-cup"
 excerpt: "Friday saw the cream of the UAE's youth football descend on Jebel Ali School to battle it out in the My Football Cup."
+image: "/images/archive/2019/09/main-img-2032017135745.webp"
 wpId: 596
-wpFeaturedImage: "2019/09/Main-img-2032017135745.jpg"
 ---
 
 **Friday saw the cream of the UAE's youth football descend on Jebel Ali School to battle it out in the My Football Cup.**

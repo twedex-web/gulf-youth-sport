@@ -4,8 +4,8 @@ date: 2020-04-07T09:20:49+04:00
 slug: "support-your-sports-academy"
 categories: ["GYS", "News & Features"]
 excerpt: "It’s a tough time for everyone in lockdown as we all face unfamiliar challenges. Among those hit hardest are sporting academies and their coaches following forced closures."
+image: "/images/archive/2020/04/jpeg-63-4.webp"
 wpId: 2761
-wpFeaturedImage: "2020/04/jpeg-63-4.jpg"
 ---
 
 It’s a tough time for everyone in lockdown as we all face unfamiliar challenges. Among those hit hardest are sporting academies and their coaches following forced closures.
@@ -28,7 +28,7 @@ Gulf Youth Sport was established as a forum to celebrate and promote youth sport
 
 Term three is usually the time when sport is at its peak in the Gulf before the unbearably hot summer months hit. Ultimate Athletics head coach Lisa Campbell said this means that academies are now without the income that would normally see them through summer.
 
-"This term would normally pay for the full time coaches salaries throughout the holiday season (July/August), pay for Trade Licence renewal, office rent, any new equipment needed for next season and also my own living expenses. So needless to say its going to be difficult the longer this goes on.  Coaches are here for the long run and will do whatever we can to ensure athletes and parents have the same standard of academy that they left at the closure," she said.![](https://gulfyouthsport.com/wp-content/uploads/2020/04/SYSA-graphic-2-640x640.jpg)
+"This term would normally pay for the full time coaches salaries throughout the holiday season (July/August), pay for Trade Licence renewal, office rent, any new equipment needed for next season and also my own living expenses. So needless to say its going to be difficult the longer this goes on.  Coaches are here for the long run and will do whatever we can to ensure athletes and parents have the same standard of academy that they left at the closure," she said.
 
 Dubai City Football Club director of football Terry Kidd said the COVID-19 made his team hurry into releasing a phone application where instruction for term three drills and learning initiatives could be passed on.
 

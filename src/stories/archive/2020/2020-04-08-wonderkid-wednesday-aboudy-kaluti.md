@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-aboudy-kaluti"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 excerpt: "IMG Academy in Florida is a highly regarded sporting institution across the globe for its specialisation in an assortment of sports."
+image: "/images/archive/2020/04/4e01ad78-2ac0-40fd-aa22-04d8ec261045-2.webp"
 wpId: 2883
-wpFeaturedImage: "2020/04/4E01AD78-2AC0-40FD-AA22-04D8EC261045-2.jpg"
 ---
 
 IMG Academy in Florida is a highly regarded sporting institution across the globe for its specialisation in an assortment of sports.
@@ -17,7 +17,7 @@ His goal requires dedication on the sporting arena, but also many sacrifices as 
 
 "I told my self when I go to IMG Academy I would have to sacrifice a lot of things. I told myself that when I am there I've got to work hard and get better," Kaluti said.
 
-"Being far away from family and friends can be hard. I would love to be with my family everyday and see my good friends. But I do have really good friends at IMG Academy. But I do split my time between Dubai and Florida.![](https://gulfyouthsport.com/wp-content/uploads/2020/04/12_Kaluti_Abdulrahman_23-640x960.jpg)
+"Being far away from family and friends can be hard. I would love to be with my family everyday and see my good friends. But I do have really good friends at IMG Academy. But I do split my time between Dubai and Florida.
 
 "Mainly I am at IMG Academy training and doing my education, but I come during the breaks to Dubai. I come to spend a few weeks with my family and friends then I head back to work again. It's nice when you're away for quite a bit and then come home to see your loved ones and your friends."
 

@@ -5,9 +5,9 @@ slug: "dessc-achieve-extraordinary-feat-at-dubai-college-rugby-10s"
 kicker: "Match Zone"
 categories: ["Match Zone", "News & Features", "Rugby"]
 standfirst: "DESSC clean swept every age group at the Dubai College Rugby 10s to bring back six pieces of silverware to the trophy cabinet at the school."
+image: "/images/archive/2020/02/desc-rugby-dc10s-group-shot.webp"
 metaDescription: "DESSC clean swept every age group at the Dubai College Rugby 10s to bring back six pieces of silverware to the trophy cabinet at the school."
 wpId: 1987
-wpFeaturedImage: "2020/02/DESC-Rugby-DC10s-group-shot.jpg"
 ---
 
 Dubai English Speaking School and Dubai English Speaking College sides produced phenomenal performances at the Dubai College Rugby 10s competition at the weekend.
@@ -28,7 +28,7 @@ DESSC principal Andy Gibbs said he was astonished by the sterling performance fr
 
 "DESSC rugby, and sport as a whole, is in a great place and we can't wait to see it continue to develop over the coming months and years with some exciting projects in the pipelines"
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/DESC-Rugby-DC10s-trophies.jpg)  
+  
 DESSC's results from the finals are as follows:
 
 **U-19:** DESC Cup 15 d. DC 10

@@ -5,8 +5,8 @@ slug: "the-journey-of-a-youth-football-player"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "That a good person makes a great footballer was an overarching message during City Football Club's webinar on the journey of a youth player."
+image: "/images/archive/2020/05/screen-shot-2020-05-11-at-13-34-04.webp"
 wpId: 3153
-wpFeaturedImage: "2020/05/Screen-Shot-2020-05-11-at-13.34.04.png"
 ---
 
 That a good person makes a great footballer was an overarching message during City Football Club's webinar on the journey of a youth player.
@@ -20,8 +20,6 @@ Carlin said that creating a well-rounded person makes youth players more attract
 "If we can produce a good person it's so much easier for them to move into any other environment and showcase what they're about."
 
 Martino also had the same opinion and shared statistics from Southampton to back up this view.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/05/EXquCJ_XsAAO7dR.jpeg" alt=""><figcaption>A summary of the webinar.</figcaption></figure>
 
 "One of the tough times in the academy is when you get to the scholarship age and unfortunately not every young player will get their dream and be offered a scholarship," he said.
 

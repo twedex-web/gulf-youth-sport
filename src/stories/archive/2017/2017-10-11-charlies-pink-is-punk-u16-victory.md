@@ -3,15 +3,13 @@ title: "Charlie's Pink is Punk U16 Victory"
 date: 2017-10-11T00:00:00+04:00
 slug: "charlies-pink-is-punk-u16-victory"
 excerpt: "WONDER KID WEDNESDAY"
+image: "/images/archive/2019/09/main-img-910201711427.webp"
 wpId: 776
-wpFeaturedImage: "2019/09/Main-img-910201711427.jpg"
 ---
 
 **WONDER KID WEDNESDAY**
 
 **There’s really no end to Charlie Gould’s list of incredible achievements. The British 12-year-old lives and breathes sport to the fullest extent, planning his whole week outside of studying at Dubai College around a variety of activities. These range across anything from cycling to Crossfit but his main passions are Rugby and Triathlons.**
-
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/IMG_2601.jpg)
 
 **Charlie came in first place in the U16 division of the recent Ignite Pink is Punk Aquathlon, making an incredible start to the new season of races. Some of his other recent highlights include: representing UAE in the Biathle World Championships, winning several junior triathlons over the last year, captaining his school rugby team, playing for Dubai Exiles rugby club and much more.**
 

@@ -5,8 +5,8 @@ slug: "competition-comparison-and-connections-drive-ronaldo-to-improve"
 kicker: "Sports Media Course"
 categories: ["Sports Media Course"]
 excerpt: "By Tricia Ninan"
+image: "/images/archive/2020/11/cristiano-ronaldo-1140x1140-nmbg0oovg.webp"
 wpId: 4210
-wpFeaturedImage: "2020/11/cristiano-ronaldo-1140x1140-NMbG0ooVg.jpeg"
 ---
 
 **_By Tricia Ninan_**
@@ -18,8 +18,6 @@ wpFeaturedImage: "2020/11/cristiano-ronaldo-1140x1140-NMbG0ooVg.jpeg"
 Ronaldo's story is an inspiring story of rags to riches. His younger self was scouted by a smaller club and then by Manchester United who paid a record amount for the talented teenager. He was then sent off into the big leagues where he went on to help Manchester United win multiple titles. His role in helping achieve these titles helped launch his career and himself into stardom. 
 
 Ronaldo is a well recognised name, and when asked which other players make him the best version of himself, he mentions some fan favourite footballers.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/11/Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina_9th_February_2011.jpg" alt=""><figcaption>Cristiano Ronaldo (left) said great watching great players like Lionel Messi drive him to improve.</figcaption></figure>
 
 "(Lionel) Messi and Neymar...of course we fight…but this is healthy fighting”, he said.
 

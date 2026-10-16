@@ -3,8 +3,8 @@ title: "Pocket-sized Emirati Gymnast Sets Sights on Olympics"
 date: 2018-06-06T00:00:00+04:00
 slug: "pocket-sized-emirati-gymnast-sets-sights-on-olympics"
 excerpt: "Small in stature she may be, but seven year old gymnast Lamia Tariq Malallah AlFarsi has got some big plans."
+image: "/images/archive/2019/09/main-img-66201881438.webp"
 wpId: 1042
-wpFeaturedImage: "2019/09/Main-img-66201881438.jpg"
 ---
 
 **Small in stature she may be, but seven year old gymnast Lamia Tariq Malallah AlFarsi has got some big plans.** 
@@ -13,7 +13,7 @@ The young Emirati has already claimed Gold numerous times on the international 
 
 We caught up with Lamia's Mother, Malak, to find out how Lamia has propelled herself to stardom at such a tender age, and what the future holds.
 
-Malak, explained that initially it was Lamia's excessive energy levels that led her to find the sport she now excels at.![](http://gulfyouthsport.com/Admin/Content/UserFiles/IMG_20180607_160124.jpg)
+Malak, explained that initially it was Lamia's excessive energy levels that led her to find the sport she now excels at.
 
 **"Lamia was full of energy as a toddler, and by the age of four she was running wild and jumping all over the house! We soon realised that we had to find an activity that would allow her to channel her energy in a positive way. The first activity we took her to was ballet, but it was very structured and I could see straight away that she felt restricted.**
 

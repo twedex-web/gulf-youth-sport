@@ -3,8 +3,8 @@ title: "World's Best U13 Footballers Arrive in Dubai for 2018 Intercontinental C
 date: 2018-02-19T00:00:00+04:00
 slug: "worlds-best-u13-footballers-arrive-in-dubai-for-2018-intercontinental-cup"
 excerpt: "The world's brightest young footballers have arrived in Dubai ahead of the second edition of Intercontinental Cup."
+image: "/images/archive/2019/09/main-img-1922018133431.webp"
 wpId: 913
-wpFeaturedImage: "2019/09/Main-img-1922018133431.jpg"
 ---
 
 **The world's brightest young footballers have arrived in Dubai ahead of the second edition of Intercontinental Cup.**

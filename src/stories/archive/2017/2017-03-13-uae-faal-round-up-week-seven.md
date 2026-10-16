@@ -3,8 +3,8 @@ title: "UAE FAAL Round-Up: Week Seven"
 date: 2017-03-13T00:00:00+04:00
 slug: "uae-faal-round-up-week-seven"
 excerpt: "Messi & Co grabbed the headlines for their epic comeback aganst PSG in the Champions League on Wednesday night, but the men from Catalonia were given a taste of their own medicine when FCBEscola met E-Sports Football…"
+image: "/images/archive/2019/09/main-img-1232017232320.webp"
 wpId: 586
-wpFeaturedImage: "2019/09/Main-img-1232017232320.jpg"
 ---
 
 **Messi & Co** grabbed the headlines for their epic comeback aganst PSG in the Champions League on Wednesday night, but the men from Catalonia were given a taste of their own medicine when **FCBEscola** met **E-Sports Football Club** in Week 7 of the du **UAE FA Academy League**.

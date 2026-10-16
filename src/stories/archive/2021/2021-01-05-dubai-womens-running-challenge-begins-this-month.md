@@ -5,8 +5,8 @@ slug: "dubai-womens-running-challenge-begins-this-month"
 kicker: "Match Zone"
 categories: ["Match Zone"]
 excerpt: "Dubai Sports Council has announced an exclusive new event for ladies, the four-part Dubai Women’s Running Challenge, which will take participants to four unique locations across Dubai."
+image: "/images/archive/2021/01/imgl7572.webp"
 wpId: 4668
-wpFeaturedImage: "2021/01/IMGL7572.jpg"
 ---
 
 Dubai Sports Council has announced an exclusive new event for ladies, the four-part Dubai Women’s Running Challenge, which will take participants to four unique locations across Dubai.
@@ -15,7 +15,7 @@ Organised in collaboration with Dubai Municipality under the slogan “It is goo
 
 Stage 2 will take place on January 23 at another unique location, the Palm Jumeirah, while Stage 3, which will be a night race starting at 9pm, will take the ladies to Dubai Garden Glow on January 28.
 
-The Challenge will then wound up on February 6 at Al Seef, allowing participants to soak in the atmosphere of the cultural and historic district.![](https://gulfyouthsport.com/wp-content/uploads/2021/01/IMGL7760-300x195.jpg)
+The Challenge will then wound up on February 6 at Al Seef, allowing participants to soak in the atmosphere of the cultural and historic district.
 
 Registration are open now for all four stages of the Challenge on the Hopasports website ([https://www.hopasports.com/en/event/dubai-women-running-challenge-series-1-of-4-dubai-safari-park](https://www.hopasports.com/en/event/dubai-women-running-challenge-series-1-of-4-dubai-safari-park)), and participants can choose from three distances: 10km, 5km and 2.5km.
 

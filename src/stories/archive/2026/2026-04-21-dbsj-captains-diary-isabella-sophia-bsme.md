@@ -5,11 +5,11 @@ slug: "dbsj-captains-diary-isabella-sophia-bsme"
 kicker: "BSME Games"
 categories: ["BSME Games", "In The Spotlight"]
 standfirst: "DBS Jumeirah twins Isabella and Sophia share their personal diary from the BSME U11 Games in Muscat. Gold medals, football trophies, and pink glitter!"
+image: "/images/archive/2026/04/bsme-u11-games-dbs-jumeira-1.webp"
 imageAlt: "Two sisters showing off their medals at BSME Games in Muscat for DBS Jumeira"
 seoTitle: "The Captains' Diary: Isabella & Sophia’s BSME Muscat Experience"
 metaDescription: "DBS Jumeirah twins Isabella and Sophia share their personal diary from the BSME U11 Games in Muscat. Gold medals, football trophies, and pink glitter!"
 wpId: 7098
-wpFeaturedImage: "2026/04/BSME-U11-games-DBS-Jumeira-1.png"
 ---
 
 ## **Debut, Dreams, and Dominance: The Twin Sisters Who Led DBS Jumeirah to BSME Glory**
@@ -37,7 +37,7 @@ The nerves were high as the team arrived at the "intimidatingly large" venue, bu
   
 On the pitch, the dominance continued. The girls went undefeated in football, culminating in an electric final. "When the whistle blew, we all ran to each other, jumping and hugging," recalls Sophie. "We won the title and the trophy. It’s the moment we still speak about today," says Isabella.  
 
-### **![Sophia and Isabella of DBS Jumeirah celebrating their BSME Athletics win in Muscat.](https://gulfyouthsport.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-15.28.28-1-768x1024.jpeg)**
+### **![Sophia and Isabella of DBS Jumeirah celebrating their BSME Athletics win in Muscat.](/images/archive/2026/04/whatsapp-image-2026-04-15-at-15-28-28-1.webp)**
 
   
 
@@ -53,7 +53,7 @@ The final day was all about individual grit and team relays, with the girls spor
 
 "I was so proud at the award ceremony when the girls' athletics team got called up for first place. I actually couldn't believe it," says Isabella.
 
-### **![Sophia and Isabella with team mates from DBS Jumeirah during BSME in Muscat.](https://gulfyouthsport.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-11.23.48-768x1024.jpeg)**
+### **![Sophia and Isabella with team mates from DBS Jumeirah during BSME in Muscat.](/images/archive/2026/04/whatsapp-image-2026-04-15-at-11-23-48.webp)**
 
   
 

@@ -4,9 +4,9 @@ date: 2020-03-24T17:03:25+04:00
 slug: "dubai-college-alumni-in-prestigious-oxford-to-cambridge-boat-race"
 categories: ["GYS", "News & Features"]
 standfirst: "Representing Oxford in a traditional university boat race is an incredibly prestigious honour bestowed upon only a few.But this honour went to Dubai College alumni Amy Hosking and Leah Mitchell who both represented Oxford in in the Lightweight Rowing Club's contest against Cambridge earlier this month."
+image: "/images/archive/2020/03/image2-2-e1585069941720.webp"
 metaDescription: "Representing Oxford in a traditional university boat race is an incredibly prestigious honour bestowed upon only a few.But this honour went to Dubai College alumni Amy Hosking and Leah Mitchell who both represented Oxford in in the Lightweight Rowing Club's contest against Cambridge earlier this month."
 wpId: 2626
-wpFeaturedImage: "2020/03/image2-2-e1585069941720.jpeg"
 ---
 
 Representing Oxford in a traditional university boat race is an incredibly prestigious honour bestowed upon only a few.
@@ -21,13 +21,13 @@ Despite not being able to claim the win against the old rivals, Mitchell said th
 
 Mitchell is also the president of the Oxford Lightweight Rowing Club and it was her second time racing against Cambridge after participating in the Henley Boat Races last year when her side came out on top.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/03/image0.jpeg)Mitchell and Hosking both graduated from Dubai College and now Mitchell specialises in neuroscience while Hosking studies the classics.
+Mitchell and Hosking both graduated from Dubai College and now Mitchell specialises in neuroscience while Hosking studies the classics.
 
 Both were avid runners as teenagers and Mitchell completed two half marathons including the Dubai Creek Striders through the Souk, while Hosking ticked off the London marathon in her final year of high school.
 
 So after no exposure to rowing in Dubai, what propelled them into the sport at university?
 
-"Rowing is a massive collegiate sport at Oxford, with each college having its own boat club that teaches novices to row each year. I knew I wanted to try it when I arrived, and was taught to row in my first year," Hosking said.![](https://gulfyouthsport.com/wp-content/uploads/2020/03/image1-e1585069260771-265x300.jpeg)
+"Rowing is a massive collegiate sport at Oxford, with each college having its own boat club that teaches novices to row each year. I knew I wanted to try it when I arrived, and was taught to row in my first year," Hosking said.
 
 "I’m incredibly grateful to my coaches and rowing captains at Balliol (College)who got me to the point where I could consider stepping up to university level rowing."
 

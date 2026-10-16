@@ -5,9 +5,9 @@ slug: "gys-archives-football-fever-in-barcelona"
 kicker: "Football"
 categories: ["Football", "World School Games"]
 standfirst: "Relive the 2025 World School Football Cup where Dubai College triumphed in Barcelona. Register now for the October 2026 tournament in Spain."
+image: "/images/archive/2026/05/world-school-football-cup-gys-post.webp"
 metaDescription: "Relive the 2025 World School Football Cup where Dubai College triumphed in Barcelona. Register now for the October 2026 tournament in Spain."
 wpId: 7155
-wpFeaturedImage: "2026/05/World-school-football-cup-GYS-post.png"
 ---
 
 ## Catalan Conquest: Gulf Schools Shine at the 2025 World School Football Cup

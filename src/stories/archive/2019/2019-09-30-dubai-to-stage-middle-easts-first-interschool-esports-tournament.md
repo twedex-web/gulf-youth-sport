@@ -5,10 +5,10 @@ slug: "dubai-to-stage-middle-easts-first-interschool-esports-tournament"
 kicker: "Esports"
 categories: ["Esports", "News & Features"]
 standfirst: "Growing popularity of Esports leads to Dubai hosting inaugural interschools tournament for the regions young gamers, featuring FIFA'20"
+image: "/images/archive/2019/09/interschool-esports-tournament-fifa20.webp"
 imageAlt: "Dubai Esports Schools Fifa'20"
 metaDescription: "Growing popularity of Esports leads to Dubai hosting inaugural interschools tournament for the regions young gamers, featuring FIFA'20"
 wpId: 1278
-wpFeaturedImage: "2019/09/Interschool-Esports-Tournament-FIFA20.jpg"
 ---
 
 Meydan One and Galaxy Racer Esports today announced the launch of Dubai’s first-ever Interschool Esports Tournament featuring FIFA ‘20 at Meydan Grandstand.

@@ -4,8 +4,8 @@ date: 2021-01-25T10:45:59+04:00
 slug: "introducing-the-gys-spring-netball-cup"
 categories: ["News & Features"]
 excerpt: "GYS SPRING NETBALL CUP"
+image: "/images/archive/2021/01/screen-shot-2021-01-25-at-21-23-50.webp"
 wpId: 4818
-wpFeaturedImage: "2021/01/Screen-Shot-2021-01-25-at-21.23.50.png"
 ---
 
 **GYS SPRING NETBALL CUP**

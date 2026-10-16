@@ -3,8 +3,8 @@ title: "FOOTBALL: ADYL Finals Round-up"
 date: 2017-04-16T00:00:00+04:00
 slug: "football-adyl-finals-round-up"
 excerpt: "The Abu Dhabi Youth League came to a thrilling finale in the capital yesterday."
+image: "/images/archive/2019/09/main-img-164201762349.webp"
 wpId: 623
-wpFeaturedImage: "2019/09/Main-img-164201762349.jpg"
 ---
 
 The Abu Dhabi Youth League came to a thrilling finale in the capital yesterday.

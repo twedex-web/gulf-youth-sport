@@ -17,7 +17,7 @@ A squad of 12 talented young players from across the country - led by captain Mi
 
 In their opening match on Wednesday, England ran out 92-19 victors at the Antrim Forum before Scotland edged out the Falcons 59-40 on Thursday.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2025/03/UAE-U17-netball-2-300x200.png" alt=""><figcaption><em>Image credit - Stephen Hamilton (Instagram/@imjustasnapper)</em></figcaption></figure>
+<figure><img src="/images/archive/2025/03/uae-u17-netball-2.webp" alt=""><figcaption><em>Image credit - Stephen Hamilton (Instagram/@imjustasnapper)</em></figcaption></figure>
 
 There were, however, positive signs in the first two matches with some impressive plays and performances on show in front of the live stream cameras. It then all came together in their third match against Wales on Friday when the Falcons won 48-35 in a highly entertaining game.
 
@@ -27,7 +27,7 @@ On Saturday, a second defeat to Scotland at the Play-off stage then gave the Fal
 
 A closely-fought 43-39 victory over their opponents ensured that the Falcons returned to the UAE with the bronze medal - a fantastic achievement for a young squad with a bright future ahead.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2025/03/UAE-u17-netball-3-300x224.png" alt=""><figcaption><em>Image credit - Stephen Hamilton (Instagram/@imjustasnapper)</em></figcaption></figure>
+<figure><img src="/images/archive/2025/03/uae-u17-netball-3.webp" alt=""><figcaption><em>Image credit - Stephen Hamilton (Instagram/@imjustasnapper)</em></figcaption></figure>
 
 Speaking after their final match, the UAE Young Falcons' Head Coach, Emily Fensome said: "I'm really proud of the way we've grown over the weeks. We started off with a really tough game against England, but it actually gave us lots of learning opportunities and we showed that out on the court ending in a win.
 

@@ -5,9 +5,9 @@ slug: "turbo-charge-your-childs-progress-in-kids-football"
 kicker: "Football"
 categories: ["Football"]
 standfirst: "In the first in a series of expert coaching articles helping to improve young players skills in youth football, Kids DXB owner Tom Green explains how to have your child scoring goals from either foot with some dedicated training."
+image: "/images/archive/2020/02/screen-shot-2020-01-21-at-9-43-56-pm.webp"
 metaDescription: "In the first in a series of expert coaching articles helping to improve young players skills in youth football, Kids DXB owner Tom Green explains how to have your child scoring goals from either foot with some dedicated training."
 wpId: 1912
-wpFeaturedImage: "2020/02/Screen-Shot-2020-01-21-at-9.43.56-PM.png"
 ---
 
 ### **_In the first in a series of expert coaching articles helping to improve young players skills in youth football, Kids DXB owner Tom Green explains how to have your child scoring goals from either foot with some dedicated training._**
@@ -23,8 +23,6 @@ In the modern game where modern coaches encourage their teams to play out from t
 Being able to use two feet opens up both sides of the body and doubles the number of options that your child has available to them on the pitch.
 
 From an attacking perspective it also puts the opposing player on edge as the option of putting the player onto their weaker foot is not available, making the attacking player much harder to defend and a more significant goal scoring threat.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/footy-2.png)
 
 For all young players the issue of the weaker foot largely stems from the fact that children want to be successful on the pitch.
 

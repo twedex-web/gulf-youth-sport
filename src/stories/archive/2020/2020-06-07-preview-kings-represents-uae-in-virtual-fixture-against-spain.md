@@ -5,8 +5,8 @@ slug: "preview-kings-represents-uae-in-virtual-fixture-against-spain"
 kicker: "Match Zone"
 categories: ["GYS", "Match Zone"]
 excerpt: "Kings' School Al Barsha will fly the flag for the UAE when it takes on Spain's Laude Newton College in the first virtual fixture tomorrow."
+image: "/images/archive/2020/06/copy-of-virtual-fixtures-3.webp"
 wpId: 3320
-wpFeaturedImage: "2020/06/Copy-of-Virtual-Fixtures-3.png"
 ---
 
 Kings' School Al Barsha will fly the flag for the UAE when it takes on Spain's Laude Newton College in the first virtual fixture tomorrow.
@@ -22,5 +22,3 @@ Years 3-6 are involved in the fixture and Kings' PE teacher Jessica Ross said it
 Her counterpart at Laude Newton is just as excited. PE subject leader Robert Sidoli said along with a sporting challenge, it will introduce his Spanish students to those in the Middle East.
 
 "We are so excited to be part of the international virtual sports fixtures against Kings'. Here at Laude Newton College we are always looking for opportunities for our students to expand their minds in an international manner. A big thanks to Kings' School Al Barsha for the opportunity," he said.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/06/Virtual-Fixtures-3-640x640.png" alt=""><figcaption>Kings' upcoming virtual fixtures.</figcaption></figure>

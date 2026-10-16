@@ -3,8 +3,8 @@ title: "FOOTBALL: JESS Elite Stars Stripped & Ready"
 date: 2016-11-23T00:00:00+04:00
 slug: "football-jess-elite-stars-stripped-ready"
 excerpt: "Elite Sports Academy and Jumeirah English Speaking School (JESS) yesterday launched their new football kit for the 2016/17 season."
+image: "/images/archive/2019/09/main-img-231120162247.webp"
 wpId: 461
-wpFeaturedImage: "2019/09/Main-img-231120162247.jpg"
 ---
 
 **Elite Sports Academy and Jumeirah English Speaking School (JESS) yesterday launched their new football kit for the 2016/17 season.**

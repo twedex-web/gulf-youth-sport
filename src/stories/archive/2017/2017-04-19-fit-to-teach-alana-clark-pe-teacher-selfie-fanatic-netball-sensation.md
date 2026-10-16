@@ -3,8 +3,8 @@ title: "FIT TO TEACH: Alana Clark...PE Teacher - Selfie Fanatic - Netball Sensat
 date: 2017-04-19T00:00:00+04:00
 slug: "fit-to-teach-alana-clark-pe-teacher-selfie-fanatic-netball-sensation"
 excerpt: "Our 'Fit to Teach' feature this week focuses on a young teacher whose success on the netball court is inspiring her young students to be reach for the stars."
+image: "/images/archive/2019/09/main-img-23420172068.webp"
 wpId: 632
-wpFeaturedImage: "2019/09/Main-img-23420172068.jpg"
 ---
 
 ****Our 'Fit to Teach' feature this week focuses on a young teacher whose success on the netball court is inspiring her young students to be reach for the stars.**** 

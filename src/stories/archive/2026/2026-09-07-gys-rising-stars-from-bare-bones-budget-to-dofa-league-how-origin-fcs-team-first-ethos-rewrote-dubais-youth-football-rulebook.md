@@ -4,8 +4,8 @@ date: 2026-09-07T12:47:07+04:00
 slug: "gys-rising-stars-from-bare-bones-budget-to-dofa-league-how-origin-fcs-team-first-ethos-rewrote-dubais-youth-football-rulebook"
 categories: ["Uncategorised"]
 excerpt: "GYS RISING STARS: FROM BARE-BONES BUDGET TO DOFA LEAGUE – HOW ORIGIN FC’S TEAM-FIRST ETHOS REWROTE DUBAI’S YOUTH FOOTBALL RULEBOOK"
+image: "/images/archive/2026/09/screenshot-2026-09-07-at-9-14-49-am.webp"
 wpId: 7318
-wpFeaturedImage: "2026/09/Screenshot-2026-09-07-at-9.14.49-am.png"
 ---
 
 **GYS RISING STARS: FROM BARE-BONES BUDGET TO DOFA LEAGUE – HOW ORIGIN FC’S TEAM-FIRST ETHOS REWROTE DUBAI’S YOUTH FOOTBALL RULEBOOK**

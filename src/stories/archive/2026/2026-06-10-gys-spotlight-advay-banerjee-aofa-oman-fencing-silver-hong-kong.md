@@ -5,9 +5,9 @@ slug: "gys-spotlight-advay-banerjee-aofa-oman-fencing-silver-hong-kong"
 kicker: "Fencing"
 categories: ["Fencing", "In The Spotlight", "Rising Stars"]
 standfirst: "Oman's Advay Banerjee secures a silver medal in Epee Boys U10 at an international fencing tournament in Hong Kong. Read about the AOFA and TAISM star."
+image: "/images/archive/2026/06/9172f807-d9ad-4ebf-956f-2f84f7a3dd07.webp"
 metaDescription: "Oman's Advay Banerjee secures a silver medal in Epee Boys U10 at an international fencing tournament in Hong Kong. Read about the AOFA and TAISM star."
 wpId: 7200
-wpFeaturedImage: "2026/06/9172f807-d9ad-4ebf-956f-2f84f7a3dd07.jpeg"
 ---
 
 ## **Global En garde: AOFA's Advay Banerjee Strikes Silver on the International Fencing Stage**

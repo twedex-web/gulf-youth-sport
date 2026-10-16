@@ -3,8 +3,8 @@ title: "Motorsport's Stars of the Future Battle for Shot at the Big Time at Yas 
 date: 2017-11-20T00:00:00+04:00
 slug: "motorsports-stars-of-the-future-battle-for-shot-at-the-big-time-at-yas-marina-circuit-f1-race-weekend"
 excerpt: "There’s more to the big weekend of motorsports at Yas Marina Circuit than the superstars of F1."
+image: "/images/archive/2019/09/main-img-20112017111843.webp"
 wpId: 833
-wpFeaturedImage: "2019/09/Main-img-20112017111843.jpg"
 ---
 
 **There’s more to the big weekend of motorsports at Yas Marina Circuit than the superstars of F1.** 

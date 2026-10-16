@@ -3,8 +3,8 @@ title: "Gulf Star Karate Looking to Develop Olympic Hopefuls"
 date: 2018-03-14T00:00:00+04:00
 slug: "gulf-star-karate-looking-to-develop-olympic-hopefuls"
 excerpt: "With over 300 kids taking part in classes throughout Dubai, Abu Dhabi and Al Ain, Gulf Star Karate are making big waves in the United Arab Emirates sporting community in more ways than one."
+image: "/images/archive/2019/09/main-img-1532018153610.webp"
 wpId: 945
-wpFeaturedImage: "2019/09/Main-img-1532018153610.jpg"
 ---
 
 **With over 300 kids taking part in classes throughout Dubai, Abu Dhabi and Al Ain, Gulf Star Karate are making big waves in the United Arab Emirates sporting community in more ways than one.**

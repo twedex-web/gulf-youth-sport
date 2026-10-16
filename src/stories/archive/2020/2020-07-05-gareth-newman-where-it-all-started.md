@@ -5,8 +5,8 @@ slug: "gareth-newman-where-it-all-started"
 kicker: "Rugby"
 categories: ["News & Features", "Rugby", "Sports Media Course"]
 excerpt: "By Daniel D'Oliveira"
+image: "/images/archive/2020/07/img-5720-2.webp"
 wpId: 3455
-wpFeaturedImage: "2020/07/IMG_5720-2.jpg"
 ---
 
 _By Daniel D'Oliveira_
@@ -20,8 +20,6 @@ As a child, he didn’t realise the amazing potential he had until he reached th
 Soon after Gareth was offered a scholarship to a private school which was Silcoates School and it was here that his career took off. 
 
 “I was now training four, five times a week,” Newman said.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/07/IMG_5721-1024x751.jpg" alt=""><figcaption>Gareth Newman playing for Otley</figcaption></figure>
 
 He was playing here during sixth form and after went back to Sandal. During his time here his team was promoted to the fifth tier of English rugby, National League 3. 
 

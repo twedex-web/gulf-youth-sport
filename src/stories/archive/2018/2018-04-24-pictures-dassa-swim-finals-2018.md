@@ -3,8 +3,8 @@ title: "Pictures: DASSA Swim Finals 2018"
 date: 2018-04-24T00:00:00+04:00
 slug: "pictures-dassa-swim-finals-2018"
 excerpt: "Over 500 of the best young swimmers in Dubai descended on the Hamdan Sports Complex yesterday (23.04.2018) for the 2018 DASSA Swim Finals."
+image: "/images/archive/2019/09/main-img-2442018845.webp"
 wpId: 1006
-wpFeaturedImage: "2019/09/Main-img-2442018845.jpg"
 ---
 
 Over 500 of the best young swimmers in Dubai descended on the Hamdan Sports Complex yesterday (23.04.2018) for the 2018 DASSA Swim Finals.

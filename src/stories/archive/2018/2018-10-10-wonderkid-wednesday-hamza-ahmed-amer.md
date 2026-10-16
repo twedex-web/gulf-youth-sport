@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Hamza Ahmed Amer"
 date: 2018-10-10T00:00:00+04:00
 slug: "wonderkid-wednesday-hamza-ahmed-amer"
 excerpt: "For most athletes, the thought of winning nine medals in prestigious events over the course of their career would seem like a dream, but for nine-year-old swimming prodigy Hamza Ahmed Amer that dream became a reality at…"
+image: "/images/archive/2019/09/main-img-1010201893011.webp"
 wpId: 1121
-wpFeaturedImage: "2019/09/Main-img-1010201893011.jpg"
 ---
 
 For most athletes, the thought of winning nine medals in prestigious events over the course of their career would seem like a dream, but for nine-year-old swimming prodigy Hamza Ahmed Amer that dream became a reality at the AAU Junior Olympic Games this Summer.  

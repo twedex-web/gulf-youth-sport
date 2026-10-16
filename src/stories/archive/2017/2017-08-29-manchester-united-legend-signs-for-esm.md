@@ -3,8 +3,8 @@ title: "Manchester United Legend signs for ESM"
 date: 2017-08-29T00:00:00+04:00
 slug: "manchester-united-legend-signs-for-esm"
 excerpt: "Manchester United, Premier League and Trinidad & Tobago legend Dwight Yorke has joined Dubai’s most awarded football academy, ESM Football, as their ambassador and will help aspiring young footballers in Dubai achieve…"
+image: "/images/archive/2019/09/main-img-298201719541.webp"
 wpId: 705
-wpFeaturedImage: "2019/09/Main-img-298201719541.jpg"
 ---
 
 **Manchester United, Premier League and Trinidad & Tobago legend Dwight Yorke has joined Dubai’s most awarded football academy, ESM Football, as their ambassador and will help aspiring young footballers in Dubai achieve their ultimate dream through an enhanced player development model.**

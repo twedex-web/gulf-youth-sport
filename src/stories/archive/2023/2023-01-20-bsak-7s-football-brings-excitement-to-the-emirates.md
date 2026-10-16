@@ -5,9 +5,9 @@ slug: "bsak-7s-football-brings-excitement-to-the-emirates"
 kicker: "Football"
 categories: ["Football", "GYS", "News & Features"]
 standfirst: "The exciting action of BSAK 7s football made a sensational return to the world-renowned Zayed Cricket Stadium."
+image: "/images/archive/2023/01/screenshot-2023-01-20-150837.webp"
 metaDescription: "The exciting action of BSAK 7s football made a sensational return to the world-renowned Zayed Cricket Stadium."
 wpId: 5968
-wpFeaturedImage: "2023/01/Screenshot-2023-01-20-150837.jpg"
 ---
 
 _Repton College Dubai takes on Dubai College in a thrilling match this past week in Abu Dhabi. Credit: British School Al Khubeirat_
@@ -18,13 +18,13 @@ Previously, the BSAK (British School Al Khubairat) 7s tournament held local scho
 
 Finally, a football cup was held for the tri-sport event this past week at the famous Zayed Cricket Stadium.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/01/Boys-JESS-300x199.jpg" alt=""><figcaption>BSAK footballer aims to take ball possession from Kings' School Dubai. Credit: British School Al Khubairat</figcaption></figure>
+<figure><img src="/images/archive/2023/01/boys-jess.webp" alt=""><figcaption>BSAK footballer aims to take ball possession from Kings' School Dubai. Credit: British School Al Khubairat</figcaption></figure>
 
 Not only were pupils looking to be victorious in their respective sport, but looking to add overall points to the BSAK 7s Tri-Sport Tournament Table.
 
 Term one overall table points carried over to term two in BSAK 7s play.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/01/Screenshot-2023-01-20-150705-300x201.jpg" alt=""><figcaption>Repton College Dubai footballer attempts his remarkable shot against Amity International School-Abu Dhabi. Credit: British School Al Khubairat</figcaption></figure>
+<figure><img src="/images/archive/2023/01/screenshot-2023-01-20-150705.webp" alt=""><figcaption>Repton College Dubai footballer attempts his remarkable shot against Amity International School-Abu Dhabi. Credit: British School Al Khubairat</figcaption></figure>
 
 Many competitive rugby and netball competitive matches were played contributing to the points.
 
@@ -46,7 +46,7 @@ Likewise, Dubai College was awarded an honourable spot in the table, finishing t
 
 Director of Sport at BSAK, Johnny Coombs was quite pleased with the success of the event. He went on to say, "It has evolved into a superb tournament across the three sports and is extremely competitive between schools. It was wonderful to see a number of new schools make the podium this year with some emerging schools picking up some silverware."
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/01/JESS-300x199.jpg" alt=""><figcaption>JESS Sport feeling happy about their success in the big tournament. Credit: British School Al Khubairat</figcaption></figure>
+<figure><img src="/images/archive/2023/01/jess.webp" alt=""><figcaption>JESS Sport feeling happy about their success in the big tournament. Credit: British School Al Khubairat</figcaption></figure>
 
 Therefore it was a great effort from each school that participated in the three sporting events.
 

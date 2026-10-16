@@ -5,10 +5,10 @@ slug: "wsg-olympia-2026-roll-of-honour-middle-east-results"
 kicker: "World School Games"
 categories: ["News & Features", "World School Games"]
 standfirst: "Official results for the 2026 WSG Olympia in Doha. Discover how DIA Emirates Hills, Doha College, and JESS Arabian Ranches fared against the world's best at Aspire Zone."
+image: "/images/archive/2026/05/wsg-olympiad-gys-post-1.webp"
 seoTitle: "WSG Olympia 2026 Roll of Honour"
 metaDescription: "Official results for the 2026 WSG Olympia in Doha. Discover how DIA Emirates Hills, Doha College, and JESS Arabian Ranches fared against the world's best at Aspire Zone."
 wpId: 7137
-wpFeaturedImage: "2026/05/WSG-olympiad-GYS-post-1.png"
 ---
 
 ## **A New Era in Doha: How Middle Eastern Powerhouses Faced the World at the 2026 WSG Olympia**
@@ -33,7 +33,7 @@ In a thrilling U13 battle, **Dubai International Academy (DIA) Emirates Hills** 
 
 Further Middle Eastern success came from the hosts, **Doha College**, who secured the **Girls’ Football** title in front of a home crowd.
 
-### **![](https://gulfyouthsport.com/wp-content/uploads/2026/04/0Z0A1499-1024x683.jpg)**
+### **![](/images/archive/2026/04/0z0a1499.webp)**
 
 ### **U15 Category: Doha College Takes the World Title**
 

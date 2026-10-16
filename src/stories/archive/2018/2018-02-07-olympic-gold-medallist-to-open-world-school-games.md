@@ -3,8 +3,8 @@ title: "Olympic Gold Medallist to Open World School Games"
 date: 2018-02-07T00:00:00+04:00
 slug: "olympic-gold-medallist-to-open-world-school-games"
 excerpt: "Olympic gold medallist Greg Rutherford MBE is set to open the inaugural World School Games in Dubai Sports City tomorrow."
+image: "/images/archive/2019/09/main-img-722018121423.webp"
 wpId: 901
-wpFeaturedImage: "2019/09/Main-img-722018121423.jpg"
 ---
 
 **Olympic gold medallist Greg Rutherford MBE is set to open the inaugural World School Games in Dubai Sports City tomorrow.**
@@ -21,7 +21,7 @@ World School Games Organising Committee member James Hair is delighted to have a
 
 “We look forward to having Greg with us for the Opening Ceremony, it’s a privilege to be in the company of a man who has won so many titles and we hope the students and coaches can make the most of their time with him.”
 
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/logo-uae-1.png)Greg Rutherford has also been doing work with Athletes in Schools, a concept that brings British Olympians, Paralympians, and Team GB athletes into schools throughout the UAE.
+Greg Rutherford has also been doing work with Athletes in Schools, a concept that brings British Olympians, Paralympians, and Team GB athletes into schools throughout the UAE.
 
 Its purpose is primarily to inspire the future generation by increasing positivity and happiness. For more information visit: [http://athletesinschools.ae/](http://athletesinschools.ae/).
 

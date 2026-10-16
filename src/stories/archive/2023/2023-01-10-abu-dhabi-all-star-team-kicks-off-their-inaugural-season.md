@@ -5,9 +5,9 @@ slug: "abu-dhabi-all-star-team-kicks-off-their-inaugural-season"
 kicker: "DASSA"
 categories: ["DASSA", "Football", "GYS", "News & Features"]
 standfirst: "Girls football kicked-off 2023 in the Gulf as ADISSA Select team faced JESS U14 Sport in an exciting friendly match."
+image: "/images/archive/2023/01/5t5a2616.webp"
 metaDescription: "Girls football kicked-off 2023 in the Gulf as ADISSA Select team faced JESS U14 Sport in an exciting friendly match."
 wpId: 5878
-wpFeaturedImage: "2023/01/5T5A2616-scaled.jpg"
 ---
 
 **Gulf football kicked off 2023 with the newly formed ADISSA Girls Select faced JESS U14 Girls Football team in an exciting Gulf-friendly match.**
@@ -30,11 +30,11 @@ JESS Sport wouldn't let their opponent's strong start diminish their high confid
 
 After the final minutes were played, the ADISSA Select Girls came out victors, winning 2-1.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/01/5T5A2354-scaled.jpg)
+![](/images/archive/2023/01/5t5a2354.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/01/5T5A2290-scaled.jpg)
+![](/images/archive/2023/01/5t5a2290.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/01/5T5A2816-scaled.jpg)
+![](/images/archive/2023/01/5t5a2816.webp)
 
 Coach Pollack, was quite proud of how his squad performed in the exciting exhibition game.
 

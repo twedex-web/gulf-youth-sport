@@ -5,12 +5,12 @@ slug: "young-swimmer-breaks-uae-national-records-in-dubai"
 kicker: "Swimming"
 categories: ["News & Features", "Swimming"]
 standfirst: "Young Dubai swimmer, Jaella Mische Mendoza has broken UAE national records on her return to the pool after Covid-19 restrictions."
+image: "/images/archive/2021/04/photo-jm2.webp"
 metaDescription: "Young Dubai swimmer, Jaella Mische Mendoza has broken UAE national records on her return to the pool after Covid-19 restrictions."
 wpId: 5138
-wpFeaturedImage: "2021/04/photo-JM2.jpg"
 ---
 
-[Young](/wp-content/uploads/2021/05/Football-SD-2.jpg.zip) athletes across the region have been enjoying a return to training and matches in recent weeks with home training and online coaching becoming a thing of the past.
+Young athletes across the region have been enjoying a return to training and matches in recent weeks with home training and online coaching becoming a thing of the past.
 
 For footballers or runners it has been difficult to recreate their normal training environments from home, with mini pitches or makeshift running routes being created to allow youngsters to keep active whilst sessions were postponed.
 
@@ -20,7 +20,7 @@ For swimmers, like Cleopatra Swimming Academy’s Jaella Mische Mendoza, it has 
 
 After a year without competition she recently took part in the 1st Swimming Community Performance Championship at Dubai’s Hamdan Sports Complex.
 
-After some absolutely fantastic swimming Jaella - who attends GEMS Winchester School, bagged some record-breaking times on her first appearance in a competitive swimming environment since the start of the Covid-19 pandemic.![](https://gulfyouthsport.com/wp-content/uploads/2021/04/photo-JM1-179x300.jpg)
+After some absolutely fantastic swimming Jaella - who attends GEMS Winchester School, bagged some record-breaking times on her first appearance in a competitive swimming environment since the start of the Covid-19 pandemic.
 
 With superb performances in the 50m (00:34.62) & 100m butterfly (01:18.27) and 100m backstroke (01:23.72) Jaella is now the quickest for her age in the UAE and she’s looking to go from strength to strength with some consistent training time in front of her.
 

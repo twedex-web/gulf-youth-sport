@@ -5,9 +5,9 @@ slug: "rgs-football-cup-success"
 kicker: "Football"
 categories: ["Football"]
 standfirst: "Young footballers from across Dubai came together for a day of action at RGS Guildford Dubai at the weekend."
+image: "/images/archive/2022/03/rgs-football-2-e1648631301639.webp"
 metaDescription: "Young footballers from across Dubai came together for a day of action at RGS Guildford Dubai at the weekend."
 wpId: 5611
-wpFeaturedImage: "2022/03/RGS-Football-2-e1648631301639.jpg"
 ---
 
 **RGS Guildford Dubai welcomed over 350 players to their awe-inspiring football facilities this weekend as the school hosted the inaugural RGS Dubai Football Cup on Saturday.**
@@ -36,8 +36,8 @@ Gulf Youth Sport's Head of Events, Andrew Cook, who was at RGS Guildford Dubai t
 
 The full image gallery from the day can be viewed by **[clicking here](https://gys001.zenfolio.com/p206825842)**.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/03/277249604_2216195818559571_8814437815427988574_n.jpg)
+![](/images/archive/2022/03/277249604-2216195818559571-8814437815427988574-n.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/03/277435819_2216195855226234_6742156908062094169_n.jpg)
+![](/images/archive/2022/03/277435819-2216195855226234-6742156908062094169-n.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/03/RGS-Football-1.jpg)
+![](/images/archive/2022/03/rgs-football-1.webp)

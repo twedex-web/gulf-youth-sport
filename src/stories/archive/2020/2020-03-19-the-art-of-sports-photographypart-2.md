@@ -4,8 +4,8 @@ date: 2020-03-19T13:18:00+04:00
 slug: "the-art-of-sports-photographypart-2"
 categories: ["GYS", "News & Features"]
 excerpt: "Dubai sports photographer Melissa Lear takes around 2000 photos in an average rugby match."
+image: "/images/archive/2020/03/c0e101a8-3ff3-4bd0-b154-4002f5c0aeff.webp"
 wpId: 2553
-wpFeaturedImage: "2020/03/C0E101A8-3FF3-4BD0-B154-4002F5C0AEFF.jpg"
 ---
 
 Dubai sports photographer Melissa Lear takes around 2000 photos in an average rugby match.

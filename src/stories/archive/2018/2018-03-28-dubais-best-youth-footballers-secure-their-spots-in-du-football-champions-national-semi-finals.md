@@ -3,8 +3,8 @@ title: "Dubai’s Best Youth Footballers Secure Their Spots in du Football Champ
 date: 2018-03-28T00:00:00+04:00
 slug: "dubais-best-youth-footballers-secure-their-spots-in-du-football-champions-national-semi-finals"
 excerpt: "The highly anticipated Dubai knockouts stage of the official UAE Schools & Streets Cups, the nations official youth football tournament, saw a fantastic line up of the strongest Dubai Schools and Streets Cups teams…"
+image: "/images/archive/2019/09/main-img-28320186322.webp"
 wpId: 970
-wpFeaturedImage: "2019/09/Main-img-28320186322.jpg"
 ---
 
 The highly anticipated Dubai knockouts stage of the official UAE Schools & Streets Cups, the nations official youth football tournament, saw a fantastic line up of the strongest Dubai Schools and Streets Cups teams competing for the few remaining spots in the national semi-finals of du Football Champions, where they will meet their counterparts from Abu Dhabi and Northern Emirates.  The nation semi-finals are scheduled to take place at The Sevens on 14th April 2018 where winning teams from Northern Emirates, Abu Dhabi and Dubai will meet for the first time to battle it out for their spot in the Finals of du Football Champions.

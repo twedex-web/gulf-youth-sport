@@ -4,10 +4,10 @@ date: 2021-04-22T07:54:21+04:00
 slug: "dassa-online-rugby-challenge-unveiled"
 categories: ["News & Features"]
 standfirst: "Apollo Perelini unveils DASSA's latest online Rugby Challenge"
+image: "/images/archive/2021/04/screen-shot-2021-04-22-at-10-51-55.webp"
 imageAlt: "DASSA Rugby Challenge"
 metaDescription: "Apollo Perelini unveils DASSA's latest online Rugby Challenge"
 wpId: 5118
-wpFeaturedImage: "2021/04/Screen-Shot-2021-04-22-at-10.51.55.png"
 ---
 
 The DASSA virtual series rolls into Ramadan with the Rugby Juggling Challenge. The GYS Media Team met up with **DASSA Vice-Chair Niall Statham** and **UAERF High Performance Director Apollo Perelini** at JESS Arabian Ranches to bring the challenge to life.

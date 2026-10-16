@@ -3,8 +3,8 @@ title: "du LaLiga HPC & City FC Crowned FAAL Champions"
 date: 2018-04-15T00:00:00+04:00
 slug: "du-laliga-hpc-city-fc-crowned-faal-champions"
 excerpt: "In a night filled with anticipation at the U16 & U14 finals of the UAE FA Academy league, du LaLiga HPC met their counterparts from City FC in both categories in the decisive battle to be crowned the strongest youth…"
+image: "/images/archive/2019/09/main-img-154201853045.webp"
 wpId: 992
-wpFeaturedImage: "2019/09/Main-img-154201853045.jpg"
 ---
 
 **In a night filled with anticipation at the U16 & U14 finals of the UAE FA Academy league, du LaLiga HPC met their counterparts from City FC in both categories in the decisive battle to be crowned the strongest youth team in the nation.**

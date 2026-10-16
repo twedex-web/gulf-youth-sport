@@ -5,9 +5,9 @@ slug: "gulf-youth-sport-expo-kicks-off-2021-22-sports-season"
 kicker: "Gulf Youth Sport Expo"
 categories: ["Gulf Youth Sport Expo"]
 standfirst: "The Gulf Youth Expo brought the youth sports industry together at Hartland International School on Friday 17 September."
+image: "/images/archive/2021/09/r-g06769.webp"
 metaDescription: "The Gulf Youth Expo brought the youth sports industry together at Hartland International School on Friday 17 September."
 wpId: 5402
-wpFeaturedImage: "2021/09/R_G06769-scaled-e1632216153543.jpg"
 ---
 
 **The Gulf Youth Sport Expo brought industry leaders, staff, coaches and athletes together under the same roof at Hartland International School on Friday 17th September for a day of discussions, planning and forward-thinking.**
@@ -16,7 +16,7 @@ In the Expo’s inaugural year, the UAE’s youth sports community came together
 
 Hosted by ARN’s Head of Sport Chris McHardy, the day kicked off with opening speeches from **[Ahmad Ibrahim Busherin](https://gysexpo.com/speaker/ahmad-ibrahim-busherin/)**, Head of Community Events at Dubai Sports Council and Andrew Cook, Managing Director of Gulf Youth Sport.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2021/09/R_G06686-300x200.jpg)Both Busherin and Cook emphasised the importance of collaborative working within the UAE’s sporting communities. With some of the best teachers and coaches using excellent facilities in many parts of the country, there is already a platform to allow more young athletes to become active members of the community by taking part in sport which gives any future activities an excellent starting point.
+Both Busherin and Cook emphasised the importance of collaborative working within the UAE’s sporting communities. With some of the best teachers and coaches using excellent facilities in many parts of the country, there is already a platform to allow more young athletes to become active members of the community by taking part in sport which gives any future activities an excellent starting point.
 
 The Covid-19 pandemic has presented a number of challenges in the last 18 months but what it has also allowed people to do is to step back and evaluate the way which school sport and academies are being organised, with a chance to make positive changes as the nation emerges from the restrictions which have impacted sport for so long.
 
@@ -24,11 +24,11 @@ Chris McHardy was joined on stage in Hartland’s auditorium for an opening pane
 
 O’Brien and Skelding agreed the opportunities for young athletes in the UAE are a huge positive, with both guests very excited about the future for grassroots sport.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2021/09/R_G06901-300x200.jpg)With so many schools and clubs filled with sports mad young people there are endless possibilities for the youth sports industry if everyone is willing to come together for the common good in each of their respective sports.
+With so many schools and clubs filled with sports mad young people there are endless possibilities for the youth sports industry if everyone is willing to come together for the common good in each of their respective sports.
 
 The remainder of the morning was filled with sport and industry specific discussion panels, all with the goal of taking the initial small steps required to move forward in schools and academies thanks to open conversations at the start of the new academic year and sports season.
 
-Throughout the course of the day the Exhibition Zone was in action in Hartland International School’s atrium![](https://gulfyouthsport.com/wp-content/uploads/2021/09/R_G07259-300x200.jpg) providing coaches, teachers and athletes the chance to explore the many service providers on site from coaching academies to the latest data analysis software and match recording equipment.
+Throughout the course of the day the Exhibition Zone was in action in Hartland International School’s atrium providing coaches, teachers and athletes the chance to explore the many service providers on site from coaching academies to the latest data analysis software and match recording equipment.
 
 The discussions continued throughout the afternoon for coaches and school staff, with sports taster sessions and challenges taking place in the sports hall for the young people present, with athletes trying their hand at something new or testing themselves against their peers.
 

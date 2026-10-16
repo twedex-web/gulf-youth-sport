@@ -5,8 +5,8 @@ slug: "dubai-schools-do-themselves-proud-in-world-school-games"
 kicker: "Match Zone"
 categories: ["Match Zone"]
 excerpt: "There was plenty to celebrate for the local schools when they welcomed some of the world’s best student athletes to Dubai for last week’s U11 World School Games."
+image: "/images/archive/2019/09/img-72201911740-bd69f15311e344288c5b1dba1b5a7d24.webp"
 wpId: 1176
-wpFeaturedImage: "2019/09/img-72201911740-bd69f15311e344288c5b1dba1b5a7d24.jpg"
 ---
 
 There was plenty to celebrate for the local schools when they welcomed some of the world’s best student athletes to Dubai for last week’s U11 World School Games.

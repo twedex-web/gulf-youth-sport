@@ -5,10 +5,10 @@ slug: "bsme-u11-games-2026-yellow-results-kings-school-dubai"
 kicker: "BSME Games"
 categories: ["BSME Games"]
 standfirst: "Kings' School Dubai secures the overall title at the BSME U11 Games 2026 Yellow Division. Check full results, Arcadia's charge, and highlight reels."
+image: "/images/archive/2026/06/3c28d5ad-f8b8-4235-93d3-edda65fb6df1.webp"
 seoTitle: "Kings' School Dubai Wins BSME U11 Games 2026 Yellow Division"
 metaDescription: "Kings' School Dubai secures the overall title at the BSME U11 Games 2026 Yellow Division. Check full results, Arcadia's charge, and highlight reels."
 wpId: 7220
-wpFeaturedImage: "2026/06/3c28d5ad-f8b8-4235-93d3-edda65fb6df1.jpeg"
 ---
 
 ## **Crowned Kings: Kings' School Dubai Edges Out Arcadia in BSME U11 Yellow Games Epic**

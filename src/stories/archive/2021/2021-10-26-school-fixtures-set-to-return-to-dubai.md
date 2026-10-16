@@ -5,9 +5,9 @@ slug: "school-fixtures-set-to-return-to-dubai"
 kicker: "DASSA"
 categories: ["DASSA", "News & Features"]
 standfirst: "School sports fixtures are set to return to Dubai this weekend after more than 18 months without scheduled matches."
+image: "/images/archive/2021/10/ii2a1080.webp"
 metaDescription: "School sports fixtures are set to return to Dubai this weekend after more than 18 months without scheduled matches."
 wpId: 5466
-wpFeaturedImage: "2021/10/II2A1080-scaled.jpg"
 ---
 
 **School sports fixtures are set to return to Dubai on Sunday after more than a year without scheduled matches due to the Covid-19 pandemic.**

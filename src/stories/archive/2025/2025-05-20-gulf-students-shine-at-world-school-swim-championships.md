@@ -5,10 +5,10 @@ slug: "gulf-students-shine-at-world-school-swim-championships"
 kicker: "Swimming"
 categories: ["News & Features", "Swimming", "World School Games"]
 standfirst: "A number of Gulf schools took part in The World School Swim Championships last weekend, with some incredible performances on a global stage."
+image: "/images/archive/2025/05/saxasndfejhfnsj114804.webp"
 seoTitle: "Gulf students shine at World School Swim Championships"
 metaDescription: "A number of Gulf schools took part in The World School Swim Championships last weekend, with some incredible performances on a global stage."
 wpId: 6967
-wpFeaturedImage: "2025/05/saxasndfejhfnsj114804-scaled.jpg"
 ---
 
 **A number of Gulf schools took part in The World School Swim Championships last weekend, with some incredible performances on a global stage.**
@@ -17,7 +17,7 @@ The prestigious event was hosted at the London Aquatics Centre in the UK and all
 
 As well as schools from the UAE who regularly compete in the WSG Event Series, the region was also represented for the very first time by Bahraini participants.
 
-The British School of Bahrain - and their ‘Bulldogs’ swim team - made the trip from Hamala with a strong squad of 11 athletes who lit up the LAC across two days of action.![](https://gulfyouthsport.com/wp-content/uploads/2025/05/saxasndfejhfnsj93514-1024x683.jpg)
+The British School of Bahrain - and their ‘Bulldogs’ swim team - made the trip from Hamala with a strong squad of 11 athletes who lit up the LAC across two days of action.![](/images/archive/2025/05/saxasndfejhfnsj93514.webp)
 
 After a masterclass with a Team GB Olympic Swimmer Toby Robinson on Friday, the races got underway on Saturday with long course action taking centre stage.
 
@@ -29,9 +29,9 @@ Then it was time for the first ever WSG Nations Cup, allowing all participating 
 
 The Gulf was represented in the race by **Team Bahrain** (Liv Zuidwijk, Jean Tomballe, Elissa Fihani, William Balzano) and **Team UAE** (Elyas Htiouech, Enzo Lavigne, Skye Dickson, Gracie Brooke). Team UAE did very well to secure bronze against strong opposition from Northern Ireland and England.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2025/05/saxasndfejhfnsj114162-scaled.jpg)
+![](/images/archive/2025/05/saxasndfejhfnsj114162.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2025/05/saxasndfejhfnsj114021-scaled.jpg)
+![](/images/archive/2025/05/saxasndfejhfnsj114021.webp)
 
 The WSG Nations Cup rounded off a fantastic weekend of action and came shortly before the announcement of the event’s team champions.
 

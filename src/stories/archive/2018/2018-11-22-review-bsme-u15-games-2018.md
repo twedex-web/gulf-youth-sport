@@ -3,8 +3,8 @@ title: "Review: BSME U15 Games 2018"
 date: 2018-11-22T00:00:00+04:00
 slug: "review-bsme-u15-games-2018"
 excerpt: "Exactly one week ago, teams from across the Gulf and beyond were catching their breath after a stunning opening to the 2018 U15 BSME Games."
+image: "/images/archive/2019/09/img-2211201814317-ffe6d0c8e1e04f9db4b51eea29a3b13d.webp"
 wpId: 1144
-wpFeaturedImage: "2019/09/img-2211201814317-ffe6d0c8e1e04f9db4b51eea29a3b13d.jpg"
 ---
 
 Exactly one week ago, teams from across the Gulf and beyond were catching their breath after a stunning opening to the 2018 U15 BSME Games. British School Al Khubairat were the overall champions to record an incredible third successive victory. However, youth sport was definitely the biggest winner and GYS was there to capture it all.

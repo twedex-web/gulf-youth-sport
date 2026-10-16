@@ -5,9 +5,9 @@ slug: "gulf-pupils-make-a-splash-at-the-world-school-swim-championships-in-londo
 kicker: "Swimming"
 categories: ["GYS", "Swimming", "World School Games"]
 standfirst: "Gulf swimmers went above expectations in last week’s World School Swim Championships in London, with many leaving with performances they can be immensely proud of."
+image: "/images/archive/2023/05/sunday-podium-65.webp"
 metaDescription: "Gulf swimmers went above expectations in last week’s World School Swim Championships in London, with many leaving with performances they can be immensely proud of."
 wpId: 6383
-wpFeaturedImage: "2023/05/Sunday_Podium_65-scaled.jpg"
 ---
 
 **Gulf swimmers went above expectations in last week’s World School Swim Championships in London, with many leaving with performances they can be immensely proud of.**
@@ -16,7 +16,7 @@ Six Schools from around the Middle East took part in the two-day swimming compet
 
 35 schools from 11 countries (including three continents) made the trip to the home of the 2012 London Olympics at the Queen Elizabeth Olympic Park.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/05/Friday_19-300x200.jpg)Before the fun began in the pool, a special guest joined the students last Friday to provide a motivational story of her successful swimming career. Former Team GB breaststroke competitor and two-time Olympian Molly Renshaw spoke with the young Middle East swimmers about her experiences as a young athlete on the world stage.
+![](/images/archive/2023/05/friday-19.webp)Before the fun began in the pool, a special guest joined the students last Friday to provide a motivational story of her successful swimming career. Former Team GB breaststroke competitor and two-time Olympian Molly Renshaw spoke with the young Middle East swimmers about her experiences as a young athlete on the world stage.
 
 At the age of just 14 Molly made her debut at the World Championships – with many students of a similar age in the room her knowledge and tips were invaluable ahead of the competition kicking off.
 
@@ -34,7 +34,7 @@ A member of the previously mentioned AIS - Riyadh relay team, Jack, explained ju
 
 "It's a pretty rare chance you get to swim in an Olympic pool. There's not many swim events like this...swimming in the same pool as where people I've watched in the Olympics win medals feels surreal, it's a pretty crazy experience."
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/05/Sunday_Action_133-300x200.jpg)The colours blue and white, representing JESS Dubai, stood tall on the podium when everything was said and done. JESS had absolutely strong performances as the school took home four World School Swim Championship titles between the U13 and U15 categories.
+![](/images/archive/2023/05/sunday-action-133.webp)The colours blue and white, representing JESS Dubai, stood tall on the podium when everything was said and done. JESS had absolutely strong performances as the school took home four World School Swim Championship titles between the U13 and U15 categories.
 
 JESS Girls Swimming captain Tara explained what the secret ingredient was to their overall success while in London.
 
@@ -58,4 +58,4 @@ And don’t forget, The World School Swim Championships is just one of six event
 
 Lastly, well done to everyone involved in The World School Swim Championships 2023! We look forward to having everyone back next year!
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/05/Sunday_Action_114-300x200.jpg)
+![](/images/archive/2023/05/sunday-action-114.webp)

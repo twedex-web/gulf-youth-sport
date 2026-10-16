@@ -5,8 +5,8 @@ slug: "dassa-1km-stars-rewarded"
 kicker: "Athletics"
 categories: ["Athletics", "News & Features"]
 excerpt: "The top performers in the DASSA 1km Virtual Run Challenge were rewarded with a prize befitting their talents."
+image: "/images/archive/2020/11/screen-shot-2020-11-22-at-17-07-00.webp"
 wpId: 4404
-wpFeaturedImage: "2020/11/Screen-Shot-2020-11-22-at-17.07.00.png"
 ---
 
 The top performers in the DASSA 1km Virtual Run Challenge were rewarded with a prize befitting their talents.

@@ -4,8 +4,8 @@ date: 2020-07-22T07:13:25+04:00
 slug: "london-calling-the-ballet-centres-supreme-talent"
 categories: ["GYS", "News & Features"]
 excerpt: "Nitya Chikodi has secured a prestigious spot at the London Studio Centre and she'll head there with strong grounding from The Ballet Centre dance studio."
+image: "/images/archive/2020/07/unnamed-12-2.webp"
 wpId: 3537
-wpFeaturedImage: "2020/07/unnamed-12-2.jpg"
 ---
 
 Nitya Chikodi has secured a prestigious spot at the London Studio Centre and she'll head there with strong grounding from The Ballet Centre dance studio.
@@ -16,7 +16,7 @@ The 17 year-old dancer has been a treasure at the Dubai studio for so long and h
 
 Chikodi said she can not wait to seize the opportunity to continue her dancing career while completing a performing arts degree in England.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/07/unnamed-11-e1595397886336.jpg)"I have always dreamt of becoming a professional dancer and this is a step closer to achieving my dream. I hope to learn new styles and perfect my skills in the field of dance," she said.
+"I have always dreamt of becoming a professional dancer and this is a step closer to achieving my dream. I hope to learn new styles and perfect my skills in the field of dance," she said.
 
 "I have always believed that being versatile is a dancer’s greatest talent, hence I love trying out new styles."
 

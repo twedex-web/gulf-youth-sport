@@ -3,8 +3,8 @@ title: "Man City's Unity Cup Draws Thousands to Abu Dhabi"
 date: 2018-03-25T00:00:00+04:00
 slug: "man-citys-unity-cup-draws-thousands-to-abu-dhabi"
 excerpt: "Champions were crowned as the most exciting youth football tournament in the Middle East came to a dramatic conclusion in Abu Dhabi last night."
+image: "/images/archive/2019/09/main-img-253201873129.webp"
 wpId: 964
-wpFeaturedImage: "2019/09/Main-img-253201873129.jpg"
 ---
 
 Champions were crowned as the most exciting youth football tournament in the Middle East came to a dramatic conclusion in Abu Dhabi last night.

@@ -4,8 +4,8 @@ date: 2021-06-26T05:36:31+04:00
 slug: "myas-netball-journey"
 categories: ["News & Features"]
 excerpt: "Dubai College's Mya Khurshid is a 12 year-old destined for big things in the sport of netball in the future. The Desert Girls Netball player took out the DASSA Netball Virtual Challenge as reward for her sharp shooting."
+image: "/images/archive/2021/06/image0-6-e1624682142775.webp"
 wpId: 5333
-wpFeaturedImage: "2021/06/image0-6-e1624682142775.jpeg"
 ---
 
 **Dubai College's Mya Khurshid is a 12 year-old destined for big things in the sport of netball in the future. The Desert Girls Netball player took out the DASSA Netball Virtual Challenge as reward for her sharp shooting. She told Gulf Youth Sport about her future goals, proudest achievements so far and her inspirations (including a message from a Silver Ferns star!)**

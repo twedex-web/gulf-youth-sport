@@ -5,9 +5,9 @@ slug: "arcadia-bsme-u13-games-photos"
 kicker: "BSME Games"
 categories: ["BSME Games"]
 standfirst: "Photos and video highlights from the BSME U13 Games hosted by Arcadia School are available on Gulf Youth Sport now!"
+image: "/images/archive/2024/02/1f6a7414.webp"
 metaDescription: "Photos and video highlights from the BSME U13 Games hosted by Arcadia School are available on Gulf Youth Sport now!"
 wpId: 6787
-wpFeaturedImage: "2024/02/1F6A7414-scaled.jpg"
 ---
 
 **We were delighted to be at the BSME U13 Games 2024, hosted by Arcadia School in Dubai last weekend.**

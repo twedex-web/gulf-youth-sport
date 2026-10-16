@@ -3,8 +3,8 @@ title: "DC's Cooper Completes Swiss Ultra Trail"
 date: 2017-08-09T00:00:00+04:00
 slug: "dcs-cooper-completes-swiss-ultra-trail"
 excerpt: "Dubai College’s Meryl Cooper travelled to Switzerland recently to take part in one of the world's most challenging trail races in the Swiss Alps, the Eiger Ultra Trail."
+image: "/images/archive/2019/09/main-img-108201710530.webp"
 wpId: 681
-wpFeaturedImage: "2019/09/Main-img-108201710530.jpg"
 ---
 
 **Dubai College’s Meryl Cooper travelled to Switzerland recently to take part in one of the world's most challenging trail races in the Swiss Alps, the Eiger Ultra Trail.**

@@ -3,8 +3,8 @@ title: "Day 2 Review: BSME U15 Games"
 date: 2018-11-16T00:00:00+04:00
 slug: "day-2-review-bsme-u15-games"
 excerpt: "After an action-packed opening day at the BSME U15 Games 2018, the athletes returned for day two and didn’t disappoint."
+image: "/images/archive/2019/09/img-16112018185736-d4461191d96342889da8b64868d452e2.webp"
 wpId: 1142
-wpFeaturedImage: "2019/09/img-16112018185736-d4461191d96342889da8b64868d452e2.jpg"
 ---
 
 After an action-packed opening day at the BSME U15 Games 2018, the athletes returned for day two and didn’t disappoint. Today saw one of the highlights of any BSME event take centre stage – the athletics.  

@@ -3,8 +3,8 @@ title: "duFC UAE Schools and Streets Cups Third Season Kicks Off with Largest Yo
 date: 2017-11-23T00:00:00+04:00
 slug: "dufc-uae-schools-and-streets-cups-third-season-kicks-off-with-largest-youth-turnout-seeking-to-fulfil-their-dreams"
 excerpt: "du Football Champions’ (duFC), home of the UAE’s official School & Street Cups in partnership with LaLiga, announced today the kick off the 2017-2018 season, with expanded dates."
+image: "/images/archive/2019/09/main-img-2311201794935.webp"
 wpId: 837
-wpFeaturedImage: "2019/09/Main-img-2311201794935.jpg"
 ---
 
 **du Football Champions’ (duFC), home of the UAE’s official School & Street Cups in partnership with LaLiga, announced today the kick off the 2017-2018 season, with expanded dates.**  The announcement was made at a press conference held at the Westin Mina Seyahi and attended by Osman Sultan, CEO, EITC, H.E. Saeed Al Tunaiji, Vice President, UAE Football Association, Fernando Sanz General Director, LaLiga for the Middle East and North Africa, Abdulwahed Juma, EVP Brand & Corporate Communications, du, Ms. Ayesha Al Siri, Director of Nutrition & Health Department, Ministry of Education and Hussein Murad, CEO, Inspiratus, the organizers of duFC.

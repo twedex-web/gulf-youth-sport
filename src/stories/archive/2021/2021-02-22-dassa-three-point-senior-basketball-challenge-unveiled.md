@@ -4,8 +4,8 @@ date: 2021-02-22T09:00:41+04:00
 slug: "dassa-three-point-senior-basketball-challenge-unveiled"
 categories: ["News & Features"]
 excerpt: "<<For information on the DASSA Netball Challenge, click here.>>"
+image: "/images/archive/2021/02/copy-of-tournaments-2.webp"
 wpId: 4968
-wpFeaturedImage: "2021/02/Copy-of-TOURNAMENTS-2.png"
 ---
 
 _<<For information on the DASSA Netball Challenge, [click here](/2021/03/04/dassa-netballers-called-to-action/).>>_

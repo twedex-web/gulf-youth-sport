@@ -3,8 +3,8 @@ title: "Spin King Ravichandran Ashwin partners with Kings’ Schools"
 date: 2017-08-15T00:00:00+04:00
 slug: "spin-king-ravichandran-ashwin-partners-with-kings-schools"
 excerpt: "Cricket in the UAE is set to get a major boost at grassroots level as GenNext Kings’ Cricket Academy and Kings’ Schools have partnered to provide an unparalleled coaching program designed by cricketing star,…"
+image: "/images/archive/2019/09/main-img-1582017134028.webp"
 wpId: 685
-wpFeaturedImage: "2019/09/Main-img-1582017134028.jpg"
 ---
 
 **Cricket in the UAE is set to get a major boost at grassroots level as GenNext Kings’ Cricket Academy and Kings’ Schools have partnered to provide an unparalleled coaching program designed by cricketing star, Ravichandran Ashwin.**
@@ -17,11 +17,9 @@ GenNext Kings’ Cricket Academy will provide players of all ages and skill leve
 
 The primary aim is to cultivate and sustain the love for cricket in young people, encouraging students to explore their natural abilities under the guidance of the coaches.  More importantly the goal is to instill the self-confidence required to succeed in both cricket and life.
 
-![](http://www.gulfyouthsport.com/Admin/Content/UserFiles/Kings.png)Kobus Olivier, Director of Cricket at Kings’ commented “The partnership between Kings’ and Ashwin’s GenNext coaches is a special one.  It not only brings together the leaders in their respective fields, but is a marriage of aspirations.  Kings’ is about producing balanced, talented, well-rounded and disciplined students.  Ashwin is fully invested in coaching and making an impact on every child, as a father himself, he has a special connection with children.”
+Kobus Olivier, Director of Cricket at Kings’ commented “The partnership between Kings’ and Ashwin’s GenNext coaches is a special one.  It not only brings together the leaders in their respective fields, but is a marriage of aspirations.  Kings’ is about producing balanced, talented, well-rounded and disciplined students.  Ashwin is fully invested in coaching and making an impact on every child, as a father himself, he has a special connection with children.”
 
 Kings’ continue to grow their cricket capabilities under the guidance of Olivier, welcoming of a number of high-performance cricket scholars who have access to world class coaching and facilities. Olivier is pleased to be able to implement a sustainable coaching program.
-
-![](http://www.gulfyouthsport.com/Admin/Content/UserFiles/GenNext.jpg)
 
 “We can offer students the opportunity to develop their cricketing skills under the guidance of internationally qualified 
 

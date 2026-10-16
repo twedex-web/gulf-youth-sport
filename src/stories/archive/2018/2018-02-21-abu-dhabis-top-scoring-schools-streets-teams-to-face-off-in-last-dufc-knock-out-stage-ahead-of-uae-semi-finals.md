@@ -3,8 +3,8 @@ title: "Abu Dhabi’s Top Scoring Schools & Streets Teams to Face Off in Last du
 date: 2018-02-21T00:00:00+04:00
 slug: "abu-dhabis-top-scoring-schools-streets-teams-to-face-off-in-last-dufc-knock-out-stage-ahead-of-uae-semi-finals"
 excerpt: "The last day of du Football Champions (duFC)’s Abu Dhabi group stages took place this week during which top teams in the official UAE Schools and Streets Cups in each category faced off in the knock out stage which will…"
+image: "/images/archive/2019/09/main-img-212201891834.webp"
 wpId: 919
-wpFeaturedImage: "2019/09/Main-img-212201891834.jpg"
 ---
 
 **The last day of du Football Champions (duFC)’s Abu Dhabi group stages took place this week during which top teams in the official UAE Schools and Streets Cups in each category faced off in the knock out stage which will determine which team will move forward to the UAE National Semi-Finals which will be hosted in Dubai in April.**

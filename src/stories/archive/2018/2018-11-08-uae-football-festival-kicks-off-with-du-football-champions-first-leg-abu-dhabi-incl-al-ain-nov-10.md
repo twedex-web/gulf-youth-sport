@@ -3,8 +3,8 @@ title: "UAE Football Festival kicks off with du Football Champions First leg: Ab
 date: 2018-11-08T00:00:00+04:00
 slug: "uae-football-festival-kicks-off-with-du-football-champions-first-leg-abu-dhabi-incl-al-ain-nov-10"
 excerpt: "Season 4 of the du Football Champions, in partnership with LaLiga and home of the UAE Schools and Streets Cups, is days away and over 150 teams in Abu Dhabi and Al Ain have already signed up to battle for national glory."
+image: "/images/archive/2019/09/img-13112018121739-21079deb69834bf4946b76986aed8c0a.webp"
 wpId: 1135
-wpFeaturedImage: "2019/09/img-13112018121739-21079deb69834bf4946b76986aed8c0a.jpg"
 ---
 
 Season 4 of the du Football Champions, in partnership with LaLiga and home of the UAE Schools and Streets Cups, is days away and over 150 teams in Abu Dhabi and Al Ain have already signed up to battle for national glory.

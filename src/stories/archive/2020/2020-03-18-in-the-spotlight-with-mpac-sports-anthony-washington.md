@@ -5,8 +5,8 @@ slug: "in-the-spotlight-with-mpac-sports-anthony-washington"
 kicker: "In The Spotlight"
 categories: ["In The Spotlight"]
 excerpt: "YTEMBED0000"
+image: "/images/archive/2020/03/screen-shot-2020-03-17-at-14-08-28.webp"
 wpId: 2590
-wpFeaturedImage: "2020/03/Screen-Shot-2020-03-17-at-14.08.28.png"
 ---
 
 ### _‘In the Spotlight’ is a Gulf Youth Sport feature series giving schools and academies a forum to chat about achievements, upcoming events and general views on sport in the UAE._

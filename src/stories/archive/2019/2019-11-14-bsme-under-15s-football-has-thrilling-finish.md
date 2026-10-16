@@ -5,9 +5,9 @@ slug: "bsme-under-15s-football-has-thrilling-finish"
 kicker: "Football"
 categories: ["Football", "GYS"]
 standfirst: "BIS Jeddah and British School Al Khubairat sensationally both claimed titles in penalty shootouts at the BSME"
+image: "/images/archive/2019/11/whatsapp-image-2019-11-14-at-16-38-26.webp"
 metaDescription: "BIS Jeddah and British School Al Khubairat sensationally both claimed titles in penalty shootouts at the BSME"
 wpId: 1426
-wpFeaturedImage: "2019/11/WhatsApp-Image-2019-11-14-at-16.38.26.jpeg"
 ---
 
 Both finals in the boys' and girls' football needed sudden death penalties to decide a champion on day one of the BSME under-15 Games today.
@@ -18,7 +18,7 @@ But the conclusion of the day had BIS Jeddah hold up the winners' trophy in girl
 
 **GIRLS' FOOTBALL**
 
-![](https://gulfyouthsport.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-14-at-2.31.26-pm.png)BIS Jeddah took on BIS Cairo in the final of the girls' tournament with neither side able to make a breakthrough in regular time.
+BIS Jeddah took on BIS Cairo in the final of the girls' tournament with neither side able to make a breakthrough in regular time.
 
 Despite the tough match BIS Jeddah's Salma said she always believed her team would pull through and claim a well-deserved title.
 
@@ -40,7 +40,7 @@ BIS Cairo did not concede a goal throughout the group stages, while putting 19 g
 
 **BOYS' FOOTBALL**
 
-![](https://gulfyouthsport.com/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-14-at-16.37.00.jpeg)Despite some tense final moments British School Al Khubairat (BSAK) hung on to defeat Al Yasmina Academy in a contest between the two Abu Dhabi-based schools.
+Despite some tense final moments British School Al Khubairat (BSAK) hung on to defeat Al Yasmina Academy in a contest between the two Abu Dhabi-based schools.
 
 Al Yasmina nearly snatched victory in the final minute, but two consecutive shots were not able to reach the back of the net. The first was desperately saved by BSAK's goalkeeper with the second just clipping the left goal post.
 

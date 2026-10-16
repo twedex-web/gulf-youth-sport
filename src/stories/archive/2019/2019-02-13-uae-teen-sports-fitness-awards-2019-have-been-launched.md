@@ -4,8 +4,8 @@ date: 2019-02-13T00:00:00+04:00
 slug: "uae-teen-sports-fitness-awards-2019-have-been-launched"
 categories: ["News & Features"]
 excerpt: "Entries are now open for the 4th annual UAE Teen Sports & Fitness Awards."
+image: "/images/archive/2019/09/img-1322019162457-bd0cc6ffa81343429bd86f10ede17a94.webp"
 wpId: 1182
-wpFeaturedImage: "2019/09/img-1322019162457-bd0cc6ffa81343429bd86f10ede17a94.jpg"
 ---
 
 Entries are now open for the 4th annual UAE Teen Sports & Fitness Awards.

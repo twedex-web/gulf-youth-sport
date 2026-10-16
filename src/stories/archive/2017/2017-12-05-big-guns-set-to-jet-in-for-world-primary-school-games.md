@@ -3,8 +3,8 @@ title: "BIG GUNS SET TO JET IN FOR WORLD PRIMARY SCHOOL GAMES"
 date: 2017-12-05T00:00:00+04:00
 slug: "big-guns-set-to-jet-in-for-world-primary-school-games"
 excerpt: "Reigning COBIS Games champions set to turn out at inaugural World Primary School Games in Dubai."
+image: "/images/archive/2019/09/main-img-111220176375.webp"
 wpId: 855
-wpFeaturedImage: "2019/09/Main-img-111220176375.jpg"
 ---
 
 **Reigning COBIS Games champions set to turn out at inaugural World Primary School Games in Dubai.**

@@ -3,8 +3,8 @@ title: "FOOTBALL: Thistle storm to U10 Title"
 date: 2016-12-11T00:00:00+04:00
 slug: "football-thistle-storm-to-u10-title"
 excerpt: "Abu Dhabi Thistle U10 (Reds) went into the final day of the season knowing that in order to take home the Division 2 title, they had to score goals, and lots of them."
+image: "/images/archive/2019/09/main-img-10122016231855.webp"
 wpId: 487
-wpFeaturedImage: "2019/09/Main-img-10122016231855.jpg"
 ---
 
 **Abu Dhabi Thistle U10 (Reds) went into the final day of the season knowing that in order to take home the Division 2 title, they had to score goals, and lots of them.**

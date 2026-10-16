@@ -5,9 +5,9 @@ slug: "dribbling-to-new-heights-hoop-mountain-dubai-guiding-youth-basketballers"
 kicker: "Basketball"
 categories: ["Basketball", "GYS", "News & Features"]
 standfirst: "As the NBA playoffs are just around the corner, Gulf children of all ages are dreaming of one day showcasing their basketball skills by playing on a pro court."
+image: "/images/archive/2023/04/1-1.webp"
 metaDescription: "As the NBA playoffs are just around the corner, Gulf children of all ages are dreaming of one day showcasing their basketball skills by playing on a pro court."
 wpId: 6278
-wpFeaturedImage: "2023/04/1-1.jpg"
 ---
 
 _Coach King (left) and Yates (right) celebrating with successful basketballers after an incredible win. Credit: Hoop Mountain Dubai_
@@ -22,7 +22,7 @@ Hoop Mountain first began in 1985 as a youth summer basketball camp in historica
 
 Now there are over 20 Hoop Mountain franchises established across the United States. In 2014, the sports academy took its shot to start the group's first international branch in the Gulf state of Kuwait.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/04/290228834_753153409467895_5190860220756378144_n-225x300.jpg" alt=""><figcaption>Hoop Mountain Dubai provides various camps which help UAE youngsters gained the fundamental skills they need to up their game. Credit: Hoop Mountain Dubai</figcaption></figure>
+<figure><img src="/images/archive/2023/04/290228834-753153409467895-5190860220756378144-n.webp" alt=""><figcaption>Hoop Mountain Dubai provides various camps which help UAE youngsters gained the fundamental skills they need to up their game. Credit: Hoop Mountain Dubai</figcaption></figure>
 
 That's when the coaching duo of Julian King and Ryan Yates had the opportunity to become Hoop Mountain's second international flagship programme. This branch is now happily placed in delightful Dubai.
 
@@ -30,7 +30,7 @@ The two standout coaches have now made a strong influence on the game of basketb
 
 King was Yates' high school coach, and the pair would even go on to win a high school state championship together in Virginia. Both have strong basketball careers by playing university ball in America and gaining international experiences through the sport.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/04/284478146_735209074595662_3285475563715760109_n-1-300x300.jpg" alt=""><figcaption>A young basketball player is looking to drive down the court. Credit: Hoop Mountain Dubai</figcaption></figure>
+<figure><img src="/images/archive/2023/04/284478146-735209074595662-3285475563715760109-n-1.webp" alt=""><figcaption>A young basketball player is looking to drive down the court. Credit: Hoop Mountain Dubai</figcaption></figure>
 
 Additionally, this particular Gulf basketball academy is bouncing with many opportunities for the youth to up their game.
 
@@ -44,7 +44,7 @@ This sports organisation also passes along consulting, scouting, and recruiting 
 
 The club has also stayed true to its roots by continuing to host basketball camps and teaching the 101's on the court such as dribbling, shooting, passing, and more.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/04/290332101_753153402801229_6509927341694855089_n-225x300.jpg" alt=""><figcaption>A young athlete looking to make an amazing layup on the court. Credit: Hoop Mountain Dubai</figcaption></figure>
+<figure><img src="/images/archive/2023/04/290332101-753153402801229-6509927341694855089-n.webp" alt=""><figcaption>A young athlete looking to make an amazing layup on the court. Credit: Hoop Mountain Dubai</figcaption></figure>
 
 It wouldn't be a basketball camp without some fun competition as well. Eventful b-ball activities include dribble knockouts, three-on-three tournaments, and more exciting games.
 

@@ -3,8 +3,8 @@ title: "Powerhouses of UAE Netball Set to Test Themselves on the World Stage"
 date: 2018-10-18T00:00:00+04:00
 slug: "powerhouses-of-uae-netball-set-to-test-themselves-on-the-world-stage"
 excerpt: "The already overflowing trophy cabinets of some of the Middle East's most prestigious schools may need to make some space for yet more silverware, after four of the region’s most prominent schools announced their…"
+image: "/images/archive/2019/09/main-img-18102018125137.webp"
 wpId: 1117
-wpFeaturedImage: "2019/09/Main-img-18102018125137.jpg"
 ---
 
 The already overflowing trophy cabinets of some of the Middle East's most prestigious schools may need to make some space for yet more silverware, after four of the region’s most prominent schools announced their participation in the inaugural [World Schools Netball Cup](http://wsgevents.com/).

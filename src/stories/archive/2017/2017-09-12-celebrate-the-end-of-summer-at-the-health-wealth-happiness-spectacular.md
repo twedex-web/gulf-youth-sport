@@ -3,8 +3,8 @@ title: "Celebrate the end of summer at the Health, Wealth & Happiness Spectacula
 date: 2017-09-12T00:00:00+04:00
 slug: "celebrate-the-end-of-summer-at-the-health-wealth-happiness-spectacular"
 excerpt: "Residents of Dubai can celebrate the beginning of cooler temperatures and a more active, outdoor daily life with a holistic lifestyle event for adults and children alike!"
+image: "/images/archive/2019/09/main-img-1292017184343.webp"
 wpId: 723
-wpFeaturedImage: "2019/09/Main-img-1292017184343.jpg"
 ---
 
 Residents of Dubai can celebrate the beginning of cooler temperatures and a more active, outdoor daily life with a holistic lifestyle event for adults and children alike!

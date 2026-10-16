@@ -4,8 +4,8 @@ date: 2020-08-13T21:23:38+04:00
 slug: "the-story-behind-super-stefis-success"
 categories: ["GYS", "News & Features"]
 excerpt: "Romanian U16 national champion is a title with a nice ring to it. It belongs to Stefi Bojica's after she won the championship just two weeks ago and the CF tennis academy star can not wipe the smile from her face."
+image: "/images/archive/2020/08/117321102-227687095102835-6972209919118830906-n.webp"
 wpId: 3668
-wpFeaturedImage: "2020/08/117321102_227687095102835_6972209919118830906_n.jpg"
 ---
 
 Romanian U16 national champion is a title with a nice ring to it. It belongs to Stefi Bojica's after she won the championship just two weeks ago and the CF tennis academy star can not wipe the smile from her face.
@@ -21,7 +21,6 @@ It's no surprise given her dedication. Five days a week she trains twice a day a
 "Tennis is my life. I really love tennis and want to keep on playing," she said.
 
 "I want to play tennis of course (in the future) and be somewhere there on top in the WTA. I want to have fun playing tennis."  
-![](https://gulfyouthsport.com/wp-content/uploads/2020/08/116872557_770405663704080_9085521420798083471_n-640x426.jpg)
 
 A student at Victoria English School Sharjah, Bojica first picked up a tennis racquet aged just four.
 

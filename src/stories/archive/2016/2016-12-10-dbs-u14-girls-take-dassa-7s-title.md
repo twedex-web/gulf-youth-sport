@@ -3,8 +3,8 @@ title: "DBS U14 Girls Take DASSA 7's Title"
 date: 2016-12-10T00:00:00+04:00
 slug: "dbs-u14-girls-take-dassa-7s-title"
 excerpt: "Dubai Britih School U14 Girls came through a nailbiting sudden-death penalty shootout over Uptown School to claim the DASSA 7's Cup at JESS Arabian Ranches yesterday."
+image: "/images/archive/2019/09/main-img-1012201634136.webp"
 wpId: 485
-wpFeaturedImage: "2019/09/Main-img-1012201634136.jpg"
 ---
 
 Dubai Britih School U14 Girls came through a nailbiting sudden-death penalty shootout over Uptown School to claim the DASSA 7's Cup at JESS Arabian Ranches yesterday.

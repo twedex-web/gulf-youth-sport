@@ -4,15 +4,13 @@ date: 2020-10-21T05:45:18+04:00
 slug: "fit-tip-how-to-stay-injury-free"
 categories: ["News & Features"]
 excerpt: "What can young athletes do to prevent injuries? With Gulf weather presenting additional challenges to being active, RU Active Sports Physiotherapy senior physiotherapist Johnathan Jagger spoke to GYS about the best ways…"
+image: "/images/archive/2020/10/copy-of-gys-sports-media-course-2.webp"
 wpId: 4152
-wpFeaturedImage: "2020/10/Copy-of-GYS-Sports-Media-Course-2.png"
 ---
 
 **What can young athletes do to prevent injuries? With Gulf weather presenting additional challenges to being active, [RU Active Sports Physiotherapy](https://www.ruactivephysiotherapy.com/) senior physiotherapist Johnathan Jagger spoke to GYS about the best ways to stay injury free.**
 
 _"There's a few things that, not just adolescents, but that anyone can do. Definitely make sure to do a good **warm up** and **cool down**. The warm up is basically to prepare the body and make sure you're increasing your blood flow, make sure oxygen is getting to the muscles as well and just getting the body ready for that increased intensity and activity._
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/10/II2A8795-264x300.jpg" alt=""><figcaption>Small things like staying hydrated can help young athletes remain injury free.</figcaption></figure>
 
 _A warm up is always really good and a cool down as well to return the body back to its state before exercise. So again it helps to reduce any muscles soreness or any lactic acid._
 

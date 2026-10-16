@@ -3,8 +3,8 @@ title: "PICTURES: Ultimate Athletics Race Night - 20/04/2017"
 date: 2017-04-23T00:00:00+04:00
 slug: "pictures-ultimate-athletics-race-night-20-04-2017"
 excerpt: "The region's brightest young stars descended on Dubai Sports City on Thursday evening for the penultimate Race Night of the season."
+image: "/images/archive/2019/09/main-img-23420178353.webp"
 wpId: 641
-wpFeaturedImage: "2019/09/Main-img-23420178353.jpg"
 ---
 
 **The region's brightest young stars descended on Dubai Sports City on Thursday evening for the penultimate Race Night of the season.**

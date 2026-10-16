@@ -3,8 +3,8 @@ title: "Dubai Swimmer Secures Podium Finish in European Swimming Championships"
 date: 2018-07-10T00:00:00+04:00
 slug: "dubai-swimmer-secures-podium-finish-in-european-swimming-championships"
 excerpt: "There was medal success to celebrate for Lewis Burras of Dubai’s Hamilton Aquatics Swimming Academy as he secured a bronze in the 50m freestyle at the European Junior Swimming Championships in Helsinki this week."
+image: "/images/archive/2019/09/main-img-1072018143121.webp"
 wpId: 1069
-wpFeaturedImage: "2019/09/Main-img-1072018143121.jpg"
 ---
 
 **There was medal success to celebrate for Lewis Burras of Dubai’s Hamilton Aquatics Swimming Academy as he secured a bronze in the 50m freestyle at the European Junior Swimming Championships in Helsinki this week.**

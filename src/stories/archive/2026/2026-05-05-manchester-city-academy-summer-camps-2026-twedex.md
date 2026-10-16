@@ -5,9 +5,9 @@ slug: "manchester-city-academy-summer-camps-2026-twedex"
 kicker: "Football"
 categories: ["Football", "Sports Travel", "Twedex"]
 standfirst: "Train at the City Football Academy! TWEDEX launches the 2026 Manchester City Summer Residential Programme for ages 9-17. Explore Development, Performance, and Language tracks."
+image: "/images/archive/2026/05/man-city-summer-camps-article-post.webp"
 metaDescription: "Train at the City Football Academy! TWEDEX launches the 2026 Manchester City Summer Residential Programme for ages 9-17. Explore Development, Performance, and Language tracks."
 wpId: 7145
-wpFeaturedImage: "2026/05/Man-City-summer-camps-article-post.png"
 ---
 
 ## **Train Like a Pro: TWEDEX Unveils 2026 Manchester City Residential Programmes for Young Athletes**

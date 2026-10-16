@@ -4,8 +4,8 @@ date: 2020-09-06T05:55:57+04:00
 slug: "gems-wis-shaping-pe-for-the-future"
 categories: ["GYS", "News & Features"]
 excerpt: "Students at GEMS Wellington International School are being entrusted with something very important."
+image: "/images/archive/2020/09/gems-wis.webp"
 wpId: 3783
-wpFeaturedImage: "2020/09/GEMS-WIS.jpg"
 ---
 
 Students at GEMS Wellington International School are being entrusted with something very important. They're being asked to create the sporting culture at the school and put forward what they wish to see as the values of PE and sport at the school.

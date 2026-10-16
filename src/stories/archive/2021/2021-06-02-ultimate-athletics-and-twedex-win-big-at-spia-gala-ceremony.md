@@ -4,8 +4,8 @@ date: 2021-06-02T10:27:53+04:00
 slug: "ultimate-athletics-and-twedex-win-big-at-spia-gala-ceremony"
 categories: ["News & Features"]
 excerpt: "A number of Dubai’s youth sports organisations enjoyed a stellar evening last week at the W Hotel on the Palm, as they were rewarded for their outstanding achievements at the 2021 Sports Industry Awards Gala Ceremony."
+image: "/images/archive/2021/06/ultimate1.webp"
 wpId: 5282
-wpFeaturedImage: "2021/06/Ultimate1-scaled.jpg"
 ---
 
 **A number of Dubai’s youth sports organisations enjoyed a stellar evening last week at the W Hotel on the Palm, as they were rewarded for their outstanding achievements at the 2021 Sports Industry Awards Gala Ceremony.**
@@ -16,7 +16,7 @@ In the coveted _**Best Sports Youth Academy or Organisation of the Year**_ cate
 
 Ultimate Athletics Managing Director and head coach, **Lisa Campbell**, was understandably really pleased to receive the award. She says after such a long time away from the track it was brilliant to see the athletes back at training and making up for the lost time.
 
-“I am so delighted to win Best Youth Sports Academy and I think we totally deserve it actually! After a tough lock![](https://gulfyouthsport.com/wp-content/uploads/2021/02/1.-UA-DIARN1-highlights-16-300x214.jpg) down we were back on track over the entire summer months which basically replaced term three, giving the athletes some much needed training as well as socialising time, within the new norms."
+“I am so delighted to win Best Youth Sports Academy and I think we totally deserve it actually! After a tough lock down we were back on track over the entire summer months which basically replaced term three, giving the athletes some much needed training as well as socialising time, within the new norms."
 
 Previously based at Dubai Sports City, Ultimate have found a new home since their return after lockdown and they have a very busy few weeks ahead, culminating in the end of season awards in mid June.
 
@@ -30,7 +30,7 @@ With a number of months lost in the season due to Dubai's Covid restrictions, Ul
 
 "Thank you to everyone involved in the journey; coaches, athletes, parents and friends. We are the Ultimate Family and feel blessed everyday to witness the growth and potential of our rising stars.”
 
-[**![](https://gulfyouthsport.com/wp-content/uploads/2021/06/IMG_5452-249x300.jpg)The Twedex Group**](https://twedex.com/) also enjoyed an evening to remember, as they picked up the award for _**Best Sports Event Organiser of the Year**_.
+[**The Twedex Group**](https://twedex.com/) also enjoyed an evening to remember, as they picked up the award for _**Best Sports Event Organiser of the Year**_.
 
 Twedex COO, Andrew Cook, lauded praise on his team, who are the driving force behind the the **[World School Games Event Series](https://wsgevents.com/)** and the [**BSME Games**](https://www.bsme.org.uk/students/bsme-games-2020-21), as well as a host of other international events.
 
@@ -39,8 +39,6 @@ Twedex COO, Andrew Cook, lauded praise on his team, who are the driving force be
 “In the run-up to international events there are a massive amount of moving parts and it is only through unwavering attention to detail that things can be executed as planned, which our team have delivered time and time again.
 
 “Covid restrictions have put the brakes on competitive school sport this academic year, but our team at Twedex have been working hard behind the scenes to make sure that when the world is safe enough to organise international events we are ready to go again.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/06/Bounce-300x200.jpg)
 
 “We can’t wait to bring the world together through sport once more.”
 

@@ -5,10 +5,10 @@ slug: "dassa-primary-swimming-championship-results-hamdan-2026"
 kicker: "DASSA"
 categories: ["DASSA", "Swimming"]
 standfirst: "The definitive roundup of the DASSA Primary Swimming Championships at Hamdan. View the overall champions across all six elite divisions."
+image: "/images/archive/2026/07/4ae6f4b1-d6b2-42d2-867d-6268dfafba60.webp"
 seoTitle: "Official Results: DASSA Primary Swimming Champions Crowned at Hamdan"
 metaDescription: "The definitive roundup of the DASSA Primary Swimming Championships at Hamdan. View the overall champions across all six elite divisions."
 wpId: 7245
-wpFeaturedImage: "2026/07/4ae6f4b1-d6b2-42d2-867d-6268dfafba60.jpeg"
 ---
 
 ## **Splash of Class: All Six Divisional Champions Crowned in Epic DASSA Primary Swimming Finals at Hamdan**

@@ -4,8 +4,8 @@ date: 2019-01-22T00:00:00+04:00
 slug: "world-school-games-2019-dubai-preview-part-one"
 categories: ["Uncategorised"]
 excerpt: "With Dubai getting ready to host the 2019 U11 World School Games in just a few days’ time, GYS hit the road and went to visit the local schools desperate to be crowned World Champions of school sport."
+image: "/images/archive/2019/09/img-221201910713-b1e8a067929344658c9b1347d18eff45.webp"
 wpId: 1168
-wpFeaturedImage: "2019/09/img-221201910713-b1e8a067929344658c9b1347d18eff45.jpg"
 ---
 
 With Dubai getting ready to host the 2019 U11 World School Games in just a few days’ time, GYS hit the road and went to visit the local schools desperate to be crowned World Champions of school sport.

@@ -4,9 +4,9 @@ date: 2023-02-15T18:09:46+04:00
 slug: "gulf-teen-slides-into-victories-on-international-stage"
 categories: ["GYS", "News & Features"]
 standfirst: "Local Gulf freestyle snowboarder Amenah Almuhairi is sliding in the right direction after a successful month of competing in Europe."
+image: "/images/archive/2023/02/ski-8-1666371382103-183fb796b6b-original-ratio.webp"
 metaDescription: "Local Gulf freestyle snowboarder Amenah Almuhairi is sliding in the right direction after a successful month of competing in Europe."
 wpId: 6120
-wpFeaturedImage: "2023/02/SKI-8-1666371382103_183fb796b6b_original-ratio.jpg"
 ---
 
 _Photograph credit: Gulf News_
@@ -21,9 +21,9 @@ In day one action alone she cruised her way to impressing count of 4 total medal
 
 Through her hard work and drive, she also finished her first day in Bjelašnica with two bronze medals for the overall woman award.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/02/IMG_1521-240x300.jpg" alt=""><figcaption>Amenah on the award stage after earning a remarkable four medals while in Bjelasnica. Credit: @itsamenahalmuhairi - Instagram</figcaption></figure>
+<figure><img src="/images/archive/2023/02/img-1521.webp" alt=""><figcaption>Amenah on the award stage after earning a remarkable four medals while in Bjelasnica. Credit: @itsamenahalmuhairi - Instagram</figcaption></figure>
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/02/unnamed-300x298.jpg" alt=""><figcaption>Almuhairi finishes in the top 15 in two competitions while in Austria last month. Credit: @itsamenahalmuhairi - Instagram</figcaption></figure>
+<figure><img src="/images/archive/2023/02/unnamed.webp" alt=""><figcaption>Almuhairi finishes in the top 15 in two competitions while in Austria last month. Credit: @itsamenahalmuhairi - Instagram</figcaption></figure>
 
 The next day continued to be a remarkable silver lining for her, as she coasted her way to another day of earning quadruple medals. Silver medals were earned in both tournaments' U16 Big Air events, as well as the overall woman award.
 
@@ -47,7 +47,7 @@ Maya, Amenah's mother, explained the steps her daughter has taken to compete so 
 
 The young phenom from the Gulf isn't finished yet, as her next objective is making it to an even bigger stage. Maya further explained Amenah's success as a UAE athlete and what the teen's ultimate is in the coming years,
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/02/FPgXvj7XwAA5bEF-300x218.jpg" alt=""><figcaption>Legendary snowboarder Shaun White hosted a training session last year in Dubai where Amenah attended to learn from the best. Photo credit: @MajidAlFuttaim - Instagram</figcaption></figure>
+<figure><img src="/images/archive/2023/02/fpgxvj7xwaa5bef.webp" alt=""><figcaption>Legendary snowboarder Shaun White hosted a training session last year in Dubai where Amenah attended to learn from the best. Photo credit: @MajidAlFuttaim - Instagram</figcaption></figure>
 
 "Amenah is a kid from a desert country that has made huge strides in a sport relatively unknown in the UAE & been a pioneer in the development and progression of the sport for girls here. Amenah has won podium finishes & international medals for the UAE. She's in the top 100 in the world in her categories & this goes to show that anything is possible, if you put your mind & dedication to what you want. Her dream of representing UAE at the Winter Olympic Games is just that one step closer. We can't wait to see what she will do next."
 

@@ -5,9 +5,9 @@ slug: "cayla-carter-jess-arabian-ranches-dassa-wsg-spotlight"
 kicker: "DASSA"
 categories: ["DASSA", "In The Spotlight", "World School Games"]
 standfirst: "From DASSA Gold to the World School Games in Doha, discover how JESS student Cayla Carter became Dubai's fastest Year 5 girl and a multi-sport powerhouse."
+image: "/images/archive/2026/05/cayla-carter-article-post.webp"
 metaDescription: "From DASSA Gold to the World School Games in Doha, discover how JESS student Cayla Carter became Dubai's fastest Year 5 girl and a multi-sport powerhouse."
 wpId: 7147
-wpFeaturedImage: "2026/05/Cayla-Carter-article-post.png"
 ---
 
 ## **Podium Power: How JESS Arabian Ranches’ Cayla Carter Became the Fastest Year 5 Girl in Dubai**

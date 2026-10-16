@@ -3,8 +3,8 @@ title: "FOOTBALL: Trans World Dubai School Football U10s Finals"
 date: 2016-12-06T00:00:00+04:00
 slug: "football-trans-world-dubai-school-football-u10s-finals"
 excerpt: "It was day three of the Trans World Dubai Schools Football Finals this afternoon as the city’s u10’s teams came to play on another beautiful day at Rashid School for Boys."
+image: "/images/archive/2019/09/main-img-612201662946.webp"
 wpId: 482
-wpFeaturedImage: "2019/09/Main-img-612201662946.jpg"
 ---
 
 **It was day three of the [Trans World](http://www.twsoccer.com/) Dubai Schools Football Finals this afternoon as the city’s u10’s teams came to play on another beautiful day at Rashid School for Boys.**

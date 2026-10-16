@@ -4,8 +4,8 @@ date: 2020-11-13T09:08:09+04:00
 slug: "dubai-college-with-coach-logic-coaching-advantage"
 categories: ["News & Features"]
 excerpt: "Dubai College could yet become an even stronger force in UAE school sport.They've invested in Coach Logic – software designed to improve collaboration and communication between teammates."
+image: "/images/archive/2020/11/screen-shot-2020-11-13-at-19-44-05.webp"
 wpId: 4322
-wpFeaturedImage: "2020/11/Screen-Shot-2020-11-13-at-19.44.05.png"
 ---
 
 Dubai College could yet become an even stronger force in UAE school sport.They've invested in [Coach Logic](/2020/09/24/connecting-collaborating-and-analysing-with-coach-logic/) – software designed to improve collaboration and communication between teammates.

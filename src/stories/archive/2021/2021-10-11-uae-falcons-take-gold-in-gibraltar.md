@@ -5,10 +5,10 @@ slug: "uae-falcons-take-gold-in-gibraltar"
 kicker: "Netball"
 categories: ["Netball", "News & Features"]
 standfirst: "The UAE Falcons netball squad won gold at the Europe Netball Open Challenge in Gibraltar at the weekend after a long lay-off without matches."
+image: "/images/archive/2021/10/dsc-1530.webp"
 seoTitle: "UAE Falcons Take Gold in Gibraltar - Gulf Youth Sport"
 metaDescription: "The UAE Falcons netball squad won gold at the Europe Netball Open Challenge in Gibraltar at the weekend after a long lay-off without matches."
 wpId: 5451
-wpFeaturedImage: "2021/10/DSC_1530-scaled.jpg"
 ---
 
 **The UAE Netball team returned to the international stage with a bang as they claimed the gold medal at the Europe Netball Open Challenge last week in Gibraltar.**
@@ -49,17 +49,5 @@ UAE Netball is a non-profit organisation that oversees the continuous growth and
 Europe Netball is the governing body for the sport in the European Region which incorporates the UAE - the only Arab member country - and twelve other members: Denmark, England, Gibraltar, Isle of Man, Israel, Malta, Northern Ireland, Republic of Ireland, Scotland, Sweden, Switzerland and Wales.
 
 * * *
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/10/image00001-scaled.jpeg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/10/image00002-scaled.jpeg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/10/image00005-scaled.jpeg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/10/image00008-scaled.jpeg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/10/image00009-scaled.jpeg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/10/image00013-scaled.jpeg)
 
 **Featured image credit: Noelle Laguea**

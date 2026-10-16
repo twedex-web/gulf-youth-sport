@@ -5,9 +5,9 @@ slug: "british-school-of-bahrain-cant-wait-for-world-school-games-to-begin"
 kicker: "World School Games"
 categories: ["News & Features", "World School Games"]
 standfirst: "The athletes at the British School of Bahrain are struggling to contain their excitement in anticipation of the under-11 World School Games that begin tomorrow."
+image: "/images/archive/2020/01/screen-shot-2020-01-29-at-5-47-33-pm.webp"
 metaDescription: "The athletes at the British School of Bahrain are struggling to contain their excitement in anticipation of the under-11 World School Games that begin tomorrow."
 wpId: 1896
-wpFeaturedImage: "2020/01/Screen-Shot-2020-01-29-at-5.47.33-pm.png"
 ---
 
 The athletes at the British School of Bahrain are struggling to contain their excitement in anticipation of the under-11 World School Games beginning tomorrow.

@@ -5,8 +5,8 @@ slug: "hamdan-sports-complex-turns-10"
 kicker: "Swimming"
 categories: ["News & Features", "Swimming"]
 excerpt: "The Hamdan Sports Complex – one of the world’s most iconic sports landmarks – is celebrating its 10th birthday following its inauguration on October 2010."
+image: "/images/archive/2020/10/rlp26222.webp"
 wpId: 4093
-wpFeaturedImage: "2020/10/RLP26222-scaled.jpg"
 ---
 
 The Hamdan Sports Complex – one of the world’s most iconic sports landmarks – is celebrating its 10th birthday following its inauguration on October 2010.
@@ -19,7 +19,7 @@ Major youth competitions have included [The World School Games Event Series](htt
 
 Among 248 local events hosted at Hamdan, 57 were organised by the UAE Swimming Federation, 56 by Hamilton Aquatics, 20 by Speedo Swim Squads Dubai and 81 by different schools and organisations.
 
-A statement from Hamdan Sports Complex said that 141,739 athletes have taken part in the competitions hosted by the Complex over the past 10 years, and 484,545 spectators from more than 195 countries have watched the action from the stands. ![](https://gulfyouthsport.com/wp-content/uploads/2020/10/tempImage99bNNr-225x300.jpg)
+A statement from Hamdan Sports Complex said that 141,739 athletes have taken part in the competitions hosted by the Complex over the past 10 years, and 484,545 spectators from more than 195 countries have watched the action from the stands.
 
 Built on 24-hectares of land, Hamdan Sports Complex is one of the world’s biggest and most modern multi-purpose facilities in the world, designed to host more than different 10 Olympic sports, including basketball, badminton, handball and volleyball alongside all kinds of aquatic sports like swimming, synchronised swimming, diving, synchronised diving and water polo.
 

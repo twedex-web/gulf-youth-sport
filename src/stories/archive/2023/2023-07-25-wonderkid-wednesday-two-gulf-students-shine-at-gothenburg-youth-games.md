@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-two-gulf-students-shine-at-gothenburg-youth-games"
 kicker: "Athletics"
 categories: ["Athletics", "News & Features", "Wonderkid Wednesday"]
 excerpt: "Competing on the global stage, the Gothenburg Youth Games provided an opportunity for two Gulf athletes to shine on the track."
+image: "/images/archive/2023/07/whatsapp-image-2023-07-25-at-10-55-35.webp"
 wpId: 6607
-wpFeaturedImage: "2023/07/WhatsApp-Image-2023-07-25-at-10.55.35.jpg"
 ---
 
 **Competing on the global stage, the Gothenburg Youth Games provided an opportunity** **for two Gulf athletes to shine on the track.**
@@ -17,7 +17,7 @@ The spectacular Gothenburg Youth Games, held in Sweden, is a yearly outdoor athl
 
 There was one young sprinter that beamed brighter than the northern lights - Mario Gradnitzer, a sixteen-year-old running sensation from Ultimate Athletics who also represents Dubai International Academy - Emirates Hills at school level.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-25-at-10.55.35-1-225x300.jpg" alt=""><figcaption>Mario proudly stands in the 1st place podium after a successful outing at the Gothenburg World Youth Games. Credit: Mario Gradnitzer.</figcaption></figure>
+<figure><img src="/images/archive/2023/07/whatsapp-image-2023-07-25-at-10-55-35-1.webp" alt=""><figcaption>Mario proudly stands in the 1st place podium after a successful outing at the Gothenburg World Youth Games. Credit: Mario Gradnitzer.</figcaption></figure>
 
 With Grade 11 around the corner, Mario proudly represented his unique heritage of Austria, Palestine, and the UAE as he stepped onto the track for the 100m and 200m sprints. The crowd could sense the electrifying energy as he positioned himself in the starting blocks, he was determined more than ever to take home the gold.
 
@@ -36,7 +36,7 @@ Despite his young age, Peter demonstrated superb maturity on the track. In the 3
   
 As the Games concluded, the spotlight turned to these two young champions - Mario and Peter - their journeys intertwined, as they compete for the same Dubai running club, Ultimate Athletics. Their performances showcased not only their exceptional talent but also the power of teamwork through sport.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-25-at-10.55.36-300x300.jpg" alt=""><figcaption>Peter Blyckert proudly shows his 300m gold medal to cameras at Gothenburg. Credit: Peter Blyckert.</figcaption></figure>
+<figure><img src="/images/archive/2023/07/whatsapp-image-2023-07-25-at-10-55-36.webp" alt=""><figcaption>Peter Blyckert proudly shows his 300m gold medal to cameras at Gothenburg. Credit: Peter Blyckert.</figcaption></figure>
 
 Peter went on to say how close two are on the track. He said:
 

@@ -3,8 +3,8 @@ title: "City Football Schools to Offer Free Winter Camps in Dubai and Abu Dhabi"
 date: 2018-12-11T00:00:00+04:00
 slug: "city-football-schools-to-offer-free-winter-camps-in-dubai-and-abu-dhabi"
 excerpt: "After a successful launch ofCity Football Schools (CFS) Dubai – giving young aspiring players the chance to develop their football skills under the expert guidance of professional coaches from the Premier League…"
+image: "/images/archive/2019/09/img-1112201894050-0d056da43017415a9312f3af848455b7.webp"
 wpId: 1152
-wpFeaturedImage: "2019/09/img-1112201894050-0d056da43017415a9312f3af848455b7.jpg"
 ---
 
 After a successful launch ofCity Football Schools (CFS) Dubai – giving young aspiring players the chance to develop their football skills under the expert guidance of professional coaches from the Premier League champions – CFS is expanding their Dubai programme  with a second location at Hartland International School, Nad al Sheba.

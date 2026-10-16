@@ -3,8 +3,8 @@ title: "Drogba to sign for Repton?"
 date: 2017-02-07T00:00:00+04:00
 slug: "drogba-to-sign-for-repton"
 excerpt: "Drogba to sign for Repton?"
+image: "/images/archive/2019/09/main-img-12220173427.webp"
 wpId: 535
-wpFeaturedImage: "2019/09/Main-img-12220173427.jpg"
 ---
 
 **Drogba to sign for Repton?**

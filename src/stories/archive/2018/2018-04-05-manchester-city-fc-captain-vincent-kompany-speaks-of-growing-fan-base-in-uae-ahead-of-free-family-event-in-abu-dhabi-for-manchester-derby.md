@@ -3,8 +3,8 @@ title: "Manchester City FC Captain Vincent Kompany Speaks of Growing Fan Base IN
 date: 2018-04-05T00:00:00+04:00
 slug: "manchester-city-fc-captain-vincent-kompany-speaks-of-growing-fan-base-in-uae-ahead-of-free-family-event-in-abu-dhabi-for-manchester-derby"
 excerpt: "Manchester City FC captain Vincent Kompany has spoken of the growing fan base in Abu Dhabi as the club prepare to screen the vital league clash with Manchester United at a special Fanzone event on Saturday."
+image: "/images/archive/2019/09/main-img-5420188056.webp"
 wpId: 978
-wpFeaturedImage: "2019/09/Main-img-5420188056.jpg"
 ---
 
 Manchester City FC captain Vincent Kompany has spoken of the growing fan base in Abu Dhabi as the club prepare to screen the vital league clash with Manchester United at a special Fanzone event on Saturday.

@@ -3,8 +3,8 @@ title: "Sharjah youngsters on the March"
 date: 2018-04-11T00:00:00+04:00
 slug: "sharjah-youngsters-on-the-march"
 excerpt: "Author: Liam Dickson"
+image: "/images/archive/2019/09/main-img-114201816359.webp"
 wpId: 988
-wpFeaturedImage: "2019/09/Main-img-114201816359.jpg"
 ---
 
 Author: Liam Dickson

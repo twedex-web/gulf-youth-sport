@@ -3,8 +3,8 @@ title: "GenNext Kings' Cricket Academy Ready to Rock N' Roll"
 date: 2017-09-06T00:00:00+04:00
 slug: "gennext-kings-cricket-academy-ready-to-rock-n-roll"
 excerpt: "The launch of Rachivandran Ashwin and Kings’ School’s new coaching academy in Dubai has filled UAE cricket players with hope and happiness."
+image: "/images/archive/2019/09/main-img-69201718421.webp"
 wpId: 713
-wpFeaturedImage: "2019/09/Main-img-69201718421.jpg"
 ---
 
 The launch of Rachivandran Ashwin and Kings’ School’s new coaching academy in Dubai has filled UAE cricket players with hope and happiness. 

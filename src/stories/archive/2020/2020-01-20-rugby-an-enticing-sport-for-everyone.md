@@ -5,9 +5,9 @@ slug: "rugby-an-enticing-sport-for-everyone"
 kicker: "Rugby"
 categories: ["News & Features", "Rugby"]
 standfirst: "Predictably DASSA rugby co-ordinator George Cliffe loves the sport.The camaraderie and way the game can draw in people of varied skills is what Dubai English Speaking College PE teacher Cliffe said makes rugby such an appealing school sport."
+image: "/images/archive/2020/01/ii2a1221.webp"
 metaDescription: "Predictably DASSA rugby co-ordinator George Cliffe loves the sport.The camaraderie and way the game can draw in people of varied skills is what Dubai English Speaking College PE teacher Cliffe said makes rugby such an appealing school sport."
 wpId: 1821
-wpFeaturedImage: "2020/01/II2A1221.jpg"
 ---
 
 Predictably DASSA rugby co-ordinator George Cliffe loves the sport.
@@ -19,8 +19,6 @@ The camaraderie and way the game can draw in people of varied skills is what Dub
 "It's also a great sport for developing strong values, something players feel proud to be able to develop and display each week."  
 More than 20 schools are involved in DASSA's rugby competition and Cliffe said Jebel Ali School, GEMS WSO, Kings' School, Deira International School and Repton are all beginning to make their own name as strong rugby sides.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/01/II2A3194.jpg)
-
 "The increase in the number of students taking up the sport and their rate of progression has been fantastic, there are excellent fixtures throughout all the league games and competitions," he said.
 
 DESC, Dubai College and JESS will continue to be the leading sides with Dubai College winning their 10th Emirates Airline Dubai Rugby 7s under-19s title last year.
@@ -29,7 +27,7 @@ A host of competitions in term one will improve teams' fitness in the lead-up to
 
 "That being said, we're extremely lucky to have so many competitions in term one and time to develop all the skills the players will use in the 15-a-side game," Cliffe said.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/01/II2A2784.jpg)  
+  
 "At this stage, it's just a case of getting players used to the different calls and decisions they'll make in the 15-a-side game."
 
 Cliffe is thrilled to welcome a new division into the ranks.

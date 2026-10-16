@@ -5,9 +5,9 @@ slug: "empire-girls-join-yfl"
 kicker: "Football"
 categories: ["Football"]
 standfirst: "Empire Sports Academy are set to become the first girls side to join the boys league in the YFL Dubai this season."
+image: "/images/archive/2021/09/whatsapp-image-2021-09-13-at-13-05-28.webp"
 metaDescription: "Empire Sports Academy are set to become the first girls side to join the boys league in the YFL Dubai this season."
 wpId: 5399
-wpFeaturedImage: "2021/09/WhatsApp-Image-2021-09-13-at-13.05.28.jpeg"
 ---
 
 **Empire Sports Academy are set to make history as they become the first ever all-girls side to join a boys league in the Youth Football League Dubai.**

@@ -5,8 +5,8 @@ slug: "inspired-by-england-star-helen-housby"
 kicker: "Sports Media Course"
 categories: ["Sports Media Course"]
 excerpt: "Lisa Alexander, Australia's head coach at the 2018 Commonwealth Games, hailed the England star: \"Her effort on court is immense and one we were continually trying to grind down.\""
+image: "/images/archive/2020/11/screen-shot-2020-11-22-at-18-44-34.webp"
 wpId: 4412
-wpFeaturedImage: "2020/11/Screen-Shot-2020-11-22-at-18.44.34.png"
 ---
 
 _By Kaira Pal_
@@ -19,7 +19,7 @@ She is the player you definitely want under the net when the game is on the line
 
 The shooter's movement up the ranks of English netball was kick-started by two former England international shooters - Karen Greig and Tracey Neville.
 
-In her role as England Netball's Pathway Coach for the North West, Greig spotted Housby at a North West talent festival. At that point, the 15-year-old was representing Cumbria, and Greig recalled her initial thoughts about the young shooter. [![](https://gulfyouthsport.com/wp-content/uploads/2020/11/DtSLBXeU4AAfm0L-240x300.jpeg)](/)
+In her role as England Netball's Pathway Coach for the North West, Greig spotted Housby at a North West talent festival. At that point, the 15-year-old was representing Cumbria, and Greig recalled her initial thoughts about the young shooter.
 
 "She was one of these players who was by no means a complete package, but she had something. You looked at her and thought, where has she been? What kind of coaching has she had?" she said.
 

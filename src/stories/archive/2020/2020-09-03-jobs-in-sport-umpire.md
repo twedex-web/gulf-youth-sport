@@ -5,8 +5,8 @@ slug: "jobs-in-sport-umpire"
 kicker: "Netball"
 categories: ["Netball", "News & Features"]
 excerpt: "I was looking at getting back into netball and joined a team that was playing in the social league. One of the requirements was that we needed to provide an umpire."
+image: "/images/archive/2020/09/unnamed-12.webp"
 wpId: 3750
-wpFeaturedImage: "2020/09/unnamed-12.jpg"
 ---
 
 ### Danielle Currey is the officiating development officer at Active Netball. Currently working towards securing her A badge, she is also helping nurture the next batch of umpires in Dubai. We asked her about what it takes to pursue a path in umpiring.
@@ -17,7 +17,7 @@ I was looking at getting back into netball and joined a team that was playing in
 
 _It takes a lot of dedication to achieve each umpiring badge. Can you detail the effort you have put in to achieve each qualification._
 
-For my C badge, learning to receive feedback and gain confidence in myself was a challenge. I had to believe in myself and in the calls I would make. I would also self-reflect after each game and give myself two things that I need to work on for the next game.![](https://gulfyouthsport.com/wp-content/uploads/2020/09/67110104_2318573558179887_5068169964578406400_o-300x300.jpg)
+For my C badge, learning to receive feedback and gain confidence in myself was a challenge. I had to believe in myself and in the calls I would make. I would also self-reflect after each game and give myself two things that I need to work on for the next game.
 
 For the B badge, I needed to really study the rule book.  I had to sit a theory exam for two and half hours and obtain a high mark to pass. I also had to complete a beep test of a minimum of 6.1 to be able to go for my final practical assessment.  I would get up early in the morning and drive to a quiet road where I had lines marked 20m apart and would practice the beep test at least three times a week.  Before my final practical I was lucky enough to umpire at the Desert Championships with A badged umpires from the UK who mentored me in preparation for my final practical assessment.
 

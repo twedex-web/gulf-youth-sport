@@ -3,8 +3,8 @@ title: "NETBALL: Repton Set to Host DASSA Senior Netball Tournament"
 date: 2017-01-26T00:00:00+04:00
 slug: "netball-repton-set-to-host-dassa-senior-netball-tournament"
 excerpt: "Dubai’s Repton School are set to welcome 29 senior girls teams to campus when they host this year’s DASSA Senior Netball tournament."
+image: "/images/archive/2019/09/main-img-261201753414.webp"
 wpId: 523
-wpFeaturedImage: "2019/09/Main-img-261201753414.jpg"
 ---
 
 **Dubai’s Repton School are set to welcome 29 senior girls teams to campus when they host this year’s DASSA Senior Netball tournament.**

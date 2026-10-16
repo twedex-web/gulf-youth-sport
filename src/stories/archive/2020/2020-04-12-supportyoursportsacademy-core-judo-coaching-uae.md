@@ -4,8 +4,8 @@ date: 2020-04-12T14:37:14+04:00
 slug: "supportyoursportsacademy-core-judo-coaching-uae"
 categories: ["GYS", "News & Features"]
 excerpt: "Every academy and sporting club is trying to adapt to the current COVID-19 situation in their own way. But imagine opening up an academy in January, only for any gains to be halted by forced closures in March."
+image: "/images/archive/2020/04/core-judo-logo-e1595323478596.webp"
 wpId: 2916
-wpFeaturedImage: "2020/04/Core-Judo-logo-e1595323478596.jpg"
 ---
 
 Every academy and sporting club is trying to adapt to the current COVID-19 situation in their own way. But imagine opening up an academy in January, only for any gains to be halted by forced closures in March.
@@ -26,8 +26,6 @@ Turner said he sees martial arts as being on the rise in the UAE and fter becomi
 "I think this is great for martial arts as a whole as it shows how popular it is. It’s great for me to see martial arts and combat sports getting the recognition it deserves and more children choosing it as it gives them something different than usual sports."
 
 From his own personal experience, Turner said he believes all kids should take part in some type of martial arts in order to build resilience.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/04/Core-Judo-coaching-640x853.jpg" alt=""><figcaption>Head coach Aaron Turner with some excited pupils.</figcaption></figure>
 
 Turner was hesitant to take part in Judo initially as a young child. But due to being bullied at school Turner said his mum continued to take him to lessons to help him build confidence.
 

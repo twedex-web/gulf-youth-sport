@@ -3,8 +3,8 @@ title: "Fit to Teach: Sara Isakovic"
 date: 2018-08-29T00:00:00+04:00
 slug: "fit-to-teach-sara-isakovic"
 excerpt: "This week's fit to teach takes a trip down memory lane. To the young swimmers of Hamilton Aquatics in Dubai 'Coach Sara' is a fantastic role model, who inspires them to keep progressing in the pool."
+image: "/images/archive/2019/09/main-img-2982018151612.webp"
 wpId: 1095
-wpFeaturedImage: "2019/09/Main-img-2982018151612.jpg"
 ---
 
 This week's fit to teach takes a trip down memory lane. To the young swimmers of Hamilton Aquatics in Dubai 'Coach Sara' is a fantastic role model, who inspires them to keep progressing in the pool. However, turn the clock back ten years and it was an entire nation who was drawing inspiration from an unexpected hero, as she sensationally clinched an Olympic silver medal for Slovenia.  

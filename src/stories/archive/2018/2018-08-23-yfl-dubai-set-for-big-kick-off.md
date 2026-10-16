@@ -3,8 +3,8 @@ title: "YFL Dubai set for big kick off"
 date: 2018-08-23T00:00:00+04:00
 slug: "yfl-dubai-set-for-big-kick-off"
 excerpt: "Author: Liam Dickson"
+image: "/images/archive/2019/09/main-img-2382018101133.webp"
 wpId: 1089
-wpFeaturedImage: "2019/09/Main-img-2382018101133.jpg"
 ---
 
 Author: Liam Dickson

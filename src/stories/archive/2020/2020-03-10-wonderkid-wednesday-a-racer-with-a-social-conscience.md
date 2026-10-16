@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-a-racer-with-a-social-conscience"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 excerpt: "United Arab Emirates kart driver Georgie Zouein took a trip back to his homeland in 2016 to compete at the Canadian National Championship. Little did he know the profound impact that trip would have on him."
+image: "/images/archive/2020/03/georgie-zouein-c.webp"
 wpId: 2399
-wpFeaturedImage: "2020/03/Georgie-Zouein-c.jpg"
 ---
 
 United Arab Emirates kart driver Georgie Zouein took a trip back to his homeland in 2016 to compete at the Canadian National Championship. Little did he know the profound impact that trip would have on him.
@@ -23,8 +23,6 @@ But Georgie could not remove the thought of those less privileged than him from 
 
 "But dad said 'it's okay use all your money to donate and we'll help you get an iPad and that was my first donation."
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/03/Georgie-Zouein-b-300x225.jpg" alt=""><figcaption>Georgie dedicates each win to a child at Lebanon's Centre Mar Semaan.</figcaption></figure>
-
 Later that year the idea was turned into a charity program called _Racing for Happiness_ which has continued. Each time Georgie wins a race or makes a landmark achievement he donates to Centre Mar Semaan — a charity that looks after underprivileged and orphaned children in Lebanon.
 
 More than 50 children have been helped by Georgie since 2016 and he said he hoped his charity can bring a smile to more children.
@@ -36,5 +34,3 @@ The charity was a finalist in the Arab Hope Makers awards program last year and 
 Georgie was born in Montreal in 2005, but has spent the past decade of his life in the UAE and on the track signs are also looking bright.
 
 His is currently occupying second place in the standings at the UAE Rotax Max Challenge in the Junior Max category, with one round left at Al Ain Raceway at the end of the month.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/03/Georgie-Zouein-a-1024x720.jpg)

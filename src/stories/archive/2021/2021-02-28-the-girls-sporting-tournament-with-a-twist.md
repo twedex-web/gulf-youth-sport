@@ -5,8 +5,8 @@ slug: "the-girls-sporting-tournament-with-a-twist"
 kicker: "Match Zone"
 categories: ["Match Zone"]
 excerpt: "Here's a sporting tournament with a twist. You start the first half of your match playing netball, take a break, and then meet the same opponent in a half of football to determine the winner."
+image: "/images/archive/2021/02/fb-banner.webp"
 wpId: 4982
-wpFeaturedImage: "2021/02/FB-BANNER.jpg"
 ---
 
 **Here's a sporting tournament with a twist. You start the first half of your match playing netball, take a break, and then meet the same opponent in a half of football to determine the winner.**

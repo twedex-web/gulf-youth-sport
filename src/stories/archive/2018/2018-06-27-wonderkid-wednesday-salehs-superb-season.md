@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Saleh's superb season"
 date: 2018-06-27T00:00:00+04:00
 slug: "wonderkid-wednesday-salehs-superb-season"
 excerpt: "Author: Joseph Turner"
+image: "/images/archive/2019/09/main-img-276201818410.webp"
 wpId: 1061
-wpFeaturedImage: "2019/09/Main-img-276201818410.jpg"
 ---
 
 Author: Joseph Turner

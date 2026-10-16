@@ -5,8 +5,8 @@ slug: "dassa-select-equal-to-their-uae-national-counterparts"
 kicker: "DASSA"
 categories: ["DASSA", "Football", "Match Zone", "News & Features"]
 excerpt: "Fancy securing a competitive 1-1 draw against the national side having only been a squad for six weeks."
+image: "/images/archive/2020/02/dassa-v-uae-national-side.webp"
 wpId: 1967
-wpFeaturedImage: "2020/02/dassa-v-uae-national-side.jpeg"
 ---
 
 Fancy securing a competitive 1-1 draw against the national side having only been a squad for six weeks.
@@ -22,8 +22,6 @@ But with a change in formation and added support in attack Jones said her side r
 "The girls pressed from the front and never looked back," she said.
 
 "It was 10 minutes into the second half when we levelled the match."
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-04-at-16.56.35.jpeg)
 
 Victory began to be on the cards when the DASSA team maintained the ball in its attack.
 

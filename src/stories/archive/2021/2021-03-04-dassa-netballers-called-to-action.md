@@ -5,8 +5,8 @@ slug: "dassa-netballers-called-to-action"
 kicker: "Match Zone"
 categories: ["Match Zone"]
 excerpt: "The DASSA virtual series has expanded to netball, but with a few scoring tweaks! Make sure to watch the explainer from DASSA Vice-Chair Niall Statham below so you can see how to score the most points."
+image: "/images/archive/2021/03/copy-of-copy-of-tournaments-2.webp"
 wpId: 4993
-wpFeaturedImage: "2021/03/Copy-of-Copy-of-TOURNAMENTS-2.png"
 ---
 
 The DASSA virtual series has expanded to netball, but with a few scoring tweaks! Make sure to watch the explainer from **DASSA Vice-Chair Niall Statham** below so you can see how to score the most points.

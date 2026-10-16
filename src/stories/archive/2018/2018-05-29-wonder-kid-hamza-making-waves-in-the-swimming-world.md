@@ -3,8 +3,8 @@ title: "Wonder Kid Hamza Making Waves in the Swimming World"
 date: 2018-05-29T00:00:00+04:00
 slug: "wonder-kid-hamza-making-waves-in-the-swimming-world"
 excerpt: "Nine years old he may be, but Hamza A. Amer is one of the most mature, determined and focused athletes you'll meet."
+image: "/images/archive/2019/09/main-img-295201895544.webp"
 wpId: 1034
-wpFeaturedImage: "2019/09/Main-img-295201895544.jpg"
 ---
 
 **Nine years old he may be, but Hamza A. Amer is one of the most mature, determined and focused athletes you'll meet.**

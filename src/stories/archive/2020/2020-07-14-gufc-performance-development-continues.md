@@ -5,13 +5,13 @@ slug: "gufc-performance-development-continues"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "COVID-19 forced many people to press pause on a lot of plans."
+image: "/images/archive/2020/07/gufc-performance-dev3-png-e1594712319298.webp"
 wpId: 3511
-wpFeaturedImage: "2020/07/GUFC-Performance-Dev3.png-e1594712319298.png"
 ---
 
 COVID-19 forced many people to press pause on a lot of plans.
 
-But for some Gulf United Football Club athletes, they couldn't take a moment to rest on their laurels with a bunch destined to head across to the USA and Canada for football scholarships.![](https://gulfyouthsport.com/wp-content/uploads/2020/07/GUFC-Performance-Dev2.png-300x300.png)
+But for some Gulf United Football Club athletes, they couldn't take a moment to rest on their laurels with a bunch destined to head across to the USA and Canada for football scholarships.
 
 The players are mentored by a group of professional coaches from Manchester who specialise in helping players from the Middle-East and Asia gain football opportunities worldwide.
 

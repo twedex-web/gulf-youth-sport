@@ -5,8 +5,8 @@ slug: "du-football-champions-competition-completes-dubai-leg"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "More than 200 goals were scored on the first weekend of play at The Sevens Stadium during the Dubai leg of the du Football Champions competition."
+image: "/images/archive/2020/02/dubai-scholars-pvt-schl-vs-llfp.webp"
 wpId: 2052
-wpFeaturedImage: "2020/02/Dubai-Scholars-Pvt-Schl-Vs-LLFP.jpg"
 ---
 
 More than 200 goals were scored on the first weekend of play at The Sevens Stadium during the Dubai leg of the du Football Champions competition.
@@ -18,8 +18,6 @@ Meanwhile Mouath Ibn Jabal, Abu Saeed Al Kadari, Soukaina Bint Al Hosn, Safiya 
 Taking the lead in Schools Cup U-16 Group A and B respectively were Rashid Bin Saeed School and Towheed Iranian School for Boys who both played superb matches.
 
 In Schools Cup U-14 Abu Saeed Al Khudari beat LLFP 5-1 and Philadelphia Private School 3-0 securing them a perfect nine points and the lead in Group A.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/Towheed-Iranian-School-for-boys-Vs-Philadelphia-Private-School.jpg)
 
 Dubai Scholars Private School cleared their way forward to the knockout stage with five points in Group B.
 

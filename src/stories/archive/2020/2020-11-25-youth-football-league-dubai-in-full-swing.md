@@ -5,8 +5,8 @@ slug: "youth-football-league-dubai-in-full-swing"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "We’re excited for weekend football just watching this video of Youth Football League footballers all doing what they love."
+image: "/images/archive/2020/11/screen-shot-2020-11-25-at-18-00-37.webp"
 wpId: 4444
-wpFeaturedImage: "2020/11/Screen-Shot-2020-11-25-at-18.00.37.png"
 ---
 
 **We’re excited for weekend football just watching this video of Youth Football League footballers all doing what they love.**

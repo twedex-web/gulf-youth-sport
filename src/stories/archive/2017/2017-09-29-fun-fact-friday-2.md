@@ -3,8 +3,8 @@ title: "Fun Fact Friday"
 date: 2017-09-29T00:00:00+04:00
 slug: "fun-fact-friday-2"
 excerpt: "Fun facts (that you probably didn't know) about sports!"
+image: "/images/archive/2019/09/main-img-28920179461.webp"
 wpId: 758
-wpFeaturedImage: "2019/09/Main-img-28920179461.jpg"
 ---
 
 **Fun facts (that you probably didn't know) about sports!** 

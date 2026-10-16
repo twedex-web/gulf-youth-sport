@@ -3,8 +3,8 @@ title: "FOOTBALL: Spanish Soccer Schools Shine at GEMS Silicon 7's"
 date: 2017-02-25T00:00:00+04:00
 slug: "football-spanish-soccer-schools-shine-at-gems-silicon-7s"
 excerpt: "Hundreds of budding footballers descended on Dubai this weekend for the The GEMS Silicon 7's."
+image: "/images/archive/2019/09/main-img-252201702630.webp"
 wpId: 561
-wpFeaturedImage: "2019/09/Main-img-252201702630.jpg"
 ---
 
 Hundreds of budding footballers descended on Dubai this weekend for the The GEMS Silicon 7's. 

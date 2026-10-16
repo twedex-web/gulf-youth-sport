@@ -5,8 +5,8 @@ slug: "united-arab-emirates-in-strong-form-ahead-of-under-19-cricket-world-cup"
 kicker: "Cricket"
 categories: ["Cricket", "News & Features"]
 excerpt: "United Arab Emirates might just cause some upsets when the under-19s Cricket World Cup begins today in South Africa."
+image: "/images/archive/2019/12/image-3.webp"
 wpId: 1758
-wpFeaturedImage: "2019/12/image-3.png"
 ---
 
 United Arab Emirates might just cause some upsets when the under-19s Cricket World Cup begins today in South Africa.

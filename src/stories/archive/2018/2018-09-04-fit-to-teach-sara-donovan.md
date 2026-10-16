@@ -3,13 +3,13 @@ title: "Fit to Teach: Sara Donovan"
 date: 2018-09-04T00:00:00+04:00
 slug: "fit-to-teach-sara-donovan"
 excerpt: "As the new school term gets underway across the Middle East over the next couple of weeks, we take some time to reflect on the outstanding achievements of one of Dubai’s teachers during the summer break."
+image: "/images/archive/2019/09/main-img-128201861533.webp"
 wpId: 1073
-wpFeaturedImage: "2019/09/Main-img-128201861533.jpg"
 ---
 
 **As the new school term gets underway across the Middle East over the next couple of weeks, we take some time to reflect on the outstanding achievements of one of Dubai’s teachers during the summer break.**
 
-Sara Donovan, Dubai College’s Head of Netball, travelled to Gibraltar to compete for the United Arab Emirates in the European Netball Challenge Open in May and helped guide the side to a third-place finish. The squad were the first national netball side to compete for the UAE and after spending ten years in Dubai, Donovan was delighted to represent the country she now calls home. An excellent feat on its own, but it was made even more inspiring by the fact the Donovan was battling cancer in the build up to the tournament.![Sara Donovan wears her UAE Netball uniform](http://gulfyouthsport.com/Admin/Content/UserFiles/Image-6.png)
+Sara Donovan, Dubai College’s Head of Netball, travelled to Gibraltar to compete for the United Arab Emirates in the European Netball Challenge Open in May and helped guide the side to a third-place finish. The squad were the first national netball side to compete for the UAE and after spending ten years in Dubai, Donovan was delighted to represent the country she now calls home. An excellent feat on its own, but it was made even more inspiring by the fact the Donovan was battling cancer in the build up to the tournament.
 
 She said: “The tournament was an amazing experience for the whole team, we went with huge expectations but also huge support from every netballer in the UAE. It was amazing to be part of the first ever national team and to finish third in the competition was a great start.”
 
@@ -35,7 +35,7 @@ Dubai College’s netball program is amongst the best in the country and the sch
 
 “As Head of Netball I was proud to be able to take the court with Jemma Shand and Arya Flisher, two of my first team players. Every player in our High Performance Program has helped me stay focused on the Netball rather than the cancer.”
 
-Netball has been at the heart of the sporting scene in Dubai and Abu Dhabi for a number of years, with the creation of![](http://gulfyouthsport.com/Admin/Content/UserFiles/Image-4.jpeg) youth leagues and competitive adult league giving players an opportunity to take part in netball outside of school hours.
+Netball has been at the heart of the sporting scene in Dubai and Abu Dhabi for a number of years, with the creation of youth leagues and competitive adult league giving players an opportunity to take part in netball outside of school hours.
 
 The addition of a netball tournament as part of the annual Emirates Airline Rugby Sevens has further enhanced the reputation of the game throughout the United Arab Emirates.
 

@@ -5,8 +5,8 @@ slug: "brighton-college-abu-dhabis-u13-netball-team-undefeated-in-academic-year"
 kicker: "Netball"
 categories: ["Netball", "Sports Media Course"]
 excerpt: "By Lily Hatton"
+image: "/images/archive/2020/06/lp10119.webp"
 wpId: 3360
-wpFeaturedImage: "2020/06/LP10119-scaled.jpg"
 ---
 
 _By Lily Hatton_
@@ -16,8 +16,6 @@ During the 2019-20 academic year, Brighton College’s U13 netball team never lo
 Whether it was an ADISSA league match or tournament or BSME netball in January, and not forgetting their amazing winning streak in the U13 BSME games, Brighton College sustained a perfect winning streak up to the point where schools had to transition into E-Learning.
 
 The highlight of the majority of every player’s year was their victory in the netball final of the U13 BSME games in 2020, where all their dreams had come true, all thanks to a single goal.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/06/RLP21543-001-224x300.jpg" alt=""><figcaption>Lily Hatton is the author of this article and also captain of the successful Brighton College U13 netball side.</figcaption></figure>
 
 The grueling tension of the final emerged when the full-time whistle blew. It was a tied score between BCAD and Kings' School Al Barsha. Five measly minutes of extra time had to be put into play; five minutes later, the whistle blew. Yet another tied score. The players' dread of the officials resorting to going to golden goal vanished when they announced that they would gift us with a final two minutes.
 

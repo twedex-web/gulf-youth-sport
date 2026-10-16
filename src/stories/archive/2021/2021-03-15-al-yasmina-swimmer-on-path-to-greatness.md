@@ -5,8 +5,8 @@ slug: "al-yasmina-swimmer-on-path-to-greatness"
 kicker: "Sports Media Course"
 categories: ["Sports Media Course"]
 excerpt: "By Iman Wasily, Al Bateen Academy"
+image: "/images/archive/2021/03/pastedimagebase640.webp"
 wpId: 5021
-wpFeaturedImage: "2021/03/pastedImagebase640.jpg"
 ---
 
 _By Iman Wasily, Al Bateen Academy_

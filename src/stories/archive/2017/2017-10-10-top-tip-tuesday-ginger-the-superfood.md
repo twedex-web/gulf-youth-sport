@@ -3,8 +3,8 @@ title: "Top Tip Tuesday - Ginger, The Superfood"
 date: 2017-10-10T00:00:00+04:00
 slug: "top-tip-tuesday-ginger-the-superfood"
 excerpt: "TOP TIP TUESDAY"
+image: "/images/archive/2019/09/main-img-9102017171616.webp"
 wpId: 778
-wpFeaturedImage: "2019/09/Main-img-9102017171616.jpg"
 ---
 
 **TOP TIP TUESDAY**
@@ -35,5 +35,3 @@ Want to experience the powerful health benefits of ginger for yourself? Try maki
 5\. Strain into a glass. Add plenty of ice.
 
 6\. ENJOY!
-
-  ![](http://gulfyouthsport.com/Admin/Content/UserFiles/6-Steps-to-Ease-Symptoms-When-You-Get-Glutened.jpg)

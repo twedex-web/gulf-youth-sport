@@ -5,9 +5,9 @@ slug: "archive-bsme-u13-football-championship-results-dbs-jess"
 kicker: "BSME Games"
 categories: ["BSME Games", "Football"]
 standfirst: "From the GYS Archive: A look back at the BSME U13 Football Championship in Cairo, where Doha British School claimed legendary double trophy glory."
+image: "/images/archive/2026/07/83e454a3-3f52-4f38-a872-5bdd1611756a.webp"
 metaDescription: "From the GYS Archive: A look back at the BSME U13 Football Championship in Cairo, where Doha British School claimed legendary double trophy glory."
 wpId: 7253
-wpFeaturedImage: "2026/07/83e454a3-3f52-4f38-a872-5bdd1611756a.jpeg"
 ---
 
 ## **Headline: GYS Flashback: Remembering Doha British School’s Historic Double Trophy Landslide at the BSME Football Championship**

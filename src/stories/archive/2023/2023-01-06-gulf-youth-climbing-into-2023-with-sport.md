@@ -5,10 +5,10 @@ slug: "gulf-youth-climbing-into-2023-with-sport"
 kicker: "Multi-Sports"
 categories: ["GYS", "Multi-Sports", "News & Features"]
 standfirst: "With the new year underway for the Gulf youth, sport is now picking up where it left off in 2022."
+image: "/images/archive/2023/01/img-0833.webp"
 imageAlt: "Brighton College Dubai Year 7 and 8 climb into 2023 in style by attending Ecoventure. Photo credit: Brighton College Dubai"
 metaDescription: "With the new year underway for the Gulf youth, sport is now picking up where it left off in 2022."
 wpId: 5864
-wpFeaturedImage: "2023/01/IMG_0833.jpg"
 ---
 
 _Brighton College Dubai's Year 7 and 8 Pupils climb into 2023 in style by attending Ecoventure. Photo credit: Brighton College Dubai_
@@ -17,7 +17,7 @@ _Brighton College Dubai's Year 7 and 8 Pupils climb into 2023 in style by attend
 
 Al Bateen Academy’s Year 7 Girls received the football experience of a lifetime recently in Abu Dhabi. The Manchester City Football Club visited the school to help teach the youngsters healthy habits through the exciting sport of football. The girls would then participate in many different football drills, such as passing, shooting, and dribbling. Finally, the pupils learned what it takes to balance a healthy lifestyle and how to maintain their physical fitness.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/01/IMG_0834-242x300.jpg" alt=""><figcaption><em>Manchester City teaches Al Bateen Academy's Year 7 Girls healthy life style choices through football. Photo credit: Al Bateen Academy</em></figcaption></figure>
+<figure><img src="/images/archive/2023/01/img-0834.webp" alt=""><figcaption><em>Manchester City teaches Al Bateen Academy's Year 7 Girls healthy life style choices through football. Photo credit: Al Bateen Academy</em></figcaption></figure>
 
 GEMS New Millennium School made it an initiative by starting their second term strong with sport. Grades 9, 11, and IGCSE/AS levels had recently taken part in the 8th Annual Athletic Meet hosted by the Dubai Police Club Stadium. The mission of this movement was not only to promote strength and fitness movements in school, but the community as well. Activities performed included majorette routines, cardio workouts, and physical teamwork challenges.
 

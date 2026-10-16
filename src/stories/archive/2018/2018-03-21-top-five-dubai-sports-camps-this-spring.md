@@ -3,8 +3,8 @@ title: "Top Five Dubai Sports Camps This Spring"
 date: 2018-03-21T00:00:00+04:00
 slug: "top-five-dubai-sports-camps-this-spring"
 excerpt: "With the Spring holidays fast approaching, we take a look at some of the best sports camps to send your kids to in Dubai this April."
+image: "/images/archive/2019/09/main-img-2132018152154.webp"
 wpId: 958
-wpFeaturedImage: "2019/09/Main-img-2132018152154.jpg"
 ---
 
 **With the Spring holidays fast approaching, we take a look at some of the best sports camps to send your kids to in Dubai this April.**
@@ -15,7 +15,7 @@ Keep us up to date with what your child or sports team is up to during the holid
 
 ## **J4K Keeper Wars**
 
-**Dates:** 3rd – 4th April 2018![](http://gulfyouthsport.com/Admin/Content/UserFiles/J4K.png)  
+**Dates:** 3rd – 4th April 2018  
 **Where?** Jebel Ali Centre of Excellence  
 **What is it?** Just4Keepers are running a two-day goalkeeping camp titled Keeper Wars! The camp gives young goalkeepers the chance to go head to head with one another whilst picking up valuable tips from some of the best coaches in the UAE at one of Dubai’s top football facilities. This year sees coaches with experience in the English Premier League join the J4K ranks, with a FREE pair of J4K Gloves up for grabs for every attendee.  
 **GYS Discount?** Quote ‘GYS20’ for exclusive 20% discount  
@@ -25,7 +25,7 @@ Keep us up to date with what your child or sports team is up to during the holid
 
 ## **Fit Republik 'Spring Forward 2018'**
 
-**Dates:** 25th March – 7th April**![](http://gulfyouthsport.com/Admin/Content/UserFiles/FitRepublik_RGB_Web.jpg)**  
+**Dates:** 25th March – 7th April  
 **Where?** Fit Republik, Dubai Sports City  
 **What is it?** Fit Republik are offering a number of sports at their camps throughout the Spring break. From martial arts to swimming, from gymnastics to mental and physical fitness, Fit Republik say they will focus on skills which will be beneficial for wider life as well as sports.  
 With facilities and coaches that would motivate any young athlete to work hard, enjoy themselves and be the best they can be, Fit Republik’s ‘Spring Forward’ camp is sure to be a hit with those lucky enough to attend this year.  
@@ -33,7 +33,7 @@ With facilities and coaches that would motivate any young athlete to work hard, 
 
 * * *
 
-## **Go Pro Spring Break Football Camp**![](http://gulfyouthsport.com/Admin/Content/UserFiles/theacademy-crest-logo-e1494532363519.png)
+## **Go Pro Spring Break Football Camp**
 
 **Dates:** _Week 1:_ 25th – 29th March, _Week 2:_ 1st – 5th April  
 **Where?** Le Royal Meridien Resort & Spa  
@@ -43,7 +43,7 @@ With facilities and coaches that would motivate any young athlete to work hard, 
 
 * * *
 
-## **Elite Multi Sports Camp![](http://gulfyouthsport.com/Admin/Content/UserFiles/elite.png)**
+## **Elite Multi Sports Camp**
 
 **Dates:**  _Week 1:_ 25th – 29th March, _Week 2:_ 1st – 5th April  
 **Where?** Six school venues across Dubai  
@@ -53,7 +53,7 @@ With facilities and coaches that would motivate any young athlete to work hard, 
 
 * * *
 
-## **Just Play Spring Multi Sports Camp 2018![](http://gulfyouthsport.com/Admin/Content/UserFiles/JustPlay.png)**
+## **Just Play Spring Multi Sports Camp 2018**
 
 **Dates:** _Week 1:_ 25th – 29th March, _Week 2:_ 1st – 5th April  
 **Where?** Just Play HQ, 5 15 A St., Al Quoz, Dubai  

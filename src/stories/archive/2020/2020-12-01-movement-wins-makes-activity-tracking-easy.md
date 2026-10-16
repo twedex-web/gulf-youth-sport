@@ -4,8 +4,8 @@ date: 2020-12-01T09:11:27+04:00
 slug: "movement-wins-makes-activity-tracking-easy"
 categories: ["News & Features"]
 excerpt: "Movement Wins brought its activity tracking expertise to the GYS 30X30 Challenge. By linking up with heart rate monitors of Garmin, Fitbit and Polar watches, the company painted a picture of what the Dubai school…"
+image: "/images/archive/2020/11/joff3.webp"
 wpId: 4468
-wpFeaturedImage: "2020/11/Joff3.jpeg"
 ---
 
 Movement Wins brought its activity tracking expertise to the GYS 30X30 Challenge. By linking up with heart rate monitors of Garmin, Fitbit and Polar watches, the company painted a picture of what the Dubai school community was doing during November.

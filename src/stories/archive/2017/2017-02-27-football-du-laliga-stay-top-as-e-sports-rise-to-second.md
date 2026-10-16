@@ -3,8 +3,8 @@ title: "FOOTBALL: du LaLiga Stay Top as E-Sports Rise to Second"
 date: 2017-02-27T00:00:00+04:00
 slug: "football-du-laliga-stay-top-as-e-sports-rise-to-second"
 excerpt: "The most anticipated match of the week was between league leaders, du LaLiga HPC and the reinforced Al Jazira Club team."
+image: "/images/archive/2019/09/main-img-27220176311.webp"
 wpId: 565
-wpFeaturedImage: "2019/09/Main-img-27220176311.jpg"
 ---
 
 The most anticipated match of the week was between league leaders, **du LaLiga HPC** and the reinforced **Al Jazira Club** team. In the first half, a solid strike in to the bottom corner from Rashed Ahmad put the HPC squad in the lead on the 16th minute.

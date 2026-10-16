@@ -5,16 +5,16 @@ slug: "bid-to-find-dubais-fittest-students-gets-underway"
 kicker: "Health"
 categories: ["Health", "News & Features"]
 standfirst: "The search to find Dubai's fittest student is set to get underway next week in conjunction with fitness Wellfit."
+image: "/images/archive/2022/04/shuttle-beep-test-pixabay.webp"
 metaDescription: "The search to find Dubai's fittest student is set to get underway next week in conjunction with fitness Wellfit."
 wpId: 5623
-wpFeaturedImage: "2022/04/shuttle-beep-test-pixabay.jpeg"
 ---
 
 **A Dubai fitness centre is launching a search for the city’s fittest young person throughout the month of Ramadan with a series of challenges lined up.**
 
 The event is being organised by WellFit in conjunction with the launch of their brand-new Youth High Performance Programme, an ambitious junior high fitness plan aimed at “building better movers, better athletes and better performers.”
 
-The first stage of the competition will see participating schools organise a bleep test between 11th and 22nd April with the top students![](https://gulfyouthsport.com/wp-content/uploads/2022/04/Smart-Gates3-300x177.jpeg) between 10 and 19 years old being invited to the grand finals to be held at Wellfit’s flagship gym in Jumeirah Village Circle.
+The first stage of the competition will see participating schools organise a bleep test between 11th and 22nd April with the top students![](/images/archive/2022/04/smart-gates3.webp) between 10 and 19 years old being invited to the grand finals to be held at Wellfit’s flagship gym in Jumeirah Village Circle.
 
 **The Qualifier: 11 - 22 April**  
 Phase one is very simple - we want you to run a bleep test (**using this soundtrack**) during your PE lessons with students (aged 10+).  
@@ -32,7 +32,7 @@ The finals will see the top 20 athletes in each age-group take part in five chal
 
 Athletes will need to demonstrate their overall strength performing timed dead-hangs, their speed with a 30m sprint using speed gates, their endurance with a 500m row, their power by demonstrating standing broad jumps, and the speed and accuracy of their reactions with a BlazePod reaction challenge.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/04/Wellfit-GYM_129-300x216.jpg)  
+![](/images/archive/2022/04/wellfit-gym-129.webp)  
 The top three athletes in each age-group will receive:
 
   

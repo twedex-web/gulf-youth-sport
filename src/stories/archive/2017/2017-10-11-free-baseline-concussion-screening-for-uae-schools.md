@@ -3,8 +3,8 @@ title: "FREE Baseline Concussion Screening For UAE Schools"
 date: 2017-10-11T00:00:00+04:00
 slug: "free-baseline-concussion-screening-for-uae-schools"
 excerpt: "A sporting impact injury, or even a knock on the head can result in a serious brain injury called concussion."
+image: "/images/archive/2019/09/main-img-11102017115216.webp"
 wpId: 780
-wpFeaturedImage: "2019/09/Main-img-11102017115216.jpg"
 ---
 
 A sporting impact injury, or even a knock on the head can result in a serious brain injury called concussion.

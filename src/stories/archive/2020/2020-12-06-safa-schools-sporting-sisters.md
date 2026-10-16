@@ -4,8 +4,8 @@ date: 2020-12-06T06:10:58+04:00
 slug: "safa-schools-sporting-sisters"
 categories: ["News & Features"]
 excerpt: "Sporting sisters Shouq and Nouf both took on the GYS 30X30 Challenge with gusto, encouraging each other along the way."
+image: "/images/archive/2020/12/image-2.webp"
 wpId: 4497
-wpFeaturedImage: "2020/12/Image-2-scaled-e1607234991791.jpeg"
 ---
 
 Sporting sisters Shouq and Nouf both took on the GYS 30X30 Challenge with gusto, encouraging each other along the way.

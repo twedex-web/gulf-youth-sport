@@ -16,14 +16,14 @@ Last month, **JESS Dubai** made a statement of intent on the global stage, sendi
 
 The highlight of the tour came from the Under-16 Girls squad. After a grueling series of pool games and high-stakes knockouts, the team reached the final to face off against Redborne Upper School. In a display of clinical finishing and defensive grit, JESS secured a **27-12 victory**, officially reclaiming their status as **National Champions**. This victory adds another chapter to the school's storied history in the UK, following their historic 2024 breakthrough at Rosslyn Park with the U14 girls, a number of whom remain involved now.
 
-### **![Detail of the JESS Dubai rugby kit featuring J20 Sports performance branding during international competition.](https://gulfyouthsport.com/wp-content/uploads/2026/04/RF1_1308-High-3264-1024x683.jpg)Setting the Global Pace**
+### **![Detail of the JESS Dubai rugby kit featuring J20 Sports performance branding during international competition.](/images/archive/2026/04/rf1-1308-high-3264.webp)Setting the Global Pace**
 
   
 Led by standout performances from the likes of **Grace White** and Captain **Charlotte Battiston**, the team proved that Dubai-based talent isn't just competing on the world stage—it’s setting the pace.
 
 JESS are regular international attendees at Rosslyn Park, once again showcasing their capacities against high end opposition.
 
-### **![JESS Dubai U16 Girls Rugby 7s team celebrating as National Champions at the Rosslyn Park National Schools 7s tournament.](https://gulfyouthsport.com/wp-content/uploads/2026/04/RF2_0087-High-3264-1024x683.jpg)The Blueprint for Success**
+### **![JESS Dubai U16 Girls Rugby 7s team celebrating as National Champions at the Rosslyn Park National Schools 7s tournament.](/images/archive/2026/04/rf2-0087-high-3264.webp)The Blueprint for Success**
 
   
 Beyond the results, success at Rosslyn Park reflects the exceptionally high standard of youth sport across Dubai. This standard of excellence is consistent across the DASSA landscape; just as JESS dominates on the rugby pitch, schools like **[Repton Al Barsha have recently claimed top honors in the pool](/2025/06/16/repton-al-barsha-crowned-dassa-swim-champions-2025/)**. Week in, week out, thousands of students participate in competitive sport, benefiting from world-class coaching and a shared commitment to development.

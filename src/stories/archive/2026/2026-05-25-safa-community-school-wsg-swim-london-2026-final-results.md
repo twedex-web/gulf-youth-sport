@@ -5,9 +5,9 @@ slug: "safa-community-school-wsg-swim-london-2026-final-results"
 kicker: "Swimming"
 categories: ["Swimming", "World School Games"]
 standfirst: "Safa Community School secures an incredible 5th place finish at the World School Swim Championships 2026 in London. See the verified final standings."
+image: "/images/archive/2026/05/safa-community-school-top-5-finish-gys-post.webp"
 metaDescription: "Safa Community School secures an incredible 5th place finish at the World School Swim Championships 2026 in London. See the verified final standings."
 wpId: 7176
-wpFeaturedImage: "2026/05/SAFA-community-school-top-5-finish-GYS-post.png"
 ---
 
 ## **Middle Eastern Elites: Safa Community School Blazes into World Top Five in London**

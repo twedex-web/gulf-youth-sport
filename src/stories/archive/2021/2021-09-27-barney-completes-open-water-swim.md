@@ -4,9 +4,9 @@ date: 2021-09-27T16:01:02+04:00
 slug: "barney-completes-open-water-swim"
 categories: ["News & Features"]
 standfirst: "Brighton College Dubai's Barney completed an open water swim in the UK to raise money for charity during the summer holidays."
+image: "/images/archive/2021/09/image00002.webp"
 metaDescription: "Brighton College Dubai's Barney completed an open water swim in the UK to raise money for charity during the summer holidays."
 wpId: 5433
-wpFeaturedImage: "2021/09/image00002.jpeg"
 ---
 
 **Brighton College Dubai’s Barney completed a 5km open water swim in the chilly seas of the United Kingdom during the summer holidays, raising over AED 3,300 for charity in the process.**
@@ -18,8 +18,6 @@ A keen pool swimmer, Barney has trained up to nine times a week for the last fou
 Barney says the experience of swimming in the sea was very different to his usual surroundings of the pool, with a number of new factors to take into account during his training and on the big day itself.
 
 “The first difference was the temperature - it was much colder than a pool - and it meant I had to swim in a wetsuit which is more restrictive. Secondly there were strong tides and currents to swim against, and there was also quite a big swell on the day I swam.”
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/09/image00001.jpeg" alt=""><figcaption>Barney took to the seas in the UK during his summer holidays.</figcaption></figure>
 
 With most school students using their summer holidays to relax and enjoy themselves with friends, Barney is proud he put his time off school to good use, challenging himself and raising an amazing amount for charity.
 

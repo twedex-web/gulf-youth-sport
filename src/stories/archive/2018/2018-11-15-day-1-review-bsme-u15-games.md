@@ -3,8 +3,8 @@ title: "Day 1 Review: BSME U15 Games"
 date: 2018-11-15T00:00:00+04:00
 slug: "day-1-review-bsme-u15-games"
 excerpt: "The BSME U15 Games 2018 got underway at Cranleigh Abu Dhabi today. A spectacular opening ceremony at co-hosts New York University saw each team march in to a standing ovation."
+image: "/images/archive/2019/09/img-15112018234815-678161b7935340c39f8916f64f5979cf.webp"
 wpId: 1140
-wpFeaturedImage: "2019/09/img-15112018234815-678161b7935340c39f8916f64f5979cf.jpg"
 ---
 
 The BSME U15 Games 2018 got underway at Cranleigh Abu Dhabi today. A spectacular opening ceremony at co-hosts New York University saw each team march in to a standing ovation. This was followed by a welcoming speech from Michael Wilson, principal of Cranleigh, who emphasised a competitive but fair event and talked with great passion about creating memories and relationships for life.

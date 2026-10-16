@@ -4,8 +4,8 @@ date: 2020-04-23T11:50:16+04:00
 slug: "champions-karate-bringing-fun-to-a-traditional-sport"
 categories: ["GYS", "News & Features"]
 excerpt: "Champions Karate opened its doors in September last year when coach Alex Gardner said he wanted to branch out and bring some fun to the traditional sport."
+image: "/images/archive/2020/04/20200419-172208.webp"
 wpId: 3021
-wpFeaturedImage: "2020/04/20200419_172208.jpg"
 ---
 
 Champions Karate opened its doors in September last year when coach Alex Gardner said he wanted to branch out and bring some fun to the traditional sport.
@@ -15,8 +15,6 @@ Champions Karate opened its doors in September last year when coach Alex Gardner
 So Champions Karate was born with a multinational trio of coaches taking the reins. Gardner himself is a former England and Great Britain representative; highly accoladed as a six-time English champion and four-time British champion.
 
 His colleague Slovenian Juš Markač also represented his country and has European and Mediterranean titles to his name while finishing off the trio is Rhys Linnett; a former member of the Australian Karate Team and a British Open Champion.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/04/20200419_172224-1024x565.jpg)
 
 The coaches hope to give students in the UAE the same opportunities they had.
 

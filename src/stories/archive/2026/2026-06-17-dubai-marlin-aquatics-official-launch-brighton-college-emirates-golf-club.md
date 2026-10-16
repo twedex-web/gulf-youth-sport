@@ -5,9 +5,9 @@ slug: "dubai-marlin-aquatics-official-launch-brighton-college-emirates-golf-club
 kicker: "Swimming"
 categories: ["Swimming"]
 standfirst: "Dubai Marlin Aquatics officially launches elite swim programs at Brighton College Dubai, Emirates Golf Club, and Dubai Polo Club. Book your assessment today."
+image: "/images/archive/2026/06/whatsapp-image-2026-06-17-at-12-11-26.webp"
 metaDescription: "Dubai Marlin Aquatics officially launches elite swim programs at Brighton College Dubai, Emirates Golf Club, and Dubai Polo Club. Book your assessment today."
 wpId: 7213
-wpFeaturedImage: "2026/06/WhatsApp-Image-2026-06-17-at-12.11.26.jpeg"
 ---
 
 ## **Diving into Excellence: The Official Launch of Dubai Marlin Aquatics**
@@ -23,7 +23,7 @@ Reflecting their rapid ascent, Dubai Marlin Aquatics has secured an enviable por
 
 In addition to their school-based hub, the Marlins are bringing elite aquatics to some of the UAE’s most exclusive leisure destinations, offering premium training sessions at both the **Dubai Polo & Equestrian Club** and **Emirates Golf Club**. This multi-venue footprint ensures that athletes across Dubai have direct access to the club's specialized coaching network.
 
-### **![](https://gulfyouthsport.com/wp-content/uploads/2026/06/IMG_3264-1024x683.jpg)**
+### **![](/images/archive/2026/06/img-3264.webp)**
 
   
 

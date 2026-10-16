@@ -3,8 +3,8 @@ title: "FOOTBALL: Youth League with a Difference"
 date: 2017-01-24T00:00:00+04:00
 slug: "football-youth-league-with-a-difference"
 excerpt: "A new youth football league which prioritises player development over results and trophies, has been heralded as a great success by participants, coaches and parents after a pioneering inaugural campaign."
+image: "/images/archive/2019/09/main-img-2412017232232.webp"
 wpId: 521
-wpFeaturedImage: "2019/09/Main-img-2412017232232.jpg"
 ---
 
 **A new youth football league which prioritises player development over results and trophies, has been heralded as a great success by participants, coaches and parents after a pioneering inaugural campaign.**
@@ -12,8 +12,6 @@ wpFeaturedImage: "2019/09/Main-img-2412017232232.jpg"
 The Academy Development League(ADL) is the brainchild of former Southampton and Fulham Academy coach, **Mark Gaitskell**, Managing Director at [**M&S Sports**](http://mandssports.com/), along with three other founding member Academies; [**IFA Sport**](http://ifasport.com/), [**MEYSO**](http://meysoccer.com/) and [**Kafo Academy**](http://www.kafoacademy.com/).
 
 After moving to Dubai in 2011, the Londoner says he found himself becoming increasingly frustrated with the amount of pressure being piled onto young players’ shoulders from the side-lines. 
-
-![](http://www.gulfyouthsport.com/Admin/Content/UserFiles/IMG-20170124-WA0015.jpg)
 
 “There are lots of academies here in the UAE and leagues, tournaments and clubs themselves face huge challenges in ensuring they are ‘successful’ and sustainable, and unfortunately sometimes that can impact upon the playing environment.”
 
@@ -31,7 +29,7 @@ Gaitskell explained: “We decided to create a league that mirrored Academy foot
 
 “We also have a tournament week at the end of each block so the players can experience tournament football.”
 
-![](http://www.gulfyouthsport.com/Admin/Content/UserFiles/IMG-20170124-WA0017.jpg) Gaitskell emphasised the importance of player development in the ADL. All parents,  players and coaches must adhere to the league’s positive philosophy in order to  participate.
+ Gaitskell emphasised the importance of player development in the ADL. All parents,  players and coaches must adhere to the league’s positive philosophy in order to  participate.
 
  “On the opening night for each age group we discussed with the parents and players  what the ethos of the league was, highlighting the importance of allowing the  players to make their own decisions on the pitch and trusting coaches to guide  them through the learning process.”
 

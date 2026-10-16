@@ -5,16 +5,16 @@ slug: "gulf-pupils-score-big-at-the-world-schools-football-cup-in-barcelona"
 kicker: "Football"
 categories: ["Football", "GYS", "News & Features", "World School Games"]
 standfirst: "The World Schools Football Cup brought young players together from across the Gulf in Barcelona last week, resulting in some remarkable performances that they can take immense pride in."
+image: "/images/archive/2023/10/eb-sunday-190.webp"
 metaDescription: "The World Schools Football Cup brought young players together from across the Gulf in Barcelona last week, resulting in some remarkable performances that they can take immense pride in."
 wpId: 6708
-wpFeaturedImage: "2023/10/EB_SUNDAY_190-scaled.jpg"
 ---
 
 **The World Schools Football Cup brought young players together from across the Gulf in Barcelona last week, resulting in some remarkable performances that they can take immense pride in.**
 
 Schools representing countries from across the world competed at the state-of-the-art Mediterranean Sports Village, creating a hive of football over three days of top class action. With over 60 teams, including five Gulf schools, from 20 countries the competition was fierce as these aspiring football stars were playing to lift the prestigious World Schools Football Cup trophy.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/10/EB_FRIDAY_192-1-300x200.jpg" alt=""><figcaption>Students from around the world, including the Gulf, represented their nations and schools with pride whilst playing on the world stage.</figcaption></figure>
+<figure><img src="/images/archive/2023/10/eb-friday-192-1.webp" alt=""><figcaption>Students from around the world, including the Gulf, represented their nations and schools with pride whilst playing on the world stage.</figcaption></figure>
 
 Before the on-pitch excitement happened, a special guest appeared at the event, bringing entertainment to the young footballers.  TikTok sensation and football freestyler, John Farnworth, dazzled the audience by showcasing his remarkable skills, setting the stage for an electrifying opening ceremony.
 
@@ -32,7 +32,7 @@ The competition ended with the crowning of champions in various age categories, 
 
 One school that went on to become World Schools Football Cup champions was Safa Community School. Through a tremendous display of hard work, this school took home not one but two trophies back to Dubai. The purple and yellow faithful would be victorious in both the U13 Boys and U15 Girls categories whilst in sunny Spain.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/10/EB_SATURDAY_165-300x200.jpg" alt=""><figcaption>French School Doha footballers make their debut at the World Schools Football Cup at Mediterranean Sports Village.</figcaption></figure>
+<figure><img src="/images/archive/2023/10/eb-saturday-165.webp" alt=""><figcaption>French School Doha footballers make their debut at the World Schools Football Cup at Mediterranean Sports Village.</figcaption></figure>
 
 A member of the U13 Boys Safa Community School team, Sam, explained just what an incredible opportunity it was to compete at the global football cup.
 
@@ -48,7 +48,7 @@ For further information on the official World Schools Football Cup results, plea
 
 ### **View the Full Photo Gallery below!**
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/10/EB_SUNDAY_90-300x200.jpg" alt=""><figcaption>NAS Dubai pupils had an enjoyable football experience returning to WSG Football.</figcaption></figure>
+<figure><img src="/images/archive/2023/10/eb-sunday-90.webp" alt=""><figcaption>NAS Dubai pupils had an enjoyable football experience returning to WSG Football.</figcaption></figure>
 
 You can hold on to your favourite memories of this year’s event by purchasing photos **[here](https://yfsphotos.co.uk/f149731055)**.
 

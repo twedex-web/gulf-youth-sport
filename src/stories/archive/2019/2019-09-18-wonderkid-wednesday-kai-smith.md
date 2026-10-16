@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-kai-smith"
 kicker: "Cricket"
 categories: ["Cricket", "Wonderkid Wednesday"]
 excerpt: "Congratulations and well done!"
+image: "/images/archive/2019/09/01ce41fb358d106d4ff938e2236d6e05.webp"
 wpId: 1265
-wpFeaturedImage: "2019/09/01ce41fb358d106d4ff938e2236d6e05.jpg"
 ---
 
 ### Kai Smith of It's Just Cricket is our first Wonderkid Wednesday for the 2019/20 season.

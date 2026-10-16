@@ -5,9 +5,9 @@ slug: "national-records-tumble-as-hamilton-aquatics-compete-in-the-uk"
 kicker: "Swimming"
 categories: ["News & Features", "Swimming"]
 standfirst: "A group of Dubai swimmers have toppled national age group records at the Swim England Winter Short Course Championships in Sheffield, United Kingdom."
+image: "/images/archive/2021/12/image0-1.webp"
 metaDescription: "A group of Dubai swimmers have toppled national age group records at the Swim England Winter Short Course Championships in Sheffield, United Kingdom."
 wpId: 5500
-wpFeaturedImage: "2021/12/image0-1.jpeg"
 ---
 
 **A group of Dubai swimmers have toppled national age group records at the Swim England Winter Short Course Championships in Sheffield, United Kingdom.**

@@ -3,8 +3,8 @@ title: "NETBALL: Winter and Davies Strike to Win NAS Cup"
 date: 2017-02-09T00:00:00+04:00
 slug: "netball-winter-and-davies-strike-to-win-nas-cup"
 excerpt: "Winter and Davies Strike to Win NAS Netball Cup"
+image: "/images/archive/2019/09/main-img-922017114419.webp"
 wpId: 537
-wpFeaturedImage: "2019/09/Main-img-922017114419.jpg"
 ---
 
 **Winter and Davies Strike to Win NAS Netball Cup**

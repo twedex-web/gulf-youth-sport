@@ -5,11 +5,11 @@ slug: "manchester-city-abu-dhabi-cup-2027-registration-dates"
 kicker: "Football"
 categories: ["Football", "Sports Travel"]
 standfirst: "The Manchester City Abu Dhabi Cup returns Jan 8-10, 2027! Over 3,500 players from 4 continents expected at Zayed Sports City. Register and book your TWEDEX tour today."
+image: "/images/archive/2026/04/man-city-ad-cup-gys-post-1.webp"
 imageAlt: "Manchester City Abu Dhabi Cup 2027 announcement graphic featuring the 8th edition dates of January 8-10 at Zayed Sports City. Includes partnership mentions for J20 Sports kits and TWEDEX travel logistics with the Gulf Youth Sport and Trans World Educational Experiences logos."
 seoTitle: "Manchester City Abu Dhabi Cup 2027 | Register Your Team | GYS"
 metaDescription: "The Manchester City Abu Dhabi Cup returns Jan 8-10, 2027! Over 3,500 players from 4 continents expected at Zayed Sports City. Register and book your TWEDEX tour today."
 wpId: 7065
-wpFeaturedImage: "2026/04/Man-City-AD-cup-GYS-post-1.png"
 ---
 
 ### **Manchester City Abu Dhabi Cup 2027: Global football phenomenon returns to the capital**
@@ -18,7 +18,7 @@ Following a record-breaking 2026 edition that saw the UAE capital transformed in
 
 Scheduled to take place from **January 8 to 10, 2027**, the eighth edition of the tournament is set to build on a legacy of elite competition, cultural exchange, and world-class sporting hospitality at **Zayed Sports City**.
 
-### **![Winning team lifting the trophy at the Manchester City Abu Dhabi Cup.](https://gulfyouthsport.com/wp-content/uploads/2026/04/abu-dhabi-cup-5-1024x683.png)**
+### **![Winning team lifting the trophy at the Manchester City Abu Dhabi Cup.](/images/archive/2026/04/abu-dhabi-cup-5.webp)**
 
   
 

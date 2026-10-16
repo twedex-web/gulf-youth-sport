@@ -3,8 +3,8 @@ title: "World School Games 2019 Dubai Preview: Part Two"
 date: 2019-01-29T00:00:00+04:00
 slug: "world-school-games-2019-dubai-preview-part-two"
 excerpt: "Following part one of our whistle-stop tour around the schools representing Dubai in the World School Games, GYS hit the road again to visit three more local teams eagerly awaiting the start of this week’s tournament."
+image: "/images/archive/2019/09/img-2912019145825-0b4dfe7517904a4ab3e01d831063e6a2.webp"
 wpId: 1172
-wpFeaturedImage: "2019/09/img-2912019145825-0b4dfe7517904a4ab3e01d831063e6a2.jpg"
 ---
 
 Following [part one](/news-report-details/16329/world-school-games-2019-dubai-preview-part-one) of our whistle-stop tour around the schools representing Dubai in the World School Games, GYS hit the road again to visit three more local teams eagerly awaiting the start of this week’s tournament.

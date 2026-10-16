@@ -5,9 +5,9 @@ slug: "wsg-netball-championship-preview-loughborough-jess-dubai-college"
 kicker: "Netball"
 categories: ["Netball", "World School Games"]
 standfirst: "JESS Dubai and Dubai College fly the UAE flag at Loughborough University for the WSG Netball Championship against 23 world-class schools."
+image: "/images/archive/2026/06/whatsapp-image-2026-06-12-at-10-08-47.webp"
 metaDescription: "JESS Dubai and Dubai College fly the UAE flag at Loughborough University for the WSG Netball Championship against 23 world-class schools."
 wpId: 7203
-wpFeaturedImage: "2026/06/WhatsApp-Image-2026-06-12-at-10.08.47.jpeg"
 ---
 
 ## **Desert to Elite Deck: JESS and Dubai College Fly UAE Flag at The World Schools Netball Cup in the UK**

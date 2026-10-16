@@ -4,8 +4,8 @@ date: 2020-06-28T07:18:00+04:00
 slug: "large-scale-sports-events-to-resume-in-august-in-dubai"
 categories: ["GYS", "News & Features"]
 excerpt: "Sport participants and event organisers are rejoicing at the news sports events could be resuming in August."
+image: "/images/archive/2020/06/screen-shot-2020-06-28-at-15-44-57.webp"
 wpId: 3417
-wpFeaturedImage: "2020/06/Screen-Shot-2020-06-28-at-15.44.57.png"
 ---
 
 Sport participants and event organisers are rejoicing at the news sports events could be resuming in August.
@@ -14,7 +14,7 @@ The Dubai Sports Council announced a plan for mass gatherings, with August the t
 
 Organisers will have to provide details including the expected number of participants and spectators in order to be issued an event permit. Other details needed will be the date, the duration and the venue of the event, as well as its status as an international, national or community gathering.
 
-Other major factors for event organisers to consider when organising the event include:![](https://gulfyouthsport.com/wp-content/uploads/2020/03/GYS-9-1-300x200.jpg)
+Other major factors for event organisers to consider when organising the event include:
 
 • the current stage of the COVID-19 outbreak and known transmission dynamics
 

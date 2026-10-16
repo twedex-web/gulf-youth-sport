@@ -5,8 +5,8 @@ slug: "elevating-sports-leadership-padsis-uae-conferences-power-continued-develo
 kicker: "PADSIS"
 categories: ["PADSIS"]
 excerpt: "Abu Dhabi and Dubai Sell Out as 120 PE Leaders Gather at Cranleigh Abu Dhabi and Dubai College"
+image: "/images/archive/2026/09/screenshot-2026-09-12-at-3-00-24-pm.webp"
 wpId: 7327
-wpFeaturedImage: "2026/09/Screenshot-2026-09-12-at-3.00.24-pm.png"
 ---
 
 **Abu Dhabi and Dubai Sell Out as 120 PE Leaders Gather at Cranleigh Abu Dhabi and Dubai College**
@@ -15,7 +15,7 @@ The landscape of Middle East school sport took a major step forward this week as
 
 Organized by the Professional Association of Directors of Sport in Independent Schools (PADSIS) in strategic partnership with the **Dubai Affiliated School Sports Association (DASSA)** and **ADISSA**, the twin events served as a vital forum for physical education leaders navigating the rapid evolution of youth sport in the region.
 
-### ![](https://gulfyouthsport.com/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-2.49.55-pm-1024x681.png)
+### ![](/images/archive/2026/09/screenshot-2026-09-12-at-2-49-55-pm.webp)
 
   
 

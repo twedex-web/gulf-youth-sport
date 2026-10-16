@@ -5,8 +5,8 @@ slug: "2020-manchester-city-cup-abu-dhabi-set-to-break-records"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "With two new age categories and an early surge in team registrations for next year’s event, the fourth edition of the Manchester City Cup Abu Dhabi looks set to break records once again in March (27-28) 2020."
+image: "/images/archive/2019/07/img-157201914419-f8bc3b8ccd08480a907770538fd2f3fb.webp"
 wpId: 11
-wpFeaturedImage: "2019/07/img-157201914419-f8bc3b8ccd08480a907770538fd2f3fb.jpg"
 ---
 
 **With two new age categories and an early surge in team registrations for next year’s event, the fourth edition of the Manchester City Cup Abu Dhabi looks set to break records once again in March (27-28) 2020.**

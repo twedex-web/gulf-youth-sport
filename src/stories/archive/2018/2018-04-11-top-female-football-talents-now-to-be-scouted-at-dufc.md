@@ -3,8 +3,8 @@ title: "Top Female Football Talents Now to be Scouted at duFC"
 date: 2018-04-11T00:00:00+04:00
 slug: "top-female-football-talents-now-to-be-scouted-at-dufc"
 excerpt: "With the high standards of female football players participating in the UAE Girls Challenge this season, the international scouting platform in partnership with LaLiga, has been expanded to enable girls to be selected…"
+image: "/images/archive/2019/09/main-img-1142018111815.webp"
 wpId: 984
-wpFeaturedImage: "2019/09/Main-img-1142018111815.jpg"
 ---
 
 With the high standards of female football players participating in the UAE Girls Challenge this season, the international scouting platform in partnership with LaLiga, has been expanded to enable girls to be selected by LaLiga scouts to join the du LaLiga High Performance Centre and earn their chance to play professionally with the best clubs in the world and gain scholarships at top universities in the US, with two female duFC players having already won such scholarships last season.

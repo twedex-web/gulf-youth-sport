@@ -4,8 +4,8 @@ date: 2020-07-06T09:03:53+04:00
 slug: "what-will-pe-look-like-when-schools-return"
 categories: ["GYS", "News & Features"]
 excerpt: "How will a socially distanced PE lesson be run when Dubai schools return for the new school year?"
+image: "/images/archive/2020/07/screen-shot-2020-07-06-at-17-38-15.webp"
 wpId: 3463
-wpFeaturedImage: "2020/07/Screen-Shot-2020-07-06-at-17.38.15.png"
 ---
 
 How will a socially distanced PE lesson be run when Dubai schools return for the new school year?
@@ -21,7 +21,5 @@ Spending PE lessons outdoors could be an undertaking many schools prefer, with o
 In its guidelines the KHDA said children completing PE when school resumes is important 'to ensure that students remain active and keep healthy.'
 
 With two months of summer holidays to enjoy before students return, there could yet be more changes to these protocols schools will need to adapt to.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-06-at-17.38.02.png" alt=""><figcaption>KHDA protocols for the resumption of school PE lessons.</figcaption></figure>
 
 Read the full protocols for the reopening of private schools in Dubai on the [KHDA website.](https://www.khda.gov.ae/CMS/WebParts/TextEditor/Documents/Schools-Reopening-Protocol-En.pdf)

@@ -3,8 +3,8 @@ title: "Five HPC Players on verge of Professional La Liga Contracts"
 date: 2017-08-28T00:00:00+04:00
 slug: "five-hpc-players-on-verge-of-professional-la-liga-contracts"
 excerpt: "du LaLiga High Performance Centre (HPC) announced today that five of its players from the U18 and U16 squads have been awarded trials by LaLiga’s top youth clubs, following their 21-day LaLiga Scouting Camp in Spain."
+image: "/images/archive/2019/09/main-img-28820177447.webp"
 wpId: 701
-wpFeaturedImage: "2019/09/Main-img-28820177447.jpg"
 ---
 
 **du LaLiga High Performance Centre (HPC) announced today that five of its players from the U18 and U16 squads have been awarded trials by LaLiga’s top youth clubs, following their 21-day LaLiga Scouting Camp in Spain.**

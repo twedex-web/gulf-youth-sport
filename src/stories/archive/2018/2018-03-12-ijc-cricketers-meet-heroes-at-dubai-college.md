@@ -3,8 +3,8 @@ title: "IJC Cricketers Meet Heroes at Dubai College"
 date: 2018-03-12T00:00:00+04:00
 slug: "ijc-cricketers-meet-heroes-at-dubai-college"
 excerpt: "Its just Cricket’s boys and girls had a night to remember last Sunday when they were given the opportunity to meet, greet and learn from their Sydney Thunder heroes.Shane Watson (Australian International All rounder)…"
+image: "/images/archive/2019/09/main-img-12320188265.webp"
 wpId: 941
-wpFeaturedImage: "2019/09/Main-img-12320188265.jpg"
 ---
 
 **Its just Cricket’s boys and girls had a night to remember last Sunday when they were given the opportunity to meet, greet and learn from their Sydney Thunder heroes.**  

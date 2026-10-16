@@ -3,8 +3,8 @@ title: "Dubai to Host World School Games"
 date: 2017-11-05T00:00:00+04:00
 slug: "dubai-to-host-world-school-games"
 excerpt: "The best young athletes from around the world will descend on the UAE in under 100 days for the inaugural World School Games."
+image: "/images/archive/2019/09/main-img-511201794839.webp"
 wpId: 816
-wpFeaturedImage: "2019/09/Main-img-511201794839.jpg"
 ---
 
 **The best young athletes from around the world will descend on the UAE in under 100 days for the inaugural [World School Games](https://www.theworldschoolgames.com/).**

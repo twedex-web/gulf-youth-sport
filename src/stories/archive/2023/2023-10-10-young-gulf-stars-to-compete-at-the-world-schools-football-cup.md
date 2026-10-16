@@ -5,16 +5,16 @@ slug: "young-gulf-stars-to-compete-at-the-world-schools-football-cup"
 kicker: "Football"
 categories: ["Football", "News & Features", "World School Games"]
 standfirst: "The World Schools Football Cup makes its anticipated return to Barcelona this weekend, as five Gulf schools will compete against over thirty schools from twenty countries across four continents."
+image: "/images/archive/2023/10/ny5a1573.webp"
 metaDescription: "The World Schools Football Cup makes its anticipated return to Barcelona this weekend, as five Gulf schools will compete against over thirty schools from twenty countries across four continents."
 wpId: 6670
-wpFeaturedImage: "2023/10/NY5A1573-scaled.jpg"
 ---
 
 **The World Schools Football Cup makes its anticipated return to Barcelona this weekend, as five Gulf schools will compete against 62 teams from over 20 countries across four continents.** 
 
 With the Gulf avidly watching, this football experience will showcase U11 - U17 Boys, U13, U15 & Open age Girls.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/10/WSG-Football-Countries-1-300x300.png)Hosted at the impressive Mediterranean Sports Village (home of Catalan FA), which includes eight FIFA grade full size pitches, the tournament promises a remarkable display of emerging talent on young football stars.
+![](/images/archive/2023/10/wsg-football-countries-1.webp)Hosted at the impressive Mediterranean Sports Village (home of Catalan FA), which includes eight FIFA grade full size pitches, the tournament promises a remarkable display of emerging talent on young football stars.
 
 This gathering of pupils from Asia, Africa, Europe, and South America encourages cultural exchange and teamwork while providing international exposure to these fine athletes.
 
@@ -73,7 +73,7 @@ This experience captures the soul of the global appeal of football, presenting t
 
   
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/10/NY5A0971-300x233.jpg)Best of luck to all the youngsters competing in this year's World Schools Football Cup!
+![](/images/archive/2023/10/ny5a0971.webp)Best of luck to all the youngsters competing in this year's World Schools Football Cup!
 
   
 

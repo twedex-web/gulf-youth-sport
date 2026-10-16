@@ -3,8 +3,8 @@ title: "FOOTBALL: Thousands Flood Zayed Sports City for MCFC Abu Dhabi Cup"
 date: 2017-03-27T00:00:00+04:00
 slug: "football-thousands-flood-zayed-sports-city-for-mcfc-abu-dhabi-cup"
 excerpt: "The weather may have been more like Manchester than the desert, but that did not dampen the spirits as hundreds of players turned out for the inaugural Manchester City FC Abu Dhabi Cup."
+image: "/images/archive/2019/09/main-img-273201775128.webp"
 wpId: 603
-wpFeaturedImage: "2019/09/Main-img-273201775128.jpg"
 ---
 
 **The weather may have been more like Manchester than the desert, but that did not dampen the spirits as hundreds of players turned out for the inaugural Manchester City FC Abu Dhabi Cup.**

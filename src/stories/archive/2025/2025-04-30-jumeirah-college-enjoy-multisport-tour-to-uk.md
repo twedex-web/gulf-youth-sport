@@ -5,9 +5,9 @@ slug: "jumeirah-college-enjoy-multisport-tour-to-uk"
 kicker: "Multi-Sports"
 categories: ["Multi-Sports", "News & Features", "Sports Travel", "Twedex"]
 standfirst: "Jumeirah College enjoyed a multisport tour to the UK, visiting London, Loughborough & Manchester as they took part in a series of activities."
+image: "/images/archive/2025/04/copyjcmanchester.webp"
 metaDescription: "Jumeirah College enjoyed a multisport tour to the UK, visiting London, Loughborough & Manchester as they took part in a series of activities."
 wpId: 6961
-wpFeaturedImage: "2025/04/copyJCManchester-scaled.jpg"
 ---
 
 **Jumeirah College enjoyed a week-long multisport tour to the UK last week, visiting London, Loughborough, and Manchester as they took part in a series of sporting and cultural activities.**

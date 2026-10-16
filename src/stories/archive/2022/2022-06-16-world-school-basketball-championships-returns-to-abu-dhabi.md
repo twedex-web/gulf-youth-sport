@@ -5,9 +5,9 @@ slug: "world-school-basketball-championships-returns-to-abu-dhabi"
 kicker: "Basketball"
 categories: ["Basketball", "World School Games"]
 standfirst: "The World School Basketball Championships is set to return to New York University Abu Dhabi in November 2022. Registrations are open now!"
+image: "/images/archive/2022/06/ii2a0917.webp"
 metaDescription: "The World School Basketball Championships is set to return to New York University Abu Dhabi in November 2022. Registrations are open now!"
 wpId: 5663
-wpFeaturedImage: "2022/06/II2A0917-scaled.jpg"
 ---
 
 **Teams from across the globe are set to descend on Abu Dhabi for the second edition of the World School Basketball Championships, hosted at New York University.**

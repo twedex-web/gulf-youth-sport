@@ -3,8 +3,8 @@ title: "FOOTBALL: TEA Kuwait Witness History in Amsterdam"
 date: 2017-04-26T00:00:00+04:00
 slug: "football-tea-kuwait-witness-history-in-amsterdam"
 excerpt: "The English Academy Kuwait unwittingly picked a momentous occasion for their European Football Development Tour."
+image: "/images/archive/2019/09/main-img-2542017202445.webp"
 wpId: 647
-wpFeaturedImage: "2019/09/Main-img-2542017202445.jpg"
 ---
 
 **The English Academy Kuwait unwittingly picked a momentous occasion for their European Football Development Tour.**

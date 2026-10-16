@@ -3,8 +3,8 @@ title: "2018-19 Premier League Fixtures Released"
 date: 2018-06-18T00:00:00+04:00
 slug: "2018-19-premier-league-fixtures-released"
 excerpt: "The English Premier League fixtures have been released, and as expected, there are some mouth-watering prospects in store for fans of the English top flight."
+image: "/images/archive/2019/09/main-img-1762018201139.webp"
 wpId: 1049
-wpFeaturedImage: "2019/09/Main-img-1762018201139.jpg"
 ---
 
 **The English Premier League fixtures have been released, and as expected, there are some mouth-watering prospects in store for fans of the English top flight.**
@@ -38,13 +38,13 @@ There is mounting pressure on Jose Mourinho to deliver a genuine title race afte
 
 ### **Match 4: 27th April 2019, Manchester United vs Chelsea**
 
-These two power-houses of English football will be desperate to reclaim their place at the top of the pile come the end of the season. Looking at the dates, it’s almost certain that this match will be a huge ![](http://gulfyouthsport.com/Admin/Content/UserFiles/Willian.jpg)important in the race to reach the Champions League, and it has the potential to have a huge baring on the destination of the Premier League title.
+These two power-houses of English football will be desperate to reclaim their place at the top of the pile come the end of the season. Looking at the dates, it’s almost certain that this match will be a huge important in the race to reach the Champions League, and it has the potential to have a huge baring on the destination of the Premier League title.
 
 With uncertainty around the future of Chelsea manager Antonio Conte, and a number of players reportedly unhappy with the current regime, it is set to be a big season for the Blues. A win over United in the FA Cup final at Wembley last season may not have been enough to save Conte from the sack but the failure of the club to act quickly upon the conclusion of the 2017-18 season means that there has been a black cloud hanging over Stamford Bridge during the summer.
 
 ### **Match 5: 4th May 2019, Newcastle United vs Liverpool**
 
-Two sides famed for their excellent and passionate support will be hoping they are still in the race for Europe when this match rolls around on the penultimate week of the Premier League season.![](http://gulfyouthsport.com/Admin/Content/UserFiles/Salah.jpg)
+Two sides famed for their excellent and passionate support will be hoping they are still in the race for Europe when this match rolls around on the penultimate week of the Premier League season.
 
 Beaten in the Champions League final last season, Liverpool will want to taste more glory in the league and in Europe this season. A fourth place finish in the Premier League means they will be back in the Champions League again in 2018-19, but they will be hoping to cement their place at the top end of the league this season.
 

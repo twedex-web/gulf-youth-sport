@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-lina-fathy-heleika"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 excerpt: "For most of us, at three-and-a-half-years-old we’d be happy just to walk across the room."
+image: "/images/archive/2019/09/img-632019161920-bd1909a3199d4b53ac334552c3b4bcd9.webp"
 wpId: 1188
-wpFeaturedImage: "2019/09/img-632019161920-bd1909a3199d4b53ac334552c3b4bcd9.jpg"
 ---
 
 For most of us, at three-and-a-half-years-old we’d be happy just to walk across the room.  

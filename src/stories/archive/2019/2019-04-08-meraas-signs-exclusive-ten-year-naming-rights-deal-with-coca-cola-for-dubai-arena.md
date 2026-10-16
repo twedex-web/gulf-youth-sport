@@ -4,8 +4,8 @@ date: 2019-04-08T00:00:00+04:00
 slug: "meraas-signs-exclusive-ten-year-naming-rights-deal-with-coca-cola-for-dubai-arena"
 categories: ["News & Features"]
 excerpt: "Meraas, a diversified Dubai-based holding company has signed a 10-year agreement with The Coca-Cola Company for the exclusive naming rights for Dubai’s first and biggest indoor, multipurpose arena."
+image: "/images/archive/2019/09/img-842019105931-70edb4a7b05a4a51b8245d814fdcde9b.webp"
 wpId: 1207
-wpFeaturedImage: "2019/09/img-842019105931-70edb4a7b05a4a51b8245d814fdcde9b.jpg"
 ---
 
 Meraas, a diversified Dubai-based holding company has signed a 10-year agreement with The Coca-Cola Company for the exclusive naming rights for Dubai’s first and biggest indoor, multipurpose arena. Upon completion, the 17,000-capacity arena will be known as the Coca-Cola Arena.

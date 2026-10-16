@@ -5,8 +5,8 @@ slug: "u13-world-school-games-2019-uae-preview-part-one"
 kicker: "Match Zone"
 categories: ["Match Zone"]
 excerpt: "With the 2019 U13 World School Games fast approaching, GYS took the opportunity to get back out on the road and catch-up with the UAE based teams hoping to reign supreme when the worlds best schools descend on Dubai…"
+image: "/images/archive/2019/09/img-2622019114442-4cfff668da7d491f817aae5bf4a01716.webp"
 wpId: 1184
-wpFeaturedImage: "2019/09/img-2622019114442-4cfff668da7d491f817aae5bf4a01716.jpg"
 ---
 
 With the 2019 U13 World School Games fast approaching, GYS took the opportunity to get back out on the road and catch-up with the UAE based teams hoping to reign supreme when the worlds best schools descend on Dubai this week for three days of football, athletics and swimming competition.

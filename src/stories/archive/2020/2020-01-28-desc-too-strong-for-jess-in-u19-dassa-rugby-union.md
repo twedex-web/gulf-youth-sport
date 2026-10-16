@@ -5,9 +5,9 @@ slug: "desc-too-strong-for-jess-in-u19-dassa-rugby-union"
 kicker: "Match Zone"
 categories: ["Match Zone", "Rugby"]
 standfirst: "Dubai English Speaking College proved too much for Jumeirah English Speaking School in Monday night's DASSA under-19 competition."
+image: "/images/archive/2020/01/screen-shot-2020-01-28-at-9-55-52-am.webp"
 metaDescription: "Dubai English Speaking College proved too much for Jumeirah English Speaking School in Monday night's DASSA under-19 competition."
 wpId: 1876
-wpFeaturedImage: "2020/01/Screen-Shot-2020-01-28-at-9.55.52-am.png"
 ---
 
 Dubai English Speaking College proved too much for Jumeirah English Speaking School in Monday night's DASSA under-19 competition.

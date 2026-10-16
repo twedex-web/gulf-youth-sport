@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-hard-working-ruby-hamilton"
 kicker: "Gymnastics"
 categories: ["Gymnastics", "Wonderkid Wednesday"]
 excerpt: "Give Ruby Hamilton a chance to perform on stage and you won't be able to pull her off it, such is her love of gymnastics."
+image: "/images/archive/2020/05/screen-shot-2020-05-27-at-11-06-24.webp"
 wpId: 3241
-wpFeaturedImage: "2020/05/Screen-Shot-2020-05-27-at-11.06.24.png"
 ---
 
 Give Ruby Hamilton a chance to perform on stage and you won't be able to pull her off it, such is her love of gymnastics.
@@ -20,8 +20,6 @@ Training with Absolute Gymnastics, Hamilton is proud of what she has achieved, a
 "I struggled with speech and also still struggle with loud noises. When I work hard I feel happy but my caregivers have to push me hard on a regular basis or I will happily watch my iPad instead."
 
 A coach encouraging her is Olympic gymnast Sarah Mercer and Hamilton shares a special bond with her coach.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/05/ruby-hamilton-300x200.jpg" alt=""><figcaption>Ruby Hamilton loves training with coach Sarah Mercer.</figcaption></figure>
 
 "My coach Sarah Mercer is my inspiration. I love her. Gymnastics makes me happy because I love my coach Sarah and my friends," she said.
 

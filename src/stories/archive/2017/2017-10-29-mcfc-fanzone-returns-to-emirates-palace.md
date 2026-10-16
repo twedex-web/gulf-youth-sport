@@ -3,8 +3,8 @@ title: "MCFC FanZone Returns to Emirates Palace"
 date: 2017-10-29T00:00:00+04:00
 slug: "mcfc-fanzone-returns-to-emirates-palace"
 excerpt: "Abu Dhabi based Man City fanatics are in for a treat next weekend with the return of the MCFC FanZone at Emirates Palace on Sunday 5th November."
+image: "/images/archive/2019/09/main-img-2910201753341.webp"
 wpId: 808
-wpFeaturedImage: "2019/09/Main-img-2910201753341.jpg"
 ---
 
 **Abu Dhabi based Man City fanatics are in for a treat next weekend with the return of the MCFC FanZone at Emirates Palace on Sunday 5th November.**  

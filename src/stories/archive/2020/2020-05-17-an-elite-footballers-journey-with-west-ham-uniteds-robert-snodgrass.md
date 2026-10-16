@@ -5,8 +5,8 @@ slug: "an-elite-footballers-journey-with-west-ham-uniteds-robert-snodgrass"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "Former Scottish international representative Robert Snodgrass spoke to Elite Sports Academy to provide an insight into being a professional footballer."
+image: "/images/archive/2020/05/snodgrass-article.webp"
 wpId: 3168
-wpFeaturedImage: "2020/05/snodgrass-article.png"
 ---
 
 Former Scottish international representative Robert Snodgrass spoke to Elite Sports Academy to provide an insight into being a professional footballer.
@@ -15,7 +15,7 @@ Currently at West Ham United, the midfielder answered questions posed to him by 
 
 With 28 appearances for Scotland's national team, Snodgrass touted Brazilian superstar Neymar as one of the greatest players he has competed against internationally.
 
-But he said in the English Premier League it was hard to beat Manchester City's Kevin De Bruyne.![](https://gulfyouthsport.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-17-at-16.48.48-300x256.png)
+But he said in the English Premier League it was hard to beat Manchester City's Kevin De Bruyne.
 
 "I played against Neymar for Scotland v Brazil and he was special, but for me right now it's Kevin De Bruyne, he's at a different level. He's playing with elite level players as well that are on his wave length. For me I think he's the best player in the Premier League right now. It's not just his right foot it's everything – he's got his left foot (and) his strength and physicality is unbelievable," he said.
 
@@ -28,8 +28,6 @@ Snodgrass provided an insight into how players reach the pinnacle of the sport, 
 The Glasgow-born player started his professional career at Livingston in Scotland, making his debut at 17. Snodgrass said he was attracted to sign with the club when offered the chance to play in its first side.
 
 "It was great for me but it wasn't all plain sailing, you need to learn the game you need to develop and you need to study it as you would do any sort of job and apply your trade at an elite level and don't fall behind," he said.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-17-at-14.25.10-640x359.png" alt=""><figcaption>Robert Snodgrass (bottom) talking to Elite Sports Academy's Bryan (left) and Matt.</figcaption></figure>
 
 From his experience Snodgrass told budding footballers to attack each day with a goal in mind for their betterment on and off the field.
 

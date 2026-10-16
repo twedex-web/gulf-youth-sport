@@ -3,8 +3,8 @@ title: "TOUCH: Thumbs up for ME Touch Festival"
 date: 2017-04-16T00:00:00+04:00
 slug: "touch-thumbs-up-for-me-touch-festival"
 excerpt: "It was Touch as far as the eye could see on Saturday morning as the cricket stadium at Zayed Sports City in Abu Dhabi played host to the ME Touch festival."
+image: "/images/archive/2019/09/main-img-1642017113927.webp"
 wpId: 626
-wpFeaturedImage: "2019/09/Main-img-1642017113927.jpg"
 ---
 
 It was Touch as far as the eye could see on Saturday morning as the cricket stadium at Zayed Sports City in Abu Dhabi played host to the ME Touch festival. Over three hundred children from schools and clubs across the UAE took park in a series of 14 minute matches.

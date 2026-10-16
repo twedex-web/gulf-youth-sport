@@ -3,8 +3,8 @@ title: "BSAK and Dubai College Dominate at COBIS Games"
 date: 2018-06-02T00:00:00+04:00
 slug: "bsak-and-dubai-college-dominate-at-cobis-games"
 excerpt: "The British School Al Khubairat and Dubai College are used to battling it out at the top of the leader board here in the UAE, but how would they fair if the rest of the world were invited to the party?"
+image: "/images/archive/2019/09/main-img-2620181613.webp"
 wpId: 1036
-wpFeaturedImage: "2019/09/Main-img-2620181613.jpg"
 ---
 
 **The British School Al Khubairat and Dubai College are used to battling it out at the top of the leader board here in the UAE, but how would they fair if the rest of the world were invited to the party?**

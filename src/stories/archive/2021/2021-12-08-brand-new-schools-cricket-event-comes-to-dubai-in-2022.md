@@ -5,9 +5,9 @@ slug: "brand-new-schools-cricket-event-comes-to-dubai-in-2022"
 kicker: "Cricket"
 categories: ["Cricket"]
 standfirst: "The Dubai Schools Games Cricket Championships are set to arrive in January 2022 and registrations are open now."
+image: "/images/archive/2021/12/cc-registration-01.webp"
 metaDescription: "The Dubai Schools Games Cricket Championships are set to arrive in January 2022 and registrations are open now."
 wpId: 5517
-wpFeaturedImage: "2021/12/CC_REGISTRATION-01-scaled.jpg"
 ---
 
 **The Dubai Schools Games Cricket Championships are set to arrive next term with U15 teams battling it out to become the city's best side.**

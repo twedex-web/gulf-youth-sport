@@ -5,9 +5,9 @@ slug: "international-football-greats-see-big-positives-in-uae-teams"
 kicker: "Football"
 categories: ["Football", "Match Zone"]
 standfirst: "Former football champions believe the sport in the United Arab Emirates is heading in the right direction after watching on at the U-13 Dubai Intercontinental Cup."
+image: "/images/archive/2020/02/picture-1.webp"
 metaDescription: "Former football champions believe the sport in the United Arab Emirates is heading in the right direction after watching on at the U-13 Dubai Intercontinental Cup."
 wpId: 2123
-wpFeaturedImage: "2020/02/Picture-1.jpg"
 ---
 
 Former football champions believe the sport in the United Arab Emirates is heading in the right direction after watching on at the U-13 Dubai Intercontinental Cup.
@@ -20,8 +20,6 @@ Current Manchester United and France star Paul Pogba sat alongside secretary gen
 
 Nicolas Anelka (France, PSG, Arsenal, Real Madrid, Manchester City), Fernando Hierro (Spain, Real Madrid), Mohamed Zidan (Egypt, Borussia Dortmund), and Míchel Salgado (France, Real Madrid) passed on encouragement to the 400 young players taking part.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/02/SaeedHareb-Pogba.jpg" alt=""><figcaption>His Excellency Saeed Hareb and Manchester United's Paul Pogba watch on.</figcaption></figure>
-
 With 89 caps for Spain, former Real Madrid defender Hierro said he was impressed with the Emirati talents.
 
 "I really liked the level of the Emirati teams participating in the tournament and I am sure playing in this tournament will only help them raise their standards further," he said.
@@ -33,8 +31,6 @@ With 89 caps for Spain, former Real Madrid defender Hierro said he was impressed
 Hierro spent a brief period of his playing career at Qatar's Al-Rayyan Sports Club while former Egyptian star Zidan played in the UAE for Abu Dhabi's Baniyas.
 
 Zidan echoed Hierro's comments.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/02/RealMadrid-2.jpg" alt=""><figcaption>Real Madrid celebrate the Gold Cup win.</figcaption></figure>
 
 "This tournament is a great investment into the future because it gives future generations of Emirati football stars an early start, giving them a strong foundation for success," he said.
 

@@ -5,9 +5,9 @@ slug: "dassa-secondary-aquathlon-results-hamdan-sports-complex"
 kicker: "DASSA"
 categories: ["DASSA", "News & Features"]
 standfirst: "Competitive youth sport returns to Dubai with the DASSA Secondary Aquathlon at Hamdan Sports Complex. View the full results for Dubai College, JESS, and DESC."
+image: "/images/archive/2026/05/aquathlon-gys-post.webp"
 metaDescription: "Competitive youth sport returns to Dubai with the DASSA Secondary Aquathlon at Hamdan Sports Complex. View the full results for Dubai College, JESS, and DESC."
 wpId: 7168
-wpFeaturedImage: "2026/05/Aquathlon-GYS-post.png"
 ---
 
 ## **Back in the Blue: How Safa Community School and Partners Revived DASSA Secondary Aquathlon**

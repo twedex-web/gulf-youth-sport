@@ -5,13 +5,13 @@ slug: "laliga-academy-uae-settling-in-to-new-home"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "LaLiga Academy UAE has moved to its new home at Dubai Sports City."
+image: "/images/archive/2020/08/laliga-new-season-at-dsc-3.webp"
 wpId: 3619
-wpFeaturedImage: "2020/08/LaLiga-New-Season-at-DSC-3.jpg"
 ---
 
 LaLiga Academy UAE has moved to its new home at Dubai Sports City.
 
-The academy launched its 2020-2021 season and are rapt to share pristine facilities with more than 2,000 footballers. Middle East and North Africa Managing Director Maite Ventura shared the academy's excitement.![](https://gulfyouthsport.com/wp-content/uploads/2020/08/LaLiga-New-Season-at-DSC-2-640x423.jpg)
+The academy launched its 2020-2021 season and are rapt to share pristine facilities with more than 2,000 footballers. Middle East and North Africa Managing Director Maite Ventura shared the academy's excitement.
 
 "We are delighted to bring LaLiga’s brand and gold standard in training to Dubai Sports City, harnessing the venue’s world-class facilities. This reflects our commitment to advance youth football in the UAE, and we are confident that the academy’s football program delivered to the highest standards at the hands of our LaLiga coaches, will create a pipeline of professional players right from the Academy," she said.
 

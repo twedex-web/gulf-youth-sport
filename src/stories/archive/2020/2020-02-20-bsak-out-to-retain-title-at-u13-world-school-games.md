@@ -5,8 +5,8 @@ slug: "bsak-out-to-retain-title-at-u13-world-school-games"
 kicker: "Match Zone"
 categories: ["Match Zone", "News & Features", "World School Games"]
 excerpt: "The British School of Al Khubairat enters this year's edition of The World School Games as reigning champion."
+image: "/images/archive/2020/02/winners-7-2.webp"
 wpId: 2196
-wpFeaturedImage: "2020/02/WINNERS-7-2.jpg"
 ---
 
 The British School of Al Khubairat enters this year's edition of [The World School Games](http://wsgevents.com/) as reigning champion.
@@ -22,15 +22,11 @@ But coach Naomi Foster knows that her school will have many challenging opponen
 "They are excited and proud to represent the British School Al Khubairat at the competition and are looking forward to making  
 new friends from around the world."
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/02/IMG-6269-2-1.jpg" alt=""><figcaption>The current squad of students hoping to retain the U13 WSG Cup at BSAK.</figcaption></figure>
-
 In an outstanding show of its sporting prowess, BSAK also finished second in the overall World School Games leaderboard last year, taking into account its supreme efforts at the football and netball championships.
 
 Coaches Mike Edgar and Tom Southall join Foster in developing the squad for the upcoming three-day tournament held in Dubai.
 
 With an opening day of athletics, followed by football and then swimming on the final day, the process of preparing the students to succeed has been a community effort.
-
-![](http://wsgevents.com/wp-content/uploads/2020/02/Official-logo-for-inhouse-printing-1-263x300.jpg)
 
 "Their previous success can be attributed to the hard work and dedication of both staff and students and the continued support of parents within our school community," Foster said.
 

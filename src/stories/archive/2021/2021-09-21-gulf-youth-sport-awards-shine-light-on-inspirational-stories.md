@@ -5,8 +5,8 @@ slug: "gulf-youth-sport-awards-shine-light-on-inspirational-stories"
 kicker: "Gulf Youth Sport Expo"
 categories: ["Gulf Youth Sport Expo", "GYS Awards"]
 excerpt: "The inaugural Gulf Youth Sport Awards took place at Hartland International School on Friday 17 September as the sporting community took time to reflect on some of the success stories of the last 12 months."
+image: "/images/archive/2021/09/r-g07818.webp"
 wpId: 5409
-wpFeaturedImage: "2021/09/R_G07818-scaled.jpg"
 ---
 
 **The inaugural Gulf Youth Sport Awards took place at Hartland International School on Friday 17 September as the sporting community took time to reflect on some of the success stories of the last 12 months.**
@@ -132,36 +132,13 @@ Female Coach of the Year**
   
 
   
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/09/R_G07709-scaled.jpg)
-
   
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/09/R_G07730-scaled.jpg)
-
   
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/09/R_G07756-scaled.jpg)
-
   
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/09/R_G07770-scaled.jpg)
-
   
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/09/R_G07804-scaled.jpg)
-
   
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/09/R_G07781-scaled.jpg)
-
   
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/09/R_G07818-scaled.jpg)
-
   
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/09/R_G07835-scaled.jpg)
 
 * * *
 

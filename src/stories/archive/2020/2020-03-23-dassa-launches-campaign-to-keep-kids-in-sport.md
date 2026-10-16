@@ -5,8 +5,8 @@ slug: "dassa-launches-campaign-to-keep-kids-in-sport"
 kicker: "DASSA"
 categories: ["DASSA", "News & Features"]
 excerpt: "Like every other sporting league in the world, DASSA's regular season has been thrown into turmoil. But this has not stopped the organisation creating an initiative to unite schools through sport."
+image: "/images/archive/2020/03/dassa.webp"
 wpId: 2630
-wpFeaturedImage: "2020/03/DASSA.png"
 ---
 
 Like every other sporting league in the world, DASSA's regular season has been thrown into turmoil. But this has not stopped the organisation creating an initiative to unite schools through sport.

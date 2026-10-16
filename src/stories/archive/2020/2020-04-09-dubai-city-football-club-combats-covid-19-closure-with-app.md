@@ -5,8 +5,8 @@ slug: "dubai-city-football-club-combats-covid-19-closure-with-app"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "Dubai City Football Club's term three launch didn't go to plan."
+image: "/images/archive/2020/04/screen-shot-2020-04-09-at-13-57-11.webp"
 wpId: 2888
-wpFeaturedImage: "2020/04/Screen-Shot-2020-04-09-at-13.57.11.png"
 ---
 
 Dubai City Football Club's term three launch didn't go to plan.

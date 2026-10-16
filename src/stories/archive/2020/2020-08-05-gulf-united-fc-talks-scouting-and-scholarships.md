@@ -5,8 +5,8 @@ slug: "gulf-united-fc-talks-scouting-and-scholarships"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "YTEMBED0000"
+image: "/images/archive/2020/08/screen-shot-2020-08-05-at-15-45-01.webp"
 wpId: 3628
-wpFeaturedImage: "2020/08/Screen-Shot-2020-08-05-at-15.45.01.png"
 ---
 
 #### College scholarships and senior team appearances are reserved for the cream of the crop. But in this video Gulf United FC coach Jordi explains the right attitude and work ethic are as important as skill for talent identification officers.

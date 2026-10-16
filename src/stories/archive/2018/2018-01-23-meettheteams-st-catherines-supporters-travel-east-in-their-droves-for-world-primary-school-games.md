@@ -3,8 +3,8 @@ title: "#MeetTheTeams: St Catherine's Supporters Travel East in their Droves for
 date: 2018-01-23T00:00:00+04:00
 slug: "meettheteams-st-catherines-supporters-travel-east-in-their-droves-for-world-primary-school-games"
 excerpt: "Over 40 travelling spectators will make the trip to Dubai from Athens to cheer on St Catherine's British School at the inaugural World School Games in Dubai next month."
+image: "/images/archive/2019/09/main-img-24120187434.webp"
 wpId: 885
-wpFeaturedImage: "2019/09/Main-img-24120187434.jpg"
 ---
 
 **Over 40 travelling spectators will make the trip to Dubai from Athens to cheer on St Catherine's British School at the inaugural World School Games in Dubai next month.**

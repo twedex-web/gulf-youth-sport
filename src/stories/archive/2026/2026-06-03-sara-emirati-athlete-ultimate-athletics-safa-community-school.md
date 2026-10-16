@@ -5,9 +5,9 @@ slug: "sara-emirati-athlete-ultimate-athletics-safa-community-school"
 kicker: "In The Spotlight"
 categories: ["In The Spotlight", "News & Features"]
 standfirst: "Discover how 9-year-old Emirati multi-sport sensation Sara captured 5 gold medals and shattered two all-time club records in swimming and athletics."
+image: "/images/archive/2026/06/whatsapp-image-2026-06-02-at-15-25-08.webp"
 metaDescription: "Discover how 9-year-old Emirati multi-sport sensation Sara captured 5 gold medals and shattered two all-time club records in swimming and athletics."
 wpId: 7190
-wpFeaturedImage: "2026/06/WhatsApp-Image-2026-06-02-at-15.25.08.jpeg"
 ---
 
 ## **Ultimate Versatility: 9-Year-Old Sara Claims Five Gold Medals and Shatters All-Time Records**

@@ -4,9 +4,9 @@ date: 2022-11-16T10:10:48+04:00
 slug: "repton-dubai-kick-off-dubai-fitness-challenge-in-style"
 categories: ["News & Features"]
 standfirst: "Repton School Dubai kicked off the Dubai Fitness Challenge in style this month as students and staff came together for a morning of activity."
+image: "/images/archive/2022/11/repton-30x30-1.webp"
 metaDescription: "Repton School Dubai kicked off the Dubai Fitness Challenge in style this month as students and staff came together for a morning of activity."
 wpId: 5745
-wpFeaturedImage: "2022/11/Repton-30x30-1.png"
 ---
 
 **Repton School Dubai got the Dubai Fitness Challenge 2022 started in style earlier this month as students and staff from throughout the school took to the Repton Circle for a morning of exercise which included lots of fun games and challenges led by Repton PE staff.**

@@ -4,9 +4,9 @@ date: 2021-11-16T10:09:18+04:00
 slug: "argentina-olympian-basketball-academy"
 categories: ["News & Features"]
 standfirst: "Argentina Olympian Luis Scola is considering opening a basketball academy in Dubai following his first visit to the city last week."
+image: "/images/archive/2021/11/luis-scolas-visit-to-the-dsc-0875.webp"
 metaDescription: "Argentina Olympian Luis Scola is considering opening a basketball academy in Dubai following his first visit to the city last week."
 wpId: 5473
-wpFeaturedImage: "2021/11/Luis-Scolas-Visit-To-The-DSC-0875-scaled.jpg"
 ---
 
 **Argentina Olympian Luis Scola is considering opening a basketball academy in Dubai following his first visit to the city last week.**
@@ -16,8 +16,6 @@ Winner of a gold medal at the 2004 Athens Olympic Games and a bronze in Beijing 
 Trying to make the most of his short first trip to Dubai, Scola has been driving around the city, admiring its many landmarks, and visited Dubai Sports Council as well, where he was received by Nasser Aman Al Rahma, Assistant Secretary General of the Council.
 
 One of the few athletes in sports history to have appeared in five Olympic Games as well as five World Championships, Scola said: “I have been here a short time, but I have been impressed. I have been talking to the people a little bit about the history of the place, and they were telling me that 20 years ago there was nothing here, and I was like, ‘that’s impossible’.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/11/Luis-Scolas-Visit-To-The-DSC-0823-2-300x217.jpg)
 
 Scola is seriously considering the idea of opening a basketball academy in Dubai, which could give young athletes the chance to learn from an Olympic medallist.
 

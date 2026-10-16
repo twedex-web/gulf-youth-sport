@@ -4,9 +4,9 @@ date: 2021-12-06T15:11:18+04:00
 slug: "fijian-rugby-players-visit-rgs-guildford-dubai"
 categories: ["News & Features"]
 standfirst: "The Fiji men's rugby sevens team visited RGS Guildford Dubai for a meet and train session before taking part in Dubai 7s last weekend."
+image: "/images/archive/2021/12/ntp-0981.webp"
 metaDescription: "The Fiji men's rugby sevens team visited RGS Guildford Dubai for a meet and train session before taking part in Dubai 7s last weekend."
 wpId: 5506
-wpFeaturedImage: "2021/12/NTP_0981-scaled.jpg"
 ---
 
 **Passionate about promoting pupil development through sport, The Royal Grammar School Guildford Dubai hosted a once-in-a-lifetime meet and train rugby experience last week with one of the world’s best rugby sevens teams, Olympic gold medallists Fiji.**
@@ -22,13 +22,3 @@ The Royal Grammar School Guildford Dubai’s Head of Sport, James Bennett said: 
 The one-off event was organised by the Royal Grammar School Guildford Dubai and Cognita Schools, and in association with Dubai Hurricanes and L.A.R. (Life After Rugby).
 
 A selection of images from the session can be viewed below.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/12/NTP_0935-scaled.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/12/NTP_0822-scaled.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/12/NTP_0763-scaled.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/12/NTP_0734-scaled.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/12/NTP_0702-scaled.jpg)

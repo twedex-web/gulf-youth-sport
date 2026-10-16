@@ -5,9 +5,9 @@ slug: "gulfyouthsport-com-nirmay-teckchandani-kick-connect"
 kicker: "DASSA"
 categories: ["DASSA", "In The Spotlight", "News & Features"]
 standfirst: "DIA Emirates Hills student Nirmay Teckchandani launches Kick Connect, a new football scouting app for UAE talent. Read the exclusive GYS feature here."
+image: "/images/archive/2026/04/gulfyouthsports-com-final.webp"
 metaDescription: "DIA Emirates Hills student Nirmay Teckchandani launches Kick Connect, a new football scouting app for UAE talent. Read the exclusive GYS feature here."
 wpId: 7011
-wpFeaturedImage: "2026/04/gulfyouthsports.com-final.png"
 ---
 
 **UAE Student Nirmay Teckchandani Launches 'Kick Connect' to Bridge the Global Scouting Gap**
@@ -16,7 +16,7 @@ In an era where digital platforms are redefining how talent is discovered, 17-ye
 
 The philosophy behind Kick Connect is as simple as it is powerful: talent is universal, but opportunity is not. For too long, elite scouting has relied on traditional, often closed networks, leaving countless grassroots players without a clear path to the professional game. Nirmay’s solution puts the power of exposure directly back into the hands of the players.
 
-**![](https://gulfyouthsport.com/wp-content/uploads/2026/04/Kickconnect-banner-1-1024x256.png)A Digital Showcase for the Next Generation**
+**![](/images/archive/2026/04/kickconnect-banner-1.webp)A Digital Showcase for the Next Generation**
 
 Kick Connect functions as a high-performance digital portfolio. Players can upload match highlights, track their technical stats, and build a comprehensive footballing profile accessible to professionals worldwide. By stripping away geographical and financial barriers, the platform creates a merit-based "level playing field"—essential for talent in regions where traditional scouting can be limited.
 

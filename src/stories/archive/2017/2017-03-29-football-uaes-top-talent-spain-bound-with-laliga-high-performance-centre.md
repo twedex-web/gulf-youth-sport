@@ -3,8 +3,8 @@ title: "FOOTBALL: UAE’s Top Talent Spain Bound with LaLiga High Performance Ce
 date: 2017-03-29T00:00:00+04:00
 slug: "football-uaes-top-talent-spain-bound-with-laliga-high-performance-centre"
 excerpt: "UAE’s Top Talent for 2016/2017 Season Selected to Join the du LaLiga High Performance Centre"
+image: "/images/archive/2019/09/main-img-293201784419.webp"
 wpId: 606
-wpFeaturedImage: "2019/09/Main-img-293201784419.jpg"
 ---
 
 **UAE’s Top Talent for 2016/2017 Season Selected to Join the du LaLiga High Performance Centre**

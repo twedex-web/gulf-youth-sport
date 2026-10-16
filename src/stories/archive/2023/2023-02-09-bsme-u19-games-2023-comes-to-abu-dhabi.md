@@ -5,9 +5,9 @@ slug: "bsme-u19-games-2023-comes-to-abu-dhabi"
 kicker: "Multi-Sports"
 categories: ["GYS", "Multi-Sports", "News & Features"]
 standfirst: "The exciting BSME U19 Games 2023 had a wonderful showing in Abu Dhabi, with a variety of sports events partaking in the event."
+image: "/images/archive/2023/02/gnb04182.webp"
 metaDescription: "The exciting BSME U19 Games 2023 had a wonderful showing in Abu Dhabi, with a variety of sports events partaking in the event."
 wpId: 6083
-wpFeaturedImage: "2023/02/GNB04182-scaled.jpg"
 ---
 
 _St. Christopher's School - Bahrain takes on the competition in boys' volleyball action. Credit: C.O.M.M.S_
@@ -22,7 +22,7 @@ Additionally, the BSME U19 Games are a tri-sport competition where 12 schools ai
 
 Sports were played by both boys and girls, with boys competing in football and volleyball matches. While girls pivoted into netball play, and kicking into football competitions.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/02/LGA00714-300x200.jpg" alt=""><figcaption>British School Kuwait played New English Kuwait in the highly anticipated inner country match-up. Credit: C.O.M.M.S</figcaption></figure>
+<figure><img src="/images/archive/2023/02/lga00714.webp" alt=""><figcaption>British School Kuwait played New English Kuwait in the highly anticipated inner country match-up. Credit: C.O.M.M.S</figcaption></figure>
 
 Football games for each of the girls' and boys' categories became a highly entertaining affair as unique talents were displayed by each school.
 
@@ -34,13 +34,13 @@ Spiking into boys' volleyball, the strong sense of competitiveness in the BSME U
 
 Passing and digging through their competition, the island team St. Christopher's School Bahrain made a statement in their last performance. St. Chris' edged BSAK by one point in the final volleyball table points, earning 12 points to claim the marvellous 2023 title.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/02/LGA00881-300x200.jpg" alt=""><figcaption>Netball was quite thrilling to watch at the U19 BSME Games 2023. Credit: C.O.M.M.S</figcaption></figure>
+<figure><img src="/images/archive/2023/02/lga00881.webp" alt=""><figcaption>Netball was quite thrilling to watch at the U19 BSME Games 2023. Credit: C.O.M.M.S</figcaption></figure>
 
 Now passing from BSME volleyball to netball news, the U19 girls had plenty of strong athletic showings and memorable moments.
 
 One Abu Dhabi team was able to outperform its opponents in the entertaining netball action by playing with grit and determination. That's right, Cranleigh Abu Dhabi pushed past all obstacles to reach the pentacle of their success; a BSME Volleyball Championship trophy of their own.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/02/DSC06561-300x200.jpg" alt=""><figcaption>British International School Abu Dhabi hoists the event trophy after being crowned BSME U19 Games 2023 Champions. Credit: C.O.M.M.S</figcaption></figure>
+<figure><img src="/images/archive/2023/02/dsc06561.webp" alt=""><figcaption>British International School Abu Dhabi hoists the event trophy after being crowned BSME U19 Games 2023 Champions. Credit: C.O.M.M.S</figcaption></figure>
 
 At the end of a well-played tri-sport tournament, only one winner could be crowned a regional champion. British International School Abu Dhabi came out on top with a strong total of 40 overall table points. Well done to a phenomenal team effort by British International School Abu Dhabi to earn the BSME U19 Games 2023 Champions title!
 

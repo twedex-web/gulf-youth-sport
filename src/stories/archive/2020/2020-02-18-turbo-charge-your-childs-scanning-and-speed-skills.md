@@ -5,9 +5,9 @@ slug: "turbo-charge-your-childs-scanning-and-speed-skills"
 kicker: "Football"
 categories: ["Football"]
 standfirst: "In the first in a series of expert coaching articles helping to improve young players skills in youth football, Kids DXB owner Tom Green explains how to have your child scoring goals from either foot with some dedicated training."
+image: "/images/archive/2020/02/rlp22632.webp"
 metaDescription: "In the first in a series of expert coaching articles helping to improve young players skills in youth football, Kids DXB owner Tom Green explains how to have your child scoring goals from either foot with some dedicated training."
 wpId: 2153
-wpFeaturedImage: "2020/02/RLP22632.jpg"
 ---
 
 ### **_In the second part in a series of expert coaching articles to improve young players skills in youth football, Kids DXB owner Tom Green explains how to help your child improve their speed and scanning skills._**

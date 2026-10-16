@@ -3,8 +3,8 @@ title: "FOOTBALL: LaLiga Scouts Excited by U14 UAE Schools Cup Boys"
 date: 2017-02-22T00:00:00+04:00
 slug: "football-laliga-scouts-excited-by-u14-uae-schools-cup-boys"
 excerpt: "UAE Schools Cup Boys U14 Impress LaLiga Scouts in Second Week of Matches in Dubai at duFC"
+image: "/images/archive/2019/09/main-img-222201722434.webp"
 wpId: 554
-wpFeaturedImage: "2019/09/Main-img-222201722434.jpg"
 ---
 
 **UAE Schools Cup Boys U14 Impress LaLiga Scouts in Second Week of Matches in Dubai at duFC**

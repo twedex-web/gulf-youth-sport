@@ -3,8 +3,8 @@ title: "NETBALL: JESS Girls Tough it Out to win Dubai College International Tour
 date: 2017-02-20T00:00:00+04:00
 slug: "netball-jess-girls-tough-it-out-to-win-dubai-college-international-tournament"
 excerpt: "Jumeirah English Speaking School’s (JESS) fine start to 2017 on the netball front continued at the weekend as Miss McAffie’s U16 girls team rallied late on to win the Dubai College International Netball Tournament."
+image: "/images/archive/2019/09/main-img-202201705521.webp"
 wpId: 548
-wpFeaturedImage: "2019/09/Main-img-202201705521.jpg"
 ---
 
 **Jumeirah English Speaking School’s (JESS) fine start to 2017 on the netball front continued at the weekend as Miss McAffie’s U16 girls team rallied late on to win the Dubai College International Netball Tournament.**

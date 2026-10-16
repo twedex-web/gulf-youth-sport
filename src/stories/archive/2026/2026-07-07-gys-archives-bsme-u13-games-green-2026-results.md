@@ -5,9 +5,9 @@ slug: "gys-archives-bsme-u13-games-green-2026-results"
 kicker: "BSME Games"
 categories: ["BSME Games"]
 standfirst: "Royal Grammar School Guildford Dubai claims the overall championship at the BSME U13 Games Green 2026. View the full standings, MVPs, and event highlights."
+image: "/images/archive/2026/07/4b769926-92a8-4607-9815-85b8dc947bf3.webp"
 metaDescription: "Royal Grammar School Guildford Dubai claims the overall championship at the BSME U13 Games Green 2026. View the full standings, MVPs, and event highlights."
 wpId: 7248
-wpFeaturedImage: "2026/07/4b769926-92a8-4607-9815-85b8dc947bf3.jpeg"
 ---
 
 ## **Ultimate All-Rounders: Royal Grammar School Guildford Dubai Clinches BSME U13 Green Title**

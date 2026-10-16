@@ -3,8 +3,8 @@ title: "18-Year old Brit Wins Inaugural F1® Esports World Championship"
 date: 2017-11-26T00:00:00+04:00
 slug: "18-year-old-brit-wins-inaugural-f1-esports-world-championship"
 excerpt: "The inaugural F1 Esports Series World Champion was crowned in Abu Dhabi last night, after some thrilling final lap drama."
+image: "/images/archive/2019/09/main-img-2611201791632.webp"
 wpId: 843
-wpFeaturedImage: "2019/09/Main-img-2611201791632.jpg"
 ---
 
 **The inaugural F1 Esports Series World Champion was crowned in Abu Dhabi last night, after some thrilling final lap drama.** 

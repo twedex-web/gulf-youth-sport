@@ -5,8 +5,8 @@ slug: "team-tri-umphant-off-to-thailand-to-compete-internationally-again"
 kicker: "Triathlon"
 categories: ["News & Features", "Triathlon"]
 excerpt: "GEMS Wellington Academy Al Khail's triathlon team doesn't do things by half."
+image: "/images/archive/2020/02/screen-shot-2020-02-18-at-10-25-24-am.webp"
 wpId: 2131
-wpFeaturedImage: "2020/02/Screen-Shot-2020-02-18-at-10.25.24-am.png"
 ---
 
 GEMS Wellington Academy Al Khail's triathlon team doesn't do things by half.
@@ -36,8 +36,6 @@ To prepare for the mammoth challenge ahead Team Tri-umphant gave their all at th
 Supporters could not control the enthusiasm of kids, teachers and WEK parents who competed, and nor did they want to, with every bit of adrenalin needed to complete the task ahead.
 
 Lucas said the smiling faces after completing the Dubai event were a glowing indication of a fulfilling trip to Thailand.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-18-at-10.27.45-am.png)
 
 "They are buzzing - even the Mums!" he said.
 

@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-amenah-almuhairi-2"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 excerpt: "Amenah Almuhairi is always dreaming of a white Christmas."
+image: "/images/archive/2020/12/20201120-1849320.webp"
 wpId: 4624
-wpFeaturedImage: "2020/12/20201120_1849320-scaled-e1608709513166.jpg"
 ---
 
 Amenah Almuhairi is always dreaming of a white Christmas.
@@ -20,8 +20,6 @@ With interest in the sport on the increase, she said she was thrilled she can s
 "The competition was held in two parts, Slopestyle & Big Air national titles. Each required two runs on the Slopestyle course and two jumps in Big Air. "
 
 Almuhairi is often found training at Ski Dubai and travels to compete in more traditional snow-filled countries.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/12/Screenshot_20201129-111242_Video-Player-300x282.jpg" alt=""><figcaption>UAE national champion Amenah Almuhairi.</figcaption></figure>
 
 "I have been training in Austria and Switzerland last winter and of course at my home base at Ski Dubai until Covid-19 hit at which time my training stopped for quite a while due to the lockdowns," she said.
 

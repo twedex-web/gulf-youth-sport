@@ -3,15 +3,15 @@ title: "Meet Dubai's Modern-Day Action Man"
 date: 2017-08-22T00:00:00+04:00
 slug: "meet-dubais-modern-day-action-man"
 excerpt: "We’ve all come across the “Do as I say, not as I do” P.E teacher, who’s teaching stye consists of sitting on bleachers and yelling at students to run faster, throw further…you know the drill."
+image: "/images/archive/2019/09/main-img-228201712278.webp"
 wpId: 693
-wpFeaturedImage: "2019/09/Main-img-228201712278.jpg"
 ---
 
 We’ve all come across the “Do as I say, not as I do” P.E teacher, who’s teaching stye consists of sitting on bleachers and yelling at students to run faster, throw further…you know the drill.
 
 One thing we know, for sure, is that **Danny Thomas** does not fall into this category. 
 
-Mr.Thomas, an English-born P.E teacher at Nord Anglia International School in Dubai (NAS), lives the ultimate, and not to mention ![](http://gulfyouthsport.com/Admin/Content/UserFiles/3.jpg)impressive, sporty lifestyle.
+Mr.Thomas, an English-born P.E teacher at Nord Anglia International School in Dubai (NAS), lives the ultimate, and not to mention impressive, sporty lifestyle.
 
 Far from being sick and tired of sports after a full day of teaching, the modern-day action man’s post-work week is crammed full of sport from start to finish, as is evidenced by his (exhausting just to look at) Instagram account.
 

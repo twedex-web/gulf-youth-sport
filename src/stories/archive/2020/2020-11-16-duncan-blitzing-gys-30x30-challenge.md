@@ -4,8 +4,8 @@ date: 2020-11-16T05:58:21+04:00
 slug: "duncan-blitzing-gys-30x30-challenge"
 categories: ["News & Features"]
 excerpt: "When the first leaderboards came through for the GYS 30X30 Challenge, there was one name everyone was talking about."
+image: "/images/archive/2020/11/starnes.webp"
 wpId: 4351
-wpFeaturedImage: "2020/11/Starnes-scaled.jpg"
 ---
 
 **When the first leaderboards came through for the GYS 30X30 Challenge, there was one name everyone was talking about.**
@@ -18,7 +18,7 @@ The father of two Jebel Ali students – Isabella,13, and Sophie,11 – explaine
 
 "I find it easier to stay committed if I am working towards an end goal. My weekly training programme includes cycling, running, swimming and paddling. My goal for each week is to swim between 15-20kms, run about 30km, cycle around 250km and paddle for 18km."
 
-That's one impressive training regime, and it's helped put Jebel Ali at the top of the [GYS 30X30 Schools' leaderboard](/2020/11/10/jebel-ali-leading-the-gys-30x30-challenge/) as well. Isabella and Sophie are on board with the Challenge, as is Duncan's wife Paddy. You'd be hard pressed to find the family of four at home, given their sporting commitments.![](https://gulfyouthsport.com/wp-content/uploads/2020/10/30x30-challenge-web-2-300x159.png)
+That's one impressive training regime, and it's helped put Jebel Ali at the top of the [GYS 30X30 Schools' leaderboard](/2020/11/10/jebel-ali-leading-the-gys-30x30-challenge/) as well. Isabella and Sophie are on board with the Challenge, as is Duncan's wife Paddy. You'd be hard pressed to find the family of four at home, given their sporting commitments.
 
 "My wife aims for a minimum of 30 mins of exercise at least five times a week for health and mental benefits. She typically does two weight training classes a week, three five kilometre runs and a ballet or hit class," Duncan said.
 

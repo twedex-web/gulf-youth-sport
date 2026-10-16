@@ -4,8 +4,8 @@ date: 2020-04-12T18:10:14+04:00
 slug: "damian-hughes-webinar-delights-uae-sporting-community"
 categories: ["GYS", "News & Features"]
 excerpt: "230 people gathered virtually on Zoom to watch sports psychologist, author and public speaker Professor Damian Hughes present a talk on creating a high performance culture."
+image: "/images/archive/2020/04/f1854275-1981-4df9-90e8-e92d09319e4b.webp"
 wpId: 2928
-wpFeaturedImage: "2020/04/f1854275-1981-4df9-90e8-e92d09319e4b.jpg"
 ---
 
 230 people gathered virtually on Zoom to watch sports psychologist, author and public speaker Professor Damian Hughes present a talk on creating a high performance culture.
@@ -16,7 +16,7 @@ Coaches, teachers, academy leaders and so many more involved in sport across the
 
 "To have such a large number of attendees for our first external CPD session was brilliant and quite unexpected, given this was our first one during these unprecedented times. We know the industry as a whole is suffering, however we believe this is a time for reflection, learning and having a growth mindset to make the best of this situation we are all facing.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/04/IMG_3382-640x480.jpg)"Damian is an industry expert and an inspiring character, and as always his insight and shared knowledge were invaluable and we are pleased that it could be shared with so many."
+"Damian is an industry expert and an inspiring character, and as always his insight and shared knowledge were invaluable and we are pleased that it could be shared with so many."
 
 The author of eight books spoke about how to unite one group together for the same purpose, sharing with the webinar group a process he created during his time at FC Barcelona.
 

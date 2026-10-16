@@ -4,8 +4,8 @@ date: 2021-01-27T06:08:38+04:00
 slug: "juventus-signs-partnership-with-al-ittihad-private-school"
 categories: ["News & Features"]
 excerpt: "The Italian football giant Juventus has announced it will spread its academy at Al Ittihad Private School, Al Mamzar, one of the oldest private schoolsin Dubai."
+image: "/images/archive/2021/01/arj09984.webp"
 wpId: 4827
-wpFeaturedImage: "2021/01/ARJ09984-scaled-e1611727667608.jpg"
 ---
 
 The Italian football giant Juventus has announced it will spread its academy at Al Ittihad Private School, Al Mamzar, one of the oldest  private schoolsin Dubai. This marks the eighth location the Bianconeri will operate across the UAE, with more than a 1000 players participating in their program.

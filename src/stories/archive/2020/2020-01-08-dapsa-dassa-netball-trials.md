@@ -5,9 +5,9 @@ slug: "dapsa-dassa-netball-trials"
 kicker: "Netball"
 categories: ["Netball", "News & Features"]
 standfirst: "Netball trials for the DAPSA and DASSA Select Squads are underway with supreme skills on show."
+image: "/images/archive/2020/01/screen-shot-2020-01-08-at-1-58-50-pm.webp"
 metaDescription: "Netball trials for the DAPSA and DASSA Select Squads are underway with supreme skills on show."
 wpId: 1741
-wpFeaturedImage: "2020/01/Screen-Shot-2020-01-08-at-1.58.50-pm.png"
 ---
 
 Netball trials for the DAPSA and DASSA Select Squads are underway with supreme skills on show.

@@ -4,8 +4,8 @@ date: 2020-04-13T08:09:06+04:00
 slug: "supportyoursportsacademy-challenge"
 categories: ["GYS", "News & Features"]
 excerpt: "Sports academies are struggling financially in the region and these pressures have no end in sight."
+image: "/images/archive/2020/04/sysa-graphic-2.webp"
 wpId: 2934
-wpFeaturedImage: "2020/04/SYSA-graphic-2-scaled.jpg"
 ---
 
 Sports academies are struggling financially in the region and these pressures have no end in sight. With this in mind, GYS has started #SupportYourSportsAcademy to keep these organisations in the limelight and give them a platform while their physical doors must remain shut.

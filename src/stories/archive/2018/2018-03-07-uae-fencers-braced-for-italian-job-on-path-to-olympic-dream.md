@@ -3,8 +3,8 @@ title: "UAE fencers braced for Italian job on path to Olympic dream"
 date: 2018-03-07T00:00:00+04:00
 slug: "uae-fencers-braced-for-italian-job-on-path-to-olympic-dream"
 excerpt: "This April, three talented young UAE based fencers will take on the best in the world, as they follow the path to their Olympic dream."
+image: "/images/archive/2019/09/main-img-73201819322.webp"
 wpId: 939
-wpFeaturedImage: "2019/09/Main-img-73201819322.jpg"
 ---
 
 This April, three talented young UAE based fencers will take on the best in the world, as they follow the path to their Olympic dream. Omar Belselah, Khalid Belselah and Lynn Gedeon are all members of MK Fencing Academy, based in Dubai. The Junior and Cadets World Fencing Championships will be held in Verona from 1st-9th April and serves as a qualifying event for the Youth Olympics.   

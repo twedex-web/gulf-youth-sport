@@ -5,8 +5,8 @@ slug: "uae-schools-excel-in-competitive-world-school-games"
 kicker: "Match Zone"
 categories: ["Match Zone", "News & Features"]
 excerpt: "The U13 World School Games are in the history books for this year and what a memorable tournament it proved to be."
+image: "/images/archive/2019/09/img-732019103338-9ab542f08ffa4c62a158a89a30cd994c.webp"
 wpId: 1190
-wpFeaturedImage: "2019/09/img-732019103338-9ab542f08ffa4c62a158a89a30cd994c.jpg"
 ---
 
 The U13 World School Games are in the history books for this year and what a memorable tournament it proved to be.

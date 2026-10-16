@@ -3,8 +3,8 @@ title: "GEMS Kids Head for Manchester for once-in-a-lifetime Football Trip"
 date: 2017-08-21T00:00:00+04:00
 slug: "gems-kids-head-for-manchester-for-once-in-a-lifetime-football-trip"
 excerpt: "Winners of the inaugural Manchester City Abu Dhabi Cup, GEMS Kindergarten Starters, will travel to Manchester in style next week for a once-in-a-life trip that will see the team visit the Etihad Stadium and experience…"
+image: "/images/archive/2019/09/main-img-2182017111339.webp"
 wpId: 691
-wpFeaturedImage: "2019/09/Main-img-2182017111339.jpg"
 ---
 
 **Winners of the inaugural Manchester City Abu Dhabi Cup, GEMS Kindergarten Starters, will travel to Manchester in style next week for a once-in-a-life trip that will see the team visit the Etihad Stadium and experience what it’s like to be a Manchester City player.**  

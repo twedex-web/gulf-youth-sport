@@ -5,9 +5,9 @@ slug: "school-swimming-returns"
 kicker: "DASSA"
 categories: ["DASSA", "News & Features"]
 standfirst: "School swimming returned to Hartland International School for the first time in 18 months last week as they welcomed Kings School Al Barsha."
+image: "/images/archive/2021/10/gala-2.webp"
 metaDescription: "School swimming returned to Hartland International School for the first time in 18 months last week as they welcomed Kings School Al Barsha."
 wpId: 5445
-wpFeaturedImage: "2021/10/Gala-2.jpg"
 ---
 
 **Inter-school swimming returned to Dubai last week as Hartland International School hosted Kings' School Al Barsha in a meeting to test new safety protocols surrounding school swimming.**

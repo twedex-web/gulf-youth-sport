@@ -3,8 +3,8 @@ title: "El Clasico Stars Wow Crowds at Dubai Mall"
 date: 2018-04-22T00:00:00+04:00
 slug: "el-clasico-stars-wow-crowds-at-dubai-mall"
 excerpt: "Former FC Barcelona captain Carles Puyol and Real Madrid Roberto Carlos lit up the Dubai Mall this weekend as they appeared at the launch of an exciting new sports portal, duSports."
+image: "/images/archive/2019/09/main-img-22420188288.webp"
 wpId: 1000
-wpFeaturedImage: "2019/09/Main-img-22420188288.jpg"
 ---
 
 **Former FC Barcelona captain Carles Puyol and Real Madrid Roberto Carlos lit up the Dubai Mall this weekend as they appeared at the launch of an exciting new sports portal, duSports. du Sports will be part of du’s content platform MyWorld.**

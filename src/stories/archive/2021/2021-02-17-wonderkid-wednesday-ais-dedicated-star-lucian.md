@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-ais-dedicated-star-lucian"
 kicker: "Wonderkid Wednesday"
 categories: ["News & Features", "Wonderkid Wednesday"]
 excerpt: "Dedicated is the word to describe AIS Athletics young gun Lucian."
+image: "/images/archive/2021/02/image002-e1613551660366.webp"
 wpId: 4945
-wpFeaturedImage: "2021/02/image002-e1613551660366.jpg"
 ---
 
 **Dedicated is the word to describe AIS Athletics young gun Lucian.**

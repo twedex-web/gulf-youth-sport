@@ -4,8 +4,8 @@ date: 2020-09-14T03:48:11+04:00
 slug: "swimming-pool-shutdown-by-dubai-sports-council"
 categories: ["News & Features"]
 excerpt: "The Dubai Sports Council has closed down a swimming pool at a sports centre in the city after it discovered it was in violation of COVID-19 safety protocols."
+image: "/images/archive/2020/09/pool-shutdown-e1600051655844.webp"
 wpId: 3858
-wpFeaturedImage: "2020/09/Pool-ShutDown-e1600051655844.png"
 ---
 
 The Dubai Sports Council has closed down a swimming pool at a sports centre in the city after it discovered it was in violation of COVID-19 safety protocols.

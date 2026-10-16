@@ -3,8 +3,8 @@ title: "Play Rugby with Wales and British & Irish Lions Star for Free This Weeke
 date: 2018-01-24T00:00:00+04:00
 slug: "play-rugby-with-wales-and-british-irish-lions-star-for-free-this-weekend"
 excerpt: "Welsh and British and Irish Lions star Mike Phillips will be hosting a number of FREE kids rugby coaching sessions this weekend as part of his recently launched Mike Phillips Just Play Rugby Academy."
+image: "/images/archive/2019/09/main-img-2412018122124.webp"
 wpId: 889
-wpFeaturedImage: "2019/09/Main-img-2412018122124.jpg"
 ---
 
 **Welsh and British and Irish Lions star Mike Phillips will be hosting a number of FREE kids rugby coaching sessions this weekend as part of his recently launched Mike Phillips Just Play Rugby Academy.**

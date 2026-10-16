@@ -5,9 +5,9 @@ slug: "video-dubai-schools-readying-themselves-for-the-dubai-7s-netball-finals"
 kicker: "Netball"
 categories: ["GYS", "Netball", "News & Features"]
 standfirst: "After qualifying at the Annual Youth Sevens Netball tournament, some of the top netball schools in Dubai will play on the opening evening of the Dubai 7s on Thursday when they contest for the title in their age group."
+image: "/images/archive/2019/11/emirates-airline-dubai-rugby-sevens-netball-tournament-6.webp"
 metaDescription: "After qualifying at the Annual Youth Sevens Netball tournament, some of the top netball schools in Dubai will play on the opening evening of the Dubai 7s on Thursday when they contest for the title in their age group."
 wpId: 1581
-wpFeaturedImage: "2019/11/Emirates-Airline-Dubai-Rugby-Sevens-Netball-Tournament-6.jpg"
 ---
 
 The Dubai Rugby Sevens is no longer just about the rugby field with the seven players on the netball court having their time in the sun.

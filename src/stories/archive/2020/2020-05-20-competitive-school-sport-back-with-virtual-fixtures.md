@@ -5,8 +5,8 @@ slug: "competitive-school-sport-back-with-virtual-fixtures"
 kicker: "Match Zone"
 categories: ["GYS", "Match Zone"]
 excerpt: "Schools in the Gulf will compete against other students around the world, despite all the travel restrictions due to COVID-19."
+image: "/images/archive/2020/05/screen-shot-2020-05-03-at-21-35-11-e1588638024493.webp"
 wpId: 3214
-wpFeaturedImage: "2020/05/Screen-Shot-2020-05-03-at-21.35.11-e1588638024493.png"
 ---
 
 Schools in the Gulf will compete against other students around the world, despite all the travel restrictions due to COVID-19.

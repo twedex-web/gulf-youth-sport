@@ -3,8 +3,8 @@ title: "FOOTBALL: Thistle Pip Go Pro in Tight Game"
 date: 2016-11-27T00:00:00+04:00
 slug: "football-thistle-pip-go-pro-in-tight-game"
 excerpt: "Abu Dhabi Thistle took on Go Pro in the Jebel Ali Youth League Under 14 Division on Saturday morning."
+image: "/images/archive/2019/09/main-img-2711201631050.webp"
 wpId: 466
-wpFeaturedImage: "2019/09/Main-img-2711201631050.jpg"
 ---
 
 **Abu Dhabi Thistle took on Go Pro in the Jebel Ali Youth League Under 14 Division on Saturday morning.**

@@ -4,9 +4,9 @@ date: 2023-03-28T17:15:06+04:00
 slug: "united-in-the-huddle-how-a-multicultural-american-football-league-is-making-a-global-impact"
 categories: ["GYS", "News & Features"]
 standfirst: "The EAFL (Emirates American Football League) is providing unique opportunities for youngsters of all backgrounds to play the iconic American sport at home and abroad."
+image: "/images/archive/2023/03/pdx7gw1y.webp"
 metaDescription: "The EAFL (Emirates American Football League) is providing unique opportunities for youngsters of all backgrounds to play the iconic American sport at home and abroad."
 wpId: 6242
-wpFeaturedImage: "2023/03/PDx7GW1Y-scaled.jpg"
 ---
 
 **The EAFL (Emirates American Football League) is providing unique opportunities for youngsters of all backgrounds to play the iconic American sport at home and abroad.**
@@ -17,7 +17,7 @@ Not only is this the 11th Desert Bowl, but also the 12th year of the EAFL's exis
 
 Furthermore, the EAFL is a youth American football association that provides opportunities for both boys and girls in the Abu Dhabi and Dubai communities. Former Canadian Football League player and EAFL Founder Dustin Cherniawski gave further insights on the affiliation by stating,
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/03/Screen-Shot-2023-03-28-at-4.42.39-PM-300x219.png" alt=""><figcaption>Commissioner Cherniawski addresses the local media, while sporting his 2007 Grey Cup Championship ring. Credit: EAFL</figcaption></figure>
+<figure><img src="/images/archive/2023/03/screen-shot-2023-03-28-at-4-42-39-pm.webp" alt=""><figcaption>Commissioner Cherniawski addresses the local media, while sporting his 2007 Grey Cup Championship ring. Credit: EAFL</figcaption></figure>
 
 "It's an opportunity to provide Authentic American Football experiences for athletes age 7 to 17 who always wanted to try American football.
 
@@ -35,7 +35,7 @@ Since 2014 the league has participated in 47 matches across 17 countries, includ
 
 Many non-traditional American football countries like Lebanon, Egypt, Pakistan, and India have seen increase in youth startup groups. The up-and-coming star for the Dubai Barracudas Devon Meyers spoke of the remarkable opportunity of being teammates with fellow expats. 
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/03/GTtaDKmc-240x300.jpg" alt=""><figcaption>Dubai Barracudas star running back looks to run through an open hole in the field. Credit: EAFL</figcaption></figure>
+<figure><img src="/images/archive/2023/03/gttadkmc.webp" alt=""><figcaption>Dubai Barracudas star running back looks to run through an open hole in the field. Credit: EAFL</figcaption></figure>
 
 The Texas native stated "Honestly I love it, I love the diversity, the different backgrounds, you know I get to talk to someone who celebrates different holidays and traditions than me. 
 
@@ -49,7 +49,7 @@ Additionally, this particular gridiron organisation has produced quality players
 
 Punter Adam Babb is now booming punts in NCAA (National Collegiate Athletic Association) - Division - I American football for the mighty Arizona State University Sun Devils. 
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2023/03/N1ntIcgo-300x240.jpg" alt=""><figcaption>Youngsters enjoying a great day of American football action in the UAE. Credit: EAFL</figcaption></figure>
+<figure><img src="/images/archive/2023/03/n1nticgo.webp" alt=""><figcaption>Youngsters enjoying a great day of American football action in the UAE. Credit: EAFL</figcaption></figure>
 
 Many other former players have found success at the next level by playing University sports in the States. This growing list includes Ethan Trumpy and Isaiah Herrera continuing their football careers at the Division - II level. While EAFL great Wesam Sidani is currently representing Purdue University in rugby.
 

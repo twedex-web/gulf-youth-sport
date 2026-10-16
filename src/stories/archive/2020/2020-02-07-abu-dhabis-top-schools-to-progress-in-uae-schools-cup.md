@@ -5,8 +5,8 @@ slug: "abu-dhabis-top-schools-to-progress-in-uae-schools-cup"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "Abu Dhabi's top football schools have won their way forward into the national semi-finals of the du Football Champions UAE Schools Cup."
+image: "/images/archive/2020/02/horizon-private-school-vs-phoenix.webp"
 wpId: 1972
-wpFeaturedImage: "2020/02/Horizon-Private-School-Vs-Phoenix.jpg"
 ---
 
 Abu Dhabi's top football schools have won their way forward into the national semi-finals of the du Football Champions UAE Schools Cup.
@@ -20,8 +20,6 @@ The Dubai leg of the tournament begins tomorrow and the UAE finals will be on Ma
 du Football Champions technical director Iago Aguilar is excited to see what sides will join the teams already qualified.
 
 “The Abu Dhabi leg of the nationwide du Football Champions has had a great run in our fifth season. We witnessed some excellent football from both returning and new teams," he said.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/Nation-Pro-Vs-Future-stars-academy.jpg)
 
 "After the strong performance we saw in the Northern Emirates and now in the capital Abu Dhabi, we look forward to equally strong play from the Dubai teams.
 

@@ -4,8 +4,8 @@ date: 2020-11-11T05:45:32+04:00
 slug: "bettering-football-in-the-uae"
 categories: ["News & Features"]
 excerpt: "Former Israel national football team and Chelsea coach Avram Grant visited Dubai Sports Council headquarters and the two parties are keen to collaborate for the betterment of football in the UAE."
+image: "/images/archive/2020/11/5j7a8727.webp"
 wpId: 4306
-wpFeaturedImage: "2020/11/5J7A8727-scaled.jpg"
 ---
 
 Former Israel national football team and Chelsea coach Avram Grant visited Dubai Sports Council headquarters and the two parties are keen to collaborate for the betterment of football in the UAE.

@@ -3,8 +3,8 @@ title: "UAE Students Battle it out in National Finals of F1 in Schools Contest"
 date: 2017-12-11T00:00:00+04:00
 slug: "uae-students-battle-it-out-in-national-finals-of-f1-in-schools-contest"
 excerpt: "The best young race teams in the UAE went head to head for a shot at glory in the National Finals of the F1 in Schools™ – The Formula One® STEM Challenge."
+image: "/images/archive/2019/09/main-img-1112201763014.webp"
 wpId: 862
-wpFeaturedImage: "2019/09/Main-img-1112201763014.jpg"
 ---
 
 **The best young race teams in the UAE went head to head for a shot at glory in the National Finals of the F1 in Schools™ – The Formula One® STEM Challenge.**

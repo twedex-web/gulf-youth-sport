@@ -5,8 +5,8 @@ slug: "dufc-champions-crowned"
 kicker: "Match Zone"
 categories: ["Match Zone"]
 excerpt: "The nation’s greatest youth football teams claimed their winning titles yesterday at du Football Champions, in partnership with LaLiga, and home of the official UAE Schools Cup, Street Cup and UAE Girls Challenge."
+image: "/images/archive/2019/09/img-2532019111511-14d2b3d5abe542e1af18cf33cb49479b.webp"
 wpId: 1197
-wpFeaturedImage: "2019/09/img-2532019111511-14d2b3d5abe542e1af18cf33cb49479b.jpg"
 ---
 
 The nation’s greatest youth football teams claimed their winning titles yesterday at du Football Champions, in partnership with LaLiga, and home of the official UAE Schools Cup, Street Cup and UAE Girls Challenge. du Football Champions Season 4 drew to a close following a day of intense matches between Abu Dhabi, Sharjah, Al Ain and Dubai’s best teams in front of a stadium of ardent supporters at The Sevens. Each match displayed professional-level football amid fierce competition.

@@ -4,8 +4,8 @@ date: 2020-11-04T05:52:29+04:00
 slug: "dess-siblings-challenged-to-grow-stronger"
 categories: ["News & Features"]
 excerpt: "Sisters Thalia and Khyrah O'Reilly are using the Dubai Fitness Challenge to build up their strength."
+image: "/images/archive/2020/11/whatsapp-image-2020-11-04-at-15-19-33.webp"
 wpId: 4244
-wpFeaturedImage: "2020/11/WhatsApp-Image-2020-11-04-at-15.19.33.jpeg"
 ---
 
 Sisters Thalia and Khyrah O'Reilly are using the Dubai Fitness Challenge to build up their strength.
@@ -14,7 +14,7 @@ The Dubai English Speaking School students signed on to [GYS' 30X30 Challenge](
 
   
 
-The siblings are members of Ultimate Athletics, play netball at the Dubai Netball Association and swim with My Sports Academy. Khyrah also practises gymnastics with Stamina 11.![](https://gulfyouthsport.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-04-at-16.47.50-194x300.png)
+The siblings are members of Ultimate Athletics, play netball at the Dubai Netball Association and swim with My Sports Academy. Khyrah also practises gymnastics with Stamina 11.
 
   
 

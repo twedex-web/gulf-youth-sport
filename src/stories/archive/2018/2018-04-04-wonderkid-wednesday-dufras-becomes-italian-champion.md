@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Dufra's becomes Italian champion"
 date: 2018-04-04T00:00:00+04:00
 slug: "wonderkid-wednesday-dufras-becomes-italian-champion"
 excerpt: "A 12 year old Dubai based swimmer has impressed at the recent Italian National Swimming Championships."
+image: "/images/archive/2019/09/main-img-442018134454.webp"
 wpId: 974
-wpFeaturedImage: "2019/09/Main-img-442018134454.jpg"
 ---
 
 A 12 year old Dubai based swimmer has impressed at the recent Italian National Swimming Championships. Uptown School student Christopher Dufra celebrated double success with a stunning performance during his trip to Europe.

@@ -5,9 +5,9 @@ slug: "climb-to-the-top-and-shoot-some-hoops"
 kicker: "Basketball"
 categories: ["Basketball", "News & Features"]
 standfirst: "Former American basketballers Julian King and Ryan Yates are looking to pass on their knowledge to rising stars in Dubai at the Hoop Mountain Academy."
+image: "/images/archive/2019/11/f9df2afb-12ea-4c0e-8d51-a693512cd9d0.webp"
 metaDescription: "Former American basketballers Julian King and Ryan Yates are looking to pass on their knowledge to rising stars in Dubai at the Hoop Mountain Academy."
 wpId: 1480
-wpFeaturedImage: "2019/11/F9DF2AFB-12EA-4C0E-8D51-A693512CD9D0.jpeg"
 ---
 
 Star power in town is aiming to develop basketball's talent pool in the United Arab Emirates.
@@ -23,8 +23,6 @@ Yates' profile screams of success.
 As a small forward at TC Williams High School, Virginia he was influential in helping his team claim a State Championship in 2008 as well as back-to-back Northern Region Championships and Patriot District Championships in 2008 and 2009.
 
 Yates has extensively studied how to lead off the court and has a masters' degree in organisational leadership and conflict transformation, while King's coaching record speaks for itself.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2019/11/286BC77B-D755-4D4B-993C-D6BB128DDB66.jpeg)
 
 Following on from his own journey he has been a student-advisor and mentor for aspiring college basketball's for 20 years and most recently was associate head basketball coach at KOA Prep basketball school.
 

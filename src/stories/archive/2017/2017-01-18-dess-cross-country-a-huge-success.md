@@ -3,8 +3,8 @@ title: "DESS Cross Country a Huge Success"
 date: 2017-01-18T00:00:00+04:00
 slug: "dess-cross-country-a-huge-success"
 excerpt: "Rashid School for Boys provided a stunning backdrop for the third annual DESS Cross Country event yesterday (Tuesday), with over 400 of the region’s most promising young athletes in attendance."
+image: "/images/archive/2019/09/main-img-18120172946.webp"
 wpId: 506
-wpFeaturedImage: "2019/09/Main-img-18120172946.jpg"
 ---
 
 **Rashid School for Boys provided a stunning backdrop for the third annual DESS Cross Country event yesterday (Tuesday), with over 400 of the region’s most promising young athletes in attendance.**

@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Megan Dingle thriving on two continents"
 date: 2018-06-06T00:00:00+04:00
 slug: "wonderkid-wednesday-megan-dingle-thriving-on-two-continents"
 excerpt: "With the European Athletics Championships coming to Glasgow this summer, all eyes will be on the track. Looking to the future we caught up with a star of the youth running scene, Megan Dingle."
+image: "/images/archive/2019/09/main-img-66201812290.webp"
 wpId: 1045
-wpFeaturedImage: "2019/09/Main-img-66201812290.jpg"
 ---
 
 With the European Athletics Championships coming to Glasgow this summer, all eyes will be on the track. Looking to the future we caught up with a star of the youth running scene, Megan Dingle.

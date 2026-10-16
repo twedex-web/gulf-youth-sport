@@ -3,8 +3,8 @@ title: "City Football Schools to Offer Free Coaching Sessions in Dubai for the F
 date: 2018-04-01T00:00:00+04:00
 slug: "city-football-schools-to-offer-free-coaching-sessions-in-dubai-for-the-first-time"
 excerpt: "For the first time budding young footballers will now be able to learn the City way, for FREE, in Dubai thanks to coaching sessions taking place this spring."
+image: "/images/archive/2019/09/main-img-14201881930.webp"
 wpId: 972
-wpFeaturedImage: "2019/09/Main-img-14201881930.jpg"
 ---
 
 **For the first time budding young footballers will now be able to learn the City way, for FREE, in Dubai thanks to coaching sessions taking place this spring.**

@@ -4,8 +4,8 @@ date: 2024-04-22T15:15:21+04:00
 slug: "barakat-strengthens-commitment-to-grassroots-sports-by-sponsoring-dassa"
 categories: ["Uncategorised"]
 excerpt: "Barakat, the UAE’s leading provider of fresh produce, juices, and smoothies, proudly announces its sponsorship of the UAE’s biggest school sports association, DASSA."
+image: "/images/archive/2024/04/mell9589.webp"
 wpId: 6803
-wpFeaturedImage: "2024/04/MELL9589-scaled.jpg"
 ---
 
 Barakat, the UAE’s leading provider of fresh produce, juices, and smoothies, proudly announces its sponsorship of the UAE’s biggest school sports association, DASSA. This collaboration marks a significant stride in Barakat’s dedication to fostering sports development and nurturing young talents in the region.
@@ -22,7 +22,7 @@ _"By supporting DASSA, we're investing in the well-being of young athletes. We w
 
 As part of the sponsorship agreement, Barakat will provide both in-event and financial support to DASSA, enabling the organisation to expand its programs and enhance the overall experience for student-athletes. Additionally, Barakat will collaborate with DASSA on various initiatives aimed at promoting sports participation and encouraging active lifestyles among youth.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2024/04/MELL9582-300x200.jpg)_“We are grateful for Barakat’s generous support, which will enable us to further our mission of promoting sports excellence and providing enriching experiences for students across Dubai,”_ said Andy Jones, DASSA’s Secondary Chair. _“This partnership represents a significant milestone for DASSA, and we look forward to working closely with Barakat to empower the next generation of athletes.”_
+![](/images/archive/2024/04/mell9582.webp)_“We are grateful for Barakat’s generous support, which will enable us to further our mission of promoting sports excellence and providing enriching experiences for students across Dubai,”_ said Andy Jones, DASSA’s Secondary Chair. _“This partnership represents a significant milestone for DASSA, and we look forward to working closely with Barakat to empower the next generation of athletes.”_
 
 Barakat’s sponsorship of DASSA underscores its ongoing commitment to corporate social responsibility and community engagement. By investing in initiatives that promote youth development and well-being, Barakat continues to make a positive impact on society and contribute to the growth and prosperity of the communities it serves.
 

@@ -3,8 +3,8 @@ title: "JIU-JITSU: World Championships Back for Ninth Year"
 date: 2017-04-04T00:00:00+04:00
 slug: "jiu-jitsu-world-championships-back-for-ninth-year"
 excerpt: "The final countdown is on to the Abu Dhabi World Professional Jiu-Jitsu Championship, held under the patronage of His Highness Sheikh Mohamed Bin Zayed Al Nahyan, Crown Prince of Abu Dhabi and Deputy Supreme Commander…"
+image: "/images/archive/2019/09/main-img-44201775220.webp"
 wpId: 610
-wpFeaturedImage: "2019/09/Main-img-44201775220.jpg"
 ---
 
 The final countdown is on to the **Abu Dhabi World Professional Jiu-Jitsu Championship**, held under the patronage of **His Highness Sheikh Mohamed Bin Zayed Al Nahyan**, Crown Prince of Abu Dhabi and Deputy Supreme Commander of the UAE Armed Forces, and taking place from 10th to 23rd April at IPIC Arena, Zayed Sports City.  

@@ -3,8 +3,8 @@ title: "Midget GEMS Taste Life at the Top"
 date: 2017-09-18T00:00:00+04:00
 slug: "midget-gems-taste-life-at-the-top"
 excerpt: "GEMS Kindergarten Starters, winners of the inaugural Manchester City Abu Dhabi Cup, have returned home from their once-in-a-life trip to Manchester, England."
+image: "/images/archive/2019/09/main-img-189201792734.webp"
 wpId: 739
-wpFeaturedImage: "2019/09/Main-img-189201792734.jpg"
 ---
 
 **GEMS Kindergarten Starters, winners of the inaugural Manchester City Abu Dhabi Cup, have returned home from their once-in-a-life trip to Manchester, England.**

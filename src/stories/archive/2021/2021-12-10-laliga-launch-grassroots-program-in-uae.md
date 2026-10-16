@@ -5,9 +5,9 @@ slug: "laliga-launch-grassroots-program-in-uae"
 kicker: "Football"
 categories: ["Football"]
 standfirst: "LaLiga have launched their new Grassroots Program in the UAE which will give young players the chance to train in Madrid."
+image: "/images/archive/2021/12/laliga-unveiling-in-mena-event.webp"
 metaDescription: "LaLiga have launched their new Grassroots Program in the UAE which will give young players the chance to train in Madrid."
 wpId: 5526
-wpFeaturedImage: "2021/12/LaLiga-Unveiling-in-MENA-Event--scaled.jpg"
 ---
 
 **Spanish football giant LaLiga has unveiled its LaLiga Grassroots program in the Middle East and North Africa, offering young players from across the region the next step in their development pathway.**

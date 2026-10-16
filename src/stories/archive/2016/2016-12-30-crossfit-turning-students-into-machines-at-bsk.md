@@ -3,8 +3,8 @@ title: "CROSSFIT: Turning Students into Machines at BSK"
 date: 2016-12-30T00:00:00+04:00
 slug: "crossfit-turning-students-into-machines-at-bsk"
 excerpt: "\"We don't use machines. We build them.\""
+image: "/images/archive/2019/09/main-img-3012201692429.webp"
 wpId: 495
-wpFeaturedImage: "2019/09/Main-img-3012201692429.jpg"
 ---
 
 **"We don't use machines. We build them."**

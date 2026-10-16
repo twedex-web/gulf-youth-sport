@@ -5,9 +5,9 @@ slug: "world-school-basketball-championship-under-19-all-star-teams"
 kicker: "Basketball"
 categories: ["Basketball", "News & Features"]
 standfirst: "Hoop Mountain coaches and World School Basketball Championship technical directors Julian King and Ryan Yates pinpointed some of the most influential under-19 performers at the December tournament. See what made the players stand out below."
+image: "/images/archive/2020/01/ii2a1562.webp"
 metaDescription: "Hoop Mountain coaches and World School Basketball Championship technical directors Julian King and Ryan Yates pinpointed some of the most influential under-19 performers at the December tournament. See what made the players stand out below."
 wpId: 1784
-wpFeaturedImage: "2020/01/II2A1562.jpg"
 ---
 
 _Hoop Mountain coaches and World School Basketball Championship technical directors Julian King and Ryan Yates pinpointed some of the most influential performers at the December tournament. See what made the players stand out below:_

@@ -5,8 +5,8 @@ slug: "abu-dhabi-schools-champions-finals-this-weekend"
 kicker: "Abu Dhabi Schools Champions"
 categories: ["Abu Dhabi Schools Champions"]
 excerpt: "Abu Dhabi Schools Champions, the official schools competition and talent discovery platform organized by Abu Dhabi Sports Council, is getting ready for the for an exciting weekend as the Season Finals get underway."
+image: "/images/archive/2022/05/basketball.webp"
 wpId: 5634
-wpFeaturedImage: "2022/05/basketball.jpg"
 ---
 
 **Abu Dhabi Schools Champions, the official schools competition and talent discovery platform organized by Abu Dhabi Sports Council, is getting ready for the for an exciting weekend as the Season Finals get underway.**
@@ -21,7 +21,7 @@ These will be followed by an Awards Ceremony at 8:40pm in the presence of senior
 
 The action continues on Sunday 15th May as the football, basketball, volleyball and handball finals for Cycle 2 and 3 players will take place at Al Jazira Club from 4pm with 28 school teams.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/05/Athletics2-300x200.jpg)A full list of fixtures can be viewed below:
+![](/images/archive/2022/05/athletics2.webp)A full list of fixtures can be viewed below:
 
 **Handball**  
 Cycle 2 (Boys): Baynouna School (al Dhafra) vs. Al Taawaun School (Abu Dhabi)  
@@ -45,7 +45,7 @@ Cycle 3 (Boys): GEMS American Academy vs. American International School (Both Ab
 
 These matches will be followed by an Awards Ceremony at 8:45pm.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/05/football--300x200.jpg)The Finals will be executed in a festival atmosphere for the whole community with half time shows featuring entertainment and a fan zone with exciting activations alongside the qualifying matches. These include football challenges to test flexibility, speed and precision ball control with exciting prizes. All family and community members are invited to come down, support their players and take part in the Finals Festival.
+![](/images/archive/2022/05/football.webp)The Finals will be executed in a festival atmosphere for the whole community with half time shows featuring entertainment and a fan zone with exciting activations alongside the qualifying matches. These include football challenges to test flexibility, speed and precision ball control with exciting prizes. All family and community members are invited to come down, support their players and take part in the Finals Festival.
 
 The Abu Dhabi Schools Champions winners will receive lots of exciting prizes. Cycle 2 and 3 winning teams will win a 7-day Professional Development and Training Camp in Europe with Cycle 1 winners securing some thrilling local experiences.
 

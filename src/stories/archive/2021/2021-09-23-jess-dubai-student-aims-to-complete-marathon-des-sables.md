@@ -4,9 +4,9 @@ date: 2021-09-23T10:36:54+04:00
 slug: "jess-dubai-student-aims-to-complete-marathon-des-sables"
 categories: ["News & Features"]
 standfirst: "JESS Dubai student Yernur is aiming to complete the 250km Marathon Des Sables in Morocco's Sahara Desert next month."
+image: "/images/archive/2021/09/pr-yernur2-1.webp"
 metaDescription: "JESS Dubai student Yernur is aiming to complete the 250km Marathon Des Sables in Morocco's Sahara Desert next month."
 wpId: 5425
-wpFeaturedImage: "2021/09/PR_Yernur2-1.jpg"
 ---
 
 **A JESS Dubai student is heading for the Sahara Desert as he aims to complete the grueling 250km Marathon Des Sables from 6th October.**

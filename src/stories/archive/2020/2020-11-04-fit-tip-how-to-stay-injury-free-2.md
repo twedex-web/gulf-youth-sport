@@ -4,8 +4,8 @@ date: 2020-11-04T08:28:17+04:00
 slug: "fit-tip-how-to-stay-injury-free-2"
 categories: ["News & Features"]
 excerpt: "Does playing a certain sport make you more susceptible to injury? RU Active Sports Physiotherapy senior physiotherapist Johnathan Jagger spoke to GYS about the common injuries occurring to young players in particular…"
+image: "/images/archive/2020/10/copy-of-gys-sports-media-course-2.webp"
 wpId: 4257
-wpFeaturedImage: "2020/10/Copy-of-GYS-Sports-Media-Course-2.png"
 ---
 
 **Does playing a certain sport make you more susceptible to injury? [RU Active Sports Physiotherapy](https://www.ruactivephysiotherapy.com/) senior physiotherapist Johnathan Jagger spoke to GYS about the common injuries occurring to young players in particular sports.**

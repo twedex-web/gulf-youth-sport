@@ -3,8 +3,8 @@ title: "Dubai's Young Gymnasts Spring to Life at DuGym's 5th Trampoline Club Com
 date: 2018-06-25T00:00:00+04:00
 slug: "dubais-young-gymnasts-spring-to-life-at-dugyms-5th-trampoline-club-competition"
 excerpt: "Tuesday 12th June saw 48 of the UAE's most promising trampolinists participate in the 5th edition of DuGym's Club Competition at Horizon International School."
+image: "/images/archive/2019/09/main-img-25620186319.webp"
 wpId: 1055
-wpFeaturedImage: "2019/09/Main-img-25620186319.jpg"
 ---
 
 **Tuesday 12th June saw 48 of the UAE's most promising trampolinists participate in the 5th edition of DuGym's Club Competition at Horizon International School.**

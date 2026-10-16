@@ -5,8 +5,8 @@ slug: "pilgrimage-to-the-home-of-golf-world-school-golf-championship-tees-off-in
 kicker: "World School Games"
 categories: ["World School Games"]
 excerpt: "Nearly 100 Participants Assembled as Global Field and Middle East Powerhouses Tackle Ladybank, Kittocks, and Torrance"
+image: "/images/archive/2026/09/screenshot-2026-09-13-at-11-33-08-am.webp"
 wpId: 7330
-wpFeaturedImage: "2026/09/Screenshot-2026-09-13-at-11.33.08-am.png"
 ---
 
 **Nearly 100 Participants Assembled as Global Field and Middle East Powerhouses Tackle Ladybank, Kittocks, and Torrance**

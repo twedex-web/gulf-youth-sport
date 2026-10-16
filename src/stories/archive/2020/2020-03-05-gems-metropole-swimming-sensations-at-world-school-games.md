@@ -5,8 +5,8 @@ slug: "gems-metropole-swimming-sensations-at-world-school-games"
 kicker: "Match Zone"
 categories: ["Match Zone", "News & Features", "World School Games"]
 excerpt: "A cast from around the world and just two MVP awards to give out for hundreds of swimmers."
+image: "/images/archive/2020/03/bs3a9487-2.webp"
 wpId: 2318
-wpFeaturedImage: "2020/03/BS3A9487-2.jpg"
 ---
 
 A cast from around the world and just two MVP awards to give out for hundreds of swimmers.

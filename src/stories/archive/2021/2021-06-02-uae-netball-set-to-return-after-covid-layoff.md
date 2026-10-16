@@ -5,8 +5,8 @@ slug: "uae-netball-set-to-return-after-covid-layoff"
 kicker: "Netball"
 categories: ["Netball", "News & Features"]
 excerpt: "After a challenging 15 months the region’s elite netballers have something to shout about at long last, with UAE Netball set to make a dramatic comeback for the 2021-22 season."
+image: "/images/archive/2021/06/uae-netball-u17s.webp"
 wpId: 5284
-wpFeaturedImage: "2021/06/UAE-netball-u17s.jpeg"
 ---
 
 **After a challenging 15 months the region’s elite netballers have something to shout about at long last, with UAE Netball set to make a dramatic comeback for the 2021-22 season.**
@@ -31,7 +31,7 @@ This long squad of 18-20 athletes will then undergo intense preparations over su
 
 Skelding, who also heads up **[Active Netball](https://activenetball.com/)**, hailed the news as a landmark day for netball enthusiasts throughout the UAE.
 
-“Netball is a huge part of peoples’ lives here in the UAE. In addition to providing exercise, competition and![](https://gulfyouthsport.com/wp-content/uploads/2021/06/UAE-Netball-Open-squad.jpeg) community, we have a host of players going through their umpiring and coaching qualifications.
+“Netball is a huge part of peoples’ lives here in the UAE. In addition to providing exercise, competition and community, we have a host of players going through their umpiring and coaching qualifications.
 
 “There’s huge scope for young men and women to develop and grow both on and off the netball court, so the return of UAE Netball is the cherry on top of it all.”
 

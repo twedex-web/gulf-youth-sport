@@ -4,8 +4,8 @@ date: 2020-03-26T13:34:53+04:00
 slug: "engaging-students-with-less-natural-talent-all-a-science"
 categories: ["GYS", "News & Features"]
 excerpt: "Nord Anglia International School Al Khor director of sport Todd Wain is showing students that raw sporting talent can only get you so far."
+image: "/images/archive/2020/02/640px-handball-club-independiente-de-chivilcoy.webp"
 wpId: 2236
-wpFeaturedImage: "2020/02/640px-Handball_Club_Independiente_de_Chivilcoy.jpg"
 ---
 
 Nord Anglia International School Al Khor director of sport Todd Wain is showing students that raw sporting talent can only get you so far.
@@ -21,8 +21,6 @@ But knowing how to clear out of space to give team mates a chance to shine is ju
 “What has been interesting has been where students have begun to make connections in their learning between the two (sports).
 
 “This has happened with our younger students and their understanding of their role when either attacking or defending space."
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/02/CZE_vs_FRA_01_-_2010_European_Mens_Handball_Championship-1024x683.jpg" alt=""><figcaption>Too close for comfort: Todd Wain is teaching students ways to clear space on the court.</figcaption></figure>
 
 Wain said a more structural approach to sport has increased students' involvement in scheduled PE lessons, when they realise tactics and foresight can be just as pivotal to winning a game than pure talent.
 

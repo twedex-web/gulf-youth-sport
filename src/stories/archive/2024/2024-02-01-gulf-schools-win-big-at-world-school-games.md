@@ -5,9 +5,9 @@ slug: "gulf-schools-win-big-at-world-school-games"
 kicker: "World School Games"
 categories: ["World School Games"]
 standfirst: "Gulf schools put in some impressive performances at the recent World School Games hosted in Dubai last month."
+image: "/images/archive/2024/02/wsg-dubai-24-sat-u13-15-60.webp"
 metaDescription: "Gulf schools put in some impressive performances at the recent World School Games hosted in Dubai last month."
 wpId: 6783
-wpFeaturedImage: "2024/02/WSG-Dubai-24-Sat-u13-15-60-scaled.jpg"
 ---
 
 **Gulf schools were at the forefront of proceedings as the World School Games 2024 returned to Dubai at the end of January.**
@@ -18,7 +18,7 @@ The special guest for the opening ceremony was Commonwealth Games gold medallist
 
 Athletes across the three age groups showcased their prowess as things got underway shortly afterwards, with the track and field taking centre stage at Dubai Sports City.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2024/02/WSG-Dubai-24-Fri-9-300x201.jpg)
+![](/images/archive/2024/02/wsg-dubai-24-fri-9.webp)
 
 With a big crowd packed into the grandstand there was much anticipation as the starting gun sounded on the first events of the day. With the sun shining and a calm breeze in the air it was perfect conditions for the students to perform to their very best.
 

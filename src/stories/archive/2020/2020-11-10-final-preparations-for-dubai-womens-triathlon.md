@@ -5,8 +5,8 @@ slug: "final-preparations-for-dubai-womens-triathlon"
 kicker: "Triathlon"
 categories: ["News & Features", "Triathlon"]
 excerpt: "The Dubai Women’s Triathlon – taking place on November 27 – is open to women of all nationalities aged 15 and above, and those interested in taking part can register through Dubai Sports Council’s official website,…"
+image: "/images/archive/2020/11/mrk-0941-e1604901047580.webp"
 wpId: 4284
-wpFeaturedImage: "2020/11/MRK_0941-e1604901047580.jpg"
 ---
 
 The Dubai Women’s Triathlon  – taking place on November 27 – is open to women of all nationalities aged 15 and above, and those interested in taking part can register through Dubai Sports Council’s official website, [www.dubaisc.ae](http://www.dubaisc.ae/).
@@ -15,7 +15,7 @@ Participants can choose from three categories: Super Sprint (400m swim, 10km cyc
 
 Hosted by the Dubai Ladies Club, it will be held under the patronage of His Highness Sheikh Mansoor Bin Mohammed Bin Rashid Al Maktoum, Chairman of Dubai Sports Council, and there will be a training camp on November 14 to get participants ready for the event.
 
-To get the participants ready for the event, Dubai Ladies Club will be hosting a two-hour complimentary triathlon training camp for registered participants on November 14, starting at 9am.![](https://gulfyouthsport.com/wp-content/uploads/2020/11/MRK_0695-300x200.jpg)
+To get the participants ready for the event, Dubai Ladies Club will be hosting a two-hour complimentary triathlon training camp for registered participants on November 14, starting at 9am.
 
 Experts at the DLC Triathlon Camp will be informing participants about the different racing techniques and the best way to transition from swimming to cycling and then running. Participants will also lean about the necessary diet and nutrition needed for the gruelling races.
 

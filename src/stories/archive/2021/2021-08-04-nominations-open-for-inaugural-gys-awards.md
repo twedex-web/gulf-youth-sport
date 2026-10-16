@@ -4,10 +4,9 @@ date: 2021-08-04T13:27:27+04:00
 slug: "nominations-open-for-inaugural-gys-awards"
 kicker: "GYS Awards"
 categories: ["GYS Awards"]
+excerpt: "Make a nomination | Sponsor an award | Get tickets"
 wpId: 5360
 ---
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/08/social-2.jpg)
 
 **[Make a nomination](https://bit.ly/GYSAwards) | [Sponsor an award](<mailto:info@gulfyouthsport.com?subject=GYS Awards sponsorship>) | [Get tickets](https://gulfyouthsportexpo.yapsody.com/event/book/662826/30924486)**
 

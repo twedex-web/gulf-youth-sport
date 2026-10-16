@@ -5,8 +5,8 @@ slug: "joaquin-gonzalez-pinero-accepts-swim-scholarship-at-university-of-florida
 kicker: "Swimming"
 categories: ["News & Features", "Swimming"]
 excerpt: "Remember the name Joaquin Gonzalez Pinero."
+image: "/images/archive/2020/03/joaquin-gonzalez-florida.webp"
 wpId: 2332
-wpFeaturedImage: "2020/03/Joaquin-Gonzalez-florida.jpeg"
 ---
 
 Remember the name Joaquin Gonzalez Pinero.

@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Tanya Nanda"
 date: 2018-09-12T00:00:00+04:00
 slug: "wonderkid-wednesday-tanya-nanda"
 excerpt: "At the age of 14, Tanya Nanda is one of the Middle East's brightest tennis prospects."
+image: "/images/archive/2019/09/main-img-1292018183954.webp"
 wpId: 1107
-wpFeaturedImage: "2019/09/Main-img-1292018183954.jpg"
 ---
 
 At the age of 14, Tanya Nanda is one of the Middle East's brightest tennis prospects. The GEMS Dubai American Academy student is a member of the Tennis 360 academy and has enjoyed a memorable last 18 months on the court.  

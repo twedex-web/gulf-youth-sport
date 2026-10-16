@@ -5,13 +5,13 @@ slug: "trophies-and-tots-at-tekkers-bahrain"
 kicker: "Football"
 categories: ["Football"]
 excerpt: "Start them young. Tekkers Academy Bahrain is embodying this saying with its youngest members just 18 months old and part of the Tekker Tots program."
+image: "/images/archive/2020/08/img-0080-copy.webp"
 wpId: 3725
-wpFeaturedImage: "2020/08/IMG_0080-copy.jpg"
 ---
 
 Start them young. Tekkers Academy Bahrain is embodying this saying with its youngest members just 18 months old and part of the Tekker Tots program. From there the Academy coaches boys and girls of all ages, all the way up to an adult ladies team.
 
-Director of football Deena Rahman said the academy looked to integrate some new methods into its training this term, after re-evaluating during the COVID-19 pause.![](https://gulfyouthsport.com/wp-content/uploads/2020/08/IMG_5459-640x480.jpg)
+Director of football Deena Rahman said the academy looked to integrate some new methods into its training this term, after re-evaluating during the COVID-19 pause.
 
 "We are most looking forward to a bit of normality, and seeing children out playing sport and having fun. This period has given us time to also reflect on how we as a coaching team can help our players progress even further and we are excited to get some of our new initiatives incorporated into our programs," she said.
 

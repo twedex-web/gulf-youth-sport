@@ -3,8 +3,8 @@ title: "Dubai's Top Teams in the duFC Enter the KO Stages"
 date: 2018-03-21T00:00:00+04:00
 slug: "dubais-top-teams-in-the-dufc-enter-the-ko-stages"
 excerpt: "In the final week of the Dubai group stages of duFC’s official UAE Schools & Streets Cups, teams battled it out in their final efforts to top their groups and get one step closer to the du Football Champions Finals."
+image: "/images/archive/2019/09/main-img-2132018133424.webp"
 wpId: 956
-wpFeaturedImage: "2019/09/Main-img-2132018133424.jpg"
 ---
 
 In the final week of the Dubai group stages of duFC’s official UAE Schools & Streets Cups, teams battled it out in their final efforts to top their groups and get one step closer to the du Football Champions Finals.

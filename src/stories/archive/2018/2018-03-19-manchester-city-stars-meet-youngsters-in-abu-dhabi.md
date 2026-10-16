@@ -3,8 +3,8 @@ title: "Manchester City Stars Meet Youngsters in Abu Dhabi"
 date: 2018-03-19T00:00:00+04:00
 slug: "manchester-city-stars-meet-youngsters-in-abu-dhabi"
 excerpt: "The next generation of Abu Dhabi's football stars got the chance to meet their heroes when English Premier League champions-elect Manchester City jetted in to the UAE for a warm-weather training camp ahead of the final…"
+image: "/images/archive/2019/09/main-img-1932018163837.webp"
 wpId: 950
-wpFeaturedImage: "2019/09/Main-img-1932018163837.jpg"
 ---
 
 **The next generation of Abu Dhabi's football stars got the chance to meet their heroes when English Premier League champions-elect Manchester City jetted in to the UAE for a warm-weather training camp ahead of the final push in this season's domestic and European competitions.** 

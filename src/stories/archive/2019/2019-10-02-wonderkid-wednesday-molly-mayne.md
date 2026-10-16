@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-molly-mayne"
 kicker: "Swimming"
 categories: ["Swimming", "Wonderkid Wednesday"]
 excerpt: "Molly's performances also saw her win the Swim Ireland's \"Performance Pathway Athlete of the Year\" Award."
+image: "/images/archive/2019/10/1molly-mayne-hamilton-aquatics.webp"
 wpId: 1282
-wpFeaturedImage: "2019/10/1Molly-Mayne-Hamilton-Aquatics.jpg"
 ---
 
 ### This week's Wonderkid Wednesday is Team Ireland Swimmer Molly Mayne.

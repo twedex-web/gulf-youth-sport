@@ -5,8 +5,8 @@ slug: "dubai-and-zoe-stapleys-love-of-netball-intwined"
 kicker: "Netball"
 categories: ["Netball", "News & Features"]
 excerpt: "Zoe Stapley's love of netball has grown at the same rate as Dubai's."
+image: "/images/archive/2020/07/1d8fecfa-ff09-45a9-9007-22a5a5cb3aef-e1595130862767.webp"
 wpId: 3539
-wpFeaturedImage: "2020/07/1d8fecfa-ff09-45a9-9007-22a5a5cb3aef-e1595130862767.jpg"
 ---
 
 Zoe Stapley's love of netball has grown at the same rate as Dubai's.
@@ -14,8 +14,6 @@ Zoe Stapley's love of netball has grown at the same rate as Dubai's.
 The Dubai Netball Academy star has become a mainstay in national squads, and even had the title of captain for the UAE's U17 team at international tournaments.
 
 Fortunately Dubai's thirst for netball blossomed as Stapley,18, grew up. The Jumeirah College student first starting playing in grade four, but wasn't hooked until a couple of years later.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/07/IMG_5932-682x1024.jpg" alt=""><figcaption>Zoe Stapley in UAE colours.</figcaption></figure>
 
 "There wasn’t as many leagues or teams in Dubai as there are now when I first started playing so it was purely just a sport I played at school. As Dubai’s buzz for netball grew so did mine and I was introduced to more coaching and teams outside of school which really helped my love for the sport grow," Stapley said.
 

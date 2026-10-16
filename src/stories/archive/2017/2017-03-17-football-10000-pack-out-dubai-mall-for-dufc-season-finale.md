@@ -3,8 +3,8 @@ title: "FOOTBALL: 10,000 Pack Out Dubai Mall for duFC Season Finale"
 date: 2017-03-17T00:00:00+04:00
 slug: "football-10000-pack-out-dubai-mall-for-dufc-season-finale"
 excerpt: "duFC Concludes Successful Second Season in front of 10,000 supporters at Dubai Mall"
+image: "/images/archive/2019/09/main-img-183201719822.webp"
 wpId: 592
-wpFeaturedImage: "2019/09/Main-img-183201719822.jpg"
 ---
 
 **duFC Concludes Successful Second Season in front of 10,000 supporters at Dubai Mall**

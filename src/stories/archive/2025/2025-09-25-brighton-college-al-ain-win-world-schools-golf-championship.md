@@ -5,10 +5,10 @@ slug: "brighton-college-al-ain-win-world-schools-golf-championship"
 kicker: "Golf"
 categories: ["Golf", "News & Features", "World School Games"]
 standfirst: "A number of players from Gulf schools last week took part in the prestigious World Schools Golf Championship in Scotland."
+image: "/images/archive/2025/09/jkdbsakdnskd489449.webp"
 seoTitle: "Brighton College Al Ain Win World Schools Golf Championship"
 metaDescription: "A number of players from Gulf schools last week took part in the prestigious World Schools Golf Championship in Scotland."
 wpId: 6996
-wpFeaturedImage: "2025/09/jkdbsakdnskd489449-scaled.jpg"
 ---
 
 **A number of players from Gulf schools last week took part in the prestigious World Schools Golf Championship in Scotland, with Brighton College Al Ain scooping the overall team prize!**
@@ -41,15 +41,15 @@ See below the full list of Gulf-based winners below…
 
   
 
-![](https://gulfyouthsport.com/wp-content/uploads/2025/09/jkdbsakdnskd488953-scaled.jpg)
+![](/images/archive/2025/09/jkdbsakdnskd488953.webp)
 
   
 
-![](https://gulfyouthsport.com/wp-content/uploads/2025/09/jkdbsakdnskd488975-scaled.jpg)
+![](/images/archive/2025/09/jkdbsakdnskd488975.webp)
 
   
 
-![](https://gulfyouthsport.com/wp-content/uploads/2025/09/jkdbsakdnskd489449-scaled.jpg)
+![](/images/archive/2025/09/jkdbsakdnskd489449.webp)
 
 Upon securing the WSG Golf Team Event title, Brighton College Al Ain Head Teacher, Oliver Bromley-Hall, told _Education UAE:_
 

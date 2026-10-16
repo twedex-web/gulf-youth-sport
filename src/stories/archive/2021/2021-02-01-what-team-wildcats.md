@@ -4,8 +4,8 @@ date: 2021-02-01T09:16:09+04:00
 slug: "what-team-wildcats"
 categories: ["News & Features"]
 excerpt: "GEMS Wellington International School is taking a walk on the wild side."
+image: "/images/archive/2021/02/screen-shot-2021-01-31-at-18-57-01.webp"
 wpId: 4858
-wpFeaturedImage: "2021/02/Screen-Shot-2021-01-31-at-18.57.01.png"
 ---
 
 **GEMS Wellington International School is taking a walk on the wild side.**

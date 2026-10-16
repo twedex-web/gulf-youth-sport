@@ -3,8 +3,8 @@ title: "Abu Dhabi Students Win Dream EPL Trip to Manchester"
 date: 2018-06-25T00:00:00+04:00
 slug: "abu-dhabi-students-win-dream-epl-trip-to-manchester"
 excerpt: "Five students from Abu Dhabi have won a trip to Manchester to see their footballing heroes play in the English Premier League after being named ‘Healthpoint Heroes’."
+image: "/images/archive/2019/09/main-img-256201863151.webp"
 wpId: 1057
-wpFeaturedImage: "2019/09/Main-img-256201863151.jpg"
 ---
 
 **Five students from Abu Dhabi have won a trip to Manchester to see their footballing heroes play in the English Premier League after being named _‘Healthpoint Heroes’._**

@@ -5,9 +5,9 @@ slug: "dassa-basketball-completes-remarkable-turnaround"
 kicker: "Basketball"
 categories: ["Basketball", "Match Zone"]
 standfirst: "On January 21st DASSA Select's under-15 basketball side gave its all against JAM Academy but went down by 28 points in its first representative match.Fast forward two weeks and the improvement could not be more apparent."
+image: "/images/archive/2020/02/whatsapp-image-2020-02-04-at-17-41-46.webp"
 metaDescription: "On January 21st DASSA Select's under-15 basketball side gave its all against JAM Academy but went down by 28 points in its first representative match.Fast forward two weeks and the improvement could not be more apparent."
 wpId: 1937
-wpFeaturedImage: "2020/02/WhatsApp-Image-2020-02-04-at-17.41.46.jpeg"
 ---
 
 On January 21st DASSA Select's under-15 basketball side gave its all against JAM Academy but went down by 28 points in its first representative match.

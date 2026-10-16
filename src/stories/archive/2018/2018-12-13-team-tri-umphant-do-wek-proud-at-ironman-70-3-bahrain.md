@@ -5,8 +5,8 @@ slug: "team-tri-umphant-do-wek-proud-at-ironman-70-3-bahrain"
 kicker: "Triathlon"
 categories: ["Triathlon"]
 excerpt: "11 students, three teachers, four days and one almighty challenge."
+image: "/images/archive/2019/09/img-13122018102828-0eb36ff986b849b89d2104c5bfc1b708.webp"
 wpId: 1156
-wpFeaturedImage: "2019/09/img-13122018102828-0eb36ff986b849b89d2104c5bfc1b708.png"
 ---
 
 **11 students, three teachers, four days and one almighty challenge.**
@@ -19,7 +19,7 @@ _"Mr Ashby and I set the club up in 2017 to give our students the opportunity to
 
 After months of preparation, the Team Tri-umphant coaches and athletes, accompanied by an enthusiastic support crew of Mums, Dads and siblings, travelled with [Trans World Educational Experiences](http://twedex.com/) for an experience unlike any they’ve had before.
 
-After a day of culture and sightseeing on Thursday, an action-packed Friday saw the junior athletes compete in the Aquathlon (run & swim) and Iron Kids races, whilst Miss Clarke and several of the mums that had accompanied the group completed the Iron Girl 5km road-race. ![](https://gulfyouthsport.com/wp-content/uploads/2018/12/gems-wellington-300x200.jpg)
+After a day of culture and sightseeing on Thursday, an action-packed Friday saw the junior athletes compete in the Aquathlon (run & swim) and Iron Kids races, whilst Miss Clarke and several of the mums that had accompanied the group completed the Iron Girl 5km road-race.
 
 Former WEK student Lucas, who despite transferring to Dubai English Speaking College continues to train with and compete for Team Tri-umphant, was the hero of the hour after a stellar performance saw him claim 1st place and an impressive trophy in the 10-11 year-old category.
 

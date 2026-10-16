@@ -5,8 +5,8 @@ slug: "students-challenged-to-keep-fit-during-school-closure"
 kicker: "Athletics"
 categories: ["Athletics", "News & Features"]
 excerpt: "The shutdown of school sport and sporting academies in the UAE should not mean students have to miss out on their share of physical activity."
+image: "/images/archive/2020/03/screen-shot-2020-03-11-at-14-32-20.webp"
 wpId: 2446
-wpFeaturedImage: "2020/03/Screen-Shot-2020-03-11-at-14.32.20.png"
 ---
 
 The shutdown of school sport and sporting academies in the UAE should not mean students have to miss out on their share of physical activity.

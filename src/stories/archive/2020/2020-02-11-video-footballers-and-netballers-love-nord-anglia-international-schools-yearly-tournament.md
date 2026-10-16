@@ -5,8 +5,8 @@ slug: "video-footballers-and-netballers-love-nord-anglia-international-schools-y
 kicker: "Football"
 categories: ["Football", "Netball", "News & Features"]
 excerpt: "Nord Anglia International School Dubai again hosted a brilliant day of under-11s football and netball in competition for the NAS Dubai Cup."
+image: "/images/archive/2020/02/screen-shot-2020-02-11-at-2-14-22-pm.webp"
 wpId: 2012
-wpFeaturedImage: "2020/02/Screen-Shot-2020-02-11-at-2.14.22-pm.png"
 ---
 
 Nord Anglia International School Dubai again hosted a brilliant day of under-11s football and netball in competition for the NAS Dubai Cup.

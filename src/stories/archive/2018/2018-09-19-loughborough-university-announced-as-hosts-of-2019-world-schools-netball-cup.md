@@ -3,8 +3,8 @@ title: "Loughborough University Announced as Hosts of 2019 World Schools Netball
 date: 2018-09-19T00:00:00+04:00
 slug: "loughborough-university-announced-as-hosts-of-2019-world-schools-netball-cup"
 excerpt: "The organisers of the World School Games have today confirmed that a deal has been struck with Loughborough University for the hosting rights to the 2019 World Schools Netball Cup."
+image: "/images/archive/2019/09/main-img-199201818488.webp"
 wpId: 1111
-wpFeaturedImage: "2019/09/Main-img-199201818488.jpg"
 ---
 
 **The organisers of the World School Games have today confirmed that a deal has been struck with Loughborough University for the hosting rights to the 2019 World Schools Netball Cup.**

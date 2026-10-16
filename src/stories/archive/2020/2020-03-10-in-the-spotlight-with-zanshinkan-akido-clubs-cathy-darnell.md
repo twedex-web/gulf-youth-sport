@@ -5,8 +5,8 @@ slug: "in-the-spotlight-with-zanshinkan-akido-clubs-cathy-darnell"
 kicker: "In The Spotlight"
 categories: ["In The Spotlight"]
 excerpt: "YTEMBED0000"
+image: "/images/archive/2020/03/screen-shot-2020-03-10-at-13-21-39.webp"
 wpId: 2433
-wpFeaturedImage: "2020/03/Screen-Shot-2020-03-10-at-13.21.39.png"
 ---
 
 #### _‘In the Spotlight’ is a Gulf Youth Sport feature series giving schools and academies a forum to chat about achievements, upcoming events and general views on sport in the UAE._

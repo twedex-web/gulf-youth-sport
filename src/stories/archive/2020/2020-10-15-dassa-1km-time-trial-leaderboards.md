@@ -5,8 +5,8 @@ slug: "dassa-1km-time-trial-leaderboards"
 kicker: "DASSA"
 categories: ["DASSA", "News & Features"]
 excerpt: "DASSA's 1km Running Competition for primary students has only just started, but already entries have been flowing in."
+image: "/images/archive/2020/10/copy-of-copy-of-gys-sports-media-course-2.webp"
 wpId: 4104
-wpFeaturedImage: "2020/10/Copy-of-Copy-of-GYS-Sports-Media-Course-2.png"
 ---
 
 **DASSA's 1km Running Competition for primary students has only just started, but already entries have been flowing in.**
@@ -18,11 +18,3 @@ wpFeaturedImage: "2020/10/Copy-of-Copy-of-GYS-Sports-Media-Course-2.png"
 **Well done to all runners that have already pounded the pavement to put forward a time and there's sure to be changes in the leaderboard as more entries come through to DASSA headquarters.**
 
 **Scroll through the leaderboards below (current as of October 15th) and see if you can spot your friends or school on the list!**
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/10/U8-Virtual-Running-Competition.png)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/10/U9-update-Virtual-Running-Competition.png)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/10/1-1.png)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/10/U11.png)

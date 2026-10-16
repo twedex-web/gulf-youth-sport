@@ -5,9 +5,9 @@ slug: "rafa-aldemita-tennis-ranking-atf-mubadala-champion"
 kicker: "In The Spotlight"
 categories: ["In The Spotlight", "Tennis"]
 standfirst: "Meet Rafa Aldemita, the former UAE No. 1 and current ATF No. 14 junior tennis star. From Road to Mubadala Masters Champion to ATF titles, see his journey."
+image: "/images/archive/2026/05/alexi-aldemita-tennis-player-spotlight-gys-post-1.webp"
 metaDescription: "Meet Rafa Aldemita, the former UAE No. 1 and current ATF No. 14 junior tennis star. From Road to Mubadala Masters Champion to ATF titles, see his journey."
 wpId: 7153
-wpFeaturedImage: "2026/05/Alexi-Aldemita-tennis-player-spotlight-GYS-post-1.png"
 ---
 
 ## **Beyond the Rankings: Why Rafa Aldemita is the undisputed King of Junior Tennis in the Gulf**

@@ -3,8 +3,8 @@ title: "City Football Schools Summer Schedule Released"
 date: 2018-05-13T00:00:00+04:00
 slug: "city-football-schools-summer-schedule-released"
 excerpt: "As the weather heats up, City Football Schools will head indoors across their three venues for their fifth term of the season and will be offering specific Ramadan timings throughout the Holy Month."
+image: "/images/archive/2019/09/main-img-1352018171745.webp"
 wpId: 1027
-wpFeaturedImage: "2019/09/Main-img-1352018171745.jpg"
 ---
 
 **As the weather heats up, City Football Schools will head indoors across their three venues for their fifth term of the season and will be offering specific Ramadan timings throughout the Holy Month.**

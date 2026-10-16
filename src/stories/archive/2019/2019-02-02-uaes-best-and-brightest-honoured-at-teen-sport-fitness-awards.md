@@ -4,8 +4,8 @@ date: 2019-02-02T12:32:22+04:00
 slug: "uaes-best-and-brightest-honoured-at-teen-sport-fitness-awards"
 categories: ["GYS", "News & Features"]
 excerpt: "Dubai English Speaking College and Hamilton Aquatics were amongst the big winners at this past weeks UAE Teen Sport & Fitness Awards 2019."
+image: "/images/archive/2019/08/img-152019165030-1744e6921c864e3daae17d574868cb86.webp"
 wpId: 33
-wpFeaturedImage: "2019/08/img-152019165030-1744e6921c864e3daae17d574868cb86.jpg"
 ---
 
 Dubai English Speaking College and Hamilton Aquatics were amongst the big winners at this past weeks UAE Teen Sport & Fitness Awards 2019.

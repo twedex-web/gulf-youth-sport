@@ -5,8 +5,8 @@ slug: "kings-win-final-virtual-fixtures"
 kicker: "Match Zone"
 categories: ["GYS", "Match Zone"]
 excerpt: "Sharjah English School and Kings' School Al Barsha took on each other in a HomeCourt double header! With some prior virtual fixture experience behind them, Kings' managed to take home wins in both matches."
+image: "/images/archive/2020/06/copy-of-virtual-fixtures-5.webp"
 wpId: 3387
-wpFeaturedImage: "2020/06/Copy-of-Virtual-Fixtures-5.png"
 ---
 
 Sharjah English School and Kings' School Al Barsha took on each other in a HomeCourt double header! With some prior virtual fixture experience behind them, Kings' managed to take home wins in both matches.

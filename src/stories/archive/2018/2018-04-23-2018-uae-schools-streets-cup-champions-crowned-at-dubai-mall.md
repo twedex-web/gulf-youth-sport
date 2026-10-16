@@ -3,8 +3,8 @@ title: "2018 UAE Schools & Streets Cup Champions Crowned at Dubai Mall"
 date: 2018-04-23T00:00:00+04:00
 slug: "2018-uae-schools-streets-cup-champions-crowned-at-dubai-mall"
 excerpt: "du Football Champions, the only international scouting platform in partnership with LaLiga and home of the official UAE Schools & Streets Cups, witnessed its largest Finals to date at the Dubai Mall Ice Rink drawing…"
+image: "/images/archive/2019/09/main-img-2342018114752.webp"
 wpId: 1002
-wpFeaturedImage: "2019/09/Main-img-2342018114752.jpg"
 ---
 
 **du Football Champions, the only international scouting platform in partnership with LaLiga and home of the official UAE Schools & Streets Cups, witnessed its largest Finals to date at the Dubai Mall Ice Rink drawing over 10,000 fans and spectators over the course of the day.**

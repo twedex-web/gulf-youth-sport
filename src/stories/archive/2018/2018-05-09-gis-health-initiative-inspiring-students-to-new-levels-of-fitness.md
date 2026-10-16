@@ -3,8 +3,8 @@ title: "GIS Health Initiative Inspiring Students to New Levels of Fitness"
 date: 2018-05-09T00:00:00+04:00
 slug: "gis-health-initiative-inspiring-students-to-new-levels-of-fitness"
 excerpt: "GEMS International School students are set to lead the charge in Dubai's fight to get fit as the school prepares to launch their new 'My Health' initiative."
+image: "/images/archive/2019/09/main-img-9520181000.webp"
 wpId: 1021
-wpFeaturedImage: "2019/09/Main-img-9520181000.jpg"
 ---
 
 **GEMS International School students are set to lead the charge in Dubai's fight to get fit as the school prepares to launch their new 'My Health' initiative.**

@@ -5,8 +5,8 @@ slug: "dassa-1km-challenge-winners-announced"
 kicker: "DASSA"
 categories: ["DASSA", "Match Zone"]
 excerpt: "After 40 days and close to 750 entries, the winners of the DASSA 1km Virtual Running Challenge have been announced."
+image: "/images/archive/2020/11/dassa-1km-winner.webp"
 wpId: 4332
-wpFeaturedImage: "2020/11/DASSA-1km-winner.png"
 ---
 
 **After 40 days and close to 750 entries, the winners of the DASSA 1km Virtual Running Challenge have been announced.**
@@ -22,19 +22,3 @@ wpFeaturedImage: "2020/11/DASSA-1km-winner.png"
 **Here are the top 10 times in each category–browse through the names as you're sure to spot your school or a friend on there!**
 
 **Congratulations to all those that made the final leaderboards, and to every student, parent, teacher and academy for supporting the competition.**
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/11/U8-Boys-winners.png)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/11/U8-girls-FINAL.png)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/11/U9-Boys-Winners.png)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/11/U9-girls-final.png)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/11/U10-boys-update.png)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/11/irls-FINAL.png)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/11/U11-boys-UPDATE.png)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/11/U11-Girls-final.png)

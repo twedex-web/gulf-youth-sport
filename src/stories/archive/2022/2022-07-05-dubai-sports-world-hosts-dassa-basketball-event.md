@@ -5,9 +5,9 @@ slug: "dubai-sports-world-hosts-dassa-basketball-event"
 kicker: "DASSA"
 categories: ["DASSA"]
 standfirst: "Schools from across Dubai visited Dubai Sports World for an invitational friendly basketball tournament before the end of year last week."
+image: "/images/archive/2022/07/5t5a0187.webp"
 metaDescription: "Schools from across Dubai visited Dubai Sports World for an invitational friendly basketball tournament before the end of year last week."
 wpId: 5668
-wpFeaturedImage: "2022/07/5T5A0187-scaled.jpg"
 ---
 
 **DASSA schools were taking full advantage of the fantastic facilities at Dubai Sports World this summer, with more than 200 primary students taking part in a development tournament on the indoor courts.**
@@ -22,8 +22,8 @@ A big congratulations to all students who represented their school in sport this
 
 The full gallery of images from the event at Dubai Sports World can be viewed by **[clicking here](https://gys001.zenfolio.com/p66981559)**.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/07/5T5A9895-scaled.jpg)
+![](/images/archive/2022/07/5t5a9895.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/07/5T5A9871-scaled.jpg)
+![](/images/archive/2022/07/5t5a9871.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/07/5T5A0187-scaled.jpg)
+![](/images/archive/2022/07/5t5a0187.webp)

@@ -3,8 +3,8 @@ title: "Top Tip Tuesday - The Miracle Plant"
 date: 2017-10-03T00:00:00+04:00
 slug: "top-tip-tuesday-the-miracle-plant"
 excerpt: "Most commonly known for soothing sun burns, aloe vera is an increasingly popular medicinal plant that dates back thousands of years."
+image: "/images/archive/2019/09/main-img-210201712251.webp"
 wpId: 765
-wpFeaturedImage: "2019/09/Main-img-210201712251.jpg"
 ---
 
 ## **Top Tip Tuesday** 
@@ -14,8 +14,6 @@ Most commonly known for soothing sun burns, aloe vera is an increasingly popular
 > “One of the most crucial elements found in aloe vera gel is a complex carbohydrate known as acemannan. It allows nutrients to reach the cells, nourish them and at the same time relieve them of toxins” ([food.ntv.com](http://food.ntv.com/))
 
 The plant also contains something called _proteolytic enzymes_ which repairs dead skin cells on the scalp, which can help treat hair fall. Although it's best known for treating skin injuries, aloe vera also has other highly beneficial effects on health as well as unbelievable healing properties.
-
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/Fun-Facts-of-Aloe-Vera.jpg)
 
 ## Don't just take our word for it, here are some of the amazing benefits of aloe vera:
 

@@ -3,8 +3,8 @@ title: "LFIGP Proud After Girls Football Team Push UAE National Side to the Limi
 date: 2018-12-20T00:00:00+04:00
 slug: "lfigp-proud-after-girls-football-team-push-uae-national-side-to-the-limit"
 excerpt: "The International French School Georges Pompidou-Dubai (LFIGP) U14 girls football team got to put their ability to the test when they took on the UAE U14 national girls team in a thrilling game at LFIGP Academic City…"
+image: "/images/archive/2019/09/img-20122018124431-0e61ad302ef84ed1a76d742b6a6ca17f.webp"
 wpId: 1160
-wpFeaturedImage: "2019/09/img-20122018124431-0e61ad302ef84ed1a76d742b6a6ca17f.jpg"
 ---
 
 The International French School Georges Pompidou-Dubai (LFIGP) U14 girls football team got to put their ability to the test when they took on the UAE U14 national girls team in a thrilling game at LFIGP Academic City last week.

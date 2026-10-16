@@ -4,8 +4,8 @@ date: 2020-07-15T10:33:14+04:00
 slug: "dubai-sports-council-praises-sports-sector"
 categories: ["GYS", "News & Features"]
 excerpt: "His Highness Sheikh Mansoor Bin Mohammed Bin Rashid Al Maktoum, Chairman of Dubai Sports Council, has praised the resilience of Dubai’s innovative sports sector as it bounces back from COVID-19 pandemic."
+image: "/images/archive/2020/07/screen-shot-2020-07-15-at-17-00-19.webp"
 wpId: 3520
-wpFeaturedImage: "2020/07/Screen-Shot-2020-07-15-at-17.00.19.png"
 ---
 
 His Highness Sheikh Mansoor Bin Mohammed Bin Rashid Al Maktoum, Chairman of Dubai Sports Council, has praised the resilience of Dubai’s innovative sports sector as it bounces back from COVID-19 pandemic.
@@ -18,15 +18,13 @@ The opening of the sports sector has been welcomed by Dubai’s diverse communit
 
 "It is a vital sector of our society, supporting the government’s strategic objectives and creating a community that is happy and healthy, and among the most physically-active in the world.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-15-at-16.59.53.png" alt=""><figcaption>DSC Board Member Meeting</figcaption></figure>
-
 "The sports sector is also crucial for the national economy because it creates jobs opportunities for thousands of people, and attracts a huge number of tourists to the many top international events that we host here in Dubai around the year.
 
 "Now, as the sports sectors opens up following the COVID-19 lockdown, and our children return to their academies and elders to their favourite sports and fitness centres, or parks, we can be proud of the work we have put in.
 
 "Together, we have shown our resilience in overcoming all the challenges that the sports sector in Dubai faced over the past few months, and now we are planning for the next stage with all our stakeholders. Very soon, the Council will be announcing new initiatives and plans that will strengthen the sports sector and give it boost heading into the post COVID-19 phase."
 
-HH Sheikh Mansoor Bin Mohammed made those observations after being surrounded in positivity after chairing a virtual meeting of the Board of Directors of DSC.![](https://gulfyouthsport.com/wp-content/uploads/2018/06/II2A9276_1-300x200.jpg)
+HH Sheikh Mansoor Bin Mohammed made those observations after being surrounded in positivity after chairing a virtual meeting of the Board of Directors of DSC.
 
 The meeting reviewed the performance report of the Council for the period May 15 to July 1, which included the measures taken by the Council for the return of sports activity in Dubai and the safety protocols it developed for the reopening of sports and fitness centres and academies.
 

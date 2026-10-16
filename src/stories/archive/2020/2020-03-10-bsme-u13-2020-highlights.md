@@ -5,8 +5,8 @@ slug: "bsme-u13-2020-highlights"
 kicker: "Match Zone"
 categories: ["Match Zone", "Multi-Sports"]
 excerpt: "The U13 BSME Games provided so much enjoyment for athletes, with St Christopher's Bahrain crowned overall champions."
+image: "/images/archive/2020/03/img-3027.webp"
 wpId: 2423
-wpFeaturedImage: "2020/03/IMG_3027.jpg"
 ---
 
 The U13 BSME Games provided so much enjoyment for athletes, with St Christopher's Bahrain crowned overall champions.

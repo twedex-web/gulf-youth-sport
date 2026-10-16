@@ -5,15 +5,13 @@ slug: "dassa-update-on-primary-competition"
 kicker: "DASSA"
 categories: ["DASSA", "News & Features"]
 excerpt: "All things going well, DASSA competition will be able to resume in January. With every day that passes, a return to sporting competition between schools inches closer."
+image: "/images/archive/2020/09/update.webp"
 wpId: 3765
-wpFeaturedImage: "2020/09/UPDATE.png"
 ---
 
 All things going well, DASSA competition will be able to resume in January. With every day that passes, a return to sporting competition between schools inches closer. For many students weekly DASSA competition is a highlight and while we're not at that point at the moment, the organisation will be ready when the day comes.
 
 DASSA primary coordinator David Tangney said that a return to primary DASSA inter-school sport will be gradual.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2019/09/David-Tangney-min-210x300.jpg" alt="DASSA Select Squads"><figcaption>DASSA primary coordinator David Tangney</figcaption></figure>
 
 "In terms of what this looks like in the coming months, the next step is for school sport to return in our own school grounds with training before and after the school day. We would then follow this with some small regional friendlies matches towards the start of the winter months and hopefully have a competitive season of fixtures begin in January," he said.
 

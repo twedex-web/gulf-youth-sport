@@ -5,10 +5,10 @@ slug: "strong-gulf-showing-at-world-schools-netball-cup"
 kicker: "Netball"
 categories: ["Netball", "News & Features", "World School Games"]
 standfirst: "Two Gulf schools recently took part in the World Schools Netball Cup in the UK, with some incredible performances on a global stage."
+image: "/images/archive/2025/07/dc-winners.webp"
 seoTitle: "Strong Gulf showing at World Schools Netball Cup"
 metaDescription: "Two Gulf schools recently took part in the World Schools Netball Cup in the UK, with some incredible performances on a global stage."
 wpId: 6984
-wpFeaturedImage: "2025/07/DC-winners-scaled.jpg"
 ---
 
 **Two Gulf schools recently took part in the World Schools Netball Cup in the UK, with some incredible performances on a global stage.**

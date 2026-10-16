@@ -3,8 +3,8 @@ title: "FOOTBALL: La Liga Academy to Launch in UAE"
 date: 2017-04-25T00:00:00+04:00
 slug: "football-la-liga-academy-to-launch-in-uae"
 excerpt: "LaLiga today announced the worldwide launch of its first ever Football Academy. The even bigger news? They're launching it here in the UAE in September!!"
+image: "/images/archive/2019/09/main-img-254201795732.webp"
 wpId: 645
-wpFeaturedImage: "2019/09/Main-img-254201795732.jpg"
 ---
 
 **LaLiga today announced the worldwide launch of its first ever Football Academy. The even bigger news? They're launching it here in the UAE in September!!**

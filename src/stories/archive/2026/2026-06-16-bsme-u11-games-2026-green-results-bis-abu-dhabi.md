@@ -5,9 +5,9 @@ slug: "bsme-u11-games-2026-green-results-bis-abu-dhabi"
 kicker: "BSME Games"
 categories: ["BSME Games"]
 standfirst: "The British International School Abu Dhabi dominates the BSME U11 Games 2026 Green division. See full results, MVPs, and media links."
+image: "/images/archive/2026/06/whatsapp-image-2026-06-16-at-10-04-08.webp"
 metaDescription: "The British International School Abu Dhabi dominates the BSME U11 Games 2026 Green division. See full results, MVPs, and media links."
 wpId: 7210
-wpFeaturedImage: "2026/06/WhatsApp-Image-2026-06-16-at-10.04.08.jpeg"
 ---
 
 ## **Capital Supremacy: The British International School Abu Dhabi Sweeps BSME U11 Green Games Title**

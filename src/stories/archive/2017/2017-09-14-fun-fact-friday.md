@@ -3,8 +3,8 @@ title: "Fun Fact Friday"
 date: 2017-09-14T00:00:00+04:00
 slug: "fun-fact-friday"
 excerpt: "-Fun Facts About Soccer:"
+image: "/images/archive/2019/09/main-img-149201713144.webp"
 wpId: 731
-wpFeaturedImage: "2019/09/Main-img-149201713144.jpg"
 ---
 
 **\-Fun Facts About Soccer:**

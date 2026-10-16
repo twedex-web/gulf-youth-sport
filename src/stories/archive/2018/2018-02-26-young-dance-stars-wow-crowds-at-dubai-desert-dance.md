@@ -3,8 +3,8 @@ title: "Young Dance Stars Wow Crowds at Dubai Desert Dance"
 date: 2018-02-26T00:00:00+04:00
 slug: "young-dance-stars-wow-crowds-at-dubai-desert-dance"
 excerpt: "School dance groups from across the UAE wowed the crowds at Dubai College on Thursday evening with some stunning performances in the 2018 Dubai Desert Dance."
+image: "/images/archive/2019/09/main-img-262201891638.webp"
 wpId: 929
-wpFeaturedImage: "2019/09/Main-img-262201891638.jpg"
 ---
 
 **School dance groups from across the UAE wowed the crowds at Dubai College on Thursday evening with some stunning performances in the 2018 Dubai Desert Dance.**

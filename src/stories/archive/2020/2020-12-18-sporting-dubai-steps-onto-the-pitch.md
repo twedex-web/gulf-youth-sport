@@ -5,8 +5,8 @@ slug: "sporting-dubai-steps-onto-the-pitch"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "A new football academy has entered Dubai and is ready to make a mark. Sporting Dubai opened to talented young footballers in late summer this year."
+image: "/images/archive/2020/12/screen-shot-2020-12-18-at-13-58-48.webp"
 wpId: 4600
-wpFeaturedImage: "2020/12/Screen-Shot-2020-12-18-at-13.58.48.png"
 ---
 
 A new football academy has entered Dubai and is ready to make a mark. Sporting Dubai opened to talented young footballers in late summer this year. Technical Director, Nicola Carofiglio, explained what Sporting Dubai would like to achieve.

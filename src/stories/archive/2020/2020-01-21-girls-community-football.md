@@ -5,8 +5,8 @@ slug: "girls-community-football"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "There is no curbing the enthusiasm of Girls Community Football Tournament organisers."
+image: "/images/archive/2020/01/youth-girls-football-a.webp"
 wpId: 1843
-wpFeaturedImage: "2020/01/youth-girls-football-a.jpg"
 ---
 
 There is no curbing the enthusiasm of Girls Community Football Tournament organisers.
@@ -20,8 +20,6 @@ The under-11 division filled up quickly and Hepworth said an array of teams are 
 "There is an equal number of school and club teams as well as a few parent-led teams which is interesting," she said.
 
 "(This is) supporting the notion of having this platform where all girls can come and play is proving a success.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/01/Youth-girls-football-b.jpg)
 
 "The referees are all female and we are hoping to collaborate with New York University Abu Dhabi (HERsports initiative) in providing some coaching sessions."
 

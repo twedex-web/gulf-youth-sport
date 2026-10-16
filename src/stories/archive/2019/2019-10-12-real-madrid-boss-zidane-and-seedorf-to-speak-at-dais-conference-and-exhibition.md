@@ -4,11 +4,11 @@ date: 2019-10-12T17:16:47+04:00
 slug: "real-madrid-boss-zidane-and-seedorf-to-speak-at-dais-conference-and-exhibition"
 categories: ["GYS", "News & Features"]
 standfirst: "Football legends to provide insight into how technology is impacting the professional game during Dubai's Artificial Intelligence Conference"
+image: "/images/archive/2019/10/zidane.webp"
 imageAlt: "Zidane to speak at Dubai Artificial Intelligence Conference"
 seoTitle: "Real Madrid's Zinedine Zidane, and Clarence Seedorf, to speak at DAIS"
 metaDescription: "Football legends to provide insight into how technology is impacting the professional game during Dubai's Artificial Intelligence Conference"
 wpId: 1307
-wpFeaturedImage: "2019/10/Zidane.jpeg"
 ---
 
 Real Madrid manager Zinedine Zidane and former Dutch football star Clarence Seedorf will headline a stellar cast of speakers at the first Dubai Artificial Intelligence in Sports (DAIS) Conference and Exhibition, which takes place on October 14 and 15 at Dubai World Trade Centre’s Sheikh Rashid Hall with sessions starting 9am.
@@ -16,8 +16,6 @@ Real Madrid manager Zinedine Zidane and former Dutch football star Clarence Seed
 Being organized under the patronage of HH Sheikh Hamdan Bin Mohammed Bin Rashid Al Maktoum, Crown Prince of Dubai and Chairman of Dubai Sports Council (DSC), the two-day DAIS Conference and Exhibition will bring together top stars and decision-makers from the world of sport and leading names from the world of Artificial Intelligence for discussions on the scope of AI’s ability to enhance every facet of the global sports industry.
 
 Zidane, one of the legends of the game and winner of the 1998 World Cup with France, will be speaking on the opening day of the Conference. The Frenchman has been a regular visitor to Dubai and has attended two editions of the Dubai International Sports Conference as well.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2019/10/Seedorf.jpeg" alt="Clarence Seedorf Dubai AI Conference"><figcaption>Clarence Seedorf is one of Europe's most decorated footballers, winning the Champions League with three different clubs</figcaption></figure>
 
 Seedorf, meanwhile, will speak about “Sports Academies And Technology” alongside former Ukraine swimmer Yana Klochkova in the final session of Day Two. Klochkova has won four Olympic gold medals and a silver, and 10 World Championship medals, while Seedorf was regarded as one of the best midfielders of his generation, playing for top clubs like Ajax, Real Madrid and AC Milan in his decorated career.
 

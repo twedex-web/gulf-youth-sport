@@ -5,8 +5,8 @@ slug: "priceless-jones-guides-dubai-college-to-historic-victory-at-dubai-rugby-s
 kicker: "Rugby"
 categories: ["Rugby"]
 excerpt: "The Headmaster of Dubai College has today hailed the talents and resilience of the school's staff and students, after thier teams' unprecedented success at the 49th edition of the Dubai Rugby Sevens."
+image: "/images/archive/2019/09/img-2122018171718-da189dc3aa7c46dc9df5ae9825483734.webp"
 wpId: 1148
-wpFeaturedImage: "2019/09/img-2122018171718-da189dc3aa7c46dc9df5ae9825483734.png"
 ---
 
 **The Headmaster of Dubai College has today hailed the talents and resilience of the school's staff and students, after thier teams' unprecedented success at the 49th edition of the Dubai Rugby Sevens.** 
@@ -15,7 +15,7 @@ Despite facing strong opposition from across the GCC, both of DC's teams emerg
 
 With history already made, the tournament came down to a fight amongst playground friends. Despite a valiant effort from the school's B-team, they were unable to shake off fatigue following the exertions of their semi-final triumph, with the A-team eventually running out convincing 50-11 victors.
 
-A delighted DC Headmaster, **Mike Lambert**, put the achievements of both teams into context.![](https://gulfyouthsport.com/wp-content/uploads/2018/12/Dubai-College-logo.png)
+A delighted DC Headmaster, **Mike Lambert**, put the achievements of both teams into context.
 
 _"Never before in the history of the Dubai Sevens has an A-team played a B-team in the Championship final, and for our boys to do so in the school's 40th year is a huge achievement. This truly is a historic moment as Dubai College reclaim the top-spot as the leading boys rugby team in the Gulf."_
 

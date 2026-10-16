@@ -3,8 +3,8 @@ title: "LaLiga Clubs Select Six UAE-based du LaLiga HPC Players for Professional
 date: 2018-09-03T00:00:00+04:00
 slug: "laliga-clubs-select-six-uae-based-du-laliga-hpc-players-for-professional-trials"
 excerpt: "du LaLiga High Performance Centre (HPC) announced today that six of its players have been awarded trials by LaLiga’s top youth clubs, following their 21-day LaLiga Scouting Camp in Spain."
+image: "/images/archive/2019/09/main-img-392018135112.webp"
 wpId: 1101
-wpFeaturedImage: "2019/09/Main-img-392018135112.jpg"
 ---
 
 **du LaLiga High Performance Centre (HPC) announced today that six of its players have been awarded trials by LaLiga’s top youth clubs, following their 21-day LaLiga Scouting Camp in Spain.**

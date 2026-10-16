@@ -5,9 +5,9 @@ slug: "dassa-selects-rising-rugby-players-hit-the-field"
 kicker: "Match Zone"
 categories: ["Match Zone", "Rugby"]
 standfirst: "Competitive coaches made sure the 10-a-side clash held plenty of meaning, as the DASSA Select squads Dubai Barbarians and Dubai Lions met each other in a classy match."
+image: "/images/archive/2020/02/dsc07434.webp"
 metaDescription: "Competitive coaches made sure the 10-a-side clash held plenty of meaning, as the DASSA Select squads Dubai Barbarians and Dubai Lions met each other in a classy match."
 wpId: 2263
-wpFeaturedImage: "2020/02/DSC07434.jpg"
 ---
 
 More than a month's preparation led to the toughest and most promising young rugby players in the region meeting each other on the field.

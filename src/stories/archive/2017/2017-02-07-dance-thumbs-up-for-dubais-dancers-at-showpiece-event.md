@@ -3,8 +3,8 @@ title: "DANCE: Thumbs up for Dubai’s dancers at showpiece event"
 date: 2017-02-07T00:00:00+04:00
 slug: "dance-thumbs-up-for-dubais-dancers-at-showpiece-event"
 excerpt: "Dubai College hosted the annual Desert Dance event last weekend with over twenty schools taking part in front of huge crowds and some of the most experienced performing arts judges in town."
+image: "/images/archive/2019/09/main-img-62201723111.webp"
 wpId: 533
-wpFeaturedImage: "2019/09/Main-img-62201723111.jpg"
 ---
 
 **[Dubai College](http://www.dubaicollege.org/)** hosted the annual Desert Dance event last weekend with over twenty schools taking part in front of huge crowds and some of the most experienced performing arts judges in town. The event, named ‘Literature', is the sixth of it’s kind in Dubai since 2014, and exists to give schools and pupils a platform to showcase all of the dance that takes place in the Dubai schools circuit, whether part of curriculum time or after-school clubs.  The Desert Dance showcase is a non-competitive event, open to students of all ages and abilities and can be work that is student or teacher led.

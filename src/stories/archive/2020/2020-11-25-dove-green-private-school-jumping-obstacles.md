@@ -4,8 +4,8 @@ date: 2020-11-25T10:07:15+04:00
 slug: "dove-green-private-school-jumping-obstacles"
 categories: ["News & Features"]
 excerpt: "The end of the 2020 Dubai Fitness Challenge is upon us. But Dove Green Private School held an obstacle course to send it out in style."
+image: "/images/archive/2020/11/screen-shot-2020-11-25-at-20-55-00.webp"
 wpId: 4456
-wpFeaturedImage: "2020/11/Screen-Shot-2020-11-25-at-20.55.00.png"
 ---
 
 **The end of the 2020 Dubai Fitness Challenge is upon us. But Dove Green Private School held an obstacle course to send it out in style.**

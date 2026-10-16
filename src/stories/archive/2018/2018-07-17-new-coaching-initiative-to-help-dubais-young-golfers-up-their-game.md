@@ -3,8 +3,8 @@ title: "New Coaching Initiative to Help Dubai's Young Golfers Up Their Game"
 date: 2018-07-17T00:00:00+04:00
 slug: "new-coaching-initiative-to-help-dubais-young-golfers-up-their-game"
 excerpt: "The golf stars of the future will be able to take their game to the next level with two new premium coaching courses offering expert tuition and training at the Butch Harmon School of Golf at Dubai Sports City."
+image: "/images/archive/2019/09/main-img-177201883951.webp"
 wpId: 1075
-wpFeaturedImage: "2019/09/Main-img-177201883951.jpg"
 ---
 
 **The golf stars of the future will be able to take their game to the next level with two new premium coaching courses offering expert tuition and training at the Butch Harmon School of Golf at Dubai Sports City.**

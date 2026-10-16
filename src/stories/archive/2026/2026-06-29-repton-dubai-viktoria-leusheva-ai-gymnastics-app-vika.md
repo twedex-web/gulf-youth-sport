@@ -5,10 +5,10 @@ slug: "repton-dubai-viktoria-leusheva-ai-gymnastics-app-vika"
 kicker: "Gymnastics"
 categories: ["Gymnastics", "In The Spotlight", "News & Features"]
 standfirst: "15-year-old Repton Dubai student Viktoria Leusheva launches Vika, a pioneering AI-assisted rhythmic gymnastics judging app and global online tournament."
+image: "/images/archive/2026/06/26df66f1-acf5-4ffc-8ad7-794bd18704ab.webp"
 seoTitle: "Repton Dubai Gymnast Viktoria Leusheva Launches Global AI Judging App 'Vika'"
 metaDescription: "15-year-old Repton Dubai student Viktoria Leusheva launches Vika, a pioneering AI-assisted rhythmic gymnastics judging app and global online tournament."
 wpId: 7236
-wpFeaturedImage: "2026/06/26df66f1-acf5-4ffc-8ad7-794bd18704ab.jpeg"
 ---
 
 ## **From the Podium to the Pixel: 15-Year-Old Repton Dubai Student Launches Pioneering AI Gymnastics App and Global Tournament**

@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Jac Downham's story"
 date: 2018-03-21T00:00:00+04:00
 slug: "wonderkid-wednesday-jac-downhams-story"
 excerpt: "The global superstars of the Premier League, NFL and Formula 1 circuits may be the headline grabbers when it comes to sport."
+image: "/images/archive/2019/09/main-img-213201818626.webp"
 wpId: 960
-wpFeaturedImage: "2019/09/Main-img-213201818626.jpg"
 ---
 
 The global superstars of the Premier League, NFL and Formula 1 circuits may be the headline grabbers when it comes to sport. However, at GYS we know very well that there are unsung heroes across the world of youth sport. For this week’s Wonderkid Wednesday we were told one of the most inspirational sporting stories you are likely to hear at any level. 

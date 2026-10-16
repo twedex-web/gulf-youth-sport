@@ -3,8 +3,8 @@ title: "PSG Dubai lift Elite Sports U9 Trophy"
 date: 2016-10-29T00:00:00+04:00
 slug: "psg-dubai-lift-elite-sports-u9-trophy"
 excerpt: "PSG Academy Dubai U9's battled their way to victory in the early morning sun at Horizon International School on Saturday."
+image: "/images/archive/2019/09/main-img-111201653445.webp"
 wpId: 447
-wpFeaturedImage: "2019/09/Main-img-111201653445.jpg"
 ---
 
 PSG Academy Dubai U9's battled their way to victory in the early morning sun at Horizon International School on Saturday.

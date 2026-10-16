@@ -4,9 +4,9 @@ date: 2022-09-19T12:50:24+04:00
 slug: "soccer-kids-dubai-rebrand-ahead-of-new-season"
 categories: ["News & Features"]
 standfirst: "Long-standing UAE football academy Soccer Kids Dubai has rebranded to SK Football Academy ahead of the new season kicking off."
+image: "/images/archive/2022/09/20220601170846-amac2651.webp"
 metaDescription: "Long-standing UAE football academy Soccer Kids Dubai has rebranded to SK Football Academy ahead of the new season kicking off."
 wpId: 5689
-wpFeaturedImage: "2022/09/20220601170846_AMAC2651-scaled.jpg"
 ---
 
 **Soccer Kids Dubai announced their rebrand and launch of SK Football Academy last August. The timing of their new brand aligns with the beginning of the 2022/2023 football academy season, which is set to see a return to a full academic year of football action for the first time in more than two years.**
@@ -35,6 +35,6 @@ This season is supported by corporate sponsors DHL & Umbro.
 
 If you are interested in getting your child involved - you can contact SK Football Academy via phone **+97155 207 3168** or email **info@skfootballacademy.com**.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/09/AMAC1650-scaled.jpg)
+![](/images/archive/2022/09/amac1650.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/09/20220601171339_AMAC2666-scaled.jpg)
+![](/images/archive/2022/09/20220601171339-amac2666.webp)

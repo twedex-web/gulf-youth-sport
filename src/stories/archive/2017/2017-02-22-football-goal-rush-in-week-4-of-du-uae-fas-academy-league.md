@@ -3,8 +3,8 @@ title: "FOOTBALL: Goal Rush in Week 4 of du UAE FA’s Academy League"
 date: 2017-02-22T00:00:00+04:00
 slug: "football-goal-rush-in-week-4-of-du-uae-fas-academy-league"
 excerpt: "The du UAE FA’s Academy League Plays Host to a fantastic Line up of Matches in Week 4"
+image: "/images/archive/2019/09/main-img-222201792811.webp"
 wpId: 556
-wpFeaturedImage: "2019/09/Main-img-222201792811.jpg"
 ---
 
 **The du UAE FA’s Academy League Plays Host to a fantastic Line up of Matches in Week 4**

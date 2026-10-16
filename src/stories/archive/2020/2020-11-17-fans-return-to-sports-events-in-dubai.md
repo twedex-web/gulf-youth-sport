@@ -4,8 +4,8 @@ date: 2020-11-17T11:00:15+04:00
 slug: "fans-return-to-sports-events-in-dubai"
 categories: ["News & Features"]
 excerpt: "The efforts of the Dubai Sports Council and its protocols for various sports has resulted in the Council obtaining the approval of the The Executive Council of Dubai and the Supreme Committee of Crisis and Disaster…"
+image: "/images/archive/2020/11/hsc.webp"
 wpId: 4382
-wpFeaturedImage: "2020/11/HSC.jpg"
 ---
 
 The efforts of the Dubai Sports Council and its protocols for various sports has resulted in the Council obtaining the approval of the The Executive Council of Dubai and the Supreme Committee of Crisis and Disaster Management in Dubai for the return of spectators to sport events at a maximum of 30% of capacity.

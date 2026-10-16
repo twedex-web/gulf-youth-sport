@@ -5,9 +5,9 @@ slug: "dassa-select-u15-enjoy-successful-hong-kong-tour"
 kicker: "DASSA"
 categories: ["DASSA", "DASSA", "GYS", "Multi-Sports", "News & Features", "Sports Travel"]
 standfirst: "The U15 DASSA Select squads enjoyed a rewarding five-day, multisport tour in Hong Kong last week, taking part in matches against local opposition and soaking up the culture."
+image: "/images/archive/2024/12/header.webp"
 metaDescription: "The U15 DASSA Select squads enjoyed a rewarding five-day, multisport tour in Hong Kong last week, taking part in matches against local opposition and soaking up the culture."
 wpId: 6864
-wpFeaturedImage: "2024/12/Header.png"
 ---
 
 **The U15 DASSA Select squads enjoyed a rewarding five-day, multisport tour in Hong Kong last week, taking part in matches against local opposition and soaking up the culture.**
@@ -31,7 +31,7 @@ Day one saw the teams set off on their journey from Dubai to Hong Kong before ch
 
 After a quick photo opportunity against the backdrop of Hong Kong’s iconic skyline, the squads enjoyed the Star Ferry tour and even spoke to some local media before heading back to the hotel to prepare for the first day of sporting action.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2024/12/Media-300x300.png" alt=""><figcaption><em>Local Hong Kong media catch up with some of the DASSA Select boys</em></figcaption></figure>
+<figure><img src="/images/archive/2024/12/media.webp" alt=""><figcaption><em>Local Hong Kong media catch up with some of the DASSA Select boys</em></figcaption></figure>
 
 ### **Down to business**
 
@@ -43,7 +43,7 @@ Day three saw each of the five DASSA teams take part in matches against ESF Sele
 
 Fairly comfortable victories then followed for the boys basketball, girls volleyball, and girls football teams, while DASSA’s boys football squad were held to a highly entertaining 3-3 draw against their ESF Select counterparts.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2024/12/Captains-300x225.png" alt=""><figcaption><em>The DASSA Select U15 team captains after the first training sessions in Hong Kong</em></figcaption></figure>
+<figure><img src="/images/archive/2024/12/captains.webp" alt=""><figcaption><em>The DASSA Select U15 team captains after the first training sessions in Hong Kong</em></figcaption></figure>
 
 Despite being over three-and-a-half thousand miles from home, each of the teams enjoyed a raucous backing from the sidelines as the other DASSA Squads cheered their teammates on - an excellent example of team unity amongst players coming together for the first time on this tour.
 
@@ -55,13 +55,13 @@ The girls football team were next up, also emerging victorious over DC by four g
 
 Coach Alysha’s girls volleyball team then secured their second 3-0 victory in a row, with the strong bonds formed throughout the team on display for everyone in attendance to see as they were comfortable against DC.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2024/12/Hong-Kong-FC-300x225.png" alt=""><figcaption><em>The teams enjoyed a visit to Hong Kong Football Club on day four of the tour</em></figcaption></figure>
+<figure><img src="/images/archive/2024/12/hong-kong-fc.webp" alt=""><figcaption><em>The teams enjoyed a visit to Hong Kong Football Club on day four of the tour</em></figcaption></figure>
 
 A third win in three games followed for the DASSA girls basketball team as they proved too much for Discovery College to handle in their final game of the tour. Seamless cohesion from back to front meant DC struggled to break down the DASSA side who were also scoring for fun.
 
 > **“Every player contributed, and the chemistry we’ve built over this tour has been incredible to watch!”** - Jess, girls basketball coach
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2024/12/Volleyball-150x150.png" alt=""><figcaption><em>DASSA Select girls volleyball team defeated the ESF All Stars 3-0 on day three</em></figcaption></figure>
+<figure><img src="/images/archive/2024/12/volleyball.webp" alt=""><figcaption><em>DASSA Select girls volleyball team defeated the ESF All Stars 3-0 on day three</em></figcaption></figure>
 
 And the boys basketball team rounded off an unbeaten DASSA Select tour when they emerged victorious against Overtime Academy in a highly competitive and entertaining encounter.
 
@@ -69,7 +69,7 @@ A late surge by Rohit Rajkumar _(Jumeira Baccalaureate School)_ to score 14 poin
 
 The fifth and final day saw the DASSA teams visit the iconic Tian Tan Buddha at Ngong Ping before some free time to wander around the outlet mall. Then in the early evening the DASSA Hong Kong tour officially drew to a close as the squads set off on the long journey back to Dubai.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2024/12/Basketball-150x150.png" alt=""><figcaption>Day four saw the girls basketball team defeat Discovery College</figcaption></figure>
+<figure><img src="/images/archive/2024/12/basketball.webp" alt=""><figcaption>Day four saw the girls basketball team defeat Discovery College</figcaption></figure>
 
 So the first ever DASSA Select overseas tour proved to be a huge success, with players, coaches, and teachers alike thoroughly enjoying embracing a different culture and showcasing their talents on the international stage.
 

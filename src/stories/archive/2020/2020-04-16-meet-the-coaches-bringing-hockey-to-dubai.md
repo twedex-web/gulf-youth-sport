@@ -4,8 +4,8 @@ date: 2020-04-16T11:44:55+04:00
 slug: "meet-the-coaches-bringing-hockey-to-dubai"
 categories: ["GYS", "News & Features"]
 excerpt: "After a rebranding this time last year, Field Hockey Academy grew by 25 percent in the following 12 months before COVID-19 abrubtly grounded activity."
+image: "/images/archive/2020/04/field-hockey-c.webp"
 wpId: 2972
-wpFeaturedImage: "2020/04/field-hockey-c-scaled.jpg"
 ---
 
 After a rebranding this time last year, Field Hockey Academy grew by 25 percent in the following 12 months before COVID-19 abrubtly grounded activity.
@@ -25,8 +25,6 @@ Prior to the lockdown bringing the academy into Abu Dhabi and Sharjah had been o
   
 
 "This has taken some creativity as well as reaching out to top hockey coaches that I know in Holland and South Africa but I am hoping that we will be able to launch live training sessions for our players in the coming weeks."
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/04/field-hockey-academy-b-640x480.jpg)
 
 ## The coach
 
@@ -48,7 +46,7 @@ West said when sport returns he is eager to keep giving opportunities to hockey 
 ### Annie Browne
 
   
-Browne was among those that built the business in 2012 is hopeful that one day hockey will be on the school PE curriculum in Dubai. A hockey player from an early age in Kent, she went on to play at a high level and represented England while still a teenager.![](https://gulfyouthsport.com/wp-content/uploads/2020/04/field-hockey-academy-300x195.jpg)
+Browne was among those that built the business in 2012 is hopeful that one day hockey will be on the school PE curriculum in Dubai. A hockey player from an early age in Kent, she went on to play at a high level and represented England while still a teenager.
 
 The step into coaching came when her son Paul was five years old, not knowing that one day she would coach a two-time Olympian Jason Lee. Lee was on his way to an illustrious career including playing in the 1992 and 1996 Olympics, before coaching Great Britain at the 2004, 2008 and 2012 Games.
 

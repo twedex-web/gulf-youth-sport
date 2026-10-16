@@ -5,8 +5,8 @@ slug: "notes-on-leadership-from-former-english-cricketer-ashley-giles"
 kicker: "Cricket"
 categories: ["Cricket", "News & Features"]
 excerpt: "Former English international cricketer Ashley Giles led an Infinite Sports webinar on leadership where he shared his views with eager listeners from around the world."
+image: "/images/archive/2020/05/screen-shot-2020-05-04-at-20-11-55.webp"
 wpId: 3116
-wpFeaturedImage: "2020/05/Screen-Shot-2020-05-04-at-20.11.55.png"
 ---
 
 Former English international cricketer Ashley Giles led an Infinite Sports webinar on leadership where he shared his views with eager listeners from around the world.
@@ -15,7 +15,7 @@ Capped in 54 tests, Giles will forever be remembered in cricket history as an in
 
 Now holding a position as managing director of England Men’s Teams at the England and Wales Cricket Board, he shared his thoughts from his lengthy time involved in cricket.
 
-Giles' international career began in the late 1990s, spanning all the way up to his retirement in 2007.![](https://gulfyouthsport.com/wp-content/uploads/2020/05/Ashley_giles_bowl-210x300.jpg)
+Giles' international career began in the late 1990s, spanning all the way up to his retirement in 2007.
 
 Then he began his coaching career at Warwickshire Country Cricket Club where he was appointed director of cricket, followed by a stint as coach of England’s ODI and Twenty20 sides.
 

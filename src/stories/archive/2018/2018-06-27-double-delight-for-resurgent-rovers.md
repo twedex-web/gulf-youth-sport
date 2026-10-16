@@ -3,8 +3,8 @@ title: "Double delight for resurgent Rovers"
 date: 2018-06-27T00:00:00+04:00
 slug: "double-delight-for-resurgent-rovers"
 excerpt: "Dubai Rovers recently celebrating clinching a superb JFL double, just twelve months after falling narrowly short."
+image: "/images/archive/2019/09/main-img-276201813915.webp"
 wpId: 1059
-wpFeaturedImage: "2019/09/Main-img-276201813915.jpg"
 ---
 
 Dubai Rovers recently celebrating clinching a superb JFL double, just twelve months after falling narrowly short. GYS spoke to Rovers' Ross Gilmour, to find out more about their memorable season.  

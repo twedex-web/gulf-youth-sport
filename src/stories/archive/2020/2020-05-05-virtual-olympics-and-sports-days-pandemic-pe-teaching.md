@@ -5,15 +5,15 @@ slug: "virtual-olympics-and-sports-days-pandemic-pe-teaching"
 kicker: "DASSA"
 categories: ["DASSA", "News & Features"]
 excerpt: "Running around the school oval or competing against classmates in the gym is the norm when it comes to teaching PE."
+image: "/images/archive/2020/05/screen-shot-2020-05-03-at-21-39-26.webp"
 wpId: 3101
-wpFeaturedImage: "2020/05/Screen-Shot-2020-05-03-at-21.39.26.png"
 ---
 
 Running around the school oval or competing against classmates in the gym is the norm when it comes to teaching PE. So when the ability to put students through their paces during a lesson is taken away, how are PE teachers in the Gulf adapting?
 
 With every week of distance learning, teachers are coming up with new ways to keep students active–whether that be incorporating online video games or creating a virtual Olympics.
 
-PE teachers from DASSA schools took part in a DXBPE webinar welcomed by an enormous number of teachers both in the Gulf and beyond.![](https://gulfyouthsport.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-03-at-21.19.20-300x185.png)
+PE teachers from DASSA schools took part in a DXBPE webinar welcomed by an enormous number of teachers both in the Gulf and beyond.
 
 More than 300 teachers listen to Sunday's webinar as schools from around the world looked to the Dubai teachers who were among the first in the world to be thrust into digital learning.
 
@@ -26,8 +26,6 @@ PE curriculum leader Clair Knowland explained how GEMS Wellington created a virt
 If the current border closures remain there might be some organisers of the Tokyo Olympics knocking on Knowland's door!
 
 With everyone missing competitive fixtures, King’s School Al Barsha director of sport and PE James Bedford explained how his contested a virtual fixture against Hartland International School.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-03-at-21.35.11-e1588638024493-1024x568.png" alt=""><figcaption>Kings' School Al Barsha (top) takes on Hartland International School (bottom) in a virtual fixture.</figcaption></figure>
 
 "We selected our students based on their engagement levels in PE home learning because that was quite a good point for us to go to to recognise and reward students that sent back videos of their workouts," Bedford said.
 

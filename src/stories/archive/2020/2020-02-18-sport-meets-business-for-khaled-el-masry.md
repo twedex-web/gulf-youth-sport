@@ -5,9 +5,9 @@ slug: "sport-meets-business-for-khaled-el-masry"
 kicker: "Swimming"
 categories: ["News & Features", "Swimming"]
 standfirst: "Khaled El Masry is proof that everything learnt on the playing area helps in endeavours off the field."
+image: "/images/archive/2020/02/img-1859.webp"
 metaDescription: "Khaled El Masry is proof that everything learnt on the playing area helps in endeavours off the field."
 wpId: 2160
-wpFeaturedImage: "2020/02/IMG_1859.jpg"
 ---
 
 PE teachers never stop promoting the benefits of playing sport and students attending sporting tournaments.
@@ -24,8 +24,6 @@ El Masry said lessons learnt swimming are just as relevant in the office.
 
 "The lessons learnt in a sport such as swimming is discipline, time management, working towards a goal and confidence. These are key attributes of becoming a young entrepreneur.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-18-at-2.55.07-pm.png" alt=""><figcaption>Khaled El Masry in the pool.</figcaption></figure>
-
 "Whether it's the swimming or the entrepreneurial side of my life they both required the same attributes in order to succeed.
 
 "(Those are) being able to prioritise your career and your sports more than anything else and making decisions everyday which lead to sacrifices."
@@ -33,8 +31,6 @@ El Masry said lessons learnt swimming are just as relevant in the office.
 After moving to Dubai in 2016 El Masry began racing internationally in 2017, winning medals as he contested intercollegiate meets in Spain, Greece and Lebanon.
 
 He said he has gradually improved his times in the past two years as he aims to try and qualify for the national team.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/02/image2-819x1024.jpeg" alt=""><figcaption>Khaled El Masry the businessman.</figcaption></figure>
 
 But the company keeping El Masry busy has resulted in him trying to reach out to motivated members of the community like himself.
 

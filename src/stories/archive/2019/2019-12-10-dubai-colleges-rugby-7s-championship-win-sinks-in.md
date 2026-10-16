@@ -5,9 +5,9 @@ slug: "dubai-colleges-rugby-7s-championship-win-sinks-in"
 kicker: "Match Zone"
 categories: ["GYS", "Match Zone", "News & Features", "Rugby"]
 standfirst: "Dubai College was ecstatic to win its 10th Gulf under-19s boys Dubai Sevens rugby tournament in front of 40,000 specators at the Sevens Stadium."
+image: "/images/archive/2019/12/dubai-7s-winners-c.webp"
 metaDescription: "Dubai College was ecstatic to win its 10th Gulf under-19s boys Dubai Sevens rugby tournament in front of 40,000 specators at the Sevens Stadium."
 wpId: 1650
-wpFeaturedImage: "2019/12/dubai-7s-winners-c.jpg"
 ---
 
 One Emirates Airline Dubai Rugby 7s under-19s title win would be considered a major achievement.
@@ -26,8 +26,6 @@ Being cheered onto the podium to accept their trophy, DC director of sport Andre
 
 "For the coaches it was a tremendous feeling of satisfaction, seeing the boys playing such a high level of rugby."
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2019/12/Dubai-7s-winners-1.jpg" alt=""><figcaption>Dubai College salutes an audience of 40,000 people.</figcaption></figure>
-
 With such a large crowd assembled, Jones said the team's coaches urged players to play treat the match as just another game.
 
 "Prior to the game and at half time, we emphasised simple messages of what needed to be done in order to be successful," he said.
@@ -41,8 +39,6 @@ But knowing the grandeur of the Dubai Sevens tournament, Jones also urged the pl
 "The tournament is tremendous and we are so thankful to the organisers for still providing local under-19 teams the opportunity of playing on the main pitch with such huge crowds."
 
 "We also enjoyed the excitement of the knock out stages, which gave all involved a real buzz of excitement."
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2019/12/dubai-7s-d.jpg" alt=""><figcaption>English College Dubai was one of the many schools that competed as part of the Dubai Sevens tournament.</figcaption></figure>
 
 Fantastic preparation from Dubai College's strength and conditioning coach showed when Dubai College went through the competition without a loss.
 

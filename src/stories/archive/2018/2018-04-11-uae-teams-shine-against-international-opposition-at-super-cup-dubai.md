@@ -3,8 +3,8 @@ title: "UAE teams shine against international opposition at Super Cup Dubai"
 date: 2018-04-11T00:00:00+04:00
 slug: "uae-teams-shine-against-international-opposition-at-super-cup-dubai"
 excerpt: "The Super Cup Dubai took place last week with teams from many different nations around the world competing against the local talent in the UAE to win the coveted Super Cup Dubai.The event has grown into an enormous…"
+image: "/images/archive/2019/09/main-img-1142018125045.webp"
 wpId: 986
-wpFeaturedImage: "2019/09/Main-img-1142018125045.jpg"
 ---
 
 The Super Cup Dubai took place last week with teams from many different nations around the world competing against the local talent in the UAE to win the coveted Super Cup Dubai.  

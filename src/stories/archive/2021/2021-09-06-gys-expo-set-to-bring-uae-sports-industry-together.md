@@ -5,9 +5,9 @@ slug: "gys-expo-set-to-bring-uae-sports-industry-together"
 kicker: "Gulf Youth Sport Expo"
 categories: ["Gulf Youth Sport Expo"]
 standfirst: "The GYS Expo is coming to Hartland International School on Friday 17 September, bringing the UAE sports industry together for the first time."
+image: "/images/archive/2021/09/expo-cover-update-1024x620-1.webp"
 metaDescription: "The GYS Expo is coming to Hartland International School on Friday 17 September, bringing the UAE sports industry together for the first time."
 wpId: 5394
-wpFeaturedImage: "2021/09/Expo_cover_update-1024x620-1.jpg"
 ---
 
 **The GYS Expo is coming to Hartland International School on Friday 17 September, with some of the brightest minds in the world of youth sport gathering under one roof in Dubai for the first time.**

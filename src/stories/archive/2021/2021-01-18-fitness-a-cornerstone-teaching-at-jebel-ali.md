@@ -4,8 +4,8 @@ date: 2021-01-18T08:56:31+04:00
 slug: "fitness-a-cornerstone-teaching-at-jebel-ali"
 categories: ["News & Features"]
 excerpt: "They say it takes a village to raise a child and the same can be applied to promoting a healthy lifestyle. With whole community commitment Jebel Ali School took out top honours in the GYS 30X30 Fitness Challenge."
+image: "/images/archive/2021/01/img-7068.webp"
 wpId: 4760
-wpFeaturedImage: "2021/01/IMG-7068-scaled.jpg"
 ---
 
 They say it takes a village to raise a child and the same can be applied to promoting a healthy lifestyle. With whole community commitment Jebel Ali School took out top honours in the GYS 30X30 Fitness Challenge.
@@ -15,8 +15,6 @@ The school received just acknowledgment of their superior team effort following 
 Sisters Sophia and Isabella Starnes along with their parents Duncan and Paddy were integral in helping Jebel Ali to the win.
 
 Jebel Ali's Dubai Fitness challenge coordinator **Sam Dooley** said he was impressed with the way his school embraced the challenge.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/01/IMG-7067-300x225.jpg" alt=""><figcaption>Sisters Sophia and Isabella Starnes happily accepted Jebel Ali's Anta Sportswear prize.</figcaption></figure>
 
 "It was fantastic to see the Jebel Ali community in and out of school work together to immerse themselves in the Dubai 30x30 challenge. Students and teachers together with family and friends took on our weekly challenges as well as taking part in challenges around the city, using the fantastic free resources and events available to improve their own personal fitness and lifestyle," he said.
 

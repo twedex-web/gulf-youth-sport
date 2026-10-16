@@ -3,8 +3,8 @@ title: "Four du LaLiga HPC Players on Trial with International Teams and Clubs"
 date: 2018-02-25T00:00:00+04:00
 slug: "four-du-laliga-hpc-players-on-trial-with-international-teams-and-clubs"
 excerpt: "The du LaLiga High Performance Centre (HPC) announced today that one of its players has been selected to join a leading football club in Lebanon and four other players have been selected for trials with international…"
+image: "/images/archive/2019/09/main-img-252201885531.webp"
 wpId: 925
-wpFeaturedImage: "2019/09/Main-img-252201885531.jpg"
 ---
 
 **The du LaLiga High Performance Centre (HPC) announced today that one of its players has been selected to join a leading football club in Lebanon and four other players have been selected for trials with international clubs and national teams.**

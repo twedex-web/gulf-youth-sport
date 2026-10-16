@@ -4,8 +4,8 @@ date: 2020-11-19T09:39:15+04:00
 slug: "sport-analysis-software-hits-the-middle-east"
 categories: ["News & Features"]
 excerpt: "Here’s how Abingdon School in England is using Coach Logic to encourage its young athletes to develop their knowledge and present it in front of professional players, as well as their peers."
+image: "/images/archive/2020/11/screen-shot-2020-11-19-at-20-36-11.webp"
 wpId: 4388
-wpFeaturedImage: "2020/11/Screen-Shot-2020-11-19-at-20.36.11.png"
 ---
 
 Here’s how Abingdon School in England is using Coach Logic to encourage its young athletes to develop their knowledge and present it in front of professional players, as well as their peers.

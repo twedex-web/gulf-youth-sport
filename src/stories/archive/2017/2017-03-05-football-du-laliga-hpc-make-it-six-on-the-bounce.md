@@ -3,8 +3,8 @@ title: "FOOTBALL: du LaLiga HPC Make it Six on the Bounce"
 date: 2017-03-05T00:00:00+04:00
 slug: "football-du-laliga-hpc-make-it-six-on-the-bounce"
 excerpt: "du LaLiga HPC Achieves Record 6-match Winning Run in du UAE FA Academy League"
+image: "/images/archive/2019/09/main-img-5320175358.webp"
 wpId: 577
-wpFeaturedImage: "2019/09/Main-img-5320175358.jpg"
 ---
 
 **du LaLiga HPC Achieves Record 6-match Winning Run in du UAE FA Academy League**

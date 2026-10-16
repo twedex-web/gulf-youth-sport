@@ -5,13 +5,13 @@ slug: "dscs-virtual-female-sports-tournament-taking-registrations"
 kicker: "Multi-Sports"
 categories: ["Multi-Sports"]
 excerpt: "Dubai Sports Council is calling all girls to participate in the International Women’s Online Tournament where teams from the UAE and beyond will compete in skill based competitions."
+image: "/images/archive/2020/08/117429730-3366690583394616-3164605834547163746-n.webp"
 wpId: 3692
-wpFeaturedImage: "2020/08/117429730_3366690583394616_3164605834547163746_n.jpg"
 ---
 
 Dubai Sports Council is calling all girls to participate in the International Women’s Online Tournament where teams from the UAE and beyond will compete in skill based competitions.
 
-Football, basketball, volleyball and handball will all be contested, but not in the traditional format we know. Instead, competitors will be showing off their individual skills through different drills giving this tournament a unique atmosphere.![](https://gulfyouthsport.com/wp-content/uploads/2020/08/II2A0007-640x427.jpg)
+Football, basketball, volleyball and handball will all be contested, but not in the traditional format we know. Instead, competitors will be showing off their individual skills through different drills giving this tournament a unique atmosphere.
 
 For example, in football competitors will get points based on their juggling, dribbling, long-passing, short-passing and goal-scoring skills.
 

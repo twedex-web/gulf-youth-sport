@@ -4,9 +4,9 @@ date: 2021-08-26T15:17:26+04:00
 slug: "school-sports-return"
 categories: ["News & Features"]
 standfirst: "Schools across Dubai have been given a welcome boost as sports are set to return following an announcement from KHDA."
+image: "/images/archive/2020/09/rlp20196.webp"
 metaDescription: "Schools across Dubai have been given a welcome boost as sports are set to return following an announcement from KHDA."
 wpId: 5390
-wpFeaturedImage: "2020/09/RLP20196-scaled.jpg"
 ---
 
 **Schools across Dubai have been given a boost as students and teachers gear up for the 2021/22 academic year, with KHDA guidance allowing sports to return after a long lay off due to Covid-19 restrictions.**

@@ -5,10 +5,10 @@ slug: "wsg-netball-cup-results-2026-loughborough-jess-dubai"
 kicker: "Netball"
 categories: ["Netball", "World School Games"]
 standfirst: "Discover how JESS Dubai and Dubai College dominated on the global stage at the Twedex-backed World Schools Netball Cup 2026 in Loughborough."
+image: "/images/archive/2026/07/a6cafae9-4fbe-47ab-9be2-fcfffed714a8.webp"
 seoTitle: "JESS Dubai and Dubai College Star at World Schools Netball Cup 2026"
 metaDescription: "Discover how JESS Dubai and Dubai College dominated on the global stage at the Twedex-backed World Schools Netball Cup 2026 in Loughborough."
 wpId: 7267
-wpFeaturedImage: "2026/07/a6cafae9-4fbe-47ab-9be2-fcfffed714a8.jpeg"
 ---
 
 **Global Dominance, Local Heritage: JESS Dubai and Dubai College Lead Gulf Charge at the World Schools Netball Cup in Loughborough**

@@ -4,8 +4,8 @@ date: 2020-10-29T08:24:43+04:00
 slug: "dubai-british-school-preps-for-dubai-fitness-challenge"
 categories: ["News & Features"]
 excerpt: "Dubai British School Jumeirah Park's plans for the Dubai Fitness Challenge weren't thought of overnight."
+image: "/images/archive/2020/10/118691894-186826756180524-391833320072813795-n-e1603959460323.webp"
 wpId: 4199
-wpFeaturedImage: "2020/10/118691894_186826756180524_391833320072813795_n-e1603959460323.jpg"
 ---
 
 Dubai British School Jumeirah Park's plans for the Dubai Fitness Challenge weren't thought of overnight. PE teachers at the school have been thinking up ways to  encourage students to be fully involved in the Dubai 30x30 Fitness Challenge for weeks.

@@ -3,8 +3,8 @@ title: "Abu Dhabi Thistle Clinch U14 ADYL Title"
 date: 2017-05-14T00:00:00+04:00
 slug: "abu-dhabi-thistle-clinch-u14-adyl-title"
 excerpt: "Abu Dhabi Thistle yesterday clinched the Abu Dhabi Youth League title following a thrilling 3-2 victory over EFF Abu Dhabi."
+image: "/images/archive/2019/09/main-img-14520177116.webp"
 wpId: 658
-wpFeaturedImage: "2019/09/Main-img-14520177116.jpg"
 ---
 
 **Abu Dhabi Thistle yesterday clinched the Abu Dhabi Youth League title following a thrilling 3-2 victory over EFF Abu Dhabi.**

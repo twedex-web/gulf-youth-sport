@@ -3,8 +3,8 @@ title: "Butch Harmon Announces Plans for 2018-19 Junior Development Programme"
 date: 2018-08-12T00:00:00+04:00
 slug: "butch-harmon-announces-plans-for-2018-19-junior-development-programme"
 excerpt: "The Butch Harmon Dubai has announced that their nine-week Junior development programme for players between of 3 to 15 years is back for a new term which will commence on Sunday 30th September."
+image: "/images/archive/2019/09/main-img-128201855652.webp"
 wpId: 1083
-wpFeaturedImage: "2019/09/Main-img-128201855652.jpg"
 ---
 
 **The Butch Harmon Dubai has announced that their nine-week Junior development programme for players between of 3 to 15 years is back for a new term which will commence on Sunday 30th September.**

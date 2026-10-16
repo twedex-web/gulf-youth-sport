@@ -4,9 +4,9 @@ date: 2021-12-06T10:40:41+04:00
 slug: "local-schools-represented-as-dubai-7s-returns"
 categories: ["News & Features"]
 standfirst: "Schools from across Dubai were represented at the annual Dubai 7s event this weekend which returned after a year off."
+image: "/images/archive/2021/12/ffl37qzwqaqtnfu.webp"
 metaDescription: "Schools from across Dubai were represented at the annual Dubai 7s event this weekend which returned after a year off."
 wpId: 5496
-wpFeaturedImage: "2021/12/FFl37QzWQAQTNfU.jpg"
 ---
 
 **South Africa and Australia ran out winners at the Emirates Dubai 7s this weekend as the men’s and women’s elite competitions drew in the big crowds at the Sevens Stadium once again following last year’s postponement.**
@@ -27,8 +27,6 @@ Dubai College captain Charlotte was delighted to help guide her team to victory 
 
 “It’s still not sunk in that we won! Our main goal for the Sevens weekend was to put out a performance that
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/12/FFxadweakAIb5Tb-e1638786615225-300x258.jpg" alt=""><figcaption>Dubai College were crowned Open Youth Netball champions. Image credit: Mike Lambert</figcaption></figure>
-
 represented the hard work, time and dedication that not only we had put in, but our coaches as well.
 
 “To come away with the trophy and to be undefeated in the tournament was an incredible outcome. I am so proud of what our team has achieved and now our focus is on putting out an even better performance in the DASSA league.”
@@ -48,8 +46,6 @@ Like the semi-finals, the cup final was decided by one goal with Capital Netball
 Away from the playing field, schools from across Dubai were involved in the build up to the big event and across the weekend itself as spectators, hosts and volunteers, with many of the international sides basing themselves at schools across the city last week.
 
 80 of Repton Dubai's students were involved throughout the tournament weekend as ball boys and girls, playing an important role in the smooth running of the spectacle which attracted thousands of spectators.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-07-at-12.32.23-300x226.jpeg" alt=""><figcaption>80 Repton Dubai students played an important role at the Dubai 7s as ball boys &amp; girls across the weekend. Image credit: Repton Dubai</figcaption></figure>
 
 With some of the best school sports facilities anywhere in the world, Dubai’s school community was yet again central to the preparations of some of the globe’s brightest rugby stars.
 

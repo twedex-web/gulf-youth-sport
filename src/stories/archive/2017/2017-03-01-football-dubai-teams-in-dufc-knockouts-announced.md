@@ -3,8 +3,8 @@ title: "FOOTBALL: Dubai Teams in duFC Knockouts Announced"
 date: 2017-03-01T00:00:00+04:00
 slug: "football-dubai-teams-in-dufc-knockouts-announced"
 excerpt: "72 schools, streets and girls teams from Dubai will battle it out in the du Football Championships knockout stages next weekend."
+image: "/images/archive/2019/09/main-img-23201782335.webp"
 wpId: 572
-wpFeaturedImage: "2019/09/Main-img-23201782335.jpg"
 ---
 
 **72 schools, streets and girls teams from Dubai will battle it out in the du Football Championships knockout stages next weekend. The teams comprise the top 16 teams in UAE Schools Cup Boys (U16 & U14), 32 Streets Cup Teams and 8 UAE Girls Challenge teams.** 

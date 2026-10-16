@@ -5,11 +5,11 @@ slug: "dassa-padel-championships-nov-2025-padel-pro"
 kicker: "DASSA"
 categories: ["DASSA", "In The Spotlight", "Padel"]
 standfirst: "Relive the highlights of the November 2025 DASSA Padel at Padel Pro. Discover how JESS, DESC, and Dubai College led the charge in the UAE's fastest-growing school sport."
+image: "/images/archive/2026/04/whatsapp-image-2026-04-22-at-20-15-39.webp"
 imageAlt: "Athlete competing in DASSA Padel Competition at Padel Pro, Dubai"
 seoTitle: "DASSA Padel Championships 2025 | Dubai School Sports Archive"
 metaDescription: "Relive the highlights of the November 2025 DASSA Padel at Padel Pro. Discover how JESS, DESC, and Dubai College led the charge in the UAE's fastest-growing school sport."
 wpId: 7061
-wpFeaturedImage: "2026/04/WhatsApp-Image-2026-04-22-at-20.15.39.jpeg"
 ---
 
 ### **Padel Pro Hosts High-Octane DASSA Championships**

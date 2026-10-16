@@ -3,8 +3,8 @@ title: "DAPSA U10 & U11 Boys Football Finals in Pictures"
 date: 2017-12-06T00:00:00+04:00
 slug: "dapsa-u10-u11-boys-football-finals-in-pictures"
 excerpt: "Repton School Dubai was the scene for the U10 & U11 DAPSA Boys Football Finals. In the Under 10 category, GEMS WSO continued the fine form that they demonstrated during the season with a narrow overall victory over…"
+image: "/images/archive/2019/09/main-img-6122017102545.webp"
 wpId: 857
-wpFeaturedImage: "2019/09/Main-img-6122017102545.jpg"
 ---
 
 Repton School Dubai was the scene for the U10 & U11 DAPSA Boys Football Finals. In the Under 10 category, GEMS WSO continued the fine form that they demonstrated during the season with a narrow overall victory over DESS. It was role reversal in the older age group, as DESS edged out WSO to take the silverware.

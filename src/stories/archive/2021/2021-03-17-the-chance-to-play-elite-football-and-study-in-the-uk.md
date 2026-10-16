@@ -4,8 +4,8 @@ date: 2021-03-17T09:13:14+04:00
 slug: "the-chance-to-play-elite-football-and-study-in-the-uk"
 categories: ["News & Features"]
 excerpt: "The opportunity of a lifetime exists for male and female football players wanting to combine sport and world-class academic study post high school."
+image: "/images/archive/2021/03/img-7647.webp"
 wpId: 5036
-wpFeaturedImage: "2021/03/IMG_7647-scaled.jpg"
 ---
 
 **The opportunity of a lifetime exists for male and female football players wanting to combine sport and world-class academic study post high school.**
@@ -16,8 +16,6 @@ The club was initially founded back in the nineteenth century and is deeply-root
 
 Further to the winding-up of previous incarnation Macclesfield Town in September 2020, new owner Robert Smethurst ignited the hopes and dreams of fans by seizing control of the club's assets and rebranding as Macclesfield FC.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/03/IMG_7969-300x200.jpg" alt=""><figcaption>Anthony Curran has extensive knowledge of Middle East football, having worked in Saudi Arabia prior to joining Macclesfield FC.</figcaption></figure>
-
 Smethurst moved quickly to secure a vastly experienced board of directors including Premier League international midfielder and nationally renowned television pundit, Robbie Savage.
 
 "We lost our professional status but by dropping down to the level we think we’ll enter in it also provides the really exciting opportunity for the international students to play and represent our first team if good enough. There are not many football clubs, particularly with the history of Macclesfield and its fan base, that can do that,” Head of Junior Academy Matthew Morgan said.
@@ -27,8 +25,6 @@ Head of Football Operations Anthony Curran is also buoyed by the opportunities f
 "Our vision is that in September the club is booming with thousands of people. For the international guys that would like to join the football club there is a pathway into our first team, but also a pathway for international students to feel a sense of community within the UK," he said.
 
 "The idea Rob has is to turn the grass into a 4G astroturf pitch so the turf can be used by our junior academy, the first team, our further education programs, and also the community and local clubs and communities."
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/03/IMG_7826-240x300.jpg" alt=""><figcaption>International players have the chance to join Macclesfield's first team.</figcaption></figure>
 
 The practical football aspect and education will be combined in a blended study method where students will be able to study courses including business management, sports therapy, nutrition and exercise and sports management.
 

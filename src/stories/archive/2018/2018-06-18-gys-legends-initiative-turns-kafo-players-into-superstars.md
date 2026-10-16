@@ -3,8 +3,8 @@ title: "GYS Legends Initiative Turns KAFO Players into Superstars"
 date: 2018-06-18T00:00:00+04:00
 slug: "gys-legends-initiative-turns-kafo-players-into-superstars"
 excerpt: "Freddie Kanoute may have become accustomed to cameras flashing in his face during his illustrious playing career, but it was a whole new experience for the KAFO Academy players last month, as they became the first…"
+image: "/images/archive/2019/09/main-img-18620187427.webp"
 wpId: 1051
-wpFeaturedImage: "2019/09/Main-img-18620187427.jpg"
 ---
 
 **Freddie Kanoute may have become accustomed to cameras flashing in his face during his illustrious playing career, but it was a whole new experience for the KAFO Academy players last month, as they became the first Sports Academy to become GYS Legends.**

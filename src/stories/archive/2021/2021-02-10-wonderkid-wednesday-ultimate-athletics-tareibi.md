@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-ultimate-athletics-tareibi"
 kicker: "Wonderkid Wednesday"
 categories: ["News & Features", "Wonderkid Wednesday"]
 excerpt: "Here's a go-getter we'll be seeing plenty of in the future."
+image: "/images/archive/2021/02/1-ua-diarn1-highlights-16.webp"
 wpId: 4904
-wpFeaturedImage: "2021/02/1.-UA-DIARN1-highlights-16.jpg"
 ---
 
 Here's a go-getter we'll be seeing plenty of in the future.

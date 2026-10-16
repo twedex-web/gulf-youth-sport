@@ -3,8 +3,8 @@ title: "FOOTBALL: DESC U12's Complete DASSA Domination"
 date: 2016-12-14T00:00:00+04:00
 slug: "football-desc-u12s-complete-dassa-domination"
 excerpt: "Dubai English Speaking College knew that two wins on Tuesday afternoon would secure their boys under 12’s A and B sides respective DASSA titles in what was set to be a fantastic day for DESC sport."
+image: "/images/archive/2019/09/main-img-141220163711.webp"
 wpId: 492
-wpFeaturedImage: "2019/09/Main-img-141220163711.jpg"
 ---
 
 **Dubai English Speaking College knew that two wins on Tuesday afternoon would secure their boys under 12’s A and B sides respective DASSA titles in what was set to be a fantastic day for DESC sport. The A side took on JESS while the B side welcomed Raffles World Academy.**

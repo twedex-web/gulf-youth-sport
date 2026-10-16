@@ -23,7 +23,7 @@ This is especially important in a sporting culture where high-performance suppor
 
 That gap is where more thoughtful conversations are beginning to emerge. In the Gulf, organizations such as **High Performance Systems (HPS)** are part of that shift, working to support young athletes in a more rounded way. Their work spans one-to-one coaching and mentoring in mindset, nutrition, and athletic development, alongside support for clubs, schools, and parents. What stands out is not simply the pursuit of better performance, but the growing recognition that **wellbeing and performance are deeply connected.**
 
-### **![Raya shooting free throw in basketball game](https://gulfyouthsport.com/wp-content/uploads/2026/04/Raya-Basketball-Photo--1024x682.jpg)**
+### **![Raya shooting free throw in basketball game](/images/archive/2026/04/raya-basketball-photo.webp)**
 
   
 
@@ -43,7 +43,7 @@ The same thinking is being recognized by organizations working closely with yout
 
 At the club level, the message is similar. **Aspire Gymnastics** owner **Elke Vinck** shared: _“Their ability to connect with athletes, parents, and coaches alike, while delivering practical and applicable mindset tools, made a real difference.”_
 
-### **![](https://gulfyouthsport.com/wp-content/uploads/2026/04/SIB-1020-1-1024x684.jpg)**
+### **![](/images/archive/2026/04/sib-1020-1.webp)**
 
   
 

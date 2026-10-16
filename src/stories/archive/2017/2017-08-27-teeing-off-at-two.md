@@ -3,13 +3,11 @@ title: "Teeing Off At Two"
 date: 2017-08-27T00:00:00+04:00
 slug: "teeing-off-at-two"
 excerpt: "Fun Fact Friday- Teeing Off At Two"
+image: "/images/archive/2019/09/main-img-278201765317.webp"
 wpId: 699
-wpFeaturedImage: "2019/09/Main-img-278201765317.jpg"
 ---
 
 **Fun Fact Friday- Teeing Off At Two**
-
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/Young_Tiger_Swinging_original.jpg)
 
 (Image taken from www.news.nike.com)
 

@@ -3,15 +3,13 @@ title: "St George's Park to Stage International Youth Tournament"
 date: 2018-06-18T00:00:00+04:00
 slug: "st-georges-park-to-stage-international-youth-tournament"
 excerpt: "Young footballers from around the world are set to gain unprecedented access to St George's Park, home to the English National Football Teams in 2019."
+image: "/images/archive/2019/09/main-img-186201811728.webp"
 wpId: 1053
-wpFeaturedImage: "2019/09/Main-img-186201811728.jpg"
 ---
 
 **Young footballers from around the world are set to gain unprecedented access to St George's Park, home to the English National Football Teams in 2019.**
 
 The state-of-the-art training complex has recently been unveiled as the host venue for the **2019 UK International Cup**, with all tournament matches being played on the hallowed turf on-site; a mouth-watering prospect for football fans of all ages and nationalities.
-
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/St_george's_park_July_2012_Courtyard.jpg)
 
 **Sleep Like a Champion**
 

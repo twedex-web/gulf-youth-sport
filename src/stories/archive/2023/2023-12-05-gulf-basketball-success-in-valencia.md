@@ -5,9 +5,9 @@ slug: "gulf-basketball-success-in-valencia"
 kicker: "Basketball"
 categories: ["Basketball", "World School Games"]
 standfirst: "Schools from across the Middle East took part in the World School Basketball Championships in Valencia from 17th - 19th November."
+image: "/images/archive/2023/12/eb2-6475.webp"
 metaDescription: "Schools from across the Middle East took part in the World School Basketball Championships in Valencia from 17th - 19th November."
 wpId: 6767
-wpFeaturedImage: "2023/12/EB2_6475-scaled.jpg"
 ---
 
 Schools from across the Middle East took part in the World School Basketball Championships in Valencia from 17th - 19th November, with impressive performances and results from a range of participating schools.

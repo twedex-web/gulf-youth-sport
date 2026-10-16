@@ -3,13 +3,11 @@ title: "Jebel Ali School's Ben Parnell Leading By Example"
 date: 2017-09-28T00:00:00+04:00
 slug: "jebel-ali-schools-ben-parnell-leading-by-example"
 excerpt: "FIT TO TEACH - BEN PARNELL"
+image: "/images/archive/2019/09/main-img-2692017124651.webp"
 wpId: 754
-wpFeaturedImage: "2019/09/Main-img-2692017124651.jpg"
 ---
 
 **FIT TO TEACH - BEN PARNELL** 
-
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/teaching.jpg)
 
 With the philosophy “to create an innovative and exciting learning environment that encourages lifelong participation in the sport and allows athletes to achieve their full potential”, Ben Parnell, a P.E teacher at Jebel Ali School, is a strong leading example to his students. 
 
@@ -18,8 +16,6 @@ With a BSc in Sports & Exercise Science, a Post Graduate Certificate in Educatio
 Ben grew up as a dedicated swimmer, spending all his free time in the pool. At the age of 15, he decided to take up Water Polo to try something new. With his strong background in swimming, he excelled at the sport quickly and was invited for trials for the Great Britain Junior Team. Unfortunately he did not make the final cut, however this didn't stop Ben from trying harder. He continued to play National League in the UK. 
 
 Soon after moving to Dubai in 2007, he started his multisport career by signing up for some aquathlon (swim/run) and Open Water swimming events including the Burj Al Arab Swim and the Dubai Biathle Championships. In 2012, he represented the UAE in the UIPM Biathle World Championships, finishing 11th overall and earning a team bronze medal. 
-
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/podiummm.jpg)
 
 With a strong thirst for sports, Ben continued to take on new activities and compete in tough competitions. In 2015, Neil Flanagan at InnerFight Endurance took Ben under his wing and converted him into a triathlete. Within a short period of 18 months Ben was already traveling to the UK to qualify for the Great Britain Age group team (30-40 year olds) by competing in a specific Sprint Distance (750m swim / 20km bike / 5km run) qualification race. He finished 2nd in his age group which resulted in him traveling to Cozumel, Mexico in 2016 for his first major international triathlon, the World Triathlon Series Grand Final. Placing 10th overall, Ben then received an automatic qualification for the 2017 Grand final in Rotterdam, Holland, where he finished 2nd in his age group, winning his first International medal for Team GB.
 

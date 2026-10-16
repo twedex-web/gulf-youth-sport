@@ -4,8 +4,8 @@ date: 2020-10-28T08:51:25+04:00
 slug: "the-football-center-dsc-launches-in-dubai"
 categories: ["News & Features"]
 excerpt: "To power football and talent development in the UAE and the region, The Football Center was launched at Dubai Sports City."
+image: "/images/archive/2020/10/the-football-center-dsc-launched-today-in-dubai-1.webp"
 wpId: 4194
-wpFeaturedImage: "2020/10/The-Football-Center-DSC-Launched-Today-in-Dubai-1-scaled.jpg"
 ---
 
 To power football and talent development in the UAE and the region, The Football Center was launched at Dubai Sports City.
@@ -16,7 +16,7 @@ The Football Center DSC will not only be the center of excellence for the game, 
 
 The press conference opening The Football Centre was headed by by H.E. Saeed Hareb, Secretary-General Dubai Sports Council, Khaled Al Zarooni, President, Dubai Sports City, Fernando Sanz, President, LaLiga Foundation, Gaizka Mendieta, LaLiga Ambassador, Maite Ventura, Managing Director for La Liga in MENA and Hussein Murad, CEO, Inspiratus.
 
-Speaking at the press conference, HE Saeed Hareb, Secretary General of the Dubai Sports Council said: “I am delighted to be here today to witness the launch of a new world-class football complex, which will enhance Dubai and UAE’s reputation as a global hub of sporting excellence and enhance its standing on the international stage. ![](https://gulfyouthsport.com/wp-content/uploads/2020/10/The-Football-Center-DSC-Launched-Today-in-Dubai-2-640x460.jpg)
+Speaking at the press conference, HE Saeed Hareb, Secretary General of the Dubai Sports Council said: “I am delighted to be here today to witness the launch of a new world-class football complex, which will enhance Dubai and UAE’s reputation as a global hub of sporting excellence and enhance its standing on the international stage.
 
 "I am also very happy to announce the next phase in our partnership with LaLiga to develop Emirati top talents at Dubai clubs through LaLiga HPC and to empower Emirati coaches. I look forward to working together to take the UAE’s professional football development to the next level and elevate the level of football in the nation."
 

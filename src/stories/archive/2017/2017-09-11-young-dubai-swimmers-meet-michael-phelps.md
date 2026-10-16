@@ -3,13 +3,13 @@ title: "Young Dubai Swimmers Meet Michael Phelps"
 date: 2017-09-11T00:00:00+04:00
 slug: "young-dubai-swimmers-meet-michael-phelps"
 excerpt: "Some of Dubai's top swimming talents had the experience of a lifetime this afternoon, when they met the most decorated Olympian in history, Michael Phelps."
+image: "/images/archive/2019/09/main-img-1192017112813.webp"
 wpId: 719
-wpFeaturedImage: "2019/09/Main-img-1192017112813.jpg"
 ---
 
 **Some of Dubai's top swimming talents had the experience of a lifetime this afternoon, when they met the most decorated Olympian in history, Michael Phelps.**
 
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/DSC_0747.JPG)The super-star, who was in Dubai Mall to open Under Armour's new flagship store, gave an insight into his glittering career during a Q and A with Dubai Eye's Robbie Greenfield, before fielding questions from members of Fit Republik's junior swim teams.
+The super-star, who was in Dubai Mall to open Under Armour's new flagship store, gave an insight into his glittering career during a Q and A with Dubai Eye's Robbie Greenfield, before fielding questions from members of Fit Republik's junior swim teams.
 
 The interview gave the young swimmers a fascinating insight into Phelps' training regimen - from training every day for five years straight to eating between 8,000-10,000 calories daily, the man had clearly been on a mission. 
 
@@ -25,7 +25,7 @@ Phelps was emphatic with his answer:
 
 Braden and sister Alexa also plucked up the courage to get a picture and autograph with the star.
 
-When asked if he had any regrets from his swimming career, the 24-time Olympic gold-medallist was understandably ![](http://gulfyouthsport.com/Admin/Content/UserFiles/DSC_0748.JPG)somewhat at a loss, but did eventually find something,
+When asked if he had any regrets from his swimming career, the 24-time Olympic gold-medallist was understandably somewhat at a loss, but did eventually find something,
 
 "I only broke 39 world records and I really wanted to break another in Rio (2016) to take it to 40, but it didn't happen. It bothered me for a while, but I've come to terms with it."
 

@@ -3,8 +3,8 @@ title: "Strength & Conditioning for Young Athletes"
 date: 2017-10-11T00:00:00+04:00
 slug: "strength-conditioning-for-young-athletes"
 excerpt: "Kris Greene is our guest writer to bring you part one of this look at strength and conditioning. Kris has worked in professional sport for many years."
+image: "/images/archive/2019/09/main-img-1110201711541.webp"
 wpId: 782
-wpFeaturedImage: "2019/09/Main-img-1110201711541.jpg"
 ---
 
 _Kris Greene is our guest writer to bring you part one of this look at strength and conditioning. Kris has worked in professional sport for many years. He now runs The Physical Training Company and specialises in Strength & Conditioning for youth athletes. He is also completing his MSc in sports nutrition._
@@ -23,8 +23,6 @@ common use injuries and boredom) is to do a wide range of activities, skills and
 
 For example, swimming and gymnastics from a young age could set the tone for years to come as kids progress on to sports ranging from athletics to weightlifting and football to basketball. In this example, participation in these sports from an early age could provide the fundamental skills, coordination and physical foundations to then develop all round strength/cardio and agility/speed/skills in team sports such as football and basketball.
 
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/II2A3771.jpg)
-
 **Secondly, Injury Prevention**
 
 The ability to resist injury is essential for any athlete throughout their career. Of course, there will always be the ones that couldn’t have been avoided (awkward tackle in rugby), BUT, there is potential to avoid the minor ones with the correct training program.
@@ -35,8 +33,6 @@ Considering the analogy of a rally car and drag car – each car needs to be des
 
 The idea is that S&C is a support system for the sport in question. You as an athlete are no good to yourself, your teammates or your coach if you’re injured. Sports person first, gym rat last.
 
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/II2A3781.jpg)
-
 **Lastly, Improved Performance**
 
 Once the above two criteria have been satisfied then we can look to improve performance (it can be a simultaneous approach, don’t worry). Just like ‘injury prevention’, we need to consider the demands of the sports. Once we know this we can adopt ‘sport specific’ training methods to design a program aimed at improving physical attributes like strength, speed, power, agility and endurance.
@@ -44,8 +40,6 @@ Once the above two criteria have been satisfied then we can look to improve perf
 Each sport places different demands on the body, and each exercise can challenge us differently. It is important to remember that when training to improve performance, it does not always mean training incredibly hard and pushing the limits. Sometimes less is more. Yes, it is important to work hard when required, but it is also very important not to take away from the sport itself.
 
 When entering a gym/track, technique should be of utmost importance. If somebody gets injured in the gym, something has gone seriously wrong and we have overstepped the limits. Why do 4 million reps for time with bad technique, when all we may need to do is 10 reps X 3 sets to achieve the stimulus we need? Train smart, not stupid.
-
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/II2A3797.jpg)
 
 **Conclusion**
 

@@ -5,8 +5,8 @@ slug: "in-the-spotlight-with-its-just-cricket-academys-sam-charnley"
 kicker: "In The Spotlight"
 categories: ["In The Spotlight"]
 excerpt: "YTEMBED0000"
+image: "/images/archive/2020/03/screen-shot-2020-03-12-at-13-18-35-e1584435543426.webp"
 wpId: 2496
-wpFeaturedImage: "2020/03/Screen-Shot-2020-03-12-at-13.18.35-e1584435543426.png"
 ---
 
 #### _‘In the Spotlight’ is a Gulf Youth Sport feature series giving schools and academies a forum to chat about achievements, upcoming events and general views on sport in the UAE._

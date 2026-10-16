@@ -3,8 +3,8 @@ title: "GEMS SPORTS SERIES: FOOTBALL CUP"
 date: 2017-02-20T00:00:00+04:00
 slug: "gems-sports-series-football-cup"
 excerpt: "Monday 20th February marked the beginning of the GEMS Football Cup, the latest event in the prestigeous GEMS Sports Series."
+image: "/images/archive/2019/09/main-img-2022017102555.webp"
 wpId: 550
-wpFeaturedImage: "2019/09/Main-img-2022017102555.jpg"
 ---
 
 **Monday 20th February** marked the beginning of the GEMS Football Cup, the latest event in the prestigeous GEMS Sports Series.

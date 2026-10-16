@@ -4,8 +4,8 @@ date: 2020-09-21T06:05:52+04:00
 slug: "hire-our-media-team"
 categories: ["GYS"]
 excerpt: "Do you have an upcoming event deserving of superior coverage by our team of media professionals?"
+image: "/images/archive/2020/09/copy-of-gys-sports-media-course.webp"
 wpId: 3933
-wpFeaturedImage: "2020/09/Copy-of-GYS-Sports-Media-Course.png"
 ---
 
 **Do you have an upcoming event deserving of superior coverage by our team of media professionals?** 

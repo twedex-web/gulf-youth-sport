@@ -4,8 +4,8 @@ date: 2020-09-24T04:19:21+04:00
 slug: "connecting-collaborating-and-analysing-with-coach-logic"
 categories: ["News & Features"]
 excerpt: "Coach Logic is enhancing young athletes love of the game, engaging them with captivating video match analysis and building up the collaboration between team mates."
+image: "/images/archive/2020/09/coach-logic.webp"
 wpId: 3954
-wpFeaturedImage: "2020/09/Coach-Logic.png"
 ---
 
 Coach Logic is enhancing young athletes love of the game, engaging them with captivating video match analysis and building up the collaboration between team mates.
@@ -62,7 +62,7 @@ Being able to mark key events and moments in a game also means there are no head
 #### How does Coach Logic develop players?
 
   
-Players can be told in words what to do to improve but once they can see it visually, making that a reality becomes clear. ![](https://gulfyouthsport.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-23-at-13.17.31-300x148.png)
+Players can be told in words what to do to improve but once they can see it visually, making that a reality becomes clear.
 
 "By getting them involved in that process right from the start it has a massive positive learning effect on their understanding of the game so they become like students of the game," Muir said.
 

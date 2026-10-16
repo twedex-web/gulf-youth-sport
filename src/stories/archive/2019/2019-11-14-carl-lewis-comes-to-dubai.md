@@ -4,9 +4,9 @@ date: 2019-11-14T16:17:59+04:00
 slug: "carl-lewis-comes-to-dubai"
 categories: ["GYS", "News & Features"]
 standfirst: "Nine-time gold medal winning athlete Carl Lewis will be the star attraction at the International Sports Innovation Conference in Dubai on Monday."
+image: "/images/archive/2019/11/cl-photo.webp"
 metaDescription: "Nine-time gold medal winning athlete Carl Lewis will be the star attraction at the International Sports Innovation Conference in Dubai on Monday."
 wpId: 1433
-wpFeaturedImage: "2019/11/CL-Photo.jpg"
 ---
 
 Nine-time gold medal winning athlete Carl Lewis will be the star attraction at the International Sports Innovation Conference in Dubai on Monday.
@@ -19,7 +19,7 @@ At the 1988 Olympics in Seoul, Lewis defended his 100m crown and bagged a silver
 
 Remarkably Lewis’ 65 consecutive victories in the long jump is one of the sport's longest undefeated streaks.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2019/11/Carl_Lewis.jpg)  
+  
 His success may have been destined as Lewis was grew up in a family of athletes.
 
 Lewis’ mother Evelyn was a hurdler who represented the USA at the 1951 Pan-Am Games and his father William was a coach at a local athletics club.

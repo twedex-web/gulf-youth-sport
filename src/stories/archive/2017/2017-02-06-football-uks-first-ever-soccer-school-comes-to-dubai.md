@@ -3,8 +3,8 @@ title: "FOOTBALL: UK’s First Ever Soccer School Comes to Dubai"
 date: 2017-02-06T00:00:00+04:00
 slug: "football-uks-first-ever-soccer-school-comes-to-dubai"
 excerpt: "Bobby Charlton Soccer & Sports Academy (BCSSA) has announced this week that they will be coming to the Middle East."
+image: "/images/archive/2019/09/main-img-6220175636.webp"
 wpId: 531
-wpFeaturedImage: "2019/09/Main-img-6220175636.jpg"
 ---
 
 [**Bobby Charlton Soccer & Sports Academy**](http://www.bcssa.co.uk/) [**(BCSSA)**](http://www.bcssa.co.uk/) has announced this week that they will be coming to the Middle East. Bookings are now open for 60 limited places on their camp to be held Friday 24th - Saturday 25th February 2017 in Dubai, United Arab Emirates. They have teamed up with [**Desert Rangers FC Dubai**](https://www.facebook.com/desertrangersfcdubai/) to bring the British coaching expertise to Dubai. David Beckham was discovered at the Bobby Charlton Soccer School and Sir Bobby Charlton then took him straight to Manchester United. David went on to have a fantastic career, which saw him win 6 Premier League titles, the European Cup and captain England.

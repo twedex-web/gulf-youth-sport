@@ -4,8 +4,8 @@ date: 2020-08-20T07:08:57+04:00
 slug: "sports-academies-and-schools-doing-everything-right"
 categories: ["GYS"]
 excerpt: "Sounds good to us! Hear more from AJ about how academies and schools are ready to reopen, and how they are constantly on the improve below."
+image: "/images/archive/2020/08/0-e1597902492784.webp"
 wpId: 3698
-wpFeaturedImage: "2020/08/0-e1597902492784.jpeg"
 ---
 
 > _"A lot of the academies we deal with have shown they know how to adhere to all the guidelines, shown that they can adhere to all the ratios and adhere to the social distancing guidelines, and I think they’re ready, ready to go full steam ahead. Let's rip off the bandaid and get back to sports, safely of course."_

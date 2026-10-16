@@ -4,8 +4,8 @@ date: 2020-04-30T11:22:59+04:00
 slug: "team-angel-wolf-inspiring-all-abilities"
 categories: ["GYS", "News & Features"]
 excerpt: "What a phenomenal way to provide some positivity and encouragement for everyone at the moment."
+image: "/images/archive/2020/04/95186944-1493963650784813-6143543747301867520-o.webp"
 wpId: 3074
-wpFeaturedImage: "2020/04/95186944_1493963650784813_6143543747301867520_o.jpg"
 ---
 
 What a phenomenal way to provide some positivity and encouragement for everyone at the moment.
@@ -51,5 +51,3 @@ GLOBAL LANDMARK HEIGHTS:
 \* Leaning Tower of Pisa Italy 55.86 m (183.3 ft)
 
 \* The Colosseum Rome, Italy 48 m (157 ft)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/04/95566213_1494250440756134_4677012823186866176_o-1024x576.jpg)

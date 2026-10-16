@@ -5,8 +5,8 @@ slug: "gymnastics-above-all-for-lillian-bate"
 kicker: "Gymnastics"
 categories: ["Gymnastics", "News & Features"]
 excerpt: "By Erin D’Oliveira"
+image: "/images/archive/2020/06/img-5300.webp"
 wpId: 3434
-wpFeaturedImage: "2020/06/IMG_5300.jpg"
 ---
 
 _By Erin_ _D’Oliveira_
@@ -22,8 +22,6 @@ Whilst living in Turkey Bate trained four days a week for five hours a day as th
 During her year off she moved to Dubai and her drive to become the world’s best gymnast started. She started training at a new club six days a week for three hours each day. 
 
 With these intense hours and Bate wanting to “make it big time” she decided that it would be best to start home schooling, having attended GEMS World Academy for a year. This gave her the same daily routine which she enjoyed and it allowed her to do school in the afternoons and train in the mornings.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/06/IMG_5302-640x424.jpg" alt=""><figcaption>Lillian Bate in full flight.</figcaption></figure>
 
 This was great in the beginning however she soon struggled with the lack of socialising that regular school gave her, she said she seemed to be missing out on all the fun outings and parties that her friends were doing whilst they were in school.  
 

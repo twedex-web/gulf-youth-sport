@@ -3,8 +3,8 @@ title: "FOOTBALL: NAS take Title on Home Soil"
 date: 2017-02-10T00:00:00+04:00
 slug: "football-nas-take-title-on-home-soil"
 excerpt: "Swiss sensation Sasha Haddid's extra time Golden Goal stunned Foremarke to seal victory for Nord Anglia in the NAS Dubai Cup."
+image: "/images/archive/2019/09/main-img-112201703336.webp"
 wpId: 539
-wpFeaturedImage: "2019/09/Main-img-112201703336.jpg"
 ---
 
 **Swiss sensation Sasha Haddid's extra time Golden Goal stunned Foremarke to seal victory for Nord Anglia in the NAS Dubai Cup.**

@@ -4,8 +4,8 @@ date: 2020-03-18T14:21:34+04:00
 slug: "the-art-of-sports-photographypart-1"
 categories: ["GYS", "News & Features"]
 excerpt: "Melissa Lear is a familiar sight on the sidelines of grounds and stadiums across Dubai, always with camera in hand."
+image: "/images/archive/2020/03/4-action-met-x18s-mark-1.webp"
 wpId: 2502
-wpFeaturedImage: "2020/03/4.-ACTION-MET-X18s-Mark-1.jpg"
 ---
 
 _Melissa Lear is a familiar sight on the sidelines of grounds and stadiums across Dubai, always with camera in hand._
@@ -33,8 +33,6 @@ Along with battling glaring sun in the UAE, Lear said one of the most difficult 
 
 "It started raining and came down so hard that at times the air was white with rain. My trusty stool, water-resistant shoes, a decent poncho for me and a raincoat for my camera saved the day," she said.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/03/2.-ANGLE-LOW_DASSA-Swim-Finals-2016-relays-dive-1-1024x683.jpg)
-
 ## Beginnings in photography
 
   
@@ -57,8 +55,6 @@ A challenge to take a photo every day for a year in 2014 was the catalyst for Le
 "It also meant trying so many different ways, subjects and techniques to photograph and it finally pushed me off total auto mode and into manual mode," she said.
 
 "My family were extremely patient as I practiced and was often yelling back at them: 'Wait It’s too dark. One more try!"'
-
-## ![](https://gulfyouthsport.com/wp-content/uploads/2020/03/3.-EMOTION-Athletics-MeganDingle-3000m-finals-1-640x457.jpg)
 
   
 

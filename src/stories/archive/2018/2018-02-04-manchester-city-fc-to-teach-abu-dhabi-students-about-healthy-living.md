@@ -3,8 +3,8 @@ title: "Manchester City FC to Teach Abu Dhabi Students About Healthy Living"
 date: 2018-02-04T00:00:00+04:00
 slug: "manchester-city-fc-to-teach-abu-dhabi-students-about-healthy-living"
 excerpt: "Manchester City FC are taking strides to educate youngsters in Abu Dhabi about the importance of staying active and eating well in a new programme named ‘Healthy Lifestyle’."
+image: "/images/archive/2019/09/main-img-42201871515.webp"
 wpId: 899
-wpFeaturedImage: "2019/09/Main-img-42201871515.jpg"
 ---
 
 **Manchester City FC are taking strides to educate youngsters in Abu Dhabi about the importance of staying active and eating well in a new programme named ‘Healthy Lifestyle’.**

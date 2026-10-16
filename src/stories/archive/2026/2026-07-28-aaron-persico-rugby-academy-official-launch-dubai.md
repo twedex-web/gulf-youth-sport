@@ -5,9 +5,9 @@ slug: "aaron-persico-rugby-academy-official-launch-dubai"
 kicker: "Rugby"
 categories: ["Rugby"]
 standfirst: "Former Italian international and Six Nations rugby legend Aaron Persico officially launches the Dubai Broncos for youth players in Dubai."
+image: "/images/archive/2026/07/3f31474d-822f-49e0-9362-45b4765ee658.webp"
 metaDescription: "Former Italian international and Six Nations rugby legend Aaron Persico officially launches the Dubai Broncos for youth players in Dubai."
 wpId: 7260
-wpFeaturedImage: "2026/07/3f31474d-822f-49e0-9362-45b4765ee658.jpeg"
 ---
 
 ## **Azzurri to the Desert: Former Italian Rugby International Aaron Persico Launches Elite Rugby Academy in Dubai**

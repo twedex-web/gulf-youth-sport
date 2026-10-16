@@ -5,8 +5,8 @@ slug: "world-school-games-event-series-dates-set"
 kicker: "World School Games"
 categories: ["News & Features", "World School Games"]
 excerpt: "We witnessed some brilliant moments from Gulf schools at the World School Games in the UAE late last year and in the early months of 2020."
+image: "/images/archive/2020/05/screen-shot-2020-05-21-at-17-26-38.webp"
 wpId: 3222
-wpFeaturedImage: "2020/05/Screen-Shot-2020-05-21-at-17.26.38.png"
 ---
 
 We witnessed some brilliant moments from Gulf schools at the World School Games in the UAE late last year and in the early months of 2020.
@@ -23,7 +23,7 @@ Here are the dates to mark down, both events here and internationally where Gulf
 
 U13/U15 WSG,  Dubai , UAE – Feb 25-27 2021
 
-**World School Swim Championships, London, England – May 21-23 2021** ![](https://gulfyouthsport.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-21-at-17.24.44-300x179.png)
+**World School Swim Championships, London, England – May 21-23 2021**
 
 World School Golf Championship, St Andrews, Scotland – June 15-19 2021
 

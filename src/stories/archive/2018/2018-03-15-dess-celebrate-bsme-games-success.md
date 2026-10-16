@@ -3,8 +3,8 @@ title: "DESS celebrate BSME Games success"
 date: 2018-03-15T00:00:00+04:00
 slug: "dess-celebrate-bsme-games-success"
 excerpt: "Dubai English Speaking School (DESS) produced a remarkable weekend of sporting achievement, to be crowned the 2018 British Schools of the Middle East U11 Large School Games champions."
+image: "/images/archive/2019/09/main-img-1532018164617.webp"
 wpId: 947
-wpFeaturedImage: "2019/09/Main-img-1532018164617.jpg"
 ---
 
 **Dubai English Speaking School (DESS) produced a remarkable weekend of sporting achievement, to be crowned the 2018 British Schools of the Middle East U11 Large School Games champions.** 

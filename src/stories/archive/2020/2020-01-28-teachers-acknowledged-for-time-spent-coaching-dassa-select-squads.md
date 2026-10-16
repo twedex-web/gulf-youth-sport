@@ -5,9 +5,9 @@ slug: "teachers-acknowledged-for-time-spent-coaching-dassa-select-squads"
 kicker: "DASSA"
 categories: ["DASSA", "News & Features"]
 standfirst: "The DASSA Select senior squads are nearing the conclusion of their six-week program but co-ordinator Michelle Rooney is enthusiastic about the inroads the teams have made.Following tryouts the best in the region were chosen to form basketball, football and netball sides."
+image: "/images/archive/2020/01/dassa-girls-football.webp"
 metaDescription: "The DASSA Select senior squads are nearing the conclusion of their six-week program but co-ordinator Michelle Rooney is enthusiastic about the inroads the teams have made.Following tryouts the best in the region were chosen to form basketball, football and netball sides."
 wpId: 1883
-wpFeaturedImage: "2020/01/DASSA-girls-football.jpeg"
 ---
 
 The DASSA Select senior squads are nearing the conclusion of their six-week program but co-ordinator Michelle Rooney is enthusiastic about the inroads the teams have made.

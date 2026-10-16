@@ -5,8 +5,8 @@ slug: "wonderkid-wednesdaypragmatic-gleb-sitikov"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 excerpt: "Gleb Sitikov's time in the basketball world was brief, but boy was it impactful."
+image: "/images/archive/2020/04/b2fcdd15-bf92-4504-ad70-cd74220ae74c.webp"
 wpId: 2718
-wpFeaturedImage: "2020/04/B2FCDD15-BF92-4504-AD70-CD74220AE74C.jpeg"
 ---
 
 Gleb Sitikov's time in the basketball world was brief, but boy was it impactful.
@@ -15,7 +15,7 @@ The GEMS International School student seriously dipped his toe into playing bask
 
 Not every gifted athlete feels the pull to play the particular sport they are exceptional at and Sitikov made the decision to turn away from basketball around six months after his stint with Russia.
 
-"A bit more than half a year ago, I decided to go away from pursuing basketball career. (There were) many reasons for it, but the two main ones being the high-injury risk of the sport (I managed to get a variety of them already) and my personality did not match it," he said.![](https://gulfyouthsport.com/wp-content/uploads/2020/04/F4DE7D2F-9D0B-4594-B327-E37E7CA70FC9.jpeg)
+"A bit more than half a year ago, I decided to go away from pursuing basketball career. (There were) many reasons for it, but the two main ones being the high-injury risk of the sport (I managed to get a variety of them already) and my personality did not match it," he said.
 
 "Even though I loved basketball, and it is a team sport, I am more of an individual performer myself. I always believe that the work you put in determines your performance.
 

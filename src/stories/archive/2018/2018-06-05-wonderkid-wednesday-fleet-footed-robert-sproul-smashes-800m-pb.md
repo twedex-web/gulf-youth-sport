@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Fleet-Footed Robert Sproul Smashes 800m PB"
 date: 2018-06-05T00:00:00+04:00
 slug: "wonderkid-wednesday-fleet-footed-robert-sproul-smashes-800m-pb"
 excerpt: "15-year old Dubai English Speaking College student, Robert Sproul, has the world of UAE athletics in a spin following a scintilating performance at a recent athletics event."
+image: "/images/archive/2019/09/main-img-146201810452.webp"
 wpId: 1040
-wpFeaturedImage: "2019/09/Main-img-146201810452.jpg"
 ---
 
 **15-year old Dubai English Speaking College student, Robert Sproul, has the world of UAE athletics in a spin following a scintilating performance at a recent athletics event.**

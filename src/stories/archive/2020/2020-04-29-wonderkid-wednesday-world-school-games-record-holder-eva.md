@@ -5,15 +5,15 @@ slug: "wonderkid-wednesday-world-school-games-record-holder-eva"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday", "World School Games"]
 excerpt: "Eva Ramshaw-Roberts only started athletics training in September of last year, but by March this year she was a World School Games record holder."
+image: "/images/archive/2020/04/screen-shot-2020-04-29-at-11-21-51.webp"
 wpId: 3065
-wpFeaturedImage: "2020/04/Screen-Shot-2020-04-29-at-11.21.51.png"
 ---
 
 Eva Ramshaw-Roberts only started athletics training in September of last year, but by March this year she was a World School Games record holder.
 
 Eva,13, always raced for The British School Al Khubairat at BSME and WSG events and decided to up her commitment by joining Ultimate Athletics.
 
-The training helps extensively and she says her coach Youssef inspires her to "push up myself beyond what I believe my abilities are." That belief led Eva to a gold and a record at the WSG in Dubai in February. ![](https://gulfyouthsport.com/wp-content/uploads/2020/04/unnamed-2-210x300.jpg)
+The training helps extensively and she says her coach Youssef inspires her to "push up myself beyond what I believe my abilities are." That belief led Eva to a gold and a record at the WSG in Dubai in February.
 
 "One of my biggest athletics achievements is breaking the 600m record at the 2020 WSG. I won the 600m at the 2019 WSG and by 2020 I had improved my time by 10 seconds," she said.
 

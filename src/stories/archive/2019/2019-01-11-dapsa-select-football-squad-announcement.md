@@ -3,8 +3,8 @@ title: "DAPSA Select Football Squad Announcement"
 date: 2019-01-11T00:00:00+04:00
 slug: "dapsa-select-football-squad-announcement"
 excerpt: "Following trials this past Sunday and Tuesday, 54 talented footballers have been whittled down to a final 16."
+image: "/images/archive/2019/09/img-111201917104-846b6401541d4129bd510a3c4866e3c7.webp"
 wpId: 1164
-wpFeaturedImage: "2019/09/img-111201917104-846b6401541d4129bd510a3c4866e3c7.jpg"
 ---
 
 Following trials this past Sunday and Tuesday, 54 talented footballers have been whittled down to a final 16.

@@ -5,9 +5,9 @@ slug: "dubai-schools-shine-at-world-schools-netball-cup"
 kicker: "World School Games"
 categories: ["News & Features", "World School Games"]
 standfirst: "Dubai College capped a memorable week at the World Schools Netball Cup as all three of the school's squads picked up the trophy."
+image: "/images/archive/2022/07/img-7948.webp"
 metaDescription: "Dubai College capped a memorable week at the World Schools Netball Cup as all three of the school's squads picked up the trophy."
 wpId: 5673
-wpFeaturedImage: "2022/07/IMG_7948.jpg"
 ---
 
 **It was a week to remember for the students and staff of Dubai College as the school's netballers clinched a triple crown at the World Schools Netball Cup in the UK.**
@@ -22,7 +22,7 @@ With 10 teams in the U15 category, schools were split into two groups of five wi
 
 A 25-19 win over English netball heavyweights Millfield School set up a cup final tie against Sandringham School, with DC emerging victorious thanks to a 26-16 victory in front of a sizeable crowd at Loughborough University.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/07/IMG_7927-300x225.jpg)  
+![](/images/archive/2022/07/img-7927.webp)  
 There was also success for JESS in the U15 age group as their girls came away with silverware in the plate competition. A convincing 31-8 victory over Truro School in the semi finals led to a showdown with Streatham & Clapham High School from Greater London. JESS put on an excellent display to secure a 21-8 win and take home the plate.
 
 The U17 age group was made up of eight schools with Dubai College coming out on top with an undefeated run of seven games. Their excellent performances set up the gold medal match with second placed Grammar School at Leeds. The Grammar School put up an excellent fight but in the end Dubai College were too strong and claimed their third trophy of the day with a 28-18 win.

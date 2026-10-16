@@ -5,10 +5,10 @@ slug: "valley-netball-dubai-club-spotlight-trials"
 kicker: "Netball"
 categories: ["Netball", "News & Features"]
 standfirst: "Valley Netball's explosive debut year! 🏐 Join the pride—see 2026 trial dates for Years 3-13 at the JVC Netball Hub. Plus, a look at their new J20 Sports kit."
+image: "/images/archive/2026/04/valley-netball-post-gulfyouthsport-com.webp"
 imageAlt: "Valley Netball players wearing J20 Sports performance kit"
 metaDescription: "Valley Netball's explosive debut year! 🏐 Join the pride—see 2026 trial dates for Years 3-13 at the JVC Netball Hub. Plus, a look at their new J20 Sports kit."
 wpId: 7032
-wpFeaturedImage: "2026/04/Valley-netball-post-gulfyouthsport.com_.png"
 ---
 
 ## **Built for the Big Moments: Valley Netball’s Explosive Debut Year in the UAE**

@@ -5,8 +5,8 @@ slug: "jess-students-breathtaking-effort"
 kicker: "DASSA"
 categories: ["DASSA"]
 excerpt: "Imagine running six marathons (42km each) over six consecutive days in the Sahara Desert!"
+image: "/images/archive/2021/01/139229065-1134557633647435-1592233546015679029-o-e1611552235142.webp"
 wpId: 4810
-wpFeaturedImage: "2021/01/139229065_1134557633647435_1592233546015679029_o-e1611552235142.jpg"
 ---
 
 Imagine running six marathons (42km each) over six consecutive days in the Sahara Desert!

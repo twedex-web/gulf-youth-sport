@@ -3,8 +3,8 @@ title: "DuDive programme making a splash in UAE"
 date: 2018-05-10T00:00:00+04:00
 slug: "dudive-programme-making-a-splash-in-uae"
 excerpt: "Author: Liam Dickson"
+image: "/images/archive/2019/09/main-img-105201818349.webp"
 wpId: 1025
-wpFeaturedImage: "2019/09/Main-img-105201818349.jpg"
 ---
 
 Author: Liam Dickson

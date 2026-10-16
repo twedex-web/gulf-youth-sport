@@ -3,8 +3,8 @@ title: "FOOTBALL: Du La Liga HPC storm to UAE FAAL title"
 date: 2017-04-23T00:00:00+04:00
 slug: "football-du-la-liga-hpc-storm-to-uae-faal-title"
 excerpt: "DU La Liga HPC clinched the UAE FAAL title in emphatic fashion with an 8-0 thumping of title contenders Al Ain FC under the floodlights at The Sevens yesterday evening."
+image: "/images/archive/2019/09/main-img-2342017141324.webp"
 wpId: 643
-wpFeaturedImage: "2019/09/Main-img-2342017141324.jpg"
 ---
 
 **DU La Liga HPC clinched the UAE FAAL title in emphatic fashion with an 8-0 thumping of title contenders Al Ain FC under the floodlights at The Sevens yesterday evening.**

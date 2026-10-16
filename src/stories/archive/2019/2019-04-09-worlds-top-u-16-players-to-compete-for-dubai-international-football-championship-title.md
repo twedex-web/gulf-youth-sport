@@ -4,8 +4,8 @@ date: 2019-04-09T00:00:00+04:00
 slug: "worlds-top-u-16-players-to-compete-for-dubai-international-football-championship-title"
 categories: ["News & Features"]
 excerpt: "Some of the world’s top young talents will be on show at the Sheikh Maktoum Bin Rashid Stadium in Al Mamzar from April 10-19, including the starlets of Brazil club Flamengo and Spain’s Atletico Madrid, as they challenge…"
+image: "/images/archive/2019/09/img-94201910182-2b695f95fcfd4234b8f2356daf4d7dab.webp"
 wpId: 1209
-wpFeaturedImage: "2019/09/img-94201910182-2b695f95fcfd4234b8f2356daf4d7dab.jpg"
 ---
 
 Some of the world’s top young talents will be on show at the Sheikh Maktoum Bin Rashid Stadium in Al Mamzar from April 10-19, including the starlets of Brazil club Flamengo and Spain’s Atletico Madrid, as they challenge for the coveted Under-16 Dubai International Football Championship title.

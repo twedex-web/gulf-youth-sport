@@ -5,8 +5,8 @@ slug: "united-fc-yfls-virtual-champions"
 kicker: "Match Zone"
 categories: ["Match Zone"]
 excerpt: "When a click is the equivalent of a goal."
+image: "/images/archive/2021/03/150577347-2953972754822002-7379579111425135002-o-e1615178220738.webp"
 wpId: 5011
-wpFeaturedImage: "2021/03/150577347_2953972754822002_7379579111425135002_o-e1615178220738.jpg"
 ---
 
 **When a click is the equivalent of a goal.**

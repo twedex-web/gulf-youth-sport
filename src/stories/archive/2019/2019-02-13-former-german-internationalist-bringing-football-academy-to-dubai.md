@@ -4,8 +4,8 @@ date: 2019-02-13T00:00:00+04:00
 slug: "former-german-internationalist-bringing-football-academy-to-dubai"
 categories: ["News & Features"]
 excerpt: "Three-time Bundesliga Champion Michael Rummenigge is bringing his global football academy to Dubai this half-term."
+image: "/images/archive/2019/09/img-132201914333-a2be1584c6454c85b3cc79fe6a672f44.webp"
 wpId: 1180
-wpFeaturedImage: "2019/09/img-132201914333-a2be1584c6454c85b3cc79fe6a672f44.jpg"
 ---
 
 Three-time Bundesliga Champion Michael Rummenigge is bringing his global football academy to Dubai this half-term.

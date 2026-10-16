@@ -4,9 +4,9 @@ date: 2020-02-21T10:11:40+04:00
 slug: "fit-to-teach-brighton-college-abu-dhabis-liam-llewellyn"
 categories: ["GYS"]
 standfirst: "The enthusiasm of Brighton College's Abu Dhabi's Liam Llewellyn surely transfers to his students."
+image: "/images/archive/2020/02/brighton-college-liam-screenshot.webp"
 metaDescription: "The enthusiasm of Brighton College's Abu Dhabi's Liam Llewellyn surely transfers to his students."
 wpId: 2231
-wpFeaturedImage: "2020/02/Brighton-College-Liam-screenshot.png"
 ---
 
 The enthusiasm of Brighton College's Abu Dhabi's Liam Llewellyn surely transfers to his students.

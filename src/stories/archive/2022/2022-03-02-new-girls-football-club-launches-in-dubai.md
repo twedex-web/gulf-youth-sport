@@ -5,9 +5,9 @@ slug: "new-girls-football-club-launches-in-dubai"
 kicker: "Football"
 categories: ["Football"]
 standfirst: "A new girls and women's football club has launched in Dubai, becoming the first-ever fully female owned football club in the UAE."
+image: "/images/archive/2022/03/onyx-fc-kids2.webp"
 metaDescription: "A new girls and women's football club has launched in Dubai, becoming the first-ever fully female owned football club in the UAE."
 wpId: 5585
-wpFeaturedImage: "2022/03/Onyx-FC_Kids2.jpg"
 ---
 
 **The UAE’s first fully female owned football club has kicked off 2022 with a bang as their girls’ youth academy has been established.**
@@ -20,13 +20,13 @@ Onyx FC also has three separate 7-a-side teams that compete in the Arabian Women
 
 Their hugely popular Monday social sessions are AED 30 per person with no commitment, attracting many of Dubai’s busy women each week. From mums, university students and busy professionals to those looking to get fit, there are over 100 women who take part in Onyx FC’s social training sessions.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2022/03/AWFL_2-300x200.jpeg" alt=""><figcaption>Image credit: AWFL</figcaption></figure>
+<figure><img src="/images/archive/2022/03/awfl-2.webp" alt=""><figcaption>Image credit: AWFL</figcaption></figure>
 
 The highly qualified coaches are UEFA licensed and have professional playing experience including in the UEFA Women’s Champions League, meaning the environment is safe and fun for all.
 
 The Onyx FC Founders are pleased to see the already exponential growth in women’s football in the UAE. Heralding from the UK and the UAE, the four founders have a real passion for the game and creating opportunities for females in the UAE.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2022/03/Onyx-FC-300x300.jpg)
+![](/images/archive/2022/03/onyx-fc.webp)
 
 Co-Founder and Coach Lauren McMurchie said: “We have seen such an increase in our women’s social football programme which is fantastic. We know there are so many expats in the UAE, so to be able to bring people together to make friends and enjoy sport is a great thing for us.
 

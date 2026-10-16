@@ -3,8 +3,8 @@ title: "Meet the DESC Students Leading the Refereeing Revolution"
 date: 2018-10-11T00:00:00+04:00
 slug: "meet-the-desc-students-leading-the-refereeing-revolution"
 excerpt: "For most young athletes competing in sport is as exciting and rewarding as it gets, but GYS had the opportunity to speak to two DESC pupils who have taken their love for rugby one step further – by becoming referees in…"
+image: "/images/archive/2019/09/main-img-11102018105817.webp"
 wpId: 1123
-wpFeaturedImage: "2019/09/Main-img-11102018105817.jpg"
 ---
 
 For most young athletes competing in sport is as exciting and rewarding as it gets, but GYS had the opportunity to speak to two DESC pupils who have taken their love for rugby one step further – by becoming referees in their spare time. 

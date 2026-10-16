@@ -5,8 +5,8 @@ slug: "gulf-schools-shine-in-st-andrews-as-2026-world-schools-golf-champions-are
 kicker: "Golf"
 categories: ["Golf", "World School Games"]
 excerpt: "The 2026/27 World School Games Event Series is up and running — and the Gulf made its mark from the very first week."
+image: "/images/archive/2026/09/wsg-golf-championship-scotland-gys-post-4.webp"
 wpId: 7347
-wpFeaturedImage: "2026/09/WSG-GOLF-CHAMPIONSHIP-SCOTLAND-GYS-post-4.png"
 ---
 
 The 2026/27 World School Games Event Series is up and running — and the Gulf made its mark from the very first week.

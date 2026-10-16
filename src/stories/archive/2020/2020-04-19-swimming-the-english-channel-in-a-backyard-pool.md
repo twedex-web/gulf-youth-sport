@@ -5,8 +5,8 @@ slug: "swimming-the-english-channel-in-a-backyard-pool"
 kicker: "Swimming"
 categories: ["News & Features", "Swimming"]
 excerpt: "Dubai College's Chloe swam the English Channel without leaving her 6.5m backyard pool."
+image: "/images/archive/2020/04/4301591587117859.webp"
 wpId: 2987
-wpFeaturedImage: "2020/04/4301591587117859.jpg"
 ---
 
 Dubai College's Chloe swam the English Channel without leaving her 6.5m backyard pool.

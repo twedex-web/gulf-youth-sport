@@ -5,15 +5,15 @@ slug: "elite-sports-bringing-structured-live-sessions-to-facebook"
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "Coaches at Elite Sports Academy normally work with thousands of children each week in person. But unable to do that business development manager Matt Blenford said the academy is still trying to provide structure."
+image: "/images/archive/2020/04/matt-elite.webp"
 wpId: 3013
-wpFeaturedImage: "2020/04/Matt-Elite-scaled.jpg"
 ---
 
 Coaches at Elite Sports Academy normally work with thousands of children each week in person. But unable to do that business development manager Matt Blenford said the academy is still trying to provide structure.
 
 "At the moment, we are unable to deliver our regular coaching and swimming sessions to our children, so we came up with an idea, of which we thought would make a positive impact on the children of Dubai," he said.
 
-"We decided that we would launch Free coaching sessions through Facebook Live. The live coaching sessions are open to absolutely anyone, not just the children of our academy. The sessions fundamentally revolve around football, but they can be adapted to any other sport.![](https://gulfyouthsport.com/wp-content/uploads/2020/04/ES-logo-Vertical-White-vertical-300x234.jpg)
+"We decided that we would launch Free coaching sessions through Facebook Live. The live coaching sessions are open to absolutely anyone, not just the children of our academy. The sessions fundamentally revolve around football, but they can be adapted to any other sport.
 
 "We are also setting educational challenges twice a week, designed to keep children's minds engaged on top of the physical activities."
 

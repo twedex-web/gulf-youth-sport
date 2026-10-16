@@ -3,8 +3,8 @@ title: "NETBALL: Dubai College Secure DASSA Double"
 date: 2017-01-30T00:00:00+04:00
 slug: "netball-dubai-college-secure-dassa-double"
 excerpt: "The DASSA Senior Girls Netball tournament took place at Repton School on Saturday with 29 teams from across Dubai competing for the chance to be crowned the Emirate’s best side."
+image: "/images/archive/2019/09/main-img-301201784528.webp"
 wpId: 527
-wpFeaturedImage: "2019/09/Main-img-301201784528.jpg"
 ---
 
 **The DASSA Senior Girls Netball tournament took place at Repton School on Saturday with 29 teams from across Dubai competing for the chance to be crowned the Emirate’s best side.**

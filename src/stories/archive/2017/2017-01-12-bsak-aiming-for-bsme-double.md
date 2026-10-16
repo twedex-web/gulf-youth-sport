@@ -3,8 +3,8 @@ title: "BSAK Aiming for BSME Double"
 date: 2017-01-12T00:00:00+04:00
 slug: "bsak-aiming-for-bsme-double"
 excerpt: "The British School Al Khubairat are set host the BSME (British Schools in the Middle East) Games for the U13 age group over three days later this month in a highly anticipated event at New York University’s Abu Dhabi…"
+image: "/images/archive/2019/09/main-img-121201702453.webp"
 wpId: 503
-wpFeaturedImage: "2019/09/Main-img-121201702453.jpg"
 ---
 
 **The British School Al Khubairat are set host the BSME (British Schools in the Middle East) Games for the U13 age group over three days later this month in a highly anticipated event at New York University’s Abu Dhabi campus.**

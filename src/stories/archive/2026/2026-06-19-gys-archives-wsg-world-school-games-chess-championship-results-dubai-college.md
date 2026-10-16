@@ -5,10 +5,10 @@ slug: "gys-archives-wsg-world-school-games-chess-championship-results-dubai-coll
 kicker: "Chess"
 categories: ["Chess", "World School Games"]
 standfirst: "Dubai College narrowly defeats Jumeirah College by 0.5 points to win the WSG Chess Championship. View the full top 10 team and player results."
+image: "/images/archive/2026/06/whatsapp-image-2026-06-19-at-13-34-24.webp"
 seoTitle: "Dubai College Wins World School Games Chess Championship Finale"
 metaDescription: "Dubai College narrowly defeats Jumeirah College by 0.5 points to win the WSG Chess Championship. View the full top 10 team and player results."
 wpId: 7222
-wpFeaturedImage: "2026/06/WhatsApp-Image-2026-06-19-at-13.34.24.jpeg"
 ---
 
 ## **Half-a-Point Heartbreaker: Dubai College Narrowly Edges Out Jumeirah College to Claim World School Games Chess Crown**
@@ -24,7 +24,7 @@ Securing a stellar but heartbreaking **2nd place overall** was **Jumeirah Colleg
 
 Rounding out the elite podium in **3rd place overall** were the **Hartland Bishops**, finishing with a strong team score of **20**. Top player **Anastasiya Sevatsyanchuk** led the charge for the Hartland contingent, showcasing phenomenal technical discipline throughout the high-pressure rounds.
 
-### **![](https://gulfyouthsport.com/wp-content/uploads/2026/06/World-School-Games-Chess-Championships-1-724x1024.png)**
+### **![](/images/archive/2026/06/world-school-games-chess-championships-1.webp)**
 
   
 

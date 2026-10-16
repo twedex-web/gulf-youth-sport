@@ -4,8 +4,8 @@ date: 2020-09-28T09:54:50+04:00
 slug: "dubai-schools-begin-ecas-amidst-pandemic"
 categories: ["News & Features"]
 excerpt: "September has been something of a minefield for Dubai's international schools. With COVID-19 protocols dominating proceedings, sport has found itself firmly on the back burner."
+image: "/images/archive/2020/09/rlp20193.webp"
 wpId: 4001
-wpFeaturedImage: "2020/09/RLP20193-scaled-e1601265435655.jpg"
 ---
 
 **September has been something of a minefield for Dubai's international schools. With COVID-19 protocols dominating proceedings, sport has found itself firmly on the back burner.**
@@ -15,8 +15,6 @@ Whilst many schools continue to err on the side of caution, a small number of Du
 One of those schools leading the charge is JESS Arabian Ranches, whose teams are a familiar sight at the upper echelons of any DASSA league. The school’s Director of Sport **Roger Nicholson** explained the rationale behind the restart.
 
 "It’s been a really tough six months for our students, so it’s great to be able to take the first steps towards returning to team sport," he said.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/09/EgahbKEWoAASyNA-640x480.jpeg" alt=""><figcaption>Netball is among the ECAs JESS AR is restarting, following COVID-19 protocols.</figcaption></figure>
 
 "Sessions are now up and running for students in years 10-13 in rugby, football, basketball, and netball. It’s still a far cry from our normal training sessions – reduced numbers, non-contact, and social distancing – but at least the students are working on their skills and physical conditioning, whilst having the opportunity to interact with their team-mates."
 

@@ -4,8 +4,8 @@ date: 2020-11-25T07:43:16+04:00
 slug: "dias-sulaiman-acing-gys30x30-challenge"
 categories: ["News & Features"]
 excerpt: "This Dubai International Academy Emirates Hill star is acing the GYS 30X30 Challenge as the top performing student, measured by Movement Wins."
+image: "/images/archive/2020/11/screen-shot-2020-11-25-at-17-08-31.webp"
 wpId: 4441
-wpFeaturedImage: "2020/11/Screen-Shot-2020-11-25-at-17.08.31.png"
 ---
 
 This Dubai International Academy Emirates Hill star is acing the GYS 30X30 Challenge as the top performing student, measured by [Movement Wins.](https://www.movement-wins.com/)

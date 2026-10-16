@@ -3,8 +3,8 @@ title: "KHDA Chairman Dr. Abdulla Al Karam Takes on NLCS Dubai in the 30x30 Fitn
 date: 2017-11-16T00:00:00+04:00
 slug: "khda-chairman-dr-abdulla-al-karam-takes-on-nlcs-dubai-in-the-30x30-fitness-challenge"
 excerpt: "As part of the Dubai Fitness Challenge, the city-wide initiative created by His Highness Sheikh Hamdan bin Mohammed Bin Rashid Al Maktoum, Crown Prince of Dubai and Chairman of the Executive Council, Dr."
+image: "/images/archive/2019/09/main-img-16112017101629.webp"
 wpId: 824
-wpFeaturedImage: "2019/09/Main-img-16112017101629.jpg"
 ---
 
 As part of the Dubai Fitness Challenge, the city-wide initiative created by His Highness Sheikh Hamdan bin Mohammed Bin Rashid Al Maktoum, Crown Prince of Dubai and Chairman of the Executive Council, Dr. Abdulla Al Karam, Chairman of the Board of Directors and Director General of the Knowledge and Human Development Authority (KHDA) accepted a 30x30 fitness challenge by North London Collegiate School Dubai, competing in a morning of creative fitness activities with children and teachers on campus.

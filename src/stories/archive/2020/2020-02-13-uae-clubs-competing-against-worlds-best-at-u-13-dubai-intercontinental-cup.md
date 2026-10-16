@@ -5,8 +5,8 @@ slug: "uae-clubs-competing-against-worlds-best-at-u-13-dubai-intercontinental-cu
 kicker: "Football"
 categories: ["Football", "News & Features"]
 excerpt: "The fourth U-13 Dubai Intercontinental Football Cup is officially underway at Dubai Sports City."
+image: "/images/archive/2020/02/imgl4816.webp"
 wpId: 2069
-wpFeaturedImage: "2020/02/IMGL4816.jpg"
 ---
 
 The fourth U-13 Dubai Intercontinental Football Cup is officially underway at Dubai Sports City.
@@ -15,7 +15,7 @@ The fourth U-13 Dubai Intercontinental Football Cup is officially underway at Du
 
 UAE teams will compete against squads from European powerhouse academies Real Madrid, FC Barcelona, Celta Vigo, Bayern Munich, Arsenal, Inter Milan and FC Porto.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/02/RLP22632.jpg)Secretary General of Dubai Sports Council His Excellency Saeed Hareb said spectators could view potential future stars on the city’s pitches across the three day event.
+Secretary General of Dubai Sports Council His Excellency Saeed Hareb said spectators could view potential future stars on the city’s pitches across the three day event.
 
 “We are really excited about the start of the tournament, which has attracted 24 teams from 12 different countries this year,” he said.
 

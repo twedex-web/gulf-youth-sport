@@ -5,8 +5,8 @@ slug: "world-rugby-7s-course-inspires-desc-students"
 kicker: "Rugby"
 categories: ["News & Features", "Rugby"]
 excerpt: "A World Rugby Sevens coaching course hosted by the UAE Rugby has successfully inspired Dubai English Speaking College students to become coaches."
+image: "/images/archive/2020/11/elpcibiw0aagfb1.webp"
 wpId: 4309
-wpFeaturedImage: "2020/11/ElpCIbiW0AAgfb1.jpeg"
 ---
 
 A World Rugby Sevens coaching course hosted by the UAE Rugby has successfully inspired Dubai English Speaking College students to become coaches.
@@ -19,8 +19,6 @@ DESC Director of Rugby George Cliffe said the introduction to coaching provided 
 "I'm lucky to be involved with the Warriors Rugby Club where many of the course attendees and our older players are giving back to the game by coaching every week. I know this is happening at other clubs around the UAE too with students and parents seeing the value in community work," he said.
 
 "Our DESC students have developed tremendously as coaches over recent months and more importantly as people. It really shows in their mature, positive behaviour and attainment around school. It also opens doors for them in further education and job opportunities, as they can evidence skills they've learnt and put into practice, which looks great on CVs and shines through in interviews."
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/02/DESC-Rugby-DC10s-group-shot-300x200.jpg" alt=""><figcaption>DESC has experienced supreme success in rugby.</figcaption></figure>
 
 Five students, three staff members and three parents from DESC took part in the course and Cliffe explained what the group gained from the course.
 

@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-strong-sisi-on-managing-type-1-diabetes"
 kicker: "Netball"
 categories: ["Netball", "Wonderkid Wednesday"]
 excerpt: "Some of us take playing sport for granted. That doesn't apply to Dubai Hurricanes netballer Sisi Curtis-Oliver."
+image: "/images/archive/2020/05/photo-2020-04-18-19-38-38.webp"
 wpId: 3110
-wpFeaturedImage: "2020/05/PHOTO-2020-04-18-19-38-38.jpg"
 ---
 
 Some of us take playing sport for granted. That doesn't apply to Dubai Hurricanes netballer Sisi Curtis-Oliver.

@@ -4,9 +4,9 @@ date: 2019-11-25T15:16:23+04:00
 slug: "from-kenya-to-dubai-kiprono-koskei-and-wiseman-were-start-their-next-sporting-chapter"
 categories: ["GYS", "News & Features"]
 standfirst: "Kenyan athletes Kiprono Koskei and Wiseman Were inspired Innoventures Education schools students in Dubai."
+image: "/images/archive/2019/11/kenyan-athletes-c.webp"
 metaDescription: "Kenyan athletes Kiprono Koskei and Wiseman Were inspired Innoventures Education schools students in Dubai."
 wpId: 1501
-wpFeaturedImage: "2019/11/Kenyan-athletes-c.jpg"
 ---
 
 Two Kenyan athletes do not have role models.
@@ -19,7 +19,7 @@ Kenyan athletes Kiprono Koskei and Wiseman Were are recipients of Innoventures 
 
 The duo ran training for Innoventures Education schools Raffles International School, Raffles World Academy, Collegiate American School, Dubai International Academy Emirates Hills and Dubai International Academy Emirates Hills.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2019/11/kenya.jpg)Off the track and when speaking to the students at Dubai International Academy Al Barsha athletics track, Kiprono and Were shared stories from their elite careers.
+Off the track and when speaking to the students at Dubai International Academy Al Barsha athletics track, Kiprono and Were shared stories from their elite careers.
 
 Koskei won gold at the 2015 African Games and the sprinter represented Kenya at last year's Commonwealth Games on the Gold Coast in the 110m hurdles and 4x100 relay while Were has his eyes set on next year's Olympics.
 
@@ -31,7 +31,7 @@ But Innoventures Education Director of PE and Sport Mihail Kouzev said that one
 
 "Rather they looked at their own performances and their own commitment to their training to measure their progress and inspire themselves to develop as athletes."
 
-![](https://gulfyouthsport.com/wp-content/uploads/2019/11/Kenyan-athletes.jpg)Kouzev explained how the athletes gained the opportunity to train in Dubai.
+Kouzev explained how the athletes gained the opportunity to train in Dubai.
 
 "(It was) through Storm Trenshaw, a university friend of RIS Secondary School Head of PE Mr Clements who he has has remained in contact over the years," he said.
 

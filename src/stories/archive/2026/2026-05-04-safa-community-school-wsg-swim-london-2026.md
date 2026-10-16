@@ -5,9 +5,9 @@ slug: "safa-community-school-wsg-swim-london-2026"
 kicker: "Swimming"
 categories: ["Swimming", "World School Games"]
 standfirst: "Safa Community School returns to the London Aquatics Centre. Led by Chris Hubble, SCS eyes a third year of dominance at the World School Swim Championships"
+image: "/images/archive/2026/05/copy-of-cranleigh-ad-bsme-u19-games-post.webp"
 metaDescription: "Safa Community School returns to the London Aquatics Centre. Led by Chris Hubble, SCS eyes a third year of dominance at the World School Swim Championships"
 wpId: 7143
-wpFeaturedImage: "2026/05/Copy-of-Cranleigh-AD-BSME-U19-games-post.png"
 ---
 
 ## **Dynasty in the Making: Safa Community School Returns to London to Defend World School Swim Titles**

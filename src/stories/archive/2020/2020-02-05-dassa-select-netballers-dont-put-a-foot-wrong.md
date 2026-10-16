@@ -5,9 +5,9 @@ slug: "dassa-select-netballers-dont-put-a-foot-wrong"
 kicker: "DASSA"
 categories: ["DASSA", "Match Zone", "Netball"]
 standfirst: "DASSA Select's netball squad lined up against some of the best netballers in their age group in Dubai.Meeting DNA Netball Club in the final week of the Select program, co-coach Alana Clark said the teams relished the test."
+image: "/images/archive/2020/02/dsc07403.webp"
 metaDescription: "DASSA Select's netball squad lined up against some of the best netballers in their age group in Dubai.Meeting DNA Netball Club in the final week of the Select program, co-coach Alana Clark said the teams relished the test."
 wpId: 1961
-wpFeaturedImage: "2020/02/DSC07403.jpg"
 ---
 
 DASSA Select's netball squad lined up against some of the best netballers in their age group in Dubai.

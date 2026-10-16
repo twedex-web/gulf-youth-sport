@@ -3,8 +3,8 @@ title: "Dubai's young footballers thrive as new DASSA programme launches"
 date: 2018-05-17T00:00:00+04:00
 slug: "dubais-young-footballers-thrive-as-new-dassa-programme-launches"
 excerpt: "This year, a very exciting new initiative has hit the youth football scene in Dubai."
+image: "/images/archive/2019/09/main-img-1752018111956.webp"
 wpId: 1032
-wpFeaturedImage: "2019/09/Main-img-1752018111956.jpg"
 ---
 
 This year, a very exciting new initiative has hit the youth football scene in Dubai. GYS caught up with Chris Brown, who is the Global Director of Football for [It’s Just FOOTBALL](https://www.itsjustfootball.com/) and heads up the DASSA U12 School Select programme.

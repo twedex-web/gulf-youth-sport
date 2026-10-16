@@ -5,8 +5,8 @@ slug: "jac-downham-extraordinary-in-every-way"
 kicker: "Triathlon"
 categories: ["News & Features", "Triathlon"]
 excerpt: "Everything Jac Downham does is extraordinary in every sense of the word."
+image: "/images/archive/2020/07/jac-tri-a.webp"
 wpId: 3583
-wpFeaturedImage: "2020/07/Jac-tri-a.jpg"
 ---
 
 Everything Jac Downham does is extraordinary in every sense of the word.
@@ -23,7 +23,7 @@ But living with Kawasaki disease was never a barrier to what Downham could achie
 
 "Alder Hey was where I was taken to, where my records were, they knew what they were doing and had a check up with me every Christmas and two years ago they decided to discharge me and that was when the Ironman journey really began (but) I’d started training for it before then."
 
-#### ![](https://gulfyouthsport.com/wp-content/uploads/2020/07/Jac-tri-d-768x1024.jpg)EARLY LIFE
+#### EARLY LIFE
 
   
 Downham was rushed to hospital as a baby under extraordinary circumstances as mum Cheryl previously explained.
@@ -49,7 +49,7 @@ Then along came triathlon with My Tri Club and raining with Ben Parnell before b
   
 The culmination of Downham’s determination came at the beginning of the year when he competed in the Dubai Ironman 70.3, and followed that up two weeks later with another mammoth effort in Oman.
 
-"It was tiring, the body had actually performed better in Oman than what I was expecting, obviously the body in Oman was broken after two races back-to-back. The key was structured training between Dubai and Oman making sure the training load wasn’t too much but not stopping completely or else the body will lose it pattern," he said.![](https://gulfyouthsport.com/wp-content/uploads/2020/07/Jac-tri-b-640x640.jpg)
+"It was tiring, the body had actually performed better in Oman than what I was expecting, obviously the body in Oman was broken after two races back-to-back. The key was structured training between Dubai and Oman making sure the training load wasn’t too much but not stopping completely or else the body will lose it pattern," he said.
 
 "Thanks to Matt, he supported me in doing what I wanted. We had a discussion about it. Matt didn’t think it was right because he had my best interests at heart, obviously being 19 years of age you don’t want to put too much stress and pressure on the body, but me being the stubborn person I am I had it in my mind that I wanted to qualify for the World Champs."
 

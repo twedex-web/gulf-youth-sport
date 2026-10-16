@@ -4,9 +4,9 @@ date: 2021-11-18T14:16:59+04:00
 slug: "24-hour-triathlon"
 categories: ["News & Features"]
 standfirst: "Two Dubai schools are set to take part in 24 hour triathlons as the Dubai Fitness Challenge comes to a close."
+image: "/images/archive/2021/11/row-2.webp"
 metaDescription: "Two Dubai schools are set to take part in 24 hour triathlons as the Dubai Fitness Challenge comes to a close."
 wpId: 5479
-wpFeaturedImage: "2021/11/Row-2.jpg"
 ---
 
 **Two schools are taking on 24 hour triathlons as part of the Dubai Fitness Challenge which has been taking place across the city over the course of the last three weeks and comes to a close at the end of the month.**

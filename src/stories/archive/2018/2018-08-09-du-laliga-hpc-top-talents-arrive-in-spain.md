@@ -3,8 +3,8 @@ title: "du LaLiga HPC Top Talents Arrive in Spain"
 date: 2018-08-09T00:00:00+04:00
 slug: "du-laliga-hpc-top-talents-arrive-in-spain"
 excerpt: "The starlets of du LaLiga HPC arrived in Spain today for the coveted annual 21-day Scouting Camp, consisting of intensive training and competitive matches against some of LaLiga’s top youth teams including Sevilla FC…"
+image: "/images/archive/2019/09/main-img-982018105632.webp"
 wpId: 1081
-wpFeaturedImage: "2019/09/Main-img-982018105632.jpg"
 ---
 
 The starlets of du LaLiga HPC arrived in Spain today for the coveted annual 21-day Scouting Camp, consisting of intensive training and competitive matches against some of LaLiga’s top youth teams including Sevilla FC and Malaga FC.  

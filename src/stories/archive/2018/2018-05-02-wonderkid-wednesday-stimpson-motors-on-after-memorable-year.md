@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Stimpson motors on after memorable year"
 date: 2018-05-02T00:00:00+04:00
 slug: "wonderkid-wednesday-stimpson-motors-on-after-memorable-year"
 excerpt: "Last year Gulf Youth Sport introduced you to a go-carting prodigy taking Dubai by storm."
+image: "/images/archive/2019/09/main-img-25201819543.webp"
 wpId: 1015
-wpFeaturedImage: "2019/09/Main-img-25201819543.jpg"
 ---
 
 Last year Gulf Youth Sport introduced you to a go-carting prodigy taking Dubai by storm.

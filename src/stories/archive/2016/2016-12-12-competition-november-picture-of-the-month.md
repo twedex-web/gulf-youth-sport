@@ -3,13 +3,13 @@ title: "COMPETITION: November Picture of the Month"
 date: 2016-12-12T00:00:00+04:00
 slug: "competition-november-picture-of-the-month"
 excerpt: "A huge congratulations to Midhun Ragh, the winner of November’s GYS Picture of the Month competition!"
+image: "/images/archive/2019/09/main-img-121220166100.webp"
 wpId: 489
-wpFeaturedImage: "2019/09/Main-img-121220166100.jpg"
 ---
 
 **A huge congratulations to Midhun Ragh, the winner of November’s GYS Picture of the Month competition!**
 
-Midhun caught this wonderful action photo during the Dubai College Sevens on ![](http://gulfyouthsport.com/Admin/Content/UserFiles/15289248_814540305355459_7981505628377148298_o.jpg)  
+Midhun caught this wonderful action photo during the Dubai College Sevens on  
 Saturday 26th November and was voted the winner after a Facebook poll. 
 
 Midhun started life at Gulf Youth Sport in October, coming in as an intern after three years at  

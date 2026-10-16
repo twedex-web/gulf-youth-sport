@@ -4,9 +4,9 @@ date: 2019-11-21T16:07:57+04:00
 slug: "dubai-rising-star-josh-hill-in-running-for-bbc-young-sports-personality-of-the-year"
 categories: ["GYS", "News & Features"]
 standfirst: "A fantastic few months for Josh Hill has been capped off with the possibility of the Dubai-based golfer being crowned BBC Young Sports Personality of the Year."
+image: "/images/archive/2019/11/josh-hill.webp"
 metaDescription: "A fantastic few months for Josh Hill has been capped off with the possibility of the Dubai-based golfer being crowned BBC Young Sports Personality of the Year."
 wpId: 1512
-wpFeaturedImage: "2019/11/Josh-Hill.jpg"
 ---
 
 Josh Hill's golfing career continues to rise in leaps and bounds.

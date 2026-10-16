@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Rayhan Thomas"
 date: 2018-09-05T00:00:00+04:00
 slug: "wonderkid-wednesday-rayhan-thomas"
 excerpt: "One of the brightest young talents currently lighting up the Dubai sporting scene is Indian golfer Rayhan Thomas."
+image: "/images/archive/2019/09/main-img-592018165837.webp"
 wpId: 1103
-wpFeaturedImage: "2019/09/Main-img-592018165837.jpg"
 ---
 
 One of the brightest young talents currently lighting up the Dubai sporting scene is Indian golfer Rayhan Thomas. At just 18 years of age, the bright talent continues to make a name for himself with every tournament that goes by.

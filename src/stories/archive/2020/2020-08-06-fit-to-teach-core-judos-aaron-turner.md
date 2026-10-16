@@ -4,8 +4,8 @@ date: 2020-08-06T03:45:35+04:00
 slug: "fit-to-teach-core-judos-aaron-turner"
 categories: ["GYS", "News & Features"]
 excerpt: "Aaron Turner opened up Core Judo Academy UAE in January this year. With Great Britain representation behind him, he has plenty to offer the young athletes at his academy."
+image: "/images/archive/2020/08/judo-pic-17.webp"
 wpId: 3634
-wpFeaturedImage: "2020/08/judo-pic-17-.jpeg"
 ---
 
 Aaron Turner opened up Core Judo Academy UAE in January this year. With Great Britain representation behind him, he has plenty to offer the young athletes at his academy. At list of Turner's feats leave no doubt as to his ability:

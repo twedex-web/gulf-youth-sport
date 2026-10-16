@@ -5,15 +5,15 @@ slug: "join-in-dassas-virtual-1km-time-trial-competition"
 kicker: "DASSA"
 categories: ["DASSA", "Match Zone"]
 excerpt: "Primary school students in Dubai will have the opportunity to fine-tune their fitness ahead of the 30x30 Dubai Fitness Challenge with a virtual 1km time-trial."
+image: "/images/archive/2020/10/ii2a8659.webp"
 wpId: 4023
-wpFeaturedImage: "2020/10/II2A8659-scaled-e1601511663454.jpg"
 ---
 
 **Primary school students in Dubai will have the opportunity to fine-tune their fitness ahead of the 30x30 Dubai Fitness Challenge with a virtual 1km time-trial.**
 
 The initiative, organised by Dubai Affiliated School Sport Association (DASSA), will run from October 1 - November 12, and is open to all year 3-6 students – and their parents – of DASSA member schools.
 
-**Niall Statham**, Head of PE at Hartland International School and Vice Chairman of DASSA, described the Challenge as a great opportunity for students looking to maintain their competitive edge during the Covid-19 pandemic.![](https://gulfyouthsport.com/wp-content/uploads/2020/10/II2A8615-200x300.jpg)
+**Niall Statham**, Head of PE at Hartland International School and Vice Chairman of DASSA, described the Challenge as a great opportunity for students looking to maintain their competitive edge during the Covid-19 pandemic.
 
 "Unfortunately the pandemic has led to the postponement of DASSA's leagues and events for the whole of term one. The 1km virtual challenge gives students a chance to represent their school and compete against their peers in an innovative, fun and safe way," he said.
 

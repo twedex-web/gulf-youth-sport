@@ -5,9 +5,9 @@ slug: "dassa-joins-forces-with-mediclinic-perform"
 kicker: "DASSA"
 categories: ["DASSA"]
 standfirst: "Mediclinic Perform, a leading provider sports medicine and rehabilitation services, has announced a strategic partnership with DASSA Sport."
+image: "/images/archive/2023/12/mell3135-enhanced-nr.webp"
 metaDescription: "Mediclinic Perform, a leading provider sports medicine and rehabilitation services, has announced a strategic partnership with DASSA Sport."
 wpId: 6770
-wpFeaturedImage: "2023/12/MELL3135-Enhanced-NR-scaled.jpg"
 ---
 
 Mediclinic Perform, a leading provider of world-class sports medicine and rehabilitation services in Dubai, has announced a strategic partnership with DASSA Sport.
@@ -18,11 +18,11 @@ With 88 member schools and over 40,000 students competing on a weekly basis, DAS
 
 Mediclinic Perform's state-of-the-art Sports Medicine & Rehabilitation Centre, located at Mediclinic Parkview Hospital is poised to play a pivotal role in advancing sports healthcare in Dubai. This groundbreaking facility, staffed by world-class sports doctors and sports rehabilitation specialists including physiotherapists, sports therapists and sports podiatrists, offers advanced treatment for sports injuries, musculoskeletal complaints, and performance optimization.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/12/MELL3182-Enhanced-NR-scaled.jpg)
+![](/images/archive/2023/12/mell3182-enhanced-nr.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/12/MELL3152-Enhanced-NR-scaled.jpg)
+![](/images/archive/2023/12/mell3152-enhanced-nr.webp)
 
-![](https://gulfyouthsport.com/wp-content/uploads/2023/12/MELL3096-Enhanced-NR-scaled.jpg)
+![](/images/archive/2023/12/mell3096-enhanced-nr.webp)
 
 The centre features cutting-edge technology, including a gait analysis lab, force plates, Vo2 Max testing, alter gravity treadmill and functional screening.
 

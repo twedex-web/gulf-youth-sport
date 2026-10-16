@@ -5,10 +5,10 @@ slug: "aum-kuwait-sports-camp-abu-dhabi-tour"
 kicker: "Basketball"
 categories: ["Basketball", "Football", "News & Features", "University Sport"]
 standfirst: "AUM Kuwait Sports Camp Abu Dhabi highlights! 🇰🇼✈️🇦🇪 See the American University of the Middle East on their elite sports tour experience with TWEDEX."
+image: "/images/archive/2026/04/copy-of-valley-netball-post-gulfyouthsport-com.webp"
 imageAlt: "AUM Kuwait's Liam O'Brien presenting an official university pennant to the TWEDEX tour staff during the AUM Kuwait Sports Camp Abu Dhabi."
 metaDescription: "AUM Kuwait Sports Camp Abu Dhabi highlights! 🇰🇼✈️🇦🇪 See the American University of the Middle East on their elite sports tour experience with TWEDEX."
 wpId: 7035
-wpFeaturedImage: "2026/04/Copy-of-Valley-netball-post-gulfyouthsport.com_.png"
 ---
 
 ## The American University of the Middle East (AUM) swaps Kuwait for Abu Dhabi in a sports training camp with TWEDEX.

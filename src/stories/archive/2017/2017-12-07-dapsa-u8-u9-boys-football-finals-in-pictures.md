@@ -3,8 +3,8 @@ title: "DAPSA U8 & U9 Boys Football Finals in Pictures"
 date: 2017-12-07T00:00:00+04:00
 slug: "dapsa-u8-u9-boys-football-finals-in-pictures"
 excerpt: "Jebel Ali School played host to the showcase event of the U8/U9 Boys (DAPSA) Football season."
+image: "/images/archive/2019/09/main-img-7122017115216.webp"
 wpId: 860
-wpFeaturedImage: "2019/09/Main-img-7122017115216.jpg"
 ---
 
 Jebel Ali School played host to the showcase event of the U8/U9 Boys (DAPSA) Football season. GEMS WIS emerged as the new force to be reckoned with, romping to victory in both age-groups ahead of VHPS (U8's) and JPS (U9's).

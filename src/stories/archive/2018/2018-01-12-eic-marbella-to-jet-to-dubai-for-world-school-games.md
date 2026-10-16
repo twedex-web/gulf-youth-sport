@@ -3,8 +3,8 @@ title: "EIC Marbella to Jet to Dubai for World School Games"
 date: 2018-01-12T00:00:00+04:00
 slug: "eic-marbella-to-jet-to-dubai-for-world-school-games"
 excerpt: "It’s not every day you receive a call inviting you to represent your school and country at a worldwide sports event, but that’s exactly what happened to Ashley Brewster and EIC Marbella ahead of the World School Games…"
+image: "/images/archive/2019/09/main-img-121201813953.webp"
 wpId: 878
-wpFeaturedImage: "2019/09/Main-img-121201813953.jpg"
 ---
 
 **It’s not every day you receive a call inviting you to represent your school and country at a worldwide sports event, but that’s exactly what happened to Ashley Brewster and EIC Marbella ahead of the World School Games in Dubai in February.**

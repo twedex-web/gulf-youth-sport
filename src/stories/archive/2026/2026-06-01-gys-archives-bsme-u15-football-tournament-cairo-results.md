@@ -5,9 +5,9 @@ slug: "gys-archives-bsme-u15-football-tournament-cairo-results"
 kicker: "BSME Games"
 categories: ["BSME Games", "Football"]
 standfirst: "JESS Dubai wins the Boys' BSME U15 Football Tournament in Cairo, as DESC and the JESS girls claim podium finishes. View full results and gallery links."
+image: "/images/archive/2026/06/whatsapp-image-2026-06-01-at-13-37-53.webp"
 metaDescription: "JESS Dubai wins the Boys' BSME U15 Football Tournament in Cairo, as DESC and the JESS girls claim podium finishes. View full results and gallery links."
 wpId: 7186
-wpFeaturedImage: "2026/06/WhatsApp-Image-2026-06-01-at-13.37.53.jpeg"
 ---
 
 ## **Continental Conquest: JESS Dubai Claims Boys’ BSME U15 Title in High-Stakes Cairo Finals**

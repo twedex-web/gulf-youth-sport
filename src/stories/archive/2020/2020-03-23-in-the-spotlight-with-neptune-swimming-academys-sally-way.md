@@ -5,8 +5,8 @@ slug: "in-the-spotlight-with-neptune-swimming-academys-sally-way"
 kicker: "In The Spotlight"
 categories: ["In The Spotlight"]
 excerpt: "YTEMBED0000"
+image: "/images/archive/2020/03/screen-shot-2020-03-17-at-11-35-13.webp"
 wpId: 2584
-wpFeaturedImage: "2020/03/Screen-Shot-2020-03-17-at-11.35.13.png"
 ---
 
 ### _‘In the Spotlight’ is a Gulf Youth Sport feature series giving schools and academies a forum to chat about achievements, upcoming events and general views on sport in the UAE._

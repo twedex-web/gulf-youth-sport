@@ -4,8 +4,8 @@ date: 2020-08-23T05:50:19+04:00
 slug: "badminton-time-in-the-uae"
 categories: ["GYS", "News & Features"]
 excerpt: "Just six years ago there were only four badminton academies in the UAE. Now there are more than 34 academies and many permanent courts as the sport keeps rising in popularity."
+image: "/images/archive/2020/08/117036834-3429948713702727-266878873706441459-o.webp"
 wpId: 3706
-wpFeaturedImage: "2020/08/117036834_3429948713702727_266878873706441459_o.jpg"
 ---
 
 Just six years ago there were only four badminton academies in the UAE. Now there are more than 34 academies and many permanent courts as the sport keeps rising in popularity.
@@ -18,7 +18,7 @@ Along with clever initiatives to draw people to the sport Badminton World Federa
 
 "People need to see each other face-to-face again following all the protocols and social distancing but we would love to see all the children again being active and not using only mobiles and electronic devices. Start playing badminton whether its at home, in the backyard, in the garden wherever they can play."
 
-![](https://gulfyouthsport.com/wp-content/uploads/2020/08/87281819_3015290845168518_7339244749674512384_n-640x373.jpg)  
+  
 A popular event through summer is badminton's presence at Dubai Sports World. Ebrahim is so pleased to be able to offer badminton again for the sixth year.
 
 "There are nine courts for badminton this year...when things got better (following COVID-19 lockdown) Sports World management told us to launch badminton and Shuttle Time activities in Sports World," Ebrahim.

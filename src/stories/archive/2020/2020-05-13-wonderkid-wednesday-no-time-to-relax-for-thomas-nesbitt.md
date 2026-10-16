@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-no-time-to-relax-for-thomas-nesbitt"
 kicker: "Wonderkid Wednesday"
 categories: ["GYS", "Wonderkid Wednesday"]
 excerpt: "Thomas Nesbitt,13, hasn't let the lockdown slow him down. Instead the Brighton College, Abu Dhabi student has kept formulating creative ways to fit practice in."
+image: "/images/archive/2020/05/screen-shot-2020-05-10-at-10-53-39.webp"
 wpId: 3123
-wpFeaturedImage: "2020/05/Screen-Shot-2020-05-10-at-10.53.39.png"
 ---
 
 Thomas Nesbitt,13, hasn't let the lockdown slow him down. Instead the Brighton College, Abu Dhabi student has kept formulating creative ways to fit practice in.
@@ -19,8 +19,6 @@ Nesbitt unveiled a few ingenious inventions he's been using to keep up his skill
 
   
 **Homemade Driving Range in the Garage** – I got an old roman blind and hung it up over the garage door, then got some astro turf and used that as a tee box so I can smash balls against the blind and it absorbs the impact. I can use every club from my driver to my sand wedge so its been pretty robust. ( I did miss once and now there is a small dent in the wall!)
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/05/unnamed-7-941x1024.jpg" alt=""><figcaption>Thomas has set up his own driving range in the garage. Spot where he once missed and the garage door has been patched up!</figcaption></figure>
 
 **Chipping into inflatable pineapple**  – My dad and I will have a chipping competition most evenings to see how many balls we can get into the hole.
 
@@ -39,15 +37,13 @@ I really miss the competition of the matches every weekend. I love playing footb
 
 Of course, I'm missing the physical exercise. I miss the feeling of coming home exhausted. At the moment, I have loads of energy than I can’t get rid of.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/05/unnamed-3.jpg" alt=""><figcaption>Celebrating the City Cup win last year</figcaption></figure>
-
 #### _What are the best things about playing football?_
 
 I joined City Football Academy when I was six years old when I first arrived in Abu Dhabi.  I love the fact that it is a team sport and you share the highs and lows together. I love the fact that all you need is a ball and a pair of trainers, a couple of jumpers for goalposts and you can play it anywhere.  The great thing about CFS is that the coaches challenge you every week so you never get bored or complacent. They always make it fun and although we work really hard in training we are always laughing and having a great time.
 
 Through the CFS Football Academy I was lucky enough to be a ballboy for Manchester City v Atalanta BC in the Champions League in October. Being up close to the players on the pitch was really interesting. Their work rate is unbelievable, even warming up they are so focused and then in the game itself the intensity is really high.
 
-_Can you provide information on your golfing experience?![](https://gulfyouthsport.com/wp-content/uploads/2020/05/unnamed-5-300x225.jpg)_
+_Can you provide information on your golfing experience?_
 
 My dad is a scratch player so got me into golf around eight years old. My uncle was a golfer, on a US golf Scholarship and tried to get on the European tour but didn’t quite make it. I found it a bit frustrating at first but also love the fact that it is such a challenge.
 

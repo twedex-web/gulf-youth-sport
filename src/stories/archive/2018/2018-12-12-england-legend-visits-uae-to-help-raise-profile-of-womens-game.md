@@ -5,8 +5,8 @@ slug: "england-legend-visits-uae-to-help-raise-profile-of-womens-game"
 kicker: "Netball"
 categories: ["Netball"]
 excerpt: "An amazing opportunity for girls of all ages who love football presented itself for a select few female footballers in the UAE last week."
+image: "/images/archive/2019/09/img-12122018123335-64f232a0c1ee4f579b5d1b4439d4b55b.webp"
 wpId: 1154
-wpFeaturedImage: "2019/09/img-12122018123335-64f232a0c1ee4f579b5d1b4439d4b55b.jpg"
 ---
 
 **An amazing opportunity for girls of all ages who love football presented itself for a select few female footballers in the UAE last week.**

@@ -4,8 +4,8 @@ date: 2020-06-15T02:37:05+04:00
 slug: "sports-academies-allowed-use-of-dubais-private-educational-institutions"
 categories: ["GYS", "News & Features"]
 excerpt: "Another major step has been taken in allowing sports academies to gradually move towards normal functioning in Dubai."
+image: "/images/archive/2020/06/8b5a1043.webp"
 wpId: 3353
-wpFeaturedImage: "2020/06/8B5A1043-scaled.jpg"
 ---
 
 Another major step has been taken in allowing sports academies to gradually move towards normal functioning in Dubai.

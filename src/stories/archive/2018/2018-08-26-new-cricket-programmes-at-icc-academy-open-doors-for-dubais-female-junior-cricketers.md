@@ -3,8 +3,8 @@ title: "New Cricket Programmes at ICC Academy Open Doors for Dubai's Female & Ju
 date: 2018-08-26T00:00:00+04:00
 slug: "new-cricket-programmes-at-icc-academy-open-doors-for-dubais-female-junior-cricketers"
 excerpt: "Cricket players of all ages, abilities and genders can now develop their skills with the expansion of the ICC Academy’s coaching programmes."
+image: "/images/archive/2019/09/main-img-2682018102257.webp"
 wpId: 1091
-wpFeaturedImage: "2019/09/Main-img-2682018102257.jpg"
 ---
 
 Cricket players of all ages, abilities and genders can now develop their skills with the expansion of the ICC Academy’s coaching programmes. 

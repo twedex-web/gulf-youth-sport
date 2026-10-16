@@ -3,8 +3,8 @@ title: "UAE FA announces launch of the second season of the UAE FA Academy Leagu
 date: 2018-01-24T00:00:00+04:00
 slug: "uae-fa-announces-launch-of-the-second-season-of-the-uae-fa-academy-league"
 excerpt: "The UAE Football Association announced today the launch of the second season of UAE FA Academy League (UAE FAAL), which has been expanded to run with 3 categories U18, U16 & U14."
+image: "/images/archive/2019/09/main-img-2412018123949.webp"
 wpId: 891
-wpFeaturedImage: "2019/09/Main-img-2412018123949.jpg"
 ---
 
 The UAE Football Association announced today the launch of the second season of UAE FA Academy League (UAE FAAL), which has been expanded to run with 3 categories U18, U16 & U14.  The landmark youth football league in it’s inaugural season changed the face of youth football in UAE, enabling for the first time in the UAE for Club academies to play competitive matches against top private football academies across the nation.

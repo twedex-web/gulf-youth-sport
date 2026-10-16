@@ -3,8 +3,8 @@ title: "IFA Stars Selected for World Record Attempt"
 date: 2017-05-15T00:00:00+04:00
 slug: "ifa-stars-selected-for-world-record-attempt"
 excerpt: "June 2017 will see two all-women football teams battle it out for 90 minutes on a football pitch built just below the summit of Mt."
+image: "/images/archive/2019/09/main-img-1852017105711.webp"
 wpId: 660
-wpFeaturedImage: "2019/09/Main-img-1852017105711.jpg"
 ---
 
 ****June 2017 will see two all-women football teams battle it out for 90 minutes on a football pitch built just below the summit of Mt. Kilimanjaro in Tanzania in a bid to break the Guinness World Record for the highest altitude football game ever played.****

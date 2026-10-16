@@ -4,9 +4,9 @@ date: 2021-10-29T16:17:49+04:00
 slug: "dubai-fitness-challenge-kicks-off-this-weekend"
 categories: ["News & Features"]
 standfirst: "The Dubai Fitness Challenge kicks off this weekend with 30 days of activities and events planned across the city."
+image: "/images/archive/2021/10/what-is-2.webp"
 metaDescription: "The Dubai Fitness Challenge kicks off this weekend with 30 days of activities and events planned across the city."
 wpId: 5469
-wpFeaturedImage: "2021/10/what-is-2.png"
 ---
 
 **The Dubai Fitness Challenge kicked off today in a bid to get more people active throughout the city over the next 30 days in its fifth anniversary year.**

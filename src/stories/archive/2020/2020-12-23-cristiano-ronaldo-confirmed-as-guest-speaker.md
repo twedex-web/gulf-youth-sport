@@ -4,8 +4,8 @@ date: 2020-12-23T10:13:06+04:00
 slug: "cristiano-ronaldo-confirmed-as-guest-speaker"
 categories: ["News & Features", "Uncategorised"]
 excerpt: "Cristiano Ronaldo, one of the biggest stars of modern football, will join Bayern Munich ace Robert Lewandowski on the same platform this Sunday, both talking about their respective journeys to the top, at this year’s…"
+image: "/images/archive/2020/12/cristianoronaldo-2.webp"
 wpId: 4634
-wpFeaturedImage: "2020/12/CristianoRonaldo-2.jpg"
 ---
 
 Cristiano Ronaldo, one of the biggest stars of modern football, will join Bayern Munich ace Robert Lewandowski on the same platform this Sunday, both talking about their respective journeys to the top, at this year’s Dubai International Sports Conference, which is taking place under the theme “Football at the Top” at Armani Hotel in Burj Khalifa.

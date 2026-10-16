@@ -3,8 +3,8 @@ title: "Free Family Fun at Dubai Sports City Open Day"
 date: 2017-09-04T00:00:00+04:00
 slug: "free-family-fun-at-dubai-sports-city-open-day"
 excerpt: "Dubai residents are in for a family-fun, sporting spectacular as Dubai Sports City opens its doors to the public in order to showcase the very best of its sporting activities on offer to the community."
+image: "/images/archive/2019/09/main-img-4920177367.webp"
 wpId: 709
-wpFeaturedImage: "2019/09/Main-img-4920177367.jpg"
 ---
 
 **Dubai residents are in for a family-fun, sporting spectacular as Dubai Sports City opens its doors to the public in order to showcase the very best of its sporting activities on offer to the community.**

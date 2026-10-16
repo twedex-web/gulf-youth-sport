@@ -3,8 +3,8 @@ title: "Meet the Team Swimming the Entire Dubai Coastline"
 date: 2017-10-12T00:00:00+04:00
 slug: "meet-the-team-swimming-the-entire-dubai-coastline"
 excerpt: "FIT TO TEACH"
+image: "/images/archive/2019/09/main-img-121020176143.webp"
 wpId: 784
-wpFeaturedImage: "2019/09/Main-img-121020176143.jpg"
 ---
 
 **FIT TO TEACH** 

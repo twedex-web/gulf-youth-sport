@@ -5,9 +5,9 @@ slug: "wsg-dance-inaugural-event-dia-emirates-hills"
 kicker: "Dance"
 categories: ["Dance", "World School Games"]
 standfirst: "DIA Emirates Hills leads the Middle East at the inaugural World School Games Dance event. Discover how the Dubai powerhouse is expanding into competitive dance."
+image: "/images/archive/2026/06/5ee94c58-381e-44c2-885d-fb4f7f3f3337.webp"
 metaDescription: "DIA Emirates Hills leads the Middle East at the inaugural World School Games Dance event. Discover how the Dubai powerhouse is expanding into competitive dance."
 wpId: 7192
-wpFeaturedImage: "2026/06/5ee94c58-381e-44c2-885d-fb4f7f3f3337.jpeg"
 ---
 
 ## **The Next Arena: DIA Emirates Hills Eyes History at the Inaugural World Schools Dance Championship**

@@ -3,8 +3,8 @@ title: "Middle East PE Teachers Collaborate to Help Charity"
 date: 2017-06-28T00:00:00+04:00
 slug: "middle-east-pe-teachers-collaborate-to-help-charity"
 excerpt: "Two of the Middle East's hardest working and best-loved PE teachers joined forces on the last week of term to support a fantastic cause."
+image: "/images/archive/2019/09/main-img-286201773241.webp"
 wpId: 671
-wpFeaturedImage: "2019/09/Main-img-286201773241.jpg"
 ---
 
 **Two of the Middle East's hardest working and best-loved PE teachers joined forces on the last week of term to support a fantastic cause.**

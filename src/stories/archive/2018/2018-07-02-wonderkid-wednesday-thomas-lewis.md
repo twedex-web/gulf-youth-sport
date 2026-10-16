@@ -3,8 +3,8 @@ title: "Wonderkid Wednesday: Thomas Lewis"
 date: 2018-07-02T00:00:00+04:00
 slug: "wonderkid-wednesday-thomas-lewis"
 excerpt: "Thomas Lewis (pictured, far left), a 17 year-old rugby player born in Dubai, is turning into an exciting prospect, with an intriguing future."
+image: "/images/archive/2019/09/main-img-472018102841.webp"
 wpId: 1065
-wpFeaturedImage: "2019/09/Main-img-472018102841.jpg"
 ---
 
 Thomas Lewis (pictured, far left), a 17 year-old rugby player born in Dubai, is turning into an exciting prospect, with an intriguing future. 

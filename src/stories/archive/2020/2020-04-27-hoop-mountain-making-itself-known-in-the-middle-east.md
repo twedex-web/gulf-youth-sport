@@ -5,8 +5,8 @@ slug: "hoop-mountain-making-itself-known-in-the-middle-east"
 kicker: "Basketball"
 categories: ["Basketball", "News & Features"]
 excerpt: "Who would have thought to introduce basketball year-round in Kuwait by with an American company?"
+image: "/images/archive/2020/04/91854367-208527943930447-8211848217206194176-n.webp"
 wpId: 3037
-wpFeaturedImage: "2020/04/91854367_208527943930447_8211848217206194176_n.jpg"
 ---
 
 Who would have thought to introduce basketball year-round in Kuwait by with an American company?
@@ -23,7 +23,7 @@ Dalia and Maitham Asad were the inspiration behind bringing Hoop Mountain across
 
 The engine of Hoop Mountain Dubai is Julian King, a decorated former professional player and coach. King played for Hall of Fame coach John Chaney at Temple University and starred for fourteen years as a professional player in seven different countries. Ryan Yates, a star in his own right in the USA, followed his mentor Julian King to Dubai to serve as a coach and his enthusiasm for the game is contagious.
 
-In a few short months, King and Yates have developed close ties with their students. Even during the recent COVID-19 closures the coaches have been in constant contact with their players.![](https://gulfyouthsport.com/wp-content/uploads/2020/04/92891513_208530833930158_3792144277677539328_n-300x300.jpg)
+In a few short months, King and Yates have developed close ties with their students. Even during the recent COVID-19 closures the coaches have been in constant contact with their players.
 
 "Even though we are not able to provide live instruction, we still maintain daily contact with our players," King said.
 

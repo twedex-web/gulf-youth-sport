@@ -3,8 +3,8 @@ title: "Dubai Swimmer Achieves Qualifying Time for Youth Olympic Games"
 date: 2018-02-28T00:00:00+04:00
 slug: "dubai-swimmer-achieves-qualifying-time-for-youth-olympic-games"
 excerpt: "It's not every day an athlete from the UAE achieves a qualifying time for the Olympic Games - but that's exactly what has happened to Hamilton Acquatics youngster Joaquin Gonzalez Pinero."
+image: "/images/archive/2019/09/main-img-2822018111141.webp"
 wpId: 933
-wpFeaturedImage: "2019/09/Main-img-2822018111141.jpg"
 ---
 
 **It's not every day an athlete from the UAE achieves a qualifying time for the Olympic Games - but that's exactly what has happened to Hamilton Acquatics youngster Joaquin Gonzalez Pinero.**

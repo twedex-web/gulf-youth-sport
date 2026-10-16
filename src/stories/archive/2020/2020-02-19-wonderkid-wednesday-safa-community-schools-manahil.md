@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-safa-community-schools-manahil"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 excerpt: "Manahil is a deserving Wonderkid Wednesday recipient for her work ethic and level-headed nature."
+image: "/images/archive/2020/02/screen-shot-2020-02-19-at-10-08-38.webp"
 wpId: 2182
-wpFeaturedImage: "2020/02/Screen-Shot-2020-02-19-at-10.08.38.png"
 ---
 
 Manahil is a deserving Wonderkid Wednesday recipient for her work ethic and level-headed nature.

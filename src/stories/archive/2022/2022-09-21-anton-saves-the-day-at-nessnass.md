@@ -4,8 +4,8 @@ date: 2022-09-21T14:34:03+04:00
 slug: "anton-saves-the-day-at-nessnass"
 categories: ["News & Features"]
 excerpt: "For young people in Dubai, a visit to the beach is often second nature. With so many beautiful and accessible beaches, and with an array of different water-based activities on offer seven days a week it can be easy to…"
+image: "/images/archive/2022/09/img-2878.webp"
 wpId: 5695
-wpFeaturedImage: "2022/09/IMG_2878.jpg"
 ---
 
 **For young people in Dubai, a visit to the beach is often second nature. With so many beautiful and accessible beaches, and with an array of different water-based activities on offer seven days a week it can be easy to feel laid back about stepping into the water.**
@@ -22,7 +22,7 @@ Describing the incident which took place at the beach on Sunday, Anton says he n
 
 “I ran and grabbed the nearest board, then ran to the water and paddled out to the man as fast as I could. I got there quickly and as I approached the man, I realised that his head was bobbing in & out of the water & I knew I had to act fast.
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2022/09/IMG_2877-300x224.jpg" alt=""><figcaption>Image credit: Viking Surf Sports</figcaption></figure>
+<figure><img src="/images/archive/2022/09/img-2877.webp" alt=""><figcaption>Image credit: Viking Surf Sports</figcaption></figure>
 
 “The man was struggling to stay afloat & looked fatigued, so I decided to put the board between me and him so that I could keep myself safe, in case he tried to grab me and pull me into the water. I told him to hold on to the board handle and slow his breathing so I could get him to safety.
 
@@ -34,7 +34,7 @@ As an active member and coach at Viking Surf Sports, Anton has been trained in m
 
 “These skills all allowed me to know what to do and how to execute it safely on Sunday
 
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2022/09/IMG_2879-300x200.jpg" alt=""><figcaption>Image credit: Viking Surf Sports</figcaption></figure>
+<figure><img src="/images/archive/2022/09/img-2879.webp" alt=""><figcaption>Image credit: Viking Surf Sports</figcaption></figure>
 
 when they were needed most. They were very important because I have been able to apply the skills I have learned to save someone’s life. That feels really good.”
 

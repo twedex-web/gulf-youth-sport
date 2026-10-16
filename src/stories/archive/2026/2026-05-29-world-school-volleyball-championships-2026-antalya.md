@@ -5,10 +5,10 @@ slug: "world-school-volleyball-championships-2026-antalya"
 kicker: "Volleyball"
 categories: ["Volleyball", "World School Games"]
 standfirst: "The World School Games launches its 8th signature event: The World School Volleyball Championships 2026 in Antalya. Register your school for the Olympic-standard tournament."
+image: "/images/archive/2026/05/wsg-voleyball-launch-gys-post.webp"
 seoTitle: "World School Volleyball Championships 2026: The Global Launch"
 metaDescription: "The World School Games launches its 8th signature event: The World School Volleyball Championships 2026 in Antalya. Register your school for the Olympic-standard tournament."
 wpId: 7157
-wpFeaturedImage: "2026/05/WSG-voleyball-launch-GYS-post.png"
 ---
 
 ## **Set for Greatness: WSG Announces the Inaugural World School Volleyball Championships in Antalya**

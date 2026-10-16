@@ -4,8 +4,8 @@ date: 2020-06-29T08:49:53+04:00
 slug: "virtual-fixture-completed-in-real-time"
 categories: ["GYS", "News & Features"]
 excerpt: "Hartland International School and British International School Cairo have upped the virtual fixture game."
+image: "/images/archive/2020/06/copy-of-virtual-fixtures-8.webp"
 wpId: 3428
-wpFeaturedImage: "2020/06/Copy-of-Virtual-Fixtures-8.png"
 ---
 
 Hartland International School and British International School Cairo have upped the virtual fixture game.

@@ -3,8 +3,8 @@ title: "Aspiring Athletes to get MasterClass from Team GB Legend"
 date: 2017-09-12T00:00:00+04:00
 slug: "aspiring-athletes-to-get-masterclass-from-team-gb-legend"
 excerpt: "Dubai's budding young sprinters are in for a treat at the end of the month with the arrival of British sprint legend, Joice Maduaka."
+image: "/images/archive/2019/09/main-img-1292017193019.webp"
 wpId: 725
-wpFeaturedImage: "2019/09/Main-img-1292017193019.jpg"
 ---
 
 Dubai's budding young sprinters are in for a treat at the end of the month with the arrival of British sprint legend, **Joice Maduaka**.

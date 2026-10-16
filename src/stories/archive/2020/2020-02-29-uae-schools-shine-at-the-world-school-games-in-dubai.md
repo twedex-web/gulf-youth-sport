@@ -5,8 +5,8 @@ slug: "uae-schools-shine-at-the-world-school-games-in-dubai"
 kicker: "Match Zone"
 categories: ["Match Zone", "News & Features", "World School Games"]
 excerpt: "Athletes from nine schools across UAE impressed at this year’s U13 edition of The World School Games in Dubai."
+image: "/images/archive/2020/02/social2.webp"
 wpId: 2306
-wpFeaturedImage: "2020/02/social2.jpg"
 ---
 
 Athletes from nine schools across UAE impressed at this year’s U13 edition of The World School Games in Dubai. BSAK and Raha made the short trip from Abu Dhabi, whereas the host city was represented by Dubai International Academy, JESS Arabian Ranches, GEMS First Point School, GEMS Metropole School, GEMS Modern Academy GEMS Wellington International School and German International School.

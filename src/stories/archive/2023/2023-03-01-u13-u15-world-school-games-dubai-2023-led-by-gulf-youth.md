@@ -5,9 +5,9 @@ slug: "u13-u15-world-school-games-dubai-2023-led-by-gulf-youth"
 kicker: "Multi-Sports"
 categories: ["GYS", "Multi-Sports", "News & Features", "World School Games"]
 standfirst: "Gulf youngsters thrived in last week’s U13 & U15 World School Games 2023 in Dubai, with many leaving as world champions."
+image: "/images/archive/2023/02/063a0625.webp"
 metaDescription: "Gulf youngsters thrived in last week’s U13 & U15 World School Games 2023 in Dubai, with many leaving as world champions."
 wpId: 6172
-wpFeaturedImage: "2023/02/063A0625-scaled.jpg"
 ---
 
 **Gulf youngsters thrived in last week’s U13 & U15 World School Games 2023 in Dubai, with many leaving as world champions.**

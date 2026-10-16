@@ -5,8 +5,8 @@ slug: "in-the-spotlight-withsharjah-english-schools-daniel-burns"
 kicker: "In The Spotlight"
 categories: ["In The Spotlight"]
 excerpt: "YTEMBED0000"
+image: "/images/archive/2020/03/screen-shot-2020-03-09-at-11-50-16.webp"
 wpId: 2382
-wpFeaturedImage: "2020/03/Screen-Shot-2020-03-09-at-11.50.16.png"
 ---
 
 #### _‘In the Spotlight’ is a Gulf Youth Sport feature series giving schools and academies a forum to chat about achievements, upcoming events and general views on sport in the UAE._

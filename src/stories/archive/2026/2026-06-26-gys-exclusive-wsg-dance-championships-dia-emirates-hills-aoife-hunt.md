@@ -5,10 +5,10 @@ slug: "gys-exclusive-wsg-dance-championships-dia-emirates-hills-aoife-hunt"
 kicker: "Dance"
 categories: ["Dance", "World School Games"]
 standfirst: "DIA Emirates Hills dancer Aoife Hunt shares her exclusive highlights from competing at the World School Games Dance Championships in London."
+image: "/images/archive/2026/06/whatsapp-image-2026-06-26-at-09-24-16.webp"
 seoTitle: "DIA Emirates Hills Represents Middle East at WSG Dance Championships"
 metaDescription: "DIA Emirates Hills dancer Aoife Hunt shares her exclusive highlights from competing at the World School Games Dance Championships in London."
 wpId: 7233
-wpFeaturedImage: "2026/06/WhatsApp-Image-2026-06-26-at-09.24.16.jpeg"
 ---
 
 ## **Capital Choreography: DIA Emirates Hills Takes on Global Elite at World School Games Dance Finals**

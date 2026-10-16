@@ -5,9 +5,9 @@ slug: "leon-toniutto-kent-college-athletics-rising-star"
 kicker: "Athletics"
 categories: ["Athletics", "DASSA", "In The Spotlight"]
 standfirst: "Meet Leon Toniutto, the Kent College Year 5 student dominating Dubai athletics. With a 12.74s 100m PB, see why this Ultimate Athletics sprinter is a rising star."
+image: "/images/archive/2026/05/leon-toniutto-gys-post.webp"
 metaDescription: "Meet Leon Toniutto, the Kent College Year 5 student dominating Dubai athletics. With a 12.74s 100m PB, see why this Ultimate Athletics sprinter is a rising star."
 wpId: 7172
-wpFeaturedImage: "2026/05/Leon-Toniutto-GYS-post.png"
 ---
 
 ## **Natural Speed: Leon Toniutto Sets the Track Ablaze After Dominant DASSA Campaign**

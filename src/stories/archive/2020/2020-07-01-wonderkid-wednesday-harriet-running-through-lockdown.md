@@ -5,8 +5,8 @@ slug: "wonderkid-wednesday-harriet-running-through-lockdown"
 kicker: "Athletics"
 categories: ["Athletics", "Wonderkid Wednesday"]
 excerpt: "YTEMBED0000"
+image: "/images/archive/2020/07/screen-shot-2020-07-01-at-15-57-30.webp"
 wpId: 3440
-wpFeaturedImage: "2020/07/Screen-Shot-2020-07-01-at-15.57.30.png"
 ---
 
 Not even contracting COVID-19 could stop Harriet Osgerby. The British School Al Khubairat student kept exercising despite mild symptoms and is the fittest she has ever been, using time in lockdown to extend her training.   Harriet,12, and her mum Joanne chatted to GYS about broken bones, COVID and a move from Dubai to Abu Dhabi. 

@@ -5,8 +5,8 @@ slug: "in-the-spotlight-with-active-netballs-susanne-skelding"
 kicker: "In The Spotlight"
 categories: ["In The Spotlight"]
 excerpt: "YTEMBED0000"
+image: "/images/archive/2020/04/screen-shot-active-2.webp"
 wpId: 2739
-wpFeaturedImage: "2020/04/Screen-Shot-Active-2.png"
 ---
 
 ### _‘In the Spotlight’ is a Gulf Youth Sport feature series giving schools and academies a forum to chat about achievements, upcoming events and general views on sport in the UAE._

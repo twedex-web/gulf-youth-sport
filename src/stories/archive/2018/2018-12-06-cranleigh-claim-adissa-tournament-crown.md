@@ -3,8 +3,8 @@ title: "Cranleigh Claim ADISSA Tournament Crown"
 date: 2018-12-06T00:00:00+04:00
 slug: "cranleigh-claim-adissa-tournament-crown"
 excerpt: "Cranleigh U14 A girls netball team’s victory at last weeks ADISSA tournament was “unbelievable”, according to captain Harriet Norman."
+image: "/images/archive/2019/09/img-612201812630-2a760a89f23e494d837959c71cbdc90d.webp"
 wpId: 1150
-wpFeaturedImage: "2019/09/img-612201812630-2a760a89f23e494d837959c71cbdc90d.jpg"
 ---
 
 Cranleigh U14 A girls netball team’s victory at last weeks ADISSA tournament was “unbelievable”, according to captain Harriet Norman.

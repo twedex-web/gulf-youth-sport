@@ -3,8 +3,8 @@ title: "FOOTBALL: Abu Dhabi's Rising Stars Revealed"
 date: 2017-02-24T00:00:00+04:00
 slug: "football-abu-dhabis-rising-stars-revealed"
 excerpt: "With a growing number of talented players spotted in Abu Dhabi at duFC this season, Michel Salgado and his team have decided to expand the number of youngsters selected for the du LaLiga High Performance Programme to…"
+image: "/images/archive/2019/09/main-img-2322017221936.webp"
 wpId: 559
-wpFeaturedImage: "2019/09/Main-img-2322017221936.jpg"
 ---
 
 **With a growing number of talented players spotted in Abu Dhabi at duFC this season, Michel Salgado and his team have decided to expand the number of youngsters selected for the du LaLiga High Performance Programme to 52, with 32 U16's and 20 U14's.**

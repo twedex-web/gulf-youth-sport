@@ -3,8 +3,8 @@ title: "Top Talents from Northern Emirates One Step Closer to Spain through du F
 date: 2018-01-14T00:00:00+04:00
 slug: "top-talents-from-northern-emirates-one-step-closer-to-spain-through-du-football-champions"
 excerpt: "The final list of top talents from Northern Emirates was announced today by du Football Champions Director Fernando Sanz and the LaLiga Scouts."
+image: "/images/archive/2019/09/main-img-141201875054.webp"
 wpId: 880
-wpFeaturedImage: "2019/09/Main-img-141201875054.jpg"
 ---
 
 The final list of top talents from Northern Emirates was announced today by du Football Champions Director Fernando Sanz and the LaLiga Scouts.   With the opportunity of being invited to the exclusive du LaLiga High Performance Centre (HPC) within arm’s reach – talents from Northern Emirates played with determination and purpose to impress the LaLiga Scouts.

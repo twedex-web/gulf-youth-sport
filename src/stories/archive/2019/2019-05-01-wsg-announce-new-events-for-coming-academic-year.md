@@ -4,8 +4,8 @@ date: 2019-05-01T00:00:00+04:00
 slug: "wsg-announce-new-events-for-coming-academic-year"
 categories: ["News & Features"]
 excerpt: "The World School Games has announced three new events for the 2019/20 calendar."
+image: "/images/archive/2019/09/img-152019125253-eef271f4e91b485f89a289851f026250.webp"
 wpId: 1211
-wpFeaturedImage: "2019/09/img-152019125253-eef271f4e91b485f89a289851f026250.jpg"
 ---
 
 **The [World School Games](http://wsgevents.com/) has announced three new events for the 2019/20 calendar.**

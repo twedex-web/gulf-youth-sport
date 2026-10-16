@@ -5,8 +5,8 @@ slug: "dubai-netball-academy-winter-sessions"
 kicker: "Netball"
 categories: ["Netball", "News & Features"]
 excerpt: "Continue to develop your netball skills and drills over the Christmas break with DNA!"
+image: "/images/archive/2020/12/screen-shot-2020-12-06-at-16-42-41.webp"
 wpId: 4488
-wpFeaturedImage: "2020/12/Screen-Shot-2020-12-06-at-16.42.41.png"
 ---
 
 Continue to develop your netball skills and drills over the Christmas break with DNA!

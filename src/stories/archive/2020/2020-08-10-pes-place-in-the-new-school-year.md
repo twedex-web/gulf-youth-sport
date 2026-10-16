@@ -4,8 +4,8 @@ date: 2020-08-10T07:13:39+04:00
 slug: "pes-place-in-the-new-school-year"
 categories: ["GYS", "News & Features"]
 excerpt: "Table tennis, badminton, dance and gymnastics are likely to be favoured during PE lessons when school resumes in September."
+image: "/images/archive/2020/08/ii2a8559.webp"
 wpId: 3641
-wpFeaturedImage: "2020/08/II2A8559-scaled.jpg"
 ---
 
 Table tennis, badminton, dance and gymnastics are likely to be favoured during PE lessons when school resumes in September.
@@ -13,8 +13,6 @@ Table tennis, badminton, dance and gymnastics are likely to be favoured during P
 Hartland Head of PE Niall Statham said more individual-based and racquet sports would be favoured to minimise contact and keep equipment separate.
 
 But he said pushing through to half-term in October should serve as a turning point for when a greater variety of sports can be accessed.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/08/II2A8575-640x960.jpg" alt=""><figcaption>Cross country could be one of the first sports to return to competition.</figcaption></figure>
 
 "I think there’s basically going to be two windows. There’s going to be the return to half-term phase and then the half-term to Christmas phase, and I think everyones clinging on getting to the half-term phase because once we can get outside (after the break) things will be a lot easier," Statham said.
 
@@ -44,8 +42,6 @@ With schools varying widely in student number and facilities, Statham said PE le
 "It might be that it's smaller classes or less frequent classes, so while they might have been getting two or three (PE) classes a week it’s slightly less so at least everyone’s getting something."
 
 To keep students interested in PE during lockdown, Hartland ran virtual fixtures against other schools and PE was scheduled into every student's day. While online fitness challenges might not have been ideal for all, Statham said there were certain positives that arose.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/08/1o57oyAy-150x150.jpg" alt=""><figcaption>Hartland head of PE Niall Statham</figcaption></figure>
 
 "It worked differently for different people. There are people who really thrive at team sports' competitive atmosphere and whilst they did their best it's just not what their thing is. I think the online things that schools did could never replace it," he said.
 

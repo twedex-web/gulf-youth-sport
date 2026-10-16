@@ -3,8 +3,8 @@ title: "Metropole's Campbell Relishing Dubai Challenge"
 date: 2017-09-17T00:00:00+04:00
 slug: "metropoles-campbell-relishing-dubai-challenge"
 excerpt: "Since arriving in the UAE 12 months ago, Stevie Campbell has thrown himself into Dubai life."
+image: "/images/archive/2019/09/main-img-1792017154538.webp"
 wpId: 734
-wpFeaturedImage: "2019/09/Main-img-1792017154538.jpg"
 ---
 
 **Since arriving in the UAE 12 months ago, Stevie Campbell has thrown himself into Dubai life.**
@@ -18,8 +18,6 @@ The talented Fifer signed for Glasgow Rangers when he was 12 years old and turne
 **“Signing for the team I grew up supporting was an incredible feeling. At that time the club had some huge names – Gascoigne, Laudrup, Van Bronckhurst – so being given the chance to follow in their footsteps was a dream come true."**
 
 Campbell took to life at Murray Park like a duck to water, and his performances did not go unnoticed. Although not tall for a centre-half, Campbell’s pace, aerial ability and composure on the ball earned him a call-up to the Scotland National Team, which he captained at U19 level.
-
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/1.jpg)
 
 “That Scotland (U19) team had a lot of talented players, and we enjoyed considerable success at the European Championships in 2004. Many of the guys were able to go on to bigger and better things – Charlie Adam, Ross Mckormack, Charlie Mulgrew  -  have gone on to play in the Premier League.”
 
@@ -37,7 +35,7 @@ Campbell remained at Rangers until the age of 21, when an opportunity to play pr
 
 It was then that Stevie began to think of a future outside of professional sports.
 
-“I began to realise just how fragile a career in sport could be, so I began to look ahead to life after football. I’d always loved PE at school, and got on well with my PE teachers. I’d also gained some experience football coaching, so decided to apply.”![](http://gulfyouthsport.com/Admin/Content/UserFiles/3.jpg)
+“I began to realise just how fragile a career in sport could be, so I began to look ahead to life after football. I’d always loved PE at school, and got on well with my PE teachers. I’d also gained some experience football coaching, so decided to apply.”
 
 Campbell was accepted to study PE Teaching at Stirling University, and combined his studies with a part-time playing career at semi-professional side, East Fife.
 

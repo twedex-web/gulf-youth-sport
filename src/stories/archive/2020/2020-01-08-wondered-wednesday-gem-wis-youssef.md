@@ -5,9 +5,9 @@ slug: "wondered-wednesday-gem-wis-youssef"
 kicker: "Wonderkid Wednesday"
 categories: ["Wonderkid Wednesday"]
 standfirst: "GEMS Wellington International School's Youssef started the year by winning gold at His Highness Sheikh Mohammed Bin Rashid Karate Championship."
+image: "/images/archive/2020/01/79444848-734379296971490-6117218109386005103-n.webp"
 metaDescription: "GEMS Wellington International School's Youssef started the year by winning gold at His Highness Sheikh Mohammed Bin Rashid Karate Championship."
 wpId: 1731
-wpFeaturedImage: "2020/01/79444848_734379296971490_6117218109386005103_n.jpg"
 ---
 
 Youssef has a busy weekly schedule filled with school and sports.

@@ -5,8 +5,8 @@ slug: "venue-announced-for-inaugural-gulf-youth-sport-expo"
 kicker: "Gulf Youth Sport Expo"
 categories: ["Gulf Youth Sport Expo", "GYS Awards"]
 excerpt: "The inaugural Gulf Youth Sport Expo is set to take place at the state-of-the-art Hartland International School, Dubai on Friday 17 September 2021, bringing together all corners of the youth sports industry for a day of…"
+image: "/images/archive/2021/08/social2-1.webp"
 wpId: 5374
-wpFeaturedImage: "2021/08/social2-1.jpg"
 ---
 
 The inaugural Gulf Youth Sport Expo is set to take place at the state-of-the-art Hartland International School, Dubai on Friday 17 September 2021, bringing together all corners of the youth sports industry for a day of presentations, activities and development.
@@ -34,5 +34,3 @@ Cook added: “We’ll also have a number of companies exhibiting at the Expo, s
 “Furthermore, for aspiring athletes the Expo provides an unmissable opportunity to get the inside track on the keys to success, as well as the pathways on offer to continue their pursuit of a career in sport.”
 
 For tickets and more information on both the GYS Expo visit [www.gysexpo.com](http://www.gysexpo.com/) or email [info@gulfyouthsport.com](mailto:info@gulfyouthsport.com). For more information on the GYS Awards, [click here](/awards).
-
-![](https://gulfyouthsport.com/wp-content/uploads/2021/08/Expo-FACEBOOK-and-TWITTER-2.jpg)

@@ -5,8 +5,8 @@ slug: "world-school-games-knocking-and-gems-schools-are-going-in-prepared"
 kicker: "Match Zone"
 categories: ["Match Zone", "News & Features", "World School Games"]
 excerpt: "The U13 World School Games arrives in Dubai on Thursday and GEMS Metropole will be gunning for its share of the medals."
+image: "/images/archive/2020/02/dsc07903-2.webp"
 wpId: 2274
-wpFeaturedImage: "2020/02/DSC07903-2.jpg"
 ---
 
 The U13 World School Games arrives in Dubai on Thursday and GEMS Metropole will be gunning for its share of the medals. 
@@ -20,8 +20,6 @@ However, they are not the only ones part of the GEMS family who are prepared for
 The other GEMS competitors consist of GEMS First Point School, GEMS Wellington, and GEMS Modern Academy.
 
 However when asked about what the GEMS Metropole school team’s goals for the U13 edition would be Austin had a much more modest response.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2020/02/IMG_1929_2-1024x768.jpg" alt=""><figcaption>GEMS Wellington students are looking slick in their custom World School Games attire.</figcaption></figure>
 
 "(The aims are) medals again in swimming and in the boys football a semi-final would be good," he said.
 

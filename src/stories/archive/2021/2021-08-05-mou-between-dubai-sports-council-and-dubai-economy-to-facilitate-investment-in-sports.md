@@ -4,10 +4,10 @@ date: 2021-08-05T09:42:48+04:00
 slug: "mou-between-dubai-sports-council-and-dubai-economy-to-facilitate-investment-in-sports"
 categories: ["Uncategorised"]
 standfirst: "The two entities sign MOU that also seeks to unify their efforts in the supervision of sports sector and licencing"
+image: "/images/archive/2021/08/signing-2.webp"
 imageAlt: "HE Sami Al Qamzi and HE Saeed Hareb during the signing of the agreement."
 metaDescription: "The two entities sign MOU that also seeks to unify their efforts in the supervision of sports sector and licencing"
 wpId: 5362
-wpFeaturedImage: "2021/08/Signing-2-scaled.jpg"
 ---
 
 **The business of sports in Dubai is set to receive a major boost following the signing of a Memorandum of Understanding between Dubai Sports Council and Dubai Economy.**
@@ -15,8 +15,6 @@ wpFeaturedImage: "2021/08/Signing-2-scaled.jpg"
 The MoU, which was signed by His Excellency Sami Al Qamzi, Director General of Dubai Department of Economic Development, and His Excellency Saeed Hareb, Secretary General of Dubai Sports Council, at the headquarters of the Council on Wednesday, will combine the efforts of the two Government of Dubai entities to develop the sports sector and strengthen Dubai’s position as one of the leading destinations for investments in sports.
 
 A number of top officials from Dubai Sports Council and Dubai Economy, including Nasser Aman Al Rahma, Assistant Secretary General of the Council, were also present at the signing of the MoU, which seeks to expand the areas of cooperation between the two parties in different spheres, with their primary focus being the development of Dubai’s sports sector and increasing its contribution to Dubai’s economy. The two entities will also work to expand benefits for members of the community, as well as investors in Dubai’s sports sector and organisers of sports events in the Emirate.
-
-<figure><img src="https://gulfyouthsport.com/wp-content/uploads/2021/08/Signing-1-300x215.jpg" alt="HE Sami Al Qamzi and HE Saeed Hareb during the signing of the agreement."><figcaption>HE Sami Al Qamzi and HE Saeed Hareb during the signing of the agreement.</figcaption></figure>
 
 The Memorandum of Understanding comes within the framework of Dubai Sports Council’s role of managing and developing the sports sector in Dubai in accordance with Executive Council Resolution No. 1 of 2020 regarding the organization of sports institutions and events in the Emirate of Dubai.
 

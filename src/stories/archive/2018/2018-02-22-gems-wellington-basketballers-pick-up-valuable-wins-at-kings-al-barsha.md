@@ -3,8 +3,8 @@ title: "GEMS Wellington Basketballers Pick Up Valuable Wins at Kings' Al Barsha"
 date: 2018-02-22T00:00:00+04:00
 slug: "gems-wellington-basketballers-pick-up-valuable-wins-at-kings-al-barsha"
 excerpt: "It was a busy afternoon of DASSA basketball action at Kings’ Al Barsha on Wednesday as GEMS Wellington International School made the short journey along Hessa Street for Under 10’s and Under 11’s matches."
+image: "/images/archive/2019/09/main-img-222201864045.webp"
 wpId: 923
-wpFeaturedImage: "2019/09/Main-img-222201864045.jpg"
 ---
 
 **It was a busy afternoon of DASSA basketball action at Kings’ Al Barsha on Wednesday as GEMS Wellington International School made the short journey along Hessa Street for Under 10’s and Under 11’s matches.**

@@ -4,8 +4,8 @@ date: 2019-03-26T00:00:00+04:00
 slug: "new-partnership-signals-boost-for-young-emirati-footballers"
 categories: ["News & Features"]
 excerpt: "Dubai Sports Council and du announced today the launch of a new partnership under du LaLiga High Performance Centre (HPC) that is designed to power the professional development of high potential talent at Dubai national…"
+image: "/images/archive/2019/09/img-263201913347-2fb5f02f975442c98fe507d64f774776.webp"
 wpId: 1201
-wpFeaturedImage: "2019/09/img-263201913347-2fb5f02f975442c98fe507d64f774776.jpg"
 ---
 
 Dubai Sports Council and du announced today the launch of a new partnership under du LaLiga High Performance Centre (HPC) that is designed to power the professional development of high potential talent at Dubai national clubs.

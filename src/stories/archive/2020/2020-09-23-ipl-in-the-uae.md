@@ -5,8 +5,8 @@ slug: "ipl-in-the-uae"
 kicker: "Cricket"
 categories: ["Cricket", "News & Features"]
 excerpt: "There's no doubt having the Indian Premier League in the UAE is inspiring kids to play cricket."
+image: "/images/archive/2020/09/eiy50jeu0aae2sj.webp"
 wpId: 3965
-wpFeaturedImage: "2020/09/EiY50jEU0AAe2SJ-scaled-e1600839939607.jpeg"
 ---
 
 **There's no doubt having the Indian Premier League in the UAE is inspiring kids to play cricket.**

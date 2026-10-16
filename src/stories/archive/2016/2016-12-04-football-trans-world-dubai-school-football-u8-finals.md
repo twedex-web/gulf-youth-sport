@@ -3,8 +3,8 @@ title: "FOOTBALL: Trans World Dubai School Football U8 Finals"
 date: 2016-12-04T00:00:00+04:00
 slug: "football-trans-world-dubai-school-football-u8-finals"
 excerpt: "The Trans World Dubai School Football Finals kicked off today at Rashid School for Boys when the best of Dubai in the U8's category got to work."
+image: "/images/archive/2019/09/main-img-412201682236.webp"
 wpId: 476
-wpFeaturedImage: "2019/09/Main-img-412201682236.jpg"
 ---
 
 **The [Trans World](http://www.twedex.com/) Dubai School Football Finals kicked off today at Rashid School for Boys when the best of Dubai in the U8's category got to work.** 

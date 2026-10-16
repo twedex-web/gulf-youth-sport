@@ -3,15 +3,15 @@ title: "My Tri Club Dubai Coaches to Show Their Athletes How Its Done at Ironman
 date: 2018-02-01T00:00:00+04:00
 slug: "my-tri-club-dubai-coaches-to-show-their-athletes-how-its-done-at-ironman-70-3"
 excerpt: "The coaches of My Tri Club Dubai will show their aspiring athletes how it’s done when they take part in the Ironman Dubai 70.3 race this weekend."
+image: "/images/archive/2019/09/main-img-122018101317.webp"
 wpId: 896
-wpFeaturedImage: "2019/09/Main-img-122018101317.jpg"
 ---
 
 **The coaches of My Tri Club Dubai will show their aspiring athletes how it’s done when they take part in the Ironman Dubai 70.3 race this weekend.**
 
 The triathlon event - which is being held along Jumeirah Beach on Friday - features a 1.9km swim in the Indian Ocean, a 90km cycle and a half marathon. With double Olympic gold medallist and World Champion Alistair Brownlee among the competitors the My Tri Dubai coaches will be facing some of the globe’s very best triathletes.
 
-Among the coaches competing is Matthew Dewhurst, Sports Development Coach at Dubai’s My Sports Academy. He is hopeful taking part in an event such as the Ironman 70.3 will encourage the junior athletes within the club to do likewise in the future.![](http://gulfyouthsport.com/Admin/Content/UserFiles/MSA_My-Sports-Academy-Logo.png)
+Among the coaches competing is Matthew Dewhurst, Sports Development Coach at Dubai’s My Sports Academy. He is hopeful taking part in an event such as the Ironman 70.3 will encourage the junior athletes within the club to do likewise in the future.
 
 “As the children progress through the group structure we have in place, we ask for more commitment from them. Seeing their coaches and parents (for some of them) show the same commitment and to see what can be achieved is a massive motivational tool for them.”
 
@@ -23,7 +23,7 @@ He stressed that Dubai has all the ingredients to be an ideal training environme
 
 “Dubai already has a reputation for excellence when it comes to triathlon. As the facilities and opportunities here in the U.A.E continue to increase, MTC believe that with the right guidance and support, Dubai-based junior endurance athletes can go on to compete on the world stage.
 
-![](http://gulfyouthsport.com/Admin/Content/UserFiles/IRONMAN70.3_Dubai_logo_pos-750x410.png)“Using a long-term athlete development model MTC can help young athletes to achieve their full potential whilst maintaining their passion for the sport.”
+“Using a long-term athlete development model MTC can help young athletes to achieve their full potential whilst maintaining their passion for the sport.”
 
 Ben Parnell (Head of Triathlon at MTC) and Paolo Mangilinan (Development Coach) will also be competing in the Ironman 70.3 on Friday. Both men have completed the race before and they will be hoping to inspire their training groups with strong performances in this year’s event.
 

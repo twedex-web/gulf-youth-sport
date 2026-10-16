@@ -5,9 +5,9 @@ slug: "champions-crowned-at-basketballs-world-school-games-in-abu-dhabi"
 kicker: "Basketball"
 categories: ["Basketball", "Match Zone"]
 standfirst: "International accolades were awarded to Dhahran High School (under-19s), Dubai International Academy (under-17s) and Dubai College (under-15s), when all three teams revelled in glory at the end of a sensational edition of the World School Basketball Championships."
+image: "/images/archive/2019/12/ii2a0783.webp"
 metaDescription: "International accolades were awarded to Dhahran High School (under-19s), Dubai International Academy (under-17s) and Dubai College (under-15s), when all three teams revelled in glory at the end of a sensational edition of the World School Basketball Championships."
 wpId: 1622
-wpFeaturedImage: "2019/12/II2A0783.jpg"
 ---
 
 Accolades were awarded to Dhahran High School (under-19s), Dubai International Academy (under-17s) and Dubai College (under-15s) when all three teams revelled in glory at the end of a sensational edition of the World School Basketball Championships.
@@ -33,8 +33,6 @@ If playing two days of matches was not enough, the GIS and GEMS WIS semi-final w
 Although both sides deserved to progress, GIS found that little bit extra to give in overtime and went forward in the competition.
 
 But the main trophy was not meant to be theirs and DIA claimed the nail-biting final 41-38.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2019/12/II2A0651.jpg)
 
 **Under-15s**
 

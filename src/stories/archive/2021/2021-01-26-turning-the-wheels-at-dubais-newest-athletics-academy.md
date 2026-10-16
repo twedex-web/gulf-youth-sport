@@ -5,8 +5,8 @@ slug: "turning-the-wheels-at-dubais-newest-athletics-academy"
 kicker: "Athletics"
 categories: ["Athletics", "News & Features"]
 excerpt: "ISD Athletics, the UAE’s newest Athletics Academy for youth from the ages of four and above will open its doors this week at Dubai Sports City."
+image: "/images/archive/2021/01/andy-turner-head-coach-isd-athletics.webp"
 wpId: 4814
-wpFeaturedImage: "2021/01/Andy-Turner-Head-Coach-ISD-Athletics.jpg"
 ---
 
 ISD Athletics, the UAE’s newest Athletics Academy for youth from the ages of four and above will open its doors this week at Dubai Sports City.

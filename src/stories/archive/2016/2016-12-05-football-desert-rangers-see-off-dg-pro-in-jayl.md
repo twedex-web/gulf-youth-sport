@@ -3,8 +3,8 @@ title: "FOOTBALL: Desert Rangers See off DG Pro in JAYL"
 date: 2016-12-05T00:00:00+04:00
 slug: "football-desert-rangers-see-off-dg-pro-in-jayl"
 excerpt: "Desert Rangers faced DG Pro in the Jebel Ali Youth League Under 10’s Division on Saturday morning knowing that a win at the Centre of Excellence would ensure they were crowned champions."
+image: "/images/archive/2019/09/main-img-4122016233946.webp"
 wpId: 478
-wpFeaturedImage: "2019/09/Main-img-4122016233946.jpg"
 ---
 
 **Desert Rangers faced DG Pro in the Jebel Ali Youth League Under 10’s Division on Saturday morning knowing that a win at the Centre of Excellence would ensure they were crowned champions.**

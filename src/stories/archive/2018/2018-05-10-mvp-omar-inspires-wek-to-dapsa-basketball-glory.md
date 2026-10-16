@@ -3,8 +3,8 @@ title: "MVP Omar Inspires WEK to DAPSA Basketball Glory"
 date: 2018-05-10T00:00:00+04:00
 slug: "mvp-omar-inspires-wek-to-dapsa-basketball-glory"
 excerpt: "The boys from GEMS Wellington Al Khail claimed the U-11 DAPSA Basketball Title with a sensational victory at Swiss International Scientific School on Wednesday evening."
+image: "/images/archive/2019/09/main-img-1052018102139.webp"
 wpId: 1023
-wpFeaturedImage: "2019/09/Main-img-1052018102139.jpg"
 ---
 
 **The boys from GEMS Wellington Al Khail claimed the U-11 DAPSA Basketball Title with a sensational victory at Swiss International Scientific School on Wednesday evening.**

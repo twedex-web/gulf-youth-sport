@@ -4,8 +4,8 @@ date: 2020-05-27T06:54:17+04:00
 slug: "restrictions-easing-on-sports-academies-in-the-uae"
 categories: ["GYS", "News & Features"]
 excerpt: "Sports academies have received the offical clearance to open up from today, but strict protocols mean that is not feasible for all businesses."
+image: "/images/archive/2020/05/d3ecf685-3edc-4665-9500-4b7fc0537b21.webp"
 wpId: 3254
-wpFeaturedImage: "2020/05/D3ECF685-3EDC-4665-9500-4B7FC0537B21.jpg"
 ---
 
 Sports academies have received the offical clearance to open up from today, but strict protocols mean that is not feasible for all businesses.

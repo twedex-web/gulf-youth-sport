@@ -5,9 +5,9 @@ slug: "school-sports-fixtures-return-to-dubai-after-covid-layoff"
 kicker: "DASSA"
 categories: ["DASSA"]
 standfirst: "Dubai school sports fixtures returned this week as Covid restrictions on matches were lifted following updated KHDA advice."
+image: "/images/archive/2021/03/img-6496.webp"
 metaDescription: "Dubai school sports fixtures returned this week as Covid restrictions on matches were lifted following updated KHDA advice."
 wpId: 5570
-wpFeaturedImage: "2021/03/IMG_6496.jpeg"
 ---
 
 **Secondary schools across Dubai were able to restart sports fixtures this week as DASSA leagues got up and running following the recent pause at the start of the new year.**

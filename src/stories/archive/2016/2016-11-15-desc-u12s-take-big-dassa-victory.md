@@ -3,8 +3,8 @@ title: "DESC U12's Take Big DASSA Victory"
 date: 2016-11-15T00:00:00+04:00
 slug: "desc-u12s-take-big-dassa-victory"
 excerpt: "Dubai English Speaking School’s under 12’s ran out convincing 6-0 winners over their DASSA counterparts Dubai College on Thursday afternoon."
+image: "/images/archive/2019/09/main-img-1511201674242.webp"
 wpId: 456
-wpFeaturedImage: "2019/09/Main-img-1511201674242.jpg"
 ---
 
 **Dubai English Speaking School’s under 12’s ran out convincing 6-0 winners over their DASSA counterparts Dubai College on Thursday afternoon.**

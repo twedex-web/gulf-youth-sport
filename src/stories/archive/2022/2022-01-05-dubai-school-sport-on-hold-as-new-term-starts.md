@@ -4,9 +4,9 @@ date: 2022-01-05T14:33:24+04:00
 slug: "dubai-school-sport-on-hold-as-new-term-starts"
 categories: ["Uncategorised"]
 standfirst: "Dubai's education authorities have confirmed school sport and PE lessons will be placed on hold for two weeks as term resumes."
+image: "/images/archive/2021/12/ntp-0734.webp"
 metaDescription: "Dubai's education authorities have confirmed school sport and PE lessons will be placed on hold for two weeks as term resumes."
 wpId: 5545
-wpFeaturedImage: "2021/12/NTP_0734-scaled.jpg"
 ---
 
 **With the recent rise in Covid-19 cases in Dubai, extra-curricular school sport and PE lessons have been placed on hold for two weeks from Monday 3rd January 2022.**

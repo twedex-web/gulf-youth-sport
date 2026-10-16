@@ -4,8 +4,8 @@ date: 2020-07-17T05:49:34+04:00
 slug: "my-sports-academy-making-up-for-lost-time"
 categories: ["GYS", "News & Features"]
 excerpt: "The trademark bright yellow uniforms of My Sports Academy are back on the courts, fields and in the pools of the UAE."
+image: "/images/archive/2020/07/106422639-3239116936175668-974985323747580784-o-e1594959712169.webp"
 wpId: 3528
-wpFeaturedImage: "2020/07/106422639_3239116936175668_974985323747580784_o-e1594959712169.jpg"
 ---
 
 The trademark bright yellow uniforms of My Sports Academy are back on the courts, fields and in the pools of the UAE.
@@ -15,10 +15,6 @@ Managing director Mark Gaitskell said academy coaches were 'keen to make up for 
 While that period of silence may have seemed like an eternity, the academy has sprung back into life with My Sports Academy's young athletes back training for netball, football, swim and triathlon.
 
 "(We have) four individual clubs each of very high quality in their own right, but all with a truly athlete centred approach," Gaitskell said.
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/07/76751619_2712410382179662_4891687486348066816_o.jpg)
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/07/70456370_2575599232527445_4721932833868742656_o.jpg)
 
 As Dubai Sports Council gradually eased restrictions on academies, seperate safety protocols were laid out for different sports. In addition pools remained closed in the early days of academies reopening. As a result Gaitskell and his team have had to adapt to constantly updating regulations.
 

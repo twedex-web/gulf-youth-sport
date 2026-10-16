@@ -4,8 +4,8 @@ date: 2020-11-25T21:49:18+04:00
 slug: "following-foremarke-in-the-dassa-1km-run"
 categories: ["News & Features"]
 excerpt: "From day one of the DASSA 1km Time Trial Challenge, Foremarke students were flooding organisers' inbox with entries."
+image: "/images/archive/2020/11/tempimageqboyuw.webp"
 wpId: 4460
-wpFeaturedImage: "2020/11/tempImageQBoYuw-scaled.jpg"
 ---
 
 From day one of the DASSA 1km Time Trial Challenge, Foremarke students were flooding organisers' inbox with entries.
@@ -17,5 +17,3 @@ It resulted in Foremarke students appearing on nearly every leaderboard at the e
 "The pupils at Foremarke absolutely loved the DASSA 1km run. It was great for them to have some form of competition back in their lives and they all truly embraced the challenge," he said.
 
 "Each week we saw the pupils get faster and faster as they tried to beat their own personal goals. Thank you to Mr. Statham and Gulf Youth Sport for a fantastically organisied event, during tough times."
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/11/tempImageC1OKyq-1024x768.jpg)![](https://gulfyouthsport.com/wp-content/uploads/2020/11/tempImagemA1zFa-1024x768.jpg)![](https://gulfyouthsport.com/wp-content/uploads/2020/11/Year-6-FMK-768x1024.jpg)

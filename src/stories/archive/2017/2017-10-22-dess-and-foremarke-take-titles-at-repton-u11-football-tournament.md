@@ -3,8 +3,8 @@ title: "DESS and Foremarke Take Titles at Repton U11 Football Tournament"
 date: 2017-10-22T00:00:00+04:00
 slug: "dess-and-foremarke-take-titles-at-repton-u11-football-tournament"
 excerpt: "The cream of Dubai's young footballing talent were out in force on Thursday at the Repton Under-11 Football Tournament."
+image: "/images/archive/2019/09/main-img-2210201792332.webp"
 wpId: 802
-wpFeaturedImage: "2019/09/Main-img-2210201792332.jpg"
 ---
 
 **The cream of Dubai's young footballing talent were out in force on Thursday at the Repton Under-11 Football Tournament.**

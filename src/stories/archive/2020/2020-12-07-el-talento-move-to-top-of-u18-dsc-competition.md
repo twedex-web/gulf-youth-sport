@@ -4,8 +4,8 @@ date: 2020-12-07T06:24:14+04:00
 slug: "el-talento-move-to-top-of-u18-dsc-competition"
 categories: ["Uncategorised"]
 excerpt: "El Talento Football Academy have leapfrogged La Liga HPC and grabbed pole position in the Under-18 division following another emphatic win in Week 3 of the Dubai Sports Council Football Academies Championship."
+image: "/images/archive/2020/12/img-5130.webp"
 wpId: 4508
-wpFeaturedImage: "2020/12/IMG_5130.jpg"
 ---
 
 El Talento Football Academy have leapfrogged La Liga HPC and grabbed pole position in the Under-18 division following another emphatic win in Week 3 of the Dubai Sports Council Football Academies Championship.

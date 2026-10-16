@@ -3,8 +3,8 @@ title: "Sherborne Claim Hat-trick of Cross Country Crowns"
 date: 2018-12-18T00:00:00+04:00
 slug: "sherborne-claim-hat-trick-of-cross-country-crowns"
 excerpt: "Sherborne Qatar Preparatory School Head of PE, Alistair Palfrey, has described his schools victory in the Year 3-6 QPPSSA Cross Country event this month as an “incredibly special achievement”."
+image: "/images/archive/2019/09/img-18122018164924-6b502e7e3bb247bea32ae36529dc00d5.webp"
 wpId: 1158
-wpFeaturedImage: "2019/09/img-18122018164924-6b502e7e3bb247bea32ae36529dc00d5.jpg"
 ---
 
 Sherborne Qatar Preparatory School Head of PE, Alistair Palfrey, has described his schools victory in the Year 3-6 QPPSSA Cross Country event this month as an “incredibly special achievement”.

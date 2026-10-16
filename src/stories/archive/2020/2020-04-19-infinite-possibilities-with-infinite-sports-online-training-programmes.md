@@ -4,8 +4,8 @@ date: 2020-04-19T12:52:21+04:00
 slug: "infinite-possibilities-with-infinite-sports-online-training-programmes"
 categories: ["GYS", "News & Features"]
 excerpt: "Infinite Sports are commending their athletes on the way they are approaching free online classes."
+image: "/images/archive/2020/04/screen-shot-2020-04-16-at-5-52-20-pm.webp"
 wpId: 2994
-wpFeaturedImage: "2020/04/Screen-Shot-2020-04-16-at-5.52.20-PM.png"
 ---
 
 Infinite Sports are commending their athletes on the way they are approaching free online classes.
@@ -27,8 +27,6 @@ all back across our 14 venues we have across Dubai. Stay safe and see you all so
 **Absolute Swimming: Swim Coach Peter Lake**
 
 "The feedback we have received so far has been extremely positive! It is great for us to stay in touch with our swimmers during this online programme and also provide an opportunity for the students to interact with each other and have some fun!"
-
-![](https://gulfyouthsport.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-16-at-5.52.50-PM.png)
 
 **Absolute Gymnastics: Head of Gymnastics Holly Jervis**
 

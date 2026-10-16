@@ -5,9 +5,9 @@ slug: "bsak-7s-tournament-a-roaring-success"
 kicker: "Netball"
 categories: ["GYS", "Netball", "News & Features", "Rugby"]
 standfirst: "Another BSAK7s netball and rugby event went off without a hitch as 1200 students competed at Zayed Cricket Stadium."
+image: "/images/archive/2019/11/bsak13-2.webp"
 metaDescription: "Another BSAK7s netball and rugby event went off without a hitch as 1200 students competed at Zayed Cricket Stadium."
 wpId: 1386
-wpFeaturedImage: "2019/11/bsak13-2.jpg"
 ---
 
 On a ground built for professionals, 1200 students played liked professionals at the BSAK7s annual tournament earlier this month.
@@ -22,15 +22,13 @@ BSAK director of sport Jonathan Coombs praised the sportsmanship of the students
 
 The tournament is one the students pencil in the calendar at the beginning of the year and they enjoyed their time on the sporting field and court.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2019/11/BSAK1.jpg)
-
 DESC, JESS, and Dubai College boys and girls shared the spoils across the events, with girls contesting netball beginning at under-12 level all the way up to an under-19 age group.
 
 An under-19 girls rugby event also took place as well as four age groups of boys rugby.
 
 Preparation for hosting more than 1000 students began last year and was ramped up in recent weeks. On the day of the tournament 55 BSAK staff were at hand to ensure the smooth running of the carnival.
 
-![](https://gulfyouthsport.com/wp-content/uploads/2019/11/BSAKb-1.jpg)  
+  
 BSAK was thankful for the contributions of Abu Dhabi Cricket Ground, Zayed Cricket Stadium and sponsors Dentons and Northstar in helping them host such a successful event.
 
 Sights now turn to the football tournament in March next year when talented footballers receive their chance to shine.

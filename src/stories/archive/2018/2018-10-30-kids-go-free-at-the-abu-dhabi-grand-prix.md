@@ -3,8 +3,8 @@ title: "Kids Go Free at the Abu Dhabi Grand Prix!"
 date: 2018-10-30T00:00:00+04:00
 slug: "kids-go-free-at-the-abu-dhabi-grand-prix"
 excerpt: "The next generation of racing fans can experience the sights, sounds, thrills and spills of the FORMULA 1 2018 ETIHAD AIRWAYS ABU DHABI GRAND PRIX for free on Friday, November 23."
+image: "/images/archive/2019/09/main-img-3010201883732.webp"
 wpId: 1133
-wpFeaturedImage: "2019/09/Main-img-3010201883732.jpg"
 ---
 
 The next generation of racing fans can experience the sights, sounds, thrills and spills of the FORMULA 1 2018 ETIHAD AIRWAYS ABU DHABI GRAND PRIX for free on Friday, November 23.

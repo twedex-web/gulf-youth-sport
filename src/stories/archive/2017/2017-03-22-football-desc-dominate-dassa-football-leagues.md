@@ -3,8 +3,8 @@ title: "FOOTBALL: DESC Dominate DASSA Football Leagues"
 date: 2017-03-22T00:00:00+04:00
 slug: "football-desc-dominate-dassa-football-leagues"
 excerpt: "Dubai English Speaking School (DESC) completed a season of dominance in the DASSA Football leagues by completing a near clean sweep of victories in the season finale at the Sevens on Tuesday afternoon."
+image: "/images/archive/2019/09/main-img-22320171227.webp"
 wpId: 598
-wpFeaturedImage: "2019/09/Main-img-22320171227.jpg"
 ---
 
 **Dubai English Speaking School (DESC)** completed a season of dominance in the DASSA Football leagues by completing a near clean sweep of victories in the season finale at the Sevens on Tuesday afternoon. 
