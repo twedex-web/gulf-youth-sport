@@ -31,8 +31,8 @@ Upload the **photo only**, with no headline or text on it. The homepage shows th
 
 Most people in our stories are children. Before publishing, check:
 
-- **Photos**: only publish photos where the school, club or event organiser has confirmed that consent is in place. [placeholder: confirm how consent is checked, e.g. "the school's photo consent list" or "the organiser's media consent form"]
-- **Names**: for children under 13, use first names only unless the school has agreed full names can be used. [placeholder: confirm the age]
+- **Photos**: only publish photos where the school, club or event organiser has confirmed consent through its photo consent list.
+- **Names**: for children under 13, use first names only unless the school has agreed full names can be used.
 - **Never publish**: home addresses, phone numbers, email addresses, social media handles of children, or anything that says where a child can be found outside school or the event.
 - **Ages**: an age group ("U13") is better than an exact age where possible.
 - **Medical or personal details** (injuries, health, family circumstances) only with the family's agreement.
@@ -43,7 +43,7 @@ People can ask us to correct or remove a story or photo: see gulfyouthsport.com/
 
 1. Forward every request to the editor straight away.
 2. If it concerns a child, unpublish or edit the story the same day (open it in the admin, remove the photo or name, publish again), then look into the details.
-3. Reply within [placeholder: 5 working days] to confirm what was changed.
+3. Reply within 5 working days to confirm what was changed.
 4. Keep the email, so there's a record that the request was handled.
 
 For photos in the Zenfolio gallery, remove or hide them in Zenfolio.
