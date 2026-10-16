@@ -8,12 +8,56 @@ Gulf Youth Sport (GYS) covers school and youth sport across the Gulf. Instagram 
 
 ## Current state
 
-- `index.html` is a temporary holding page (logo, "new website is on its way", links to Instagram, YouTube and the photo gallery). It will be replaced by the real homepage.
-- Hosting: Netlify, deployed automatically from this GitHub repository on every push. Static site built with Eleventy (11ty): source in `src/`, `netlify.toml` runs `npm run build` and publishes `_site/`. Articles are Markdown files in `src/stories/`. Run locally with `npm start` (http://localhost:8080).
+- The full site is live from `main` (it replaced the temporary holding page). It includes 977 articles imported from the old WordPress site (Aug 2016 to Oct 2026).
+- Hosting: Netlify, deployed automatically from this GitHub repository on every push to `main` (pull requests get deploy previews). Run locally with `npm start` (http://localhost:8080). The full build (about 1,000 pages) takes under 10 seconds.
 - Photos tab: `src/_data/zenfolio.js` reads the gallery's recent.rss at build time and shows up to six recent galleries. Only galleries whose name includes a date or year (e.g. "DASSA Golf (June 26)") are shown, which skips sub-folders like "DAY 1".
 - Videos tab: `src/_data/youtube.js` reads the channel's public feed at build time (15 newest uploads, Shorts excluded). `netlify/functions/rebuild-videos.mjs` triggers a rebuild every 6 hours (refreshing videos and galleries) through a Netlify build hook stored in the `BUILD_HOOK_URL` environment variable (never commit the hook URL).
 - Domain: gulfyouthsport.com is being transferred into Namecheap. DNS will stay at Namecheap, with records pointing to Netlify. Do not suggest moving nameservers to Netlify: the domain's email (info@gulfyouthsport.com) runs through existing MX/TXT records that must not be disturbed.
-- The old WordPress site was taken offline after being flagged by a school group's cyber security check. Old posts and pages are being exported from WordPress (XML plus the uploads folder) and may be imported later as content only. Do not bring across old themes, plugins or code.
+
+## Generator and build (Eleventy)
+
+- Static site generator: Eleventy (11ty) 3, configured in `eleventy.config.js`. Templates are Nunjucks (`.njk`); articles are Markdown with front matter.
+- Netlify build settings, all in `netlify.toml` (nothing to set in the Netlify UI): build command `npm run build`, publish directory `_site`, Node 22. Functions live in `netlify/functions/`.
+- Netlify environment variable: `BUILD_HOOK_URL` (for the scheduled rebuild). Never commit its value.
+
+## Folder structure
+
+```
+src/
+  index.njk                Stories homepage (lead story, grid of six, Earlier list)
+  archive.njk              /stories/ and /stories/page/N/ (24 per page)
+  videos.njk, photos.njk   Videos and Photos tabs
+  404.njk                  Custom "Out of bounds" 404 page
+  redirects.njk            Builds Netlify's /_redirects file (see Redirects below)
+  sitemap.njk, robots.njk  /sitemap.xml and /robots.txt
+  stories/                 New stories, written through the CMS (YYYY-MM-DD-slug.md)
+    stories.11tydata.js    Shared settings for every story: layout, URL, SEO fallbacks
+    archive/YYYY/          The 977 imported WordPress posts (not shown in the CMS)
+  images/uploads/          Images uploaded through the CMS
+  images/archive/YYYY/MM/  Imported WordPress images as WebP (max 1600px wide)
+  _data/                   Site settings, YouTube and Zenfolio feeds, legacy redirect lists
+  _includes/               Layouts (base, article) and the story tile
+  admin/                   Decap CMS (config.yml, preview styles)
+  assets/                  site.css and the logo
+scripts/                   One-off WordPress import scripts (run locally, never on Netlify)
+docs/                      Admin setup and publishing guides
+```
+
+- Story URLs are `/YYYY/MM/DD/slug/` (the old WordPress pattern), built from the story's date in Gulf time and its slug. All stories, new and imported, appear together on the homepage and archive, newest first.
+
+## Redirects
+
+`src/redirects.njk` generates `/_redirects` at build time:
+- The 23 old WordPress pages (listed in `src/_data/legacyPages.js`) redirect to the homepage; none were kept.
+- `/?p=ID` short links go to the matching article (imported articles keep their WordPress ID as `wpId`); `/?page_id=ID` goes to the homepage.
+- Old WordPress category, tag, author, feed and page-N listings go to `/stories/`.
+- Old image addresses (`/wp-content/uploads/...`) for imported images go to the WebP copies (`src/_data/legacyImages.json`).
+
+## WordPress import (done October 2026)
+
+- The export lived in `../gys-import` (outside this repo). Never commit export files, the uploads archive, extracted files or `import-reports/` (all git-ignored).
+- `scripts/import-wordpress.mjs` converted the posts: suspicious-content scan, strict HTML allowlist, shortcodes and tracking code removed, YouTube kept (as youtube-nocookie embeds), other embeds turned into plain links. `scripts/import-images.mjs` extracted only the images used and converted them to WebP. Posts from 2022 onwards keep inline images; older posts keep only their featured image.
+- The old site was compromised: treat anything from the old export as untrusted. Do not bring across old themes, plugins or code.
 
 ## Site structure (agreed)
 
