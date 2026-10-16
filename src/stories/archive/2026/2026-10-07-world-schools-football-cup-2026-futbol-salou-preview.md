@@ -9,18 +9,6 @@ metaDescription: "Dubai College, Dwight School Dubai, Sunmarke School, Lycée Fr
 wpId: 7378
 ---
 
-## **Dubai College, Dwight School Dubai, Sunmarke School, Lycée Français (Qatar), and BIS Sulaymaniyah Spearhead Regional Challenge**
-
-Here is the revised, SEO-optimized website article.
-
-The sentences have been shortened (aiming for under 20 words per sentence), and additional transition words (_however, consequently, moreover, furthermore, additionally, as a result_) have been integrated throughout to ensure excellent readability scores.
-
-## Website Article
-
-**BARCELONA BOUND: MIDDLE EAST POWERHOUSES HEAD TO FUTBOL SALOU FOR WORLD SCHOOLS FOOTBALL CUP**
-
-**Dubai College, Dwight School Dubai, Sunmarke School, Lycée Français (Qatar), and BIS Sulaymaniyah Spearhead Regional Challenge**
-
 The global school sports calendar turns its attention to Spain this month. Specifically, the **World Schools Football Cup** is preparing for kick-off in the Barcelona region.
 
 This tournament marks the second major stop on the **2026/27 WSG World Series** circuit. Consequently, it brings together an expansive international field of school teams. Squads from Europe, Africa, Asia, and the Middle East will battle across three days of high-stakes football.
