@@ -99,7 +99,8 @@ Colours:
 
 - Text on yellow and orange is ink (#1C2752); text on the other colours is white.
 - Signature element: a thin six-colour stripe across the top of every page (blue, green, yellow, orange, red, maroon).
-- Story tiles rotate through the six colours (red, yellow, green, maroon, orange, blue). The team likes this: keep colour tiles in the story grid even when photos are available, with photos on the lead story and video thumbnails.
+- Story tiles: a story with a featured photo shows the photo (headline underneath the tile); a story without one gets a colour tile, rotating through the six colours (red, yellow, green, maroon, orange, blue), with the headline inside. Featured images must be the photo only, with no text: the team uploads text-free photos from now on.
+- Imported posts from before 2026 always use colour tiles, because their featured images are Instagram graphics with the headline baked in (`photoTile` in `src/stories/stories.11tydata.js`). The 2026 imported images were cropped to the photo with `scripts/crop-featured-text.mjs`.
 - Tile shape: portrait 4:5 to match Instagram.
 
 Type (Google Fonts):

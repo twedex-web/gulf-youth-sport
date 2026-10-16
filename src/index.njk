@@ -9,8 +9,8 @@ title: Gulf Youth Sport | School and youth sport across the Gulf
   <h1 class="visually-hidden">Latest stories from Gulf Youth Sport</h1>
 
   {% if lead %}
-  <article class="lead{% if not lead.data.image %} lead--tile{% endif %}">
-    {% if lead.data.image %}
+  <article class="lead{% if not lead.data.photoTile %} lead--tile{% endif %}">
+    {% if lead.data.photoTile %}
     <a class="lead-media" href="{{ lead.url }}" tabindex="-1" aria-hidden="true">
       <img src="{{ lead.data.image }}" alt="" width="800" height="1000" fetchpriority="high">
     </a>
