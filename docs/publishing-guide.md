@@ -18,6 +18,8 @@ For the Gulf Youth Sport team. You need a GitHub account that has been given acc
 
 The site updates in about a minute. The new story is at the top of the homepage.
 
+**To schedule a story for later:** set the **Publish date** to the future date and time (UAE time), then **Publish now** as usual. The story stays hidden until the next automatic site update after that time. Updates run at **9am, 3pm, 9pm and 3am** UAE time, so a story set for 9:00 goes live at about 9:01, and one set for 10:00 goes live at 15:00.
+
 **To fix a mistake:** open the story from the list, edit it, and publish again.
 **To remove a story:** open it and click **Delete entry**. Check with the editor first.
 

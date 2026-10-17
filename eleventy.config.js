@@ -1,3 +1,5 @@
+import { isScheduled } from "./lib/scheduled.js";
+
 const TILE_COLOURS = ["red", "yellow", "green", "maroon", "orange", "blue"];
 
 const dateFormat = new Intl.DateTimeFormat("en-GB", {
@@ -16,8 +18,12 @@ export default function (eleventyConfig) {
   eleventyConfig.ignores.add("src/admin/**");
 
   // Newest first. Publishing an article in the CMS puts it at the top of the homepage.
+  // Scheduled (future-dated) stories are left out until a build runs after their publish time.
   eleventyConfig.addCollection("stories", (api) =>
-    api.getFilteredByGlob("src/stories/**/*.md").sort((a, b) => b.date - a.date)
+    api
+      .getFilteredByGlob("src/stories/**/*.md")
+      .filter((story) => !isScheduled(story.date))
+      .sort((a, b) => b.date - a.date)
   );
 
   // Images in article text load as the reader scrolls (the lead image is marked fetchpriority="high").

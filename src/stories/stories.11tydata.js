@@ -1,3 +1,5 @@
+import { isScheduled } from "../../lib/scheduled.js";
+
 // Turns whatever is typed into the CMS slug field into a safe URL segment.
 function slugify(text) {
   return String(text)
@@ -20,6 +22,9 @@ export default {
   layout: "layouts/article.njk",
   eleventyComputed: {
     permalink: (data) => {
+      // Scheduled stories: a story dated in the future gets no page until a build runs after its
+      // publish time (the scheduled rebuild runs at 9am, 3pm, 9pm and 3am UAE time).
+      if (isScheduled(data.page.date)) return false;
       const [year, month, day] = urlDate.format(data.page.date).split("-");
       return `/${year}/${month}/${day}/${slugify(data.slug || data.page.fileSlug)}/`;
     },
