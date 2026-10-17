@@ -39,8 +39,7 @@
     </nav>
     {%- set headline = (partners.partners | partnerTier("headline"))[0] %}
     {%- if headline %}
-    <a class="headline-credit" href="{{ headline | partnerUrl }}" rel="sponsored noopener">
-      <span class="headline-credit-label">Headline sponsor</span>
+    <a class="headline-credit" href="{{ headline | partnerUrl }}" rel="sponsored noopener" aria-label="Headline sponsor: {{ headline.name }}" title="Headline sponsor: {{ headline.name }}">
       {%- if headline.logo %}<img src="{{ headline.logo }}" alt="{{ headline.name }}" width="140" height="41" loading="eager">{% else %}<span class="headline-credit-name">{{ headline.name }}</span>{% endif %}
     </a>
     {%- endif %}
@@ -57,6 +56,7 @@
   <div class="wrap">
     <p class="slogan">Electrifying Youth Sport</p>
     <ul class="footer-links">
+      <li><a href="/submit-a-story/">Submit a story</a></li>
       <li><a href="{{ site.instagram }}" rel="noopener">Instagram</a></li>
       <li><a href="{{ site.youtube }}" rel="noopener">YouTube</a></li>
       <li><a href="{{ site.photos }}" rel="noopener">Event photos</a></li>
