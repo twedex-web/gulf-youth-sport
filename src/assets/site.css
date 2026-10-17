@@ -679,3 +679,7 @@ main { margin-bottom: 72px; }
 a.partner-handle { position: relative; z-index: 1; align-self: flex-start; text-decoration: none; }
 a.partner-handle:hover { text-decoration: underline; text-underline-offset: 3px; }
 .headline-card:hover .partner-main-link, .partner-card:hover .partner-main-link { color: var(--blue); }
+
+/* Buttons inside article text (e.g. a booking call-to-action) keep their button colours */
+.prose a.btn { color: #FFFFFF; text-decoration: none; font-weight: 700; }
+.prose a.btn:hover { color: #FFFFFF; }

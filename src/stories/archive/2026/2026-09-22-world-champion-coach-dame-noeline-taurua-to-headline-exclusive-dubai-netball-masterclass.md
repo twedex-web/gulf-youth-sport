@@ -37,6 +37,12 @@ As part of their annual membership benefits, all DASSA member schools receive an
 
 Whether you are a school PE teacher, academy coach, or club director, this is a rare opportunity to learn directly from one of the greatest tactical minds the game has ever produced.
 
-Places are strictly limited. Coaches can view full booking details and secure their delegate pass via ICE Education's Official Masterclass Portal. DASSA member schools should quote their membership when booking to apply the 10% discount.
+**How to Book**
+
+"Netball: What Wins Under Pressure" is an ICE Education event, run in association with DASSA. Places are strictly limited, and bookings are made directly through ICE Education's website, where coaches can view full details and secure their delegate pass.
+
+<p><a class="btn" href="https://www.ice-education.co.uk/courses/netball-what-wins-under-pressure" rel="noopener">Book with ICE Education <span aria-hidden="true">&rarr;</span></a></p>
+
+DASSA member schools should quote their membership when booking to apply the 10% discount.
 
 Do not miss it.
