@@ -2,8 +2,8 @@
 title: "HIGH-PERFORMANCE IN AL AIN: BRITISH SCHOOL AL KHUBAIRAT LAUNCH RUGBY SEASON WITH TWEDEX CAMP"
 date: 2026-09-28T13:43:07+04:00
 slug: "high-performance-in-al-ain-british-school-al-khubairat-launch-rugby-season-with-twedex-camp"
-kicker: "BSAK"
-categories: ["BSAK", "Twedex"]
+kicker: "Rugby"
+categories: ["Rugby", "BSAK", "Twedex"]
 excerpt: "BSAK Squads Complete Intensive Weekend Training Camp at Radisson Blu Facilities Ahead of 2026/27 Campaign"
 image: "/images/archive/2026/09/screenshot-2026-09-28-at-4-39-32-pm.webp"
 wpId: 7356

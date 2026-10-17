@@ -2,7 +2,8 @@
 title: "GYS SEASON PREVIEW: DASSA RETURNS TO ACTION WITH RECORD-BREAKING 109 SCHOOLS"
 date: 2026-09-02T13:40:48+04:00
 slug: "gys-season-preview-dassa-returns-to-action-with-record-breaking-109-schools"
-categories: ["Uncategorised"]
+kicker: "DASSA"
+categories: ["DASSA"]
 excerpt: "All Eyes on RGS Dubai as Heads of PE Gather for DASSA Welcome Back Meeting"
 image: "/images/archive/2026/09/dassa-2026-27-season-launch.webp"
 imageAlt: "Heads of PE and Directors of Sport seated in a lecture theatre at the DASSA season launch"
