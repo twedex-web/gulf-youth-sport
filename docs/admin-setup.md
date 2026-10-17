@@ -44,3 +44,12 @@ npm run cms        # in a second terminal: lets /admin edit local files without 
 ```
 
 Then open http://localhost:8080/admin/ and click **Login**. Changes are saved as files on your computer only.
+
+## 5. Story submissions (Submit a story form)
+
+The form at `/submit-a-story/` uses Netlify Forms (included free: 100 submissions a month). Two one-off settings in Netlify:
+
+1. **Turn on form detection:** open the project in Netlify, go to **Forms**, and click **Enable form detection**. Then trigger a new deploy (**Deploys → Trigger deploy → Deploy site**), so Netlify finds the form.
+2. **Email each submission to the team:** **Project configuration → Notifications → Emails and webhooks → Form submission notifications → Add notification → Email notification**. Choose the form `story-submission` and enter `info@gulfyouthsport.com`.
+
+Submissions also appear under **Forms → story-submission** in Netlify. Spam is filtered automatically (plus a hidden "honeypot" field bots fill in). Delete submissions you no longer need: the privacy policy says we keep them only as long as we need them.

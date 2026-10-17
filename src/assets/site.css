@@ -683,3 +683,41 @@ a.partner-handle:hover { text-decoration: underline; text-underline-offset: 3px;
 /* Buttons inside article text (e.g. a booking call-to-action) keep their button colours */
 .prose a.btn { color: #FFFFFF; text-decoration: none; font-weight: 700; }
 .prose a.btn:hover { color: #FFFFFF; }
+
+/* Submit a story form */
+.story-form { display: flex; flex-direction: column; gap: 28px; margin-bottom: 8px; }
+.story-form fieldset { margin: 0; padding: 0; border: 0; display: flex; flex-direction: column; gap: 18px; }
+.story-form legend {
+  margin-bottom: 14px; padding: 0;
+  font-family: var(--head); font-style: italic; font-weight: 800; text-transform: uppercase; font-size: 26px; line-height: 1;
+}
+.field { display: flex; flex-direction: column; gap: 6px; }
+.field label { font-weight: 700; font-size: 16px; }
+.req { font-weight: 600; font-size: 13px; color: var(--muted); margin-left: 4px; }
+.hint { margin: 0; font-size: 14px; color: var(--muted); }
+.field input, .field select, .field textarea {
+  width: 100%; min-height: 48px; padding: 12px 14px;
+  border: 1px solid #C9D1EA; border-radius: var(--radius); background: #FFFFFF;
+  font: inherit; font-size: 17px; color: var(--ink);
+}
+.field textarea { resize: vertical; line-height: 1.5; }
+.field input:focus-visible, .field select:focus-visible, .field textarea:focus-visible { outline: 3px solid var(--blue); outline-offset: 1px; border-color: var(--blue); }
+.field--check { flex-direction: row; align-items: flex-start; gap: 12px; padding: 16px; border-radius: var(--radius); background: var(--surface); }
+.field--check input { width: 24px; height: 24px; min-height: 0; flex: none; margin-top: 2px; accent-color: var(--ink); }
+.field--check label { font-weight: 500; line-height: 1.45; }
+.form-note { margin: 0; font-size: 15px; color: var(--muted); }
+.story-form .btn { align-self: flex-start; font-size: 18px; cursor: pointer; }
+
+/* "Got a story?" prompts: homepage band and end of articles */
+.story-cta {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px 32px;
+  margin: 0 0 56px; padding: clamp(22px, 4vw, 36px); border-radius: var(--radius); background: var(--ink); color: #FFFFFF;
+}
+.story-cta-title {
+  margin: 0 0 6px;
+  font-family: var(--head); font-style: italic; font-weight: 800; text-transform: uppercase; font-size: clamp(28px, 4vw, 40px); line-height: 0.95;
+}
+.story-cta p { margin: 0; font-size: 17px; line-height: 1.5; color: #D5DBEC; }
+.story-cta :focus-visible { outline-color: #FFFFFF; }
+.article-story-prompt { margin: 24px 0 0; font-size: 16px; }
+.article-story-prompt a { font-weight: 700; color: var(--blue); text-underline-offset: 3px; }

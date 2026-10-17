@@ -1,0 +1,101 @@
+---
+layout: layouts/base.njk
+permalink: /submit-a-story/
+title: Submit a story | Gulf Youth Sport
+description: Send Gulf Youth Sport your school or club's results, achievements and event news. Tell us what happened and we'll take it from there.
+---
+{# Story submissions use Netlify Forms (free tier): Netlify stores each submission and emails the team.
+   Form detection and the email notification are switched on in the Netlify UI (see docs/admin-setup.md). #}
+<article class="article">
+  <header class="wrap article-head">
+    <h1 class="article-title">Submit a story</h1>
+    <p class="standfirst">Big win, record-breaking swim, first tournament, award, tour? Tell us what happened and we'll take it from there.</p>
+  </header>
+
+  <div class="wrap article-body">
+    <form class="story-form" name="story-submission" method="POST" action="/submit-a-story/thanks/" data-netlify="true" netlify-honeypot="bot-field">
+      <input type="hidden" name="form-name" value="story-submission">
+      <p class="visually-hidden" aria-hidden="true"><label>Leave this empty: <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+
+      <fieldset>
+        <legend>About you</legend>
+        <div class="field">
+          <label for="sf-name">Your name <span class="req">required</span></label>
+          <input id="sf-name" name="name" type="text" autocomplete="name" required>
+        </div>
+        <div class="field">
+          <label for="sf-email">Email <span class="req">required</span></label>
+          <input id="sf-email" name="email" type="email" autocomplete="email" required>
+        </div>
+        <div class="field">
+          <label for="sf-org">School, club or organisation <span class="req">required</span></label>
+          <input id="sf-org" name="organisation" type="text" autocomplete="organization" required>
+        </div>
+        <div class="field">
+          <label for="sf-role">Your role <span class="req">required</span></label>
+          <select id="sf-role" name="role" required>
+            <option value="">Choose one</option>
+            <option>Teacher or coach</option>
+            <option>Head of PE or Director of Sport</option>
+            <option>Club or academy</option>
+            <option>Event organiser</option>
+            <option>Parent</option>
+            <option>Student</option>
+            <option>Other</option>
+          </select>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>The story</legend>
+        <div class="field">
+          <label for="sf-sport">Sport <span class="req">required</span></label>
+          <input id="sf-sport" name="sport" type="text" placeholder="e.g. Netball" required>
+        </div>
+        <div class="field">
+          <label for="sf-event">Event or competition</label>
+          <input id="sf-event" name="event" type="text" placeholder="e.g. DASSA U13 Netball League">
+        </div>
+        <div class="field">
+          <label for="sf-date">When did it happen?</label>
+          <input id="sf-date" name="event-date" type="date">
+        </div>
+        <div class="field">
+          <label for="sf-story">What happened? <span class="req">required</span></label>
+          <p class="hint" id="sf-story-hint">The key moments, who stood out, and why it matters. A few sentences is plenty.</p>
+          <textarea id="sf-story" name="story" rows="6" aria-describedby="sf-story-hint" required></textarea>
+        </div>
+        <div class="field">
+          <label for="sf-results">Results and scores</label>
+          <textarea id="sf-results" name="results" rows="3" placeholder="e.g. Final: JESS 27–12 Redborne"></textarea>
+        </div>
+        <div class="field">
+          <label for="sf-quote">A quote</label>
+          <p class="hint" id="sf-quote-hint">A line from a coach, captain or player, with their name and role.</p>
+          <textarea id="sf-quote" name="quote" rows="3" aria-describedby="sf-quote-hint"></textarea>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Photos and Instagram</legend>
+        <div class="field">
+          <label for="sf-photos">Link to photos</label>
+          <p class="hint" id="sf-photos-hint">A Google Drive, Dropbox or WeTransfer link. Photos without text or graphics work best.</p>
+          <input id="sf-photos" name="photos-link" type="url" placeholder="https://" aria-describedby="sf-photos-hint">
+        </div>
+        <div class="field">
+          <label for="sf-tags">Instagram accounts to tag</label>
+          <input id="sf-tags" name="instagram-tags" type="text" placeholder="e.g. @yourschool @yourclub">
+        </div>
+      </fieldset>
+
+      <div class="field field--check">
+        <input id="sf-consent" name="consent" type="checkbox" value="yes" required>
+        <label for="sf-consent">I confirm that the school or organisation has photo consent for any young people shown, and I'm happy for Gulf Youth Sport to publish this story. <span class="req">required</span></label>
+      </div>
+
+      <p class="form-note">We use your details only to follow up on your story. See our <a href="/privacy/">privacy policy</a>.</p>
+      <button class="btn" type="submit">Send your story</button>
+    </form>
+  </div>
+</article>

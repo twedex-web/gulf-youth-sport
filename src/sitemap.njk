@@ -10,6 +10,7 @@ eleventyExcludeFromCollections: true
   <url><loc>{{ site.url }}/partners/</loc></url>
   <url><loc>{{ site.url }}/stories/</loc></url>
   <url><loc>{{ site.url }}/contact/</loc></url>
+  <url><loc>{{ site.url }}/submit-a-story/</loc></url>
   <url><loc>{{ site.url }}/privacy/</loc></url>
 {%- for story in collections.stories %}
   <url><loc>{{ site.url }}{{ story.url }}</loc><lastmod>{{ story.date | isoDate | truncate(10, true, "") }}</lastmod></url>

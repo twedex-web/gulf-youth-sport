@@ -18,7 +18,8 @@ Gulf Youth Sport (GYS) covers school and youth sport across the Gulf. Instagram 
 
 - `/privacy/` (`src/privacy.njk`) and `/contact/` (`src/contact.njk`, with a `#removal` section for correction and takedown requests) are linked from the footer; the Photos page links to removal requests too.
 - The site is operated by GYS Travels LLC. Name it only in the privacy policy ("Who runs this site"), nowhere else: not in the header, footer, page titles or metadata.
-- Keep the privacy policy accurate if the site changes: it says the site has no forms, accounts, analytics or advertising and sets no cookies of its own; YouTube loads only on play; gallery covers load from Zenfolio. Adding analytics, forms or new embeds means updating it (and possibly a cookie banner).
+- Story submissions: `/submit-a-story/` (`src/submit-a-story.njk`) is a Netlify Forms form named `story-submission` (thanks page `/submit-a-story/thanks/`), linked from the homepage "Got a story?" band, the footer, the end of every article and the contact page. Netlify setup steps: `docs/admin-setup.md` section 5.
+- Keep the privacy policy accurate if the site changes: it says the site has no accounts, analytics or advertising and sets no cookies of its own, and that the story form is the only form; YouTube loads only on play; gallery covers load from Zenfolio. Adding analytics, forms or new embeds means updating it (and possibly a cookie banner).
 - Fonts are self-hosted in `src/assets/fonts/` (Barlow, SIL Open Font License) so visitors never contact Google Fonts. Don't add Google Fonts links back.
 - Safeguarding and removal-request rules for the team are in `docs/publishing-guide.md`.
 
