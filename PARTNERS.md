@@ -9,6 +9,7 @@
 | 2. Official partners | J20 Sports | Official Kit Partner | @j20sportsofficial | `j20-sports.webp` (supplied on white; white made transparent) |
 | 3. Supported by | The Overlord Academy | Partner | @theoverlordacademy | `the-overlord-academy.webp` (supplied white-on-black; used as a black-on-transparent version of the same artwork) |
 | 3. Supported by | Edfundo | Partner | @edfundo | `edfundo.webp` |
+| 3. Supported by | Dubai Marlins Aquatics | Partner | @dubaimarlinsaq | `dubai-marlins-aquatics.webp` (off-white background removed; links to Instagram until a website is supplied) |
 
 Order within each tier is as listed. Websites: twedex.com, wsgevents.com, j20sports.com, theoverlordacademy.com, edfundo.com (note: https://www.edfundo.com fails, so the link uses https://edfundo.com).
 
@@ -20,7 +21,7 @@ Order within each tier is as listed. Websites: twedex.com, wsgevents.com, j20spo
 - **WSG brand rules** (WSG Brand Guidelines 2025/26): never stretch, crop, recolour, rotate or add effects to their logo; keep clear space around it equal to the size of its globe; don't shrink it until the text is illegible. Full asset suite: media@wsgevents.com.
 - **Logos:** transparent PNG, SVG or WebP in `src/images/partners/`, with the partner's name as alt text. A partner without a logo shows their name in a dashed placeholder box, never a broken image. The supplied PNGs were converted to WebP (220 KB down to 55 KB) because the strip loads on every page.
 - **Templates:**
-  - Header credit: `src/_includes/layouts/base.njk` (first partner in the `headline` tier).
+  - Header credit: `src/_includes/layouts/base.njk` (first partner in the `headline` tier). Logo only: the "Headline sponsor" wording was dropped from view after team feedback and lives in the link's hover and screen-reader label.
   - Partner strip: `src/_includes/partner-strip.njk`, included above the footer in the base layout, so it appears on every page.
   - Partners page: `src/partners.njk` at `/partners/`, the fourth tab in the main navigation.
   - Logo or placeholder: `src/_includes/partner-logo.njk`.

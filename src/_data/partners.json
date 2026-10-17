@@ -49,6 +49,16 @@
       "logo": "/images/partners/edfundo.webp",
       "accent": "orange",
       "description": ""
+    },
+    {
+      "name": "Dubai Marlins Aquatics",
+      "tier": "supported",
+      "role": "Partner",
+      "instagram": "dubaimarlinsaq",
+      "website": "",
+      "logo": "/images/partners/dubai-marlins-aquatics.webp",
+      "accent": "blue",
+      "description": ""
     }
   ],
   "partnerPack": ""
