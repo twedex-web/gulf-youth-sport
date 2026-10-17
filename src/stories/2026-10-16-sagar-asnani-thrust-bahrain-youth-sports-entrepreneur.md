@@ -2,8 +2,8 @@
 title: "Meet the 17-Year-Old Entrepreneur Building Bahrain’s Grassroots Sports Ecosystem"
 slug: "sagar-asnani-thrust-bahrain-youth-sports-entrepreneur"
 date: 2026-10-16T15:12:00+04:00
-kicker: "Grassroots Sports"
-categories: ["Grassroots Sports", "Youth Spotlight"]
+kicker: "Grassroots Sport"
+categories: ["Grassroots Sport", "Youth Spotlight"]
 standfirst: "From walking into venues after school to training 23-year-old interns: Sagar Asnani built Bahrain’s fastest-growing grassroots sports platform."
 image: "/images/uploads/sagar-asnani-thrust-bahrain.webp"
 imageAlt: "Thrust founder Sagar Asnani in a Thrust hoodie, holding a football"
