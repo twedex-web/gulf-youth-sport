@@ -58,6 +58,13 @@ docs/                      Admin setup and publishing guides
 
 - Story URLs are `/YYYY/MM/DD/slug/` (the old WordPress pattern), built from the story's date in Gulf time and its slug. All stories, new and imported, appear together on the homepage and archive, newest first.
 
+## SEO
+
+- Every page gets its title, meta description, canonical URL and Open Graph tags from `src/_includes/layouts/base.njk`; helpers are in `lib/seo.js`.
+- Stories: a blank SEO title becomes "Headline | Gulf Youth Sport" (the site name is dropped when that would pass 65 characters, and a date is added when two stories share a headline). A blank meta description uses the standfirst or excerpt, or the headline plus the start of the article when that is under 70 characters. All descriptions are trimmed to about 158 characters.
+- Structured data: Organization and WebSite on the homepage, NewsArticle on every story, VideoObject list on the Videos page.
+- Pages that shouldn't be in search results (404, form thanks page) set `noindex: true` in front matter.
+
 ## Redirects
 
 `src/redirects.njk` generates `/_redirects` at build time:

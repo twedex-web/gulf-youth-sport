@@ -98,3 +98,29 @@ description: The latest school and youth sport videos from the Gulf Youth Sport 
     });
   })();
 </script>
+{%- if videos.length %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Latest Gulf Youth Sport videos",
+  "itemListElement": [
+    {%- for video in videos.slice(0, 7) %}
+    {
+      "@type": "ListItem",
+      "position": {{ loop.index }},
+      "item": {
+        "@type": "VideoObject",
+        "name": {{ video.title | dump | safe }},
+        "description": {{ (video.description or video.title) | seoDescription | dump | safe }},
+        "thumbnailUrl": "https://i.ytimg.com/vi/{{ video.id }}/hqdefault.jpg",
+        "uploadDate": "{{ video.date | isoDate }}",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/{{ video.id }}",
+        "url": "{{ video.url }}"
+      }
+    }{% if not loop.last %},{% endif %}
+    {%- endfor %}
+  ]
+}
+</script>
+{%- endif %}

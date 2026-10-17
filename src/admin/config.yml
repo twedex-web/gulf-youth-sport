@@ -84,7 +84,7 @@ collections:
         name: seoTitle
         widget: string
         required: false
-        hint: "From the Google Doc. Leave blank to use the headline."
+        hint: "From the Google Doc, ideally under 60 characters. Leave blank to use the headline."
 
       - label: Meta description
         name: metaDescription

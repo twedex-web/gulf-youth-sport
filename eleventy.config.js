@@ -1,4 +1,5 @@
 import { isScheduled } from "./lib/scheduled.js";
+import { shorten } from "./lib/seo.js";
 
 const TILE_COLOURS = ["red", "yellow", "green", "maroon", "orange", "blue"];
 
@@ -33,6 +34,8 @@ export default function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("readableDate", (date) => dateFormat.format(date));
+  // Keeps every page's meta description to the length Google shows (lib/seo.js).
+  eleventyConfig.addFilter("seoDescription", (text) => shorten(text));
   eleventyConfig.addFilter("isoDate", (date) => date.toISOString());
   eleventyConfig.addFilter("tileColour", (index) => TILE_COLOURS[index % TILE_COLOURS.length]);
   // Partners all come from src/_data/partners.json (editable in the CMS).

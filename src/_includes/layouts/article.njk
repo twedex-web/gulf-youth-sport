@@ -59,12 +59,19 @@ ogType: article
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": {{ title | dump | safe }},
-  "description": {{ (metaDescription or "") | dump | safe }},
+  "description": {{ (metaDescription or "") | seoDescription | dump | safe }},
   "datePublished": "{{ page.date | isoDate }}",
+  "dateModified": "{{ (updated or page.date) | isoDate }}",
+  "url": "{{ pageUrl }}",
   "mainEntityOfPage": "{{ pageUrl }}",
-  {% if image %}"image": ["{{ site.url }}{{ image }}"],{% endif %}
+  "image": ["{{ site.url }}{{ image or '/assets/gys-logo.png' }}"],
+  {% if kicker %}"articleSection": {{ kicker | dump | safe }},{% endif %}
+  {% if categories and categories.length %}"keywords": {{ categories | join(", ") | dump | safe }},{% endif %}
+  "inLanguage": "en-GB",
+  "author": { "@type": "Organization", "name": "Gulf Youth Sport", "url": "{{ site.url }}/" },
   "publisher": {
     "@type": "Organization",
+    "@id": "{{ site.url }}/#organization",
     "name": "Gulf Youth Sport",
     "logo": { "@type": "ImageObject", "url": "{{ site.url }}/assets/gys-logo.png" }
   }

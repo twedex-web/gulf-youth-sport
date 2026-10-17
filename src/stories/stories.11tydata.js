@@ -1,4 +1,12 @@
 import { isScheduled } from "../../lib/scheduled.js";
+import { duplicateTitles, plainText, shorten, storyTitle } from "../../lib/seo.js";
+
+const readableDate = new Intl.DateTimeFormat("en-GB", {
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+  timeZone: "Asia/Dubai",
+});
 
 // Turns whatever is typed into the CMS slug field into a safe URL segment.
 function slugify(text) {
@@ -36,8 +44,21 @@ export default {
       const imported = (data.page.inputPath || "").includes("/archive/");
       return !imported || data.page.date.getUTCFullYear() >= 2026;
     },
-    // Fall back sensibly when the SEO fields are left blank in the CMS.
-    seoTitle: (data) => data.seoTitle || `${data.title} | Gulf Youth Sport`,
-    metaDescription: (data) => data.metaDescription || data.standfirst || data.excerpt,
+    // Fall back sensibly when the SEO fields are left blank in the CMS (lib/seo.js).
+    seoTitle: (data) =>
+      data.seoTitle ||
+      storyTitle(
+        data.title,
+        readableDate.format(data.page.date),
+        duplicateTitles().has(String(data.title).trim().toLowerCase())
+      ),
+    // A summary too short to be useful (some imported posts have one-line excerpts) is replaced
+    // by the headline and the start of the article.
+    metaDescription: (data) => {
+      if (data.metaDescription) return shorten(data.metaDescription);
+      const summary = shorten(data.standfirst || data.excerpt || "");
+      if (summary.length >= 70) return summary;
+      return shorten(`${data.title}: ${plainText(data.page.rawInput)}`);
+    },
   },
 };

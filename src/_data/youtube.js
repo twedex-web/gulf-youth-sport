@@ -33,6 +33,7 @@ export default async function () {
           title: pick(entry, /<title>([^<]*)<\/title>/),
           url: pick(entry, /<link rel="alternate" href="([^"]+)"/),
           date: new Date(pick(entry, /<published>([^<]+)<\/published>/)),
+          description: pick(entry, /<media:description>([^<]*)<\/media:description>/),
         };
       })
       // Shorts are vertical clips: they don't suit the 16:9 layout.

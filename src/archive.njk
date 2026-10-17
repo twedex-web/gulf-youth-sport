@@ -8,6 +8,7 @@ pagination:
 permalink: "/stories/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}"
 eleventyComputed:
   title: "All stories{% if pagination.pageNumber > 0 %}, page {{ pagination.pageNumber + 1 }}{% endif %} | Gulf Youth Sport"
+  description: "{% if pagination.pageNumber > 0 %}Older school and youth sport stories from across the Gulf, page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}: results, features and event news from Gulf Youth Sport.{% else %}Every Gulf Youth Sport story, newest first: school and youth sport results, features and event news from across the Gulf.{% endif %}"
 ---
 <div class="wrap">
   <div class="page-head">

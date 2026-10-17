@@ -4,11 +4,12 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>{{ site.url }}/</loc></url>
+{%- set newest = collections.stories[0] %}
+  <url><loc>{{ site.url }}/</loc>{% if newest %}<lastmod>{{ newest.date | isoDate | truncate(10, true, "") }}</lastmod>{% endif %}</url>
   <url><loc>{{ site.url }}/videos/</loc></url>
   <url><loc>{{ site.url }}/photos/</loc></url>
   <url><loc>{{ site.url }}/partners/</loc></url>
-  <url><loc>{{ site.url }}/stories/</loc></url>
+  <url><loc>{{ site.url }}/stories/</loc>{% if newest %}<lastmod>{{ newest.date | isoDate | truncate(10, true, "") }}</lastmod>{% endif %}</url>
   <url><loc>{{ site.url }}/contact/</loc></url>
   <url><loc>{{ site.url }}/submit-a-story/</loc></url>
   <url><loc>{{ site.url }}/privacy/</loc></url>
