@@ -14,6 +14,8 @@ The Middle East delegation has returned from Spain with silverware, two Cup fina
 
 Each age group began with a group stage, after which teams were split into three knockout competitions based on where they finished. The top teams went into the **Cup**, which decides the champions of each age group. The next tier played for the **Plate**, and the teams below that for the **Bowl**. It is a format that guarantees every team meaningful knockout football, and a trophy to play for, right to the final day.
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/RyS5id9BU80" title="WSG Football Cup 2026 highlights" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 ## Flying the Flag for Iraq
 
 Some of the delegation's youngest players made one of its biggest impressions, and history in the process. As the first Iraqi school to take part in the World School Games, BIS Sulaymaniyah, from the Kurdistan Region of Iraq, brought their U11 boys to Salou to face eight teams from around the world. Over an eight-game group programme they grew into the tournament, beating Harton Grange Academy 2–0, MeadowHall School 3–0 and British School Tashkent 3–1. In between, they ran CIS Lagos close in a narrow 2–1 defeat.
