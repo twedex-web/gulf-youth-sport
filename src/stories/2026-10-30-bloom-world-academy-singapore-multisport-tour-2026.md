@@ -4,52 +4,48 @@ slug: "bloom-world-academy-singapore-multisport-tour-2026"
 date: 2026-10-30T09:00:00+04:00
 kicker: "Multisport"
 categories: ["Multisport", "Sports Travel"]
-standfirst: "Bloom World Academy took boys' and girls' squads to Singapore with TWEDEX for six days of basketball, volleyball, football, netball and Muay Thai, with every student getting a game."
-metaDescription: "Bloom World Academy's boys and girls played basketball, volleyball, football, netball and Muay Thai on a TWEDEX multisport tour of Singapore, 19 to 24 October 2026."
+standfirst: "Bloom World Academy's boys and girls played basketball, football, volleyball and netball, and tried Muay Thai, on a TWEDEX multisport tour of Singapore built so that every student got a game."
+metaDescription: "Bloom World Academy's boys and girls played basketball, football, volleyball, netball and Muay Thai on a TWEDEX multisport tour of Singapore in October 2026."
 ---
 
-Most sports tours are built around one team. Bloom World Academy's trip to Singapore was built around everyone. Over six days in October, the Dubai school's boys and girls played basketball, volleyball, football and netball against local and international opposition, tried Muay Thai, and saw the best of the city in between.
+Most school sports tours are built around one team. Bloom World Academy's trip to Singapore was built around everyone. Over six days in October, the Dubai school's boys and girls played basketball, football, volleyball and netball against local and international opposition, tried their hand at Muay Thai, and saw the best of the city in between.
 
-The Singapore Multisport Development Tour, organised and led by TWEDEX, ran from 19 to 24 October. [placeholder: number of students and year groups] travelled with Bloom World Academy staff Emily Scudamore, Lead Practitioner: Physical Health Education, and Deputy Principal Jack Pierce. TWEDEX Head of Sports Rhys Gorman led the trip for TWEDEX, with Dean Cassidy supporting the group on the ground.
+The Singapore Multisport Development Tour was organised and led by TWEDEX, and ran from 19 to 24 October.
 
-## A Tour Built for Every Player
+## Sport for Everyone
 
-Instead of picking one sport and one first team, the tour gave boys and girls a full programme across several sports. Both squads played basketball and volleyball; the boys added football and the girls netball. The whole group trained together at a Muay Thai class, so every student tried something new, whatever their main sport.
+Instead of one sport and one first team, the tour gave both squads a full programme across several sports. Both squads played basketball and volleyball, the boys added football and the girls netball, and the whole group trained together on the mats.
 
-[placeholder: a line from the live blog on how the mixed programme worked for the group, e.g. students playing sports they had never played competitively]
+For Rhys Gorman, Head of Sports at TWEDEX, that is exactly the point. Much of school sport in Dubai leans towards competitive, selective teams, and a multisport tour gives schools a way to run an inclusive programme instead: students of every ability travel, compete and represent their school, rather than only the strongest players in a single sport.
 
-## Straight into a Tournament
+## Straight into the Asian Pacific Cup
 
-After an evening arrival at Changi on Emirates flight EK 352, the squads went straight into competition. Day two was spent at the APAC Basketball Tournament at Shot Zone, with group-stage games running through the day for both the boys and the girls.
+The squad flew out of Dubai on Monday morning and went straight into action the next day at the Asian Pacific Cup 2026, a 3v3 basketball competition held in Singapore this year. It brought together a strong mix of local and international teams, and gave the BWA students the chance to test themselves against new opposition.
 
-[placeholder: basketball results and highlights from the live blog]
+It was a long day on court, and all the BWA teams showed great effort, determination and teamwork throughout.
 
-## Muay Thai, then Match Night
+## Muay Thai, a Win and a Draw
 
-Wednesday began on the mats with a Muay Thai class, before lunch at Lot One Mall. In the afternoon the squads split for their first fixtures: the girls played volleyball against the Australian International School, and the boys took on Go Ahead Eagles at football at Dover Court School. The day finished with dinner at Newton Hawker Market.
+Day two began with a different kind of challenge: a Muay Thai class, introducing the students to the traditional Thai martial art while building coordination, teamwork and confidence.
 
-[placeholder: volleyball and football results and highlights from the live blog]
+That evening brought two fixtures. The boys' footballers faced Go Ahead Eagles Academy at Dover Court International School in a fiercely competitive game, and showed real determination to win 1-0.
+
+The girls, meanwhile, played volleyball at the Australian International School. Four highly competitive sets ended two apiece, and with time running out and the sides so evenly matched, a draw was a fitting result.
+
+Both teams finished the day with dinner at Newton Food Centre, one of Singapore's famous hawker centres.
 
 ## Seeing Singapore
 
-Thursday was given over to the city. A local guide took the group to the Merlion, Haji Lane and Chinatown, then the squads headed to Sentosa Island for the Downhill Luge and beach games. After an Asian buffet dinner, the day ended at the Night Safari.
+Day three was given over to the city. Local guide Manjiri led the group through the murals and street art of Haji Lane, to Merlion Park for views of Marina Bay Sands and the waterfront skyline, and into Chinatown to browse the shops.
 
-## A Final Match Day at St Hilda's
+In the afternoon the squad headed to Sentosa Island for the downhill luge, followed by some well-earned downtime and a swim at Siloso Beach. After dinner at the Courtyard Cafe, the day ended at the Night Safari, with a meal at the Ulu Ulu Safari Restaurant and a look at Singapore's nocturnal wildlife.
 
-Friday brought one more round of challenge matches against St Hilda's Secondary School: netball for the girls and volleyball for the boys.
+## Back on Court at St Hilda's
 
-[placeholder: St Hilda's results and highlights from the live blog]
+On day four the teams were back in action at St Hilda's Secondary School, the boys playing volleyball and the girls netball. Both fixtures were competitive, and the students showed fantastic effort, teamwork and sportsmanship throughout.
 
-In the afternoon the group visited the Flower Dome and Cloud Forest at Gardens by the Bay, learning about Singapore's work as a sustainable city. The tour awards were presented over dinner at Satay by the Bay, before the Garden Rhapsody light show.
+The afternoon took the group to Gardens by the Bay and its Supertrees, with dinner at Lau Pa Sat, another of Singapore's best-known hawker markets. The evening ended with the Garden Rhapsody light and sound show, lighting up the Supertrees.
 
-[placeholder: tour award winners, if the school is happy to share them]
+A final day at Universal Studios on Sentosa rounded off the tour before the flight home to Dubai.
 
-The last day was spent at Universal Studios on Sentosa, before the flight home to Dubai.
-
-## More Than the Results
-
-[placeholder: quote from Emily Scudamore or Jack Pierce, Bloom World Academy]
-
-[placeholder: quote from Rhys Gorman, TWEDEX Head of Sports]
-
-Four sports, a martial art and six days in one of the world's great sporting cities, with every Bloom World Academy student playing their part.
+Five sports, new opposition at every turn and a city explored from Haji Lane to the Night Safari: a tour where every Bloom World Academy student had a part to play.
