@@ -5,6 +5,8 @@ date: 2026-10-30T09:00:00+04:00
 kicker: "Multisport"
 categories: ["Multisport", "Sports Travel"]
 standfirst: "Bloom World Academy's boys and girls played basketball, football, volleyball and netball, and tried Muay Thai, on a TWEDEX multisport tour of Singapore built so that every student got a game."
+image: "/images/uploads/bloom-world-academy-singapore-st-hildas-squads.webp"
+imageAlt: "Bloom World Academy's netball and volleyball squads lined up together on court at St Hilda's Secondary School"
 metaDescription: "Bloom World Academy's boys and girls played basketball, football, volleyball, netball and Muay Thai on a TWEDEX multisport tour of Singapore in October 2026."
 ---
 
@@ -38,7 +40,7 @@ Both teams finished the day with dinner at Newton Food Centre, one of Singapore'
 
 Day three was given over to the city. Local guide Manjiri led the group through the murals and street art of Haji Lane, to Merlion Park for views of Marina Bay Sands and the waterfront skyline, and into Chinatown to browse the shops.
 
-In the afternoon the squad headed to Sentosa Island for the downhill luge, followed by some well-earned downtime and a swim at Siloso Beach. After dinner at the Courtyard Cafe, the day ended at the Night Safari, with a meal at the Ulu Ulu Safari Restaurant and a look at Singapore's nocturnal wildlife.
+In the afternoon the squad headed to Sentosa Island for the downhill luge, followed by some well-earned downtime and a swim at Siloso Beach. The day ended at the Night Safari, with a look at Singapore's nocturnal wildlife.
 
 ## Back on Court at St Hilda's
 
