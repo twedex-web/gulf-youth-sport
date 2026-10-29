@@ -4,22 +4,24 @@ slug: "repton-dubai-royals-abu-dhabi-dubai-7s-prep-tour"
 date: 2026-11-02T09:00:00+04:00
 kicker: "Rugby"
 categories: ["Rugby", "Netball", "Sports Travel"]
-standfirst: "Repton Dubai's senior rugby and netball squads spent four days in Abu Dhabi with TWEDEX, mixing training, fixtures and recovery as they build towards the Emirates Dubai 7s."
-metaDescription: "Repton Dubai's Royals rugby and netball squads trained and played in Abu Dhabi on a four-day TWEDEX camp, 22 to 25 October, ahead of the Emirates Dubai 7s."
+standfirst: "Repton Dubai's senior rugby and netball squads spent four days in Abu Dhabi with TWEDEX, and the rugby boys came home unbeaten as they build towards the Emirates Dubai 7s."
+metaDescription: "Repton Dubai's Royals went unbeaten in rugby and fielded two netball teams on a four-day TWEDEX camp in Abu Dhabi, 22 to 25 October, ahead of the Dubai 7s."
 ---
 
 The countdown to the Emirates Dubai 7s is on, and Repton Dubai's Royals have put in the groundwork. The school's senior boys' rugby and girls' netball squads spent four days in Abu Dhabi from 22 to 25 October on a Dubai 7s Prep Tour organised by TWEDEX.
 
-## Train, Play, Recover
+## Unbeaten Rugby Royals
 
-Based at Le Méridien Abu Dhabi, with its own on-site pitch, the squads followed a proper camp programme: morning sessions on the pitch and court, gym work, and friendly fixtures against Abu Dhabi schools and clubs.
+The boys made the most of their game time. Friendlies against AD Quins at Zayed Sports City and at Nord Anglia International School ended the same way: wins for Repton, and an unbeaten tour.
 
-The rugby boys trained at Zayed Sports City, where they met AD Quins, and at the British International School Abu Dhabi, with sessions at Nord Anglia International School and on the hotel's own pitch. The netballers took on Thunder Netball Club at Nord Anglia, trained at Basma British School and finished with a tournament against Capital Netball and guest teams at the Abu Dhabi Cricket and Sports Hub.
+Between fixtures, the squad trained on Le Méridien Abu Dhabi's own pitch and at the British International School Abu Dhabi, with gym sessions to match.
 
-Recovery was built in too, with pool, steam and sauna sessions and a private sports science session for the whole group.
+## Two Teams on Court
 
-## Team Time
+The netballers opened against Thunder Netball Club at Nord Anglia, trained at 321 and Basma British School, and finished with a tournament at the Abu Dhabi Cricket and Sports Hub. Repton entered two teams, an A team in Division 1 and a B team in Division 2, and both held their own against Thunder, Capital, Mill Hill and Al Ain sides.
 
-It wasn't all work. Bowling, a padel session at Amigos Padel and a Nando's awards dinner gave both squads the chance to come together off the pitch.
+## Recover, Refuel, Bond
 
-With the Dubai 7s on the horizon, the Royals head back into the season fitter, sharper and closer as a group.
+Recovery was built into every day, with pool, steam and sauna sessions at the hotel and a nutrition and sports science session for the whole group. Off the pitch, bowling, padel at Amigos Padel and a Nando's awards dinner brought both squads together.
+
+With the Dubai 7s on the horizon, the Royals head into the season fitter, sharper and closer as a group.
