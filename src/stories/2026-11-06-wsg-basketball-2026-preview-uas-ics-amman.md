@@ -8,7 +8,7 @@ standfirst: "Dubai's Universal American School and former champions ICS Amman ar
 metaDescription: "Universal American School and former champions ICS Amman are two Middle East schools to watch at the 2026 WSG Basketball Championships in Valencia, 7 and 8 November."
 ---
 
-The World School Games are back in Valencia, and the Middle East is on court. Schools from across the region and Europe have arrived at L'Alqueria del Basket for the 2026 WSG Basketball Championships, with the action this weekend, Saturday 7 and Sunday 8 November. Boys' and girls' teams compete at U16 and U19.
+The World School Games are back in Valencia, and the Middle East is on court. Schools from across Europe and beyond have arrived at L'Alqueria del Basket for the 2026 WSG Basketball Championships, with the action this weekend, Saturday 7 and Sunday 8 November. Boys' and girls' teams compete at U16 and U19.
 
 Two Middle East schools stand out as ones to watch.
 
