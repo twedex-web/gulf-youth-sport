@@ -6,7 +6,7 @@ kicker: "Volleyball"
 categories: ["Volleyball", "World School Games"]
 standfirst: "Swiss International School Dubai head to Antalya next week for the inaugural World School Volleyball Championships, at Turkey's Gloria Sports Arena from 27 to 30 November."
 image: "/images/uploads/wsg-volleyball-antalya-trophy-celebration.webp"
-imageAlt: "A girls' volleyball team in green celebrating with a trophy on court at the WSG Volleyball pilot event in Antalya"
+imageAlt: "A girls' volleyball team in green celebrating with a trophy on court at a World School Games volleyball event"
 metaDescription: "Swiss International School Dubai head to Antalya for the inaugural World School Volleyball Championships at Gloria Sports Arena, 27 to 30 November 2026."
 ---
 
