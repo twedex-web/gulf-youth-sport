@@ -5,6 +5,8 @@ date: 2026-11-02T09:00:00+04:00
 kicker: "Rugby"
 categories: ["Rugby", "Netball", "Sports Travel"]
 standfirst: "Repton Dubai's senior rugby and netball squads spent four days in Abu Dhabi with TWEDEX, and the rugby boys came home unbeaten as they build towards the Emirates Dubai 7s."
+image: "/images/uploads/repton-dubai-royals-abu-dhabi-rugby-trio.webp"
+imageAlt: "Three Repton Dubai rugby players in their hooped kit on a training pitch in Abu Dhabi, one holding a rugby ball"
 metaDescription: "Repton Dubai's Royals went unbeaten in rugby and fielded two netball teams on a four-day TWEDEX camp in Abu Dhabi, 22 to 25 October, ahead of the Dubai 7s."
 ---
 
