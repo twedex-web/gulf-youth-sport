@@ -30,7 +30,7 @@ ICS Amman know exactly what it takes to win here. The Jordanian school are forme
 
 The weekend opens with a ceremony and the WSG All-Star Matches, where Team Europe take on Team Rest of the World, with players from different schools lining up together in boys', girls' and even teachers' games. Group stage matches follow, before teams move into tiered knockout competitions with silverware on the line. Player of the Match and MVP awards recognise the standout performers along the way.
 
-Off the court, there are training and masterclass sessions with professional players, a live TV show and professional media coverage of every team.
+Off the court, there are training and masterclass sessions with professional players, a live TV show and professional event media coverage.
 
 From Dubai to Amman, both schools carry the region's colours into a weekend of top-class school basketball. Follow Gulf Youth Sport for results from Valencia after the weekend.
 
