@@ -4,7 +4,7 @@ Articles and tasks that are started but not finished. Nothing in this file is pu
 
 ## Other open items
 
-- **Netlify Forms:** turn on form detection, redeploy, and add an email notification to info@gulfyouthsport.com (`docs/admin-setup.md` section 5).
+- **Netlify Forms:** form detection is on and `story-submission` is registered (29 Oct 2026). Still to do: add an email notification to info@gulfyouthsport.com (Project configuration → Forms → Form notifications) and send a test submission (`docs/admin-setup.md` section 5).
 - **CMS logins:** OAuth app and editor access for /admin, if not done yet (`docs/admin-setup.md`).
 - **Google Search Console:** verify gulfyouthsport.com with a TXT record in Namecheap (leave the MX/TXT email records alone) and submit `https://gulfyouthsport.com/sitemap.xml`.
 - **Partners:** Dubai Marlins Aquatics has no website yet (links to Instagram); check the ICE Education Instagram handle.
