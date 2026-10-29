@@ -1,20 +1,20 @@
 ---
-title: "Swiss International School Dubai Set for History at the First World School Volleyball Championships"
+title: "SISD Ready to Make History at the First World School Volleyball Championships"
 slug: "wsg-volleyball-2026-preview-swiss-international-school-dubai"
 date: 2026-11-20T09:00:00+04:00
 kicker: "Volleyball"
 categories: ["Volleyball", "World School Games"]
-standfirst: "Swiss International School Dubai head to Antalya next week for the inaugural World School Volleyball Championships, at Turkey's Gloria Sports Arena from 27 to 30 November."
+standfirst: "Swiss International School Dubai take U16 and U19 girls' squads to Antalya next week for the inaugural World School Volleyball Championships, at Turkey's Gloria Sports Arena from 27 to 30 November."
 image: "/images/uploads/wsg-volleyball-antalya-trophy-celebration.webp"
 imageAlt: "A girls' volleyball team in green celebrating with a trophy on court at a World School Games volleyball event"
-metaDescription: "Swiss International School Dubai head to Antalya for the inaugural World School Volleyball Championships at Gloria Sports Arena, 27 to 30 November 2026."
+metaDescription: "SISD's U16 and U19 girls head to Antalya for the inaugural World School Volleyball Championships at Gloria Sports Arena, 27 to 30 November 2026."
 ---
 
-A new chapter in school volleyball starts next week, and Dubai will be part of it. Swiss International School Dubai (SISD) head to Antalya, Turkey, for the first World School Volleyball Championships, at the Gloria Sports Arena from 27 to 30 November.
+A new chapter in school volleyball starts next week, and Dubai will be part of it. Swiss International School Dubai (SISD) take two girls' squads, at U16 and U19, to Antalya, Turkey, for the first World School Volleyball Championships, at the Gloria Sports Arena from 27 to 30 November.
 
 ## A First for School Volleyball
 
-After a successful pilot event at the end of 2025, WSG Volleyball becomes the newest event on the World School Games calendar, with boys' and girls' teams competing at U16 and U19. For SISD, it is a chance to be part of the championships from the very first edition, and to represent their school and the UAE on an international stage.
+After a successful pilot event at the end of 2025, WSG Volleyball becomes the newest event on the World School Games calendar, with boys' and girls' teams competing at U16 and U19. For SISD's girls, it is a chance to be part of the championships from the very first edition, and to represent their school and the UAE on an international stage, with both a younger and an older squad getting a taste of world-class competition.
 
 ## A World-Class Stage
 
