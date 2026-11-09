@@ -1,102 +1,39 @@
 ---
-title: "Hosts Cranleigh Abu Dhabi Crowned Overall Champions at the BSME U19 Games"
+title: "Cranleigh Abu Dhabi Win on Home Ground at the BSME U19 Games"
 slug: "bsme-u19-games-2026-results-cranleigh-abu-dhabi"
 date: 2026-11-13T09:00:00+04:00
 kicker: "BSME Games"
 categories: ["BSME Games", "Football", "Volleyball", "Netball"]
-standfirst: "Cranleigh Abu Dhabi won on home ground at the first BSME Games of 2026–27, with Kings' School Al Barsha taking both football titles and Brighton College Abu Dhabi winning boys' volleyball."
-metaDescription: "Full results from the BSME U19 Games at Cranleigh Abu Dhabi: overall standings, football, volleyball and netball, plus the Players of the Tournament."
+standfirst: "The hosts were crowned overall champions at the first BSME Games of the season, as Kings' School Al Barsha completed a football double and Brighton College Abu Dhabi took the boys' volleyball title."
+image: "/images/uploads/bsme-u19-games-2026-girls-football-team.webp"
+imageAlt: "A girls' football team in navy and gold striped shirts stands arm in arm on the pitch, seen from behind, with their coach alongside"
+metaDescription: "Hosts Cranleigh Abu Dhabi are BSME U19 Games overall champions, with a football double for Kings' School Al Barsha and volleyball gold for Brighton College Abu Dhabi."
 ---
 
-The first BSME Games of the 2026–27 academic year went to the hosts. Over two days last weekend, ten UAE schools came to Cranleigh Abu Dhabi for the BSME U19 Games, competing in football, volleyball and netball, and when the points were added up it was Cranleigh Abu Dhabi on top of the overall standings.
+Cranleigh Abu Dhabi made home advantage count. The first BSME Games of the 2026–27 academic year came to their campus last weekend, with ten UAE schools competing over two days in football, volleyball and netball. When the points were added up, it was the hosts at the top of the overall standings.
 
-## Consistency Wins It for the Hosts
+## Depth Over Dominance
 
-Cranleigh were in the medals in every competition: gold in girls' netball, silver in both girls' and boys' football, and bronze in boys' volleyball. Brighton College Abu Dhabi took second place overall, built on the boys' volleyball title and girls' football bronze, while Kings' School Al Barsha finished third overall after a football double, winning both the girls' and boys' tournaments.
+Cranleigh's title was built on strength across the board rather than one runaway team. Their netballers won gold, both football squads finished second and their boys took bronze in the volleyball, making Cranleigh the only school to finish in the top three of all four competitions. Dani, from the boys' football team, was named Player of the Tournament.
 
-## Overall Standings
+Brighton College Abu Dhabi finished second overall and Kings' School Al Barsha third, with Yasmina British Academy just off the podium in fourth.
 
-1. Cranleigh Abu Dhabi
-2. Brighton College Abu Dhabi
-3. Kings' School Al Barsha
-4. Yasmina British Academy
-5. The British International School Abu Dhabi
-6. Brighton College Dubai
-7. Deira International School
-8. Jebel Ali School
-9. Hartland International School
-10. South View School
+## A Football Double for Kings'
 
-## Girls' Football
+Nobody was better on the football pitch than Kings' School Al Barsha, who won both the girls' and boys' tournaments, with Cranleigh runners-up each time. Rayana starred for the Kings' girls and shared the girls' Player of the Tournament award with Amy of Brighton College Abu Dhabi, whose team took bronze. In the boys' event, Yasmina British Academy completed the podium.
 
-Kings' School Al Barsha won the girls' title ahead of Cranleigh Abu Dhabi, with Brighton College Abu Dhabi in third.
+An eighth-place finish in the netball proved costly in the overall standings.
 
-1. Kings' School Al Barsha
-2. Cranleigh Abu Dhabi
-3. Brighton College Abu Dhabi
-4. Yasmina British Academy
-5. Jebel Ali School
-6. Deira International School
-7. Brighton College Dubai
-8. The British International School Abu Dhabi
-9. Hartland International School
-10. South View School
+## Volleyball Gold for Brighton College Abu Dhabi
 
-**Players of the Tournament:** Rayana (Kings' School Al Barsha) and Amy (Brighton College Abu Dhabi)
+Brighton College Abu Dhabi won the boys' volleyball, the result that did most to lift them to second overall. Yasmina British Academy took silver, with Itqan named Player of the Tournament, while Cranleigh claimed bronze.
 
-## Boys' Football
+## Netball Gold for the Hosts
 
-Kings' School Al Barsha completed the football double, again with Cranleigh Abu Dhabi as runners-up. Yasmina British Academy took bronze.
+The netball gave Cranleigh their only title of the weekend, and it was enough to seal the overall crown. Brighton College Dubai took silver and Jebel Ali School bronze, the best results of the weekend for both schools. Frankie of Brighton College Dubai and Gabby of The British International School Abu Dhabi shared the Player of the Tournament award.
 
-1. Kings' School Al Barsha
-2. Cranleigh Abu Dhabi
-3. Yasmina British Academy
-4. Brighton College Abu Dhabi
-5. The British International School Abu Dhabi
-6. Deira International School
-7. Brighton College Dubai
-8. Hartland International School
-9. Jebel Ali School
-10. South View School
+Behind the top four overall, The British International School Abu Dhabi finished fifth, followed by Brighton College Dubai, Deira International School, Jebel Ali School, Hartland International School and South View School.
 
-**Player of the Tournament:** Dani (Cranleigh Abu Dhabi)
+Under BSME's updated safeguarding policy, galleries from the Games are being shared directly with the schools that took part rather than posted publicly: families should ask their school's event coordinator for access.
 
-## Boys' Volleyball
-
-Brighton College Abu Dhabi took the volleyball title, with Yasmina British Academy second and Cranleigh Abu Dhabi third.
-
-1. Brighton College Abu Dhabi
-2. Yasmina British Academy
-3. Cranleigh Abu Dhabi
-4. Kings' School Al Barsha
-5. Deira International School
-6. The British International School Abu Dhabi
-7. Hartland International School
-8. Brighton College Dubai
-9. Jebel Ali School
-10. South View School
-
-**Player of the Tournament:** Itqan (Yasmina British Academy)
-
-## Girls' Netball
-
-Cranleigh Abu Dhabi won the netball, with Brighton College Dubai taking silver and Jebel Ali School bronze, both their best finishes of the weekend.
-
-1. Cranleigh Abu Dhabi
-2. Brighton College Dubai
-3. Jebel Ali School
-4. The British International School Abu Dhabi
-5. Brighton College Abu Dhabi
-6. Yasmina British Academy
-7. Deira International School
-8. Kings' School Al Barsha
-9. South View School
-10. Hartland International School
-
-**Players of the Tournament:** Frankie (Brighton College Dubai) and Gabby (The British International School Abu Dhabi)
-
-## Photos and Videos
-
-Under BSME's updated safeguarding policy, identifiable photos and videos of students are no longer shared on BSME's public platforms. Galleries from the U19 Games are being shared directly with the schools that took part: players and parents should ask their school's event coordinator for access.
-
-Congratulations to every athlete who took part, and to Cranleigh Abu Dhabi for hosting.
+*Photo: BSME*
