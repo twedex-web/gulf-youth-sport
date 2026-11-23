@@ -4,3 +4,8 @@
 
 [build.environment]
   NODE_VERSION = "22"
+
+# Deploy previews show scheduled (future-dated) stories, so the team can
+# check an article before it goes live. Production builds still hide them.
+[context.deploy-preview.environment]
+  SHOW_SCHEDULED = "1"
