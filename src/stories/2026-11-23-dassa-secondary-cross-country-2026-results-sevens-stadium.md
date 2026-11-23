@@ -1,7 +1,7 @@
 ---
 title: "JESS Arabian Ranches Win DASSA Secondary Cross Country"
 slug: "dassa-secondary-cross-country-2026-results-sevens-stadium"
-date: 2026-11-24T09:00:00+04:00
+date: 2026-11-23T10:00:00+04:00
 kicker: "DASSA"
 categories: ["DASSA", "Cross Country"]
 standfirst: "More than 1,100 athletes from 48 schools raced at The Sevens Stadium, as JESS Arabian Ranches took the Competitive Series title and Ambassador International Academy won the Development Series."
