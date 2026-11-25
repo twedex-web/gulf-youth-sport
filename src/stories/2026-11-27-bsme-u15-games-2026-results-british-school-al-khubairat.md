@@ -32,6 +32,6 @@ Some of the best individual performances came from schools further down the tabl
 
 Behind the top three overall, Cranleigh Abu Dhabi finished fourth, followed by Dubai British School Jumeirah Park, North London Collegiate School, Royal Grammar School Guildford, Brighton College Dubai, Nord Anglia International School Abu Dhabi and Jumeirah College. Full standings for every sport are on the [BSME website](https://www.bsme.org.uk/bsme-u15-games-2026-the-results).
 
-Under BSME's updated safeguarding policy, photos and videos from the Games are not being posted publicly. The galleries are password protected and shared directly with the schools that took part: families should check with their school for access.
+Under BSME's updated safeguarding policy, identifiable photos and videos of students are not being posted publicly. The full galleries are password protected and shared directly with the schools that took part: families should check with their school for access.
 
 *Photo: BSME*
