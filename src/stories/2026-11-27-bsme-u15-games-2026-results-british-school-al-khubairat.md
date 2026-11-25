@@ -5,6 +5,8 @@ date: 2026-11-27T09:00:00+04:00
 kicker: "BSME Games"
 categories: ["BSME Games", "Athletics", "Football", "Volleyball", "Netball"]
 standfirst: "BSAK won netball and boys' football gold on their way to the overall title at Deira International School, with Brighton College Abu Dhabi second and The British International School Abu Dhabi third."
+image: "/images/uploads/bsme-u15-games-2026-netball-team-huddle.webp"
+imageAlt: "A netball team in light blue and navy dresses huddles with arms raised beside the court, seen from behind, with their coach alongside"
 metaDescription: "British School Al Khubairat are BSME U15 Games champions after netball and boys' football gold at Deira International School, ahead of Brighton College AD."
 ---
 
@@ -31,3 +33,5 @@ Some of the best individual performances came from schools further down the tabl
 Behind the top three overall, Cranleigh Abu Dhabi finished fourth, followed by Dubai British School Jumeirah Park, North London Collegiate School, Royal Grammar School Guildford, Brighton College Dubai, Nord Anglia International School Abu Dhabi and Jumeirah College. Full standings for every sport are on the [BSME website](https://www.bsme.org.uk/bsme-u15-games-2026-the-results).
 
 Under BSME's updated safeguarding policy, photos and videos from the Games are not being posted publicly. The galleries are password protected and shared directly with the schools that took part: families should check with their school for access.
+
+*Photo: BSME*
