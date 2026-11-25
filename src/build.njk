@@ -10,6 +10,7 @@ eleventyExcludeFromCollections: true
   "stories": {{ collections.stories.length }},
   "latestStory": {{ (collections.stories[0].url if collections.stories.length else null) | dump | safe }},
   "videos": {{ youtube.videos.length }},
+  "videosSource": {{ youtube.source | dump | safe }},
   "latestVideo": {{ (youtube.videos[0].title if youtube.videos.length else null) | dump | safe }},
   "galleries": {{ zenfolio.galleries.length }},
   "latestGallery": {{ (zenfolio.galleries[0].title if zenfolio.galleries.length else null) | dump | safe }}
